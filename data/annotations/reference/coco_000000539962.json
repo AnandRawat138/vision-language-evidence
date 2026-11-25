@@ -1,0 +1,218 @@
+{
+ "uid": "coco_000000539962",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "dining table",
+  "frisbee",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 8,
+  "person": 4,
+  "frisbee": 1,
+  "umbrella": 4,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    26.58,
+    279.93,
+    25.92,
+    25.25
+   ],
+   "area": 546.9783999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    53.18,
+    251.74,
+    13.3,
+    26.58
+   ],
+   "area": 203.8098
+  },
+  {
+   "category": "person",
+   "bbox": [
+    337.81,
+    308.86,
+    11.55,
+    11.99
+   ],
+   "area": 121.10289999999989
+  },
+  {
+   "category": "person",
+   "bbox": [
+    333.26,
+    308.63,
+    26.77,
+    15.54
+   ],
+   "area": 134.33395000000021
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    437.83,
+    287.23,
+    32.26,
+    34.36
+   ],
+   "area": 858.8805499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    75.66,
+    256.32,
+    12.1,
+    36.78
+   ],
+   "area": 175.44795000000022
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    0.0,
+    214.23,
+    64.53,
+    24.85
+   ],
+   "area": 601.12765
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    62.33,
+    217.26,
+    28.9,
+    25.61
+   ],
+   "area": 534.9230000000001
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    88.97,
+    225.84,
+    34.19,
+    49.47
+   ],
+   "area": 680.6057499999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    6.44,
+    283.43,
+    15.91,
+    27.91
+   ],
+   "area": 202.33804999999975
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    50.65,
+    278.46,
+    13.36,
+    25.2
+   ],
+   "area": 153.84905000000023
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    59.53,
+    279.52,
+    12.07,
+    24.13
+   ],
+   "area": 142.22989999999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    88.3,
+    278.64,
+    14.65,
+    17.73
+   ],
+   "area": 192.68575000000013
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    102.04,
+    276.86,
+    13.12,
+    20.33
+   ],
+   "area": 142.92170000000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    112.49,
+    276.18,
+    11.37,
+    17.95
+   ],
+   "area": 151.77219999999977
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    0.0,
+    205.2,
+    37.26,
+    31.58
+   ],
+   "area": 930.9677499999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    18.59,
+    283.3,
+    10.37,
+    27.25
+   ],
+   "area": 145.17014999999998
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    407.16,
+    286.45,
+    131.61,
+    100.35
+   ],
+   "area": 7132.273850000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large blue swimming pool sitting next to a hotel surrounded by palm trees.",
+  "a couple in a pool at a resort with trees around the side",
+  "There are two people in the middle of the pool.",
+  "A large swimming pool in back of a hotel.",
+  "A pool with two people inside is shown."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

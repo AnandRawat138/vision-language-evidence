@@ -1,0 +1,96 @@
+{
+ "uid": "coco_000000486040",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "cup",
+  "laptop",
+  "mouse",
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 1,
+  "laptop": 2,
+  "mouse": 1,
+  "potted plant": 1,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    203.69,
+    250.95,
+    97.85,
+    83.93
+   ],
+   "area": 3701.5650000000005
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    0.0,
+    390.66,
+    430.46,
+    240.41
+   ],
+   "area": 58379.490300000005
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    0.0,
+    251.69,
+    287.64,
+    209.97
+   ],
+   "area": 28752.7284
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    364.24,
+    400.17,
+    69.65,
+    34.16
+   ],
+   "area": 1804.2597
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    352.72,
+    139.19,
+    65.76,
+    82.25
+   ],
+   "area": 2788.2706500000013
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    357.4,
+    186.38,
+    39.12,
+    51.49
+   ],
+   "area": 1198.4484999999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two desktop computers sitting on top of a desk.",
+  "A monochromatic image of a desk with two laptops.",
+  "An office with a couple of computers on a desk and a work ligt.",
+  "A computer on a desk with a splatter screen saver pattern.",
+  "The laptop computer is on the desk under the light."
+ ],
+ "scene_places": []
+}

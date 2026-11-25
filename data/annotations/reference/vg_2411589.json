@@ -1,0 +1,37 @@
+{
+ "uid": "vg_2411589",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bicycle",
+  "book",
+  "car",
+  "cell phone",
+  "fire hydrant",
+  "person",
+  "potted plant"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black",
+   "gray"
+  ],
+  "hat": [
+   "blue"
+  ],
+  "pants": [],
+  "shoes": []
+ },
+ "accessories": [],
+ "carried": [
+  "phone"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

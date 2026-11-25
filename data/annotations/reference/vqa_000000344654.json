@@ -1,0 +1,97 @@
+{
+ "uid": "vqa_000000344654",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    50.97,
+    0.48,
+    252.93,
+    43.28
+   ],
+   "area": 7005.767349999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "There is an elephant shaped figure next to other decorations.",
+  "A black pewter elephant sculpture on a table.",
+  "A black elephant incense burner sitting on display.",
+  "a sculpture of an elephant sitting on a table",
+  "A small elephant shaped figure on a table."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 344654000,
+   "question": "Is this made of wood?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 344654001,
+   "question": "What type of animal is this?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "elephant",
+   "answers": [
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant",
+    "elephant"
+   ]
+  },
+  {
+   "question_id": 344654002,
+   "question": "Is the elephant alive?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

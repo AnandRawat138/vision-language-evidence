@@ -1,0 +1,136 @@
+{
+ "uid": "coco_000000512657",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock",
+  "couch",
+  "person",
+  "remote",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 1,
+  "clock": 2,
+  "person": 3,
+  "remote": 3,
+  "surfboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    339.39,
+    309.64,
+    283.13,
+    109.75
+   ],
+   "area": 15846.7904
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    587.47,
+    313.4,
+    50.17,
+    29.48
+   ],
+   "area": 802.3531499999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    167.92,
+    54.53,
+    191.91,
+    367.51
+   ],
+   "area": 39672.06645
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    267.85,
+    203.8,
+    152.03
+   ],
+   "area": 15262.825249999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    399.04,
+    193.07,
+    89.54,
+    233.83
+   ],
+   "area": 13697.049999999994
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    157.37,
+    87.32,
+    23.03,
+    16.31
+   ],
+   "area": 183.66245000000004
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    419.14,
+    223.96,
+    10.55,
+    34.54
+   ],
+   "area": 94.61100000000027
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    198.93,
+    158.74,
+    337.58,
+    69.33
+   ],
+   "area": 10156.44795
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    77.91,
+    240.28,
+    26.03,
+    26.27
+   ],
+   "area": 660.3811000000002
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    201.2,
+    54.76,
+    31.57,
+    18.25
+   ],
+   "area": 303.08405000000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of people playing a game with remote controllers.",
+  "A beautiful young woman holding a Nintendo Wii game controller.",
+  "Two people in a living room hold Wii remote controls",
+  "two people are playing a video game and a male is watching",
+  "A couple of people in a room with remotes."
+ ],
+ "scene_places": []
+}

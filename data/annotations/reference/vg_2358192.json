@@ -1,0 +1,37 @@
+{
+ "uid": "vg_2358192",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "dining table",
+  "dog",
+  "handbag",
+  "orange",
+  "person",
+  "tv"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "black"
+  ],
+  "sweater": [
+   "black"
+  ],
+  "hat": []
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [
+  "bag",
+  "bottle"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

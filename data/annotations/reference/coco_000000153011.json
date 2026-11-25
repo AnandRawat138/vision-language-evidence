@@ -1,0 +1,290 @@
+{
+ "uid": "coco_000000153011",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "chair",
+  "dining table",
+  "handbag",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 4,
+  "bus": 1,
+  "chair": 2,
+  "truck": 2,
+  "handbag": 2,
+  "person": 9,
+  "dining table": 5
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    326.24,
+    217.04,
+    72.18,
+    36.25
+   ],
+   "area": 1698.4657499999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    364.22,
+    213.61,
+    57.18,
+    24.39
+   ],
+   "area": 767.89365
+  },
+  {
+   "category": "car",
+   "bbox": [
+    462.94,
+    214.83,
+    19.34,
+    26.25
+   ],
+   "area": 392.8504499999995
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    477.82,
+    84.1,
+    162.18,
+    221.44
+   ],
+   "area": 26906.1462
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    75.12,
+    282.39,
+    89.52,
+    126.69
+   ],
+   "area": 6314.5534
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    0.0,
+    113.0,
+    317.49,
+    164.67
+   ],
+   "area": 32900.2091
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    466.81,
+    234.07,
+    17.61,
+    46.1
+   ],
+   "area": 404.4536000000003
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    479.67,
+    118.21,
+    160.33,
+    184.45
+   ],
+   "area": 25175.46715
+  },
+  {
+   "category": "person",
+   "bbox": [
+    430.49,
+    208.79,
+    46.28,
+    140.99
+   ],
+   "area": 3713.231949999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    414.45,
+    202.05,
+    28.95,
+    140.45
+   ],
+   "area": 1732.5074999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    97.18,
+    201.07,
+    106.74,
+    182.05
+   ],
+   "area": 7352.088749999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    216.49,
+    193.04,
+    30.73,
+    96.41
+   ],
+   "area": 1885.49215
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    204.86,
+    28.11,
+    150.28
+   ],
+   "area": 3056.8458500000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    20.09,
+    229.89,
+    17.72,
+    53.39
+   ],
+   "area": 469.8640499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    136.99,
+    216.81,
+    45.3,
+    105.71
+   ],
+   "area": 1301.4721
+  },
+  {
+   "category": "person",
+   "bbox": [
+    164.65,
+    191.89,
+    31.07,
+    50.17
+   ],
+   "area": 1040.46025
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    513.24,
+    264.8,
+    78.37,
+    116.17
+   ],
+   "area": 1890.2570999999975
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    367.19,
+    249.37,
+    47.03,
+    85.8
+   ],
+   "area": 756.8381500000016
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    346.22,
+    240.71,
+    48.71,
+    69.02
+   ],
+   "area": 530.1044500000002
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    221.82,
+    235.51,
+    50.49,
+    73.04
+   ],
+   "area": 770.0986000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    24.53,
+    220.35,
+    47.05,
+    92.53
+   ],
+   "area": 1889.8022499999997
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    174.04,
+    234.93,
+    31.08,
+    38.3
+   ],
+   "area": 924.9162000000006
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    41.07,
+    253.94,
+    53.14,
+    91.74
+   ],
+   "area": 2603.878399999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    25.35,
+    254.16,
+    22.14,
+    8.19
+   ],
+   "area": 128.3287500000005
+  },
+  {
+   "category": "car",
+   "bbox": [
+    363.17,
+    211.57,
+    18.22,
+    9.22
+   ],
+   "area": 128.72184999999976
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of food trucks parked in a parking lot.",
+  "Food trucks are parked around small oval tables.",
+  "Several food trucks parked in an area that has tables and some chairs next to it.",
+  "People get a meal from outdoor food trucks.",
+  "A couple of dining trucks are in a parking lot while some people stand or sit in chairs."
+ ],
+ "scene_places": []
+}

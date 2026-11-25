@@ -1,0 +1,22 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Calibration and selective prediction for object observations on the test split ($n=593$ observations, 391 images; base precision 0.911). Calibrators are fit on the dev split; CIs by image-level cluster bootstrap.}
+\label{tab:exp6}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lccccc}
+\toprule
+Confidence signal & ECE & Brier & AUROC & AURC & Risk@80\% \\
+\midrule
+verbal (raw map) & 0.015 [0.002, 0.039] & 0.079 & 0.527 [0.499, 0.562] & 0.094 & 0.086 \\
+token prob (raw) & 0.344 [0.319, 0.371] & 0.222 & 0.765 [0.709, 0.823] & 0.033 & 0.057 \\
+verbal (Platt, dev) & 0.137 [0.115, 0.159] & 0.097 & 0.527 [0.499, 0.562] & 0.094 & 0.086 \\
+token (Platt, dev) & 0.132 [0.112, 0.154] & 0.094 & 0.765 [0.709, 0.823] & 0.033 & 0.057 \\
+CLIP (Platt, dev) & 0.071 [0.055, 0.097] & 0.093 & 0.706 [0.643, 0.762] & 0.040 & 0.069 \\
+combined w/o CLIP & 0.034 [0.017, 0.056] & 0.076 & 0.794 [0.740, 0.850] & 0.029 & 0.053 \\
+combined w/o quality & 0.030 [0.015, 0.052] & 0.075 & 0.792 [0.739, 0.841] & 0.029 & 0.057 \\
+combined (LR, dev) & 0.031 [0.016, 0.053] & 0.075 & 0.797 [0.742, 0.848] & 0.028 & 0.055 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

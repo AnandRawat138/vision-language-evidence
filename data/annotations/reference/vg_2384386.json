@@ -1,0 +1,37 @@
+{
+ "uid": "vg_2384386",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sandwich"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black",
+   "blue",
+   "gray",
+   "pink",
+   "purple",
+   "red",
+   "white",
+   "yellow"
+  ],
+  "hat": [
+   "yellow"
+  ],
+  "shoes": []
+ },
+ "accessories": [
+  "glasses",
+  "watch"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

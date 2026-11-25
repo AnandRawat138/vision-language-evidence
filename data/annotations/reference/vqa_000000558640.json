@@ -1,0 +1,139 @@
+{
+ "uid": "vqa_000000558640",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "broccoli"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bowl": 1,
+  "broccoli": 4
+ },
+ "object_boxes": [
+  {
+   "category": "bowl",
+   "bbox": [
+    11.51,
+    17.26,
+    598.29,
+    604.04
+   ],
+   "area": 323470.93210000003
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    61.74,
+    94.41,
+    399.06,
+    323.77
+   ],
+   "area": 73912.3253
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    512.14,
+    311.34,
+    98.68,
+    151.82
+   ],
+   "area": 10283.033500000001
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    434.29,
+    229.44,
+    126.51,
+    137.77
+   ],
+   "area": 9290.82415
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    112.41,
+    453.2,
+    130.15,
+    53.31
+   ],
+   "area": 4724.8309
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A red bowl full of vegetables sitting on a table.",
+  "A bowl filled with vegetables including broccolli and lima beans.",
+  "A red bowl filled with broccoli and corn",
+  "The bowl is filled with brocolli and other vegetables.",
+  "A bowl holds some veggies mixed up with some sauce."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 558640000,
+   "question": "Is this a vegetarian dish?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 558640001,
+   "question": "What is green?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "broccoli",
+   "answers": [
+    "broccoli",
+    "broccoli and beans",
+    "broccoli",
+    "broccoli and beans",
+    "broccoli",
+    "broccoli",
+    "broccoli and beans",
+    "broccoli and lima beans",
+    "broccoli",
+    "broccoli beans"
+   ]
+  },
+  {
+   "question_id": 558640002,
+   "question": "Would you feed this to a lion?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "uid": "coco_000000288862",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "skateboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    377.08,
+    332.07,
+    49.92,
+    97.04
+   ],
+   "area": 2415.0465
+  },
+  {
+   "category": "person",
+   "bbox": [
+    302.81,
+    406.29,
+    22.83,
+    56.33
+   ],
+   "area": 630.4448499999992
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    112.41,
+    133.12,
+    137.34,
+    62.4
+   ],
+   "area": 1624.116
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    375.14,
+    397.33,
+    51.86,
+    30.96
+   ],
+   "area": 914.7161999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    320.89,
+    417.23,
+    13.42,
+    41.72
+   ],
+   "area": 412.26295000000084
+  },
+  {
+   "category": "person",
+   "bbox": [
+    148.84,
+    158.92,
+    143.87,
+    324.13
+   ],
+   "area": 18990.427749999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man performing a trick on a ledge on a skateboard.",
+  "A skateboarder doing a flip at a skate park",
+  "A man is doing a trick on a skateboard.",
+  "A man doing a trick with a skateboard on a ledge.",
+  "a man standing on one hand holding onto a skateboard"
+ ],
+ "scene_places": []
+}

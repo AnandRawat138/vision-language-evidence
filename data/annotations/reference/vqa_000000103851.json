@@ -1,0 +1,356 @@
+{
+ "uid": "vqa_000000103851",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    207.5,
+    391.64,
+    219.5,
+    91.3
+   ],
+   "area": 13406.929250000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    223.21,
+    463.19,
+    144.31,
+    176.81
+   ],
+   "area": 18454.293749999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person standing near a building with an open umbrella",
+  "The person holding the umbrella is walking to the building",
+  "The woman holding an umbrella is walking towards a doorway.",
+  "A person and umbrella on a walkway leading to an archway.",
+  "An individual with an umbrella approaches a religious building"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 103851000,
+   "question": "Is this a narrow room?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851001,
+   "question": "Are there any birds in this photo?",
+   "answer_type": "yes/no",
+   "question_type": "are there any",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851002,
+   "question": "Is it a bright sunny day?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851003,
+   "question": "Is there a toilet in the photo?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851004,
+   "question": "Is that house a private residence?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 103851005,
+   "question": "What device is the man working on?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "umbrella",
+   "answers": [
+    "car",
+    "not in picture",
+    "umbrella",
+    "nothing",
+    "none",
+    "sidewalk",
+    "no device",
+    "building",
+    "umbrella",
+    "phone"
+   ]
+  },
+  {
+   "question_id": 103851006,
+   "question": "Is the sun shining?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851007,
+   "question": "What city is this?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "budapest",
+   "answers": [
+    "new york",
+    "tunisia",
+    "los angeles",
+    "unknown",
+    "cleveland",
+    "budapest",
+    "barcelona",
+    "delhi",
+    "rome",
+    "mosul"
+   ]
+  },
+  {
+   "question_id": 103851008,
+   "question": "Is there graffiti on the wall?",
+   "answer_type": "yes/no",
+   "question_type": "is there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851009,
+   "question": "Is this inside a house?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851010,
+   "question": "Does this appear to be a garage?",
+   "answer_type": "yes/no",
+   "question_type": "does this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 103851011,
+   "question": "How  many people are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many people are in",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 103851012,
+   "question": "What color is the wall?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "off white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white"
+   ]
+  },
+  {
+   "question_id": 103851013,
+   "question": "What is the person holding?",
+   "answer_type": "other",
+   "question_type": "what is the person",
+   "multiple_choice_answer": "umbrella",
+   "answers": [
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella",
+    "umbrella"
+   ]
+  },
+  {
+   "question_id": 103851014,
+   "question": "Where are the mirrors?",
+   "answer_type": "other",
+   "question_type": "where are the",
+   "multiple_choice_answer": "inside",
+   "answers": [
+    "inside",
+    "inside",
+    "at corner",
+    "glass",
+    "there aren't any",
+    "no mirrors",
+    "no mirrors",
+    "wall",
+    "none",
+    "on wall"
+   ]
+  },
+  {
+   "question_id": 103851015,
+   "question": "Is this building likely to be a church?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes it is",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

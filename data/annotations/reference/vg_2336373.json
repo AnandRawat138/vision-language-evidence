@@ -1,0 +1,36 @@
+{
+ "uid": "vg_2336373",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "black",
+   "green",
+   "red",
+   "white"
+  ],
+  "shirt": [
+   "brown",
+   "white"
+  ],
+  "shorts": [
+   "black",
+   "yellow"
+  ]
+ },
+ "accessories": [
+  "scarf"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

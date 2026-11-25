@@ -1,0 +1,212 @@
+{
+ "uid": "coco_000000093154",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 12,
+  "traffic light": 6
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    143.08,
+    273.81,
+    67.57,
+    35.32
+   ],
+   "area": 1470.5718499999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    315.04,
+    272.25,
+    34.66,
+    30.43
+   ],
+   "area": 773.8172999999995
+  },
+  {
+   "category": "car",
+   "bbox": [
+    330.4,
+    251.84,
+    20.81,
+    18.59
+   ],
+   "area": 294.0894999999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    33.21,
+    290.94,
+    28.12,
+    24.71
+   ],
+   "area": 512.2722999999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    284.24,
+    38.16,
+    35.76
+   ],
+   "area": 893.3979
+  },
+  {
+   "category": "car",
+   "bbox": [
+    276.66,
+    253.36,
+    13.07,
+    12.84
+   ],
+   "area": 125.54635000000005
+  },
+  {
+   "category": "car",
+   "bbox": [
+    302.51,
+    255.07,
+    18.88,
+    14.31
+   ],
+   "area": 198.9412499999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    381.18,
+    254.76,
+    18.33,
+    15.01
+   ],
+   "area": 216.6679
+  },
+  {
+   "category": "car",
+   "bbox": [
+    332.76,
+    247.09,
+    7.74,
+    5.83
+   ],
+   "area": 34.78294999999993
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    299.7,
+    228.44,
+    2.21,
+    4.42
+   ],
+   "area": 8.771800000000091
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    312.35,
+    225.79,
+    3.78,
+    5.93
+   ],
+   "area": 17.658900000000035
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    288.47,
+    228.29,
+    2.25,
+    4.6
+   ],
+   "area": 9.978749999999973
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    329.73,
+    226.77,
+    3.59,
+    5.75
+   ],
+   "area": 15.455799999999904
+  },
+  {
+   "category": "car",
+   "bbox": [
+    88.37,
+    271.99,
+    20.54,
+    17.4
+   ],
+   "area": 317.8746499999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    319.46,
+    246.3,
+    9.07,
+    9.15
+   ],
+   "area": 76.60699999999976
+  },
+  {
+   "category": "car",
+   "bbox": [
+    350.76,
+    256.21,
+    12.92,
+    10.68
+   ],
+   "area": 120.57040000000009
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    303.8,
+    229.3,
+    4.52,
+    6.22
+   ],
+   "area": 17.492449999999927
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    334.24,
+    233.37,
+    3.23,
+    9.39
+   ],
+   "area": 28.312150000000074
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Signs along a street on a rainy day.",
+  "A yield and left turn sign on the side of a street.",
+  "a wet city street with cars on it",
+  "A rode that has car and bicycle lane that cars are driving on the left side of the road",
+  "The cars are travelling down the wet road."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

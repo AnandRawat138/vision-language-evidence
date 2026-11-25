@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000162415",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "baseball glove": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    38.83,
+    99.24,
+    450.16,
+    532.13
+   ],
+   "area": 162546.84374999994
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    271.82,
+    292.83,
+    206.58,
+    234.04
+   ],
+   "area": 27912.616299999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A girl smiles while holding a baseball glove.",
+  "a little girl wearing a base ball glove",
+  "A girl who is wearing a baseball glove.",
+  "A YOUNG GIRL PRACTICING BALL IS HOLDING HER MIT",
+  "The girl with the baseball mitt is smiling."
+ ],
+ "scene_places": []
+}

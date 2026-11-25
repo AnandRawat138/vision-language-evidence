@@ -1,0 +1,102 @@
+{
+ "uid": "coco_000000080659",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 4,
+  "person": 3
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    308.13,
+    93.35,
+    331.87,
+    293.51
+   ],
+   "area": 37164.943549999996
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    1.92,
+    185.19,
+    129.54,
+    147.77
+   ],
+   "area": 8576.008399999999
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    44.08,
+    85.25,
+    340.68,
+    304.87
+   ],
+   "area": 37758.78269999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    141.05,
+    65.25,
+    142.98,
+    166.96
+   ],
+   "area": 9984.3574
+  },
+  {
+   "category": "person",
+   "bbox": [
+    242.77,
+    63.17,
+    106.51,
+    101.71
+   ],
+   "area": 4525.186499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    400.5,
+    59.83,
+    141.42,
+    193.76
+   ],
+   "area": 10798.270449999998
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    226.73,
+    255.63,
+    134.72,
+    104.72
+   ],
+   "area": 2866.72055
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Horses and their riders are racing in a horse race.",
+  "a group of racing horses are racing around the track",
+  "A group of jockeys ride horses on a track.",
+  "horses racing on a race track with jockeys.",
+  "Horse number 11 and 6 engaged in a horse race."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "uid": "flickr30k_4848645410",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ],
+  "shorts": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man in a white shirt and blue shorts takes a picture in the street .",
+  "The man wearing a white shirt stopped to take a picture .",
+  "A young man in shorts with a backpack taking a picture .",
+  "A man is standing on the streets taking photographs .",
+  "A guy wearing a white shirt is taking a picture ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "210303",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "210306",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "210307",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue shorts",
+   "start": 27,
+   "end": 38
+  },
+  {
+   "entity_id": "210309",
+   "types": [
+    "other"
+   ],
+   "phrase": "a picture",
+   "start": 45,
+   "end": 54
+  },
+  {
+   "entity_id": "210305",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 58,
+   "end": 68
+  },
+  {
+   "entity_id": "210303",
+   "types": [
+    "people"
+   ],
+   "phrase": "The man",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "210306",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 16,
+   "end": 29
+  },
+  {
+   "entity_id": "210310",
+   "types": [
+    "other"
+   ],
+   "phrase": "a picture",
+   "start": 46,
+   "end": 55
+  },
+  {
+   "entity_id": "210303",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "210307",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "shorts",
+   "start": 15,
+   "end": 21
+  },
+  {
+   "entity_id": "210308",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a backpack",
+   "start": 27,
+   "end": 37
+  },
+  {
+   "entity_id": "210304",
+   "types": [
+    "other"
+   ],
+   "phrase": "a picture",
+   "start": 45,
+   "end": 54
+  },
+  {
+   "entity_id": "210303",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "210305",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the streets",
+   "start": 21,
+   "end": 32
+  },
+  {
+   "entity_id": "210304",
+   "types": [
+    "other"
+   ],
+   "phrase": "photographs",
+   "start": 40,
+   "end": 51
+  },
+  {
+   "entity_id": "210303",
+   "types": [
+    "people"
+   ],
+   "phrase": "A guy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "210306",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 14,
+   "end": 27
+  },
+  {
+   "entity_id": "210304",
+   "types": [
+    "other"
+   ],
+   "phrase": "a picture",
+   "start": 38,
+   "end": 47
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

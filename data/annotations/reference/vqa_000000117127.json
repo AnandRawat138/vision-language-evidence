@@ -1,0 +1,111 @@
+{
+ "uid": "vqa_000000117127",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "surfboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    289.36,
+    148.45,
+    123.66,
+    128.16
+   ],
+   "area": 5883.8429000000015
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    285.27,
+    162.9,
+    132.7,
+    80.46
+   ],
+   "area": 3420.8646499999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An individual holding a surf board near the shoreline.",
+  "A surfer walks along the beach at sunrise.",
+  "Man with surfboard walking on sand away from ocean.",
+  "Man walking in surf carrying surfboard with yellow sky above.",
+  "a yellow sky a male surfer in a wet suit carrying a white board"
+ ],
+ "scene_places": [
+  "beach"
+ ],
+ "vqa": [
+  {
+   "question_id": 117127000,
+   "question": "Is it sunny?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 117127001,
+   "question": "What activity is that board for?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "surfing",
+   "answers": [
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surf",
+    "surfing"
+   ]
+  },
+  {
+   "question_id": 117127002,
+   "question": "Is it a man or a woman holding the surfboard?",
+   "answer_type": "other",
+   "question_type": "is it",
+   "multiple_choice_answer": "man",
+   "answers": [
+    "man",
+    "man",
+    "man",
+    "man",
+    "man",
+    "man",
+    "man",
+    "man",
+    "man",
+    "man"
+   ]
+  }
+ ]
+}

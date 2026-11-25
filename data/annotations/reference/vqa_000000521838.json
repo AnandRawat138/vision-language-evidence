@@ -1,0 +1,100 @@
+{
+ "uid": "vqa_000000521838",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    151.56,
+    85.53,
+    336.64,
+    228.29
+   ],
+   "area": 57403.30064999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A red train engine traveling down tracks near a forest.",
+  "A short black and yellow train is going down snowy tracks.",
+  "A train engine moving down the tracks in the snow with a tree line behind it.",
+  "A very nice looking train on the tracks in snow.",
+  "A one-cart train coming down the railroad tracks."
+ ],
+ "scene_places": [
+  "snow/mountain",
+  "station"
+ ],
+ "vqa": [
+  {
+   "question_id": 521838000,
+   "question": "What is the weather like?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "snowy",
+   "answers": [
+    "cold and snowy",
+    "cold",
+    "snowy",
+    "cold",
+    "wintery",
+    "snowy",
+    "overcast",
+    "snowy",
+    "overcast and cold",
+    "cold"
+   ]
+  },
+  {
+   "question_id": 521838001,
+   "question": "Where is the train?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "on tracks",
+   "answers": [
+    "country",
+    "tracks",
+    "on train tracks",
+    "on tracks",
+    "tracks",
+    "on train tracks",
+    "on right track",
+    "on track",
+    "on tracks",
+    "on tracks"
+   ]
+  },
+  {
+   "question_id": 521838002,
+   "question": "What are the colors of the train?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "black and yellow",
+   "answers": [
+    "yellow and burgundy",
+    "purple and yellow",
+    "black and yellow",
+    "black and yellow",
+    "black and yellow",
+    "purple yellow",
+    "black and yellow",
+    "black and yellow",
+    "purple and yellow",
+    "purple and yellow"
+   ]
+  }
+ ]
+}

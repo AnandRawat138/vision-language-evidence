@@ -1,0 +1,112 @@
+{
+ "uid": "coco_000000140203",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 6,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    485.46,
+    42.85,
+    92.86,
+    71.76
+   ],
+   "area": 3209.0358
+  },
+  {
+   "category": "person",
+   "bbox": [
+    508.8,
+    20.3,
+    80.69,
+    226.08
+   ],
+   "area": 8131.5843
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    118.11,
+    43.08,
+    292.31
+   ],
+   "area": 7912.661700000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    7.6,
+    47.0,
+    19.67,
+    66.41
+   ],
+   "area": 690.2201500000001
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    19.37,
+    0.0,
+    484.31,
+    389.6
+   ],
+   "area": 167952.58885
+  },
+  {
+   "category": "person",
+   "bbox": [
+    17.05,
+    18.84,
+    20.75,
+    65.65
+   ],
+   "area": 461.6611499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    229.09,
+    48.19,
+    25.23,
+    42.33
+   ],
+   "area": 654.5571
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    20.52,
+    29.07,
+    48.7
+   ],
+   "area": 655.4971000000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A vehicle displays a customized license plate and milk advertisements.",
+  "A white milk truck with a license plate that reads \"pro milk.\"",
+  "A woman carrying her dog on a busy city street.",
+  "a woman holding a dog and a truck",
+  "woman is walking with a dog in her hands"
+ ],
+ "scene_places": []
+}

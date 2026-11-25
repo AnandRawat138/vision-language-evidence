@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000270474",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "baseball bat": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    190.03,
+    11.82,
+    137.67,
+    358.96
+   ],
+   "area": 30447.813499999997
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    287.81,
+    126.76,
+    193.85,
+    111.74
+   ],
+   "area": 3583.067950000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A little girl holding a baseball bat on grass.",
+  "A blond girl holding a baseball bat and smiling with her hand over her mouth.",
+  "a young girl wearing a dress plays with a baseball bat",
+  "A girl with a baseball bat in the backyard smiles.",
+  "A child looks on in amusement while holding a baseball bat."
+ ],
+ "scene_places": []
+}

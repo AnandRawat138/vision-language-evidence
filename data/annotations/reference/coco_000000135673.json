@@ -1,0 +1,48 @@
+{
+ "uid": "coco_000000135673",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 2
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    313.05,
+    200.47,
+    103.81,
+    46.39
+   ],
+   "area": 1575.9818499999997
+  },
+  {
+   "category": "airplane",
+   "bbox": [
+    220.59,
+    162.03,
+    125.38,
+    44.36
+   ],
+   "area": 1328.62065
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two planes are close together in the sky.",
+  "Two planes fly in the air near each other.",
+  "Two airplanes having a close call in the sky.",
+  "A pro plane and a jet play flying close to each other in the sky.",
+  "Two large airplanes flying through a blue sky."
+ ],
+ "scene_places": []
+}

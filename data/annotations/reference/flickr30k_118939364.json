@@ -1,0 +1,158 @@
+{
+ "uid": "flickr30k_118939364",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "sweater": [
+   "brown"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Redhead woman in pigtails and glasses sewing on a sewing machine .",
+  "A woman in a brown sweater is sewing on her machine .",
+  "A woman with glasses uses a sewing machine .",
+  "The woman in the brown sweater is sewing .",
+  "A woman using a sewing machine ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "4869",
+   "types": [
+    "people"
+   ],
+   "phrase": "Redhead woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "4875",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "pigtails",
+   "start": 17,
+   "end": 25
+  },
+  {
+   "entity_id": "4873",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 30,
+   "end": 37
+  },
+  {
+   "entity_id": "4871",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sewing machine",
+   "start": 48,
+   "end": 64
+  },
+  {
+   "entity_id": "4869",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4870",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a brown sweater",
+   "start": 11,
+   "end": 26
+  },
+  {
+   "entity_id": "4871",
+   "types": [
+    "other"
+   ],
+   "phrase": "her machine",
+   "start": 40,
+   "end": 51
+  },
+  {
+   "entity_id": "4869",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4873",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 13,
+   "end": 20
+  },
+  {
+   "entity_id": "4871",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sewing machine",
+   "start": 26,
+   "end": 42
+  },
+  {
+   "entity_id": "4869",
+   "types": [
+    "people"
+   ],
+   "phrase": "The woman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "4870",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the brown sweater",
+   "start": 13,
+   "end": 30
+  },
+  {
+   "entity_id": "4869",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4871",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sewing machine",
+   "start": 14,
+   "end": 30
+  }
+ ],
+ "scene_places": []
+}

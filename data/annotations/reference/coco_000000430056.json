@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000430056",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "keyboard",
+  "sandwich"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sandwich": 2,
+  "keyboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sandwich",
+   "bbox": [
+    219.1,
+    123.88,
+    181.18,
+    152.52
+   ],
+   "area": 18583.053000000004
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    101.94,
+    117.31,
+    398.06,
+    47.24
+   ],
+   "area": 8894.770399999998
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    56.49,
+    118.83,
+    176.3,
+    154.87
+   ],
+   "area": 23218.3659
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cut in half sandwich sitting inside of a microwave.",
+  "A sandwich on a plate with three slices of bread, tomatoes and chips on the side.",
+  "This is a plate holding a double decker sandwich.",
+  "A triple decker sandwich is sitting on a desk.",
+  "Large Bacon Lettuce and Tomato Sandwich with a side of chips."
+ ],
+ "scene_places": []
+}

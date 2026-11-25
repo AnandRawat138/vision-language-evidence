@@ -1,0 +1,106 @@
+{
+ "uid": "coco_000000412362",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "handbag",
+  "person",
+  "tie",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "person": 3,
+  "cup": 1,
+  "handbag": 1,
+  "wine glass": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    326.26,
+    240.19,
+    30.94,
+    151.75
+   ],
+   "area": 3185.15595
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.12,
+    121.9,
+    276.35,
+    370.33
+   ],
+   "area": 73545.40665
+  },
+  {
+   "category": "person",
+   "bbox": [
+    212.89,
+    107.29,
+    268.09,
+    386.36
+   ],
+   "area": 63229.19750000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    442.93,
+    71.84,
+    197.07,
+    419.39
+   ],
+   "area": 58243.99229999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    110.42,
+    416.26,
+    46.02,
+    75.04
+   ],
+   "area": 2020.2713499999998
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    585.75,
+    443.57,
+    54.25,
+    55.18
+   ],
+   "area": 1724.0955999999987
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    461.02,
+    363.58,
+    49.32,
+    114.21
+   ],
+   "area": 1602.44145
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two women and one man pose for a picture.",
+  "Three people, one in a suit, are posing for the camera.",
+  "A man with a nametag in a suit and tie and two women holding glasses on each side of him.",
+  "A group of three people standing next to each other in front of a doorway.",
+  "Three people at an event of some kind"
+ ],
+ "scene_places": []
+}

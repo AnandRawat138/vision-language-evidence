@@ -1,0 +1,234 @@
+{
+ "uid": "vqa_000000565903",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "car",
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 1,
+  "car": 7,
+  "person": 1,
+  "frisbee": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    115.82,
+    415.78,
+    39.12,
+    110.39
+   ],
+   "area": 2985.2072500000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    1.43,
+    144.75,
+    127.43,
+    100.22
+   ],
+   "area": 10254.96755
+  },
+  {
+   "category": "car",
+   "bbox": [
+    321.64,
+    177.54,
+    177.57,
+    102.05
+   ],
+   "area": 12045.814849999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    322.52,
+    141.23,
+    89.17,
+    51.78
+   ],
+   "area": 2690.9017
+  },
+  {
+   "category": "car",
+   "bbox": [
+    418.17,
+    152.66,
+    83.9,
+    92.61
+   ],
+   "area": 4090.4184999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.43,
+    72.22,
+    335.9,
+    567.78
+   ],
+   "area": 75154.73695
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    67.75,
+    59.82,
+    145.58,
+    63.42
+   ],
+   "area": 6281.077299999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.68,
+    128.36,
+    130.93,
+    86.4
+   ],
+   "area": 2439.7490000000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    127.77,
+    152.95,
+    99.33,
+    104.73
+   ],
+   "area": 8558.09355
+  },
+  {
+   "category": "car",
+   "bbox": [
+    111.74,
+    151.58,
+    46.3,
+    39.79
+   ],
+   "area": 1024.4880999999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman with sunglasses holding a bottle of water and in a throwing motion with a frisbee in the air.",
+  "a woman in the park throwing a blue frisbee",
+  "A young woman throwing a frisbee at a park",
+  "a person holding a water bpttle and throwing a frisbe",
+  "Young woman who barely threw a frisbee in park."
+ ],
+ "scene_places": [
+  "park",
+  "water"
+ ],
+ "vqa": [
+  {
+   "question_id": 565903000,
+   "question": "Is this woman a natural blonde?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 565903001,
+   "question": "What color is the frisbee the woman is putting down?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "blue",
+    "purple",
+    "purple",
+    "blue",
+    "blue",
+    "purple",
+    "blue",
+    "purple",
+    "blue"
+   ]
+  },
+  {
+   "question_id": 565903002,
+   "question": "What is the woman holding?",
+   "answer_type": "other",
+   "question_type": "what is the woman",
+   "multiple_choice_answer": "water",
+   "answers": [
+    "water",
+    "water",
+    "water bottle",
+    "bottle of water",
+    "water",
+    "bottle of water",
+    "water bottle",
+    "water",
+    "bottle of water",
+    "water"
+   ]
+  },
+  {
+   "question_id": 565903003,
+   "question": "What is the woman putting the frisbee on?",
+   "answer_type": "other",
+   "question_type": "what is the woman",
+   "multiple_choice_answer": "air",
+   "answers": [
+    "air",
+    "grass",
+    "air",
+    "she threw it",
+    "air",
+    "air",
+    "grass",
+    "air",
+    "air",
+    "nothing"
+   ]
+  },
+  {
+   "question_id": 565903004,
+   "question": "Is she wearing pants?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

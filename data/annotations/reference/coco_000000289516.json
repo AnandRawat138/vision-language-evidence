@@ -1,0 +1,51 @@
+{
+ "uid": "coco_000000289516",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 2
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    120.26,
+    187.29,
+    125.82,
+    136.51
+   ],
+   "area": 13271.746449999999
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    38.75,
+    198.98,
+    33.34,
+    129.94
+   ],
+   "area": 3409.0618500000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A clock sits above green bushes under a blue sky.",
+  "A clock on a stand displays the time in a garden.",
+  "A clock that is surrounded by tall grass in a park.",
+  "An old time looking clock surrounded by greenery.",
+  "An old standing clock surrounded by tall grass.",
+  "A clock set to twenty after three in a field"
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "uid": "flickr30k_269898428",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "teddy bear"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man has put a stuffed animal on an electric screwdriver and is spinning it .",
+  "A person with an electric drill doing something to a toy animal .",
+  "A man is spinning a stuffed animal with a screwdriver .",
+  "A young man spins a stuffed animal around on a drill .",
+  "A man drills his stuffed animal ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "66835",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "66837",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a stuffed animal",
+   "start": 14,
+   "end": 30
+  },
+  {
+   "entity_id": "66836",
+   "types": [
+    "other"
+   ],
+   "phrase": "an electric screwdriver",
+   "start": 34,
+   "end": 57
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 74,
+   "end": 76
+  },
+  {
+   "entity_id": "66835",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "66836",
+   "types": [
+    "other"
+   ],
+   "phrase": "an electric drill",
+   "start": 14,
+   "end": 31
+  },
+  {
+   "entity_id": "66838",
+   "types": [
+    "other"
+   ],
+   "phrase": "something",
+   "start": 38,
+   "end": 47
+  },
+  {
+   "entity_id": "66837",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a toy animal",
+   "start": 51,
+   "end": 63
+  },
+  {
+   "entity_id": "66835",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "66837",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a stuffed animal",
+   "start": 18,
+   "end": 34
+  },
+  {
+   "entity_id": "66836",
+   "types": [
+    "other"
+   ],
+   "phrase": "a screwdriver",
+   "start": 40,
+   "end": 53
+  },
+  {
+   "entity_id": "66835",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "66837",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a stuffed animal",
+   "start": 18,
+   "end": 34
+  },
+  {
+   "entity_id": "66836",
+   "types": [
+    "other"
+   ],
+   "phrase": "a drill",
+   "start": 45,
+   "end": 52
+  },
+  {
+   "entity_id": "66835",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "66837",
+   "types": [
+    "animals"
+   ],
+   "phrase": "his stuffed animal",
+   "start": 13,
+   "end": 31
+  }
+ ],
+ "scene_places": []
+}

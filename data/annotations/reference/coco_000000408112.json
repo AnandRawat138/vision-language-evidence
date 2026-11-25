@@ -1,0 +1,132 @@
+{
+ "uid": "coco_000000408112",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 2,
+  "person": 8
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    1.08,
+    100.09,
+    411.12,
+    228.16
+   ],
+   "area": 30729.10885000002
+  },
+  {
+   "category": "airplane",
+   "bbox": [
+    416.29,
+    162.45,
+    223.65,
+    77.13
+   ],
+   "area": 7373.59155
+  },
+  {
+   "category": "person",
+   "bbox": [
+    586.14,
+    208.98,
+    10.62,
+    24.26
+   ],
+   "area": 130.64379999999974
+  },
+  {
+   "category": "person",
+   "bbox": [
+    569.84,
+    209.21,
+    9.6,
+    28.34
+   ],
+   "area": 168.25110000000026
+  },
+  {
+   "category": "person",
+   "bbox": [
+    539.84,
+    216.27,
+    7.42,
+    16.99
+   ],
+   "area": 88.46430000000026
+  },
+  {
+   "category": "person",
+   "bbox": [
+    509.69,
+    223.89,
+    8.99,
+    12.22
+   ],
+   "area": 77.16459999999981
+  },
+  {
+   "category": "person",
+   "bbox": [
+    497.88,
+    223.11,
+    10.11,
+    13.92
+   ],
+   "area": 78.9862000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    472.83,
+    222.89,
+    7.47,
+    15.3
+   ],
+   "area": 63.68830000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    551.3,
+    214.43,
+    9.89,
+    14.23
+   ],
+   "area": 92.85355000000041
+  },
+  {
+   "category": "person",
+   "bbox": [
+    418.83,
+    214.36,
+    5.6,
+    16.22
+   ],
+   "area": 51.05724999999975
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A small propeller plane sitting on top of an airport tarmac.",
+  "Two airplanes are parked on the landing strip.",
+  "A pair of planes sitting on an airstrip next to cones.",
+  "A P-51 Mustang and B-25 Mitchell on the airport tarmac.",
+  "One white and red plane and one grey plane on the ground"
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

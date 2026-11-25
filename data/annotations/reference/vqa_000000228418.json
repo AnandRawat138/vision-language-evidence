@@ -1,0 +1,240 @@
+{
+ "uid": "vqa_000000228418",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "book",
+  "cat",
+  "clock",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "person": 1,
+  "bed": 1,
+  "clock": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    458.24,
+    183.42,
+    21.2,
+    29.48
+   ],
+   "area": 436.3104000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    284.6,
+    126.22,
+    109.44,
+    54.72
+   ],
+   "area": 3774.0331000000024
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    0.0,
+    127.82,
+    441.71,
+    231.37
+   ],
+   "area": 82468.12075
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    525.71,
+    168.16,
+    40.82,
+    37.55
+   ],
+   "area": 1224.2066499999996
+  },
+  {
+   "category": "book",
+   "bbox": [
+    465.96,
+    287.26,
+    55.8,
+    21.96
+   ],
+   "area": 1015.9899500000016
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A small kid sleeping in a bed with a clock on the drawer",
+  "A baby sleeping calmly on a bed with a blanket.",
+  "A child sleeping on a bed during the day.",
+  "a small child resting in a bed during the daylight hours",
+  "A child laying in bed under a blanket."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 228418000,
+   "question": "Is the lamp on?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "nightstand",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 228418001,
+   "question": "Is the child sleeping?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 228418002,
+   "question": "Is the child awake?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 228418003,
+   "question": "What color is the bedspread?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "patterned",
+   "answers": [
+    "multi",
+    "pink, blue, yellow, and white",
+    "white and multi colored",
+    "multiple colors",
+    "cream, pink, blue",
+    "yellow",
+    "multi-colored",
+    "white, blue, and red",
+    "patterned",
+    "white"
+   ]
+  },
+  {
+   "question_id": 228418004,
+   "question": "How many pillows are on the bed?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1",
+    "2",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 228418005,
+   "question": "What are the headboard and baseboard made of?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "wood",
+   "answers": [
+    "none",
+    "wood",
+    "no headboard or baseboard",
+    "wood",
+    "wood",
+    "wall",
+    "nothing",
+    "wood",
+    "nothing",
+    "oak"
+   ]
+  },
+  {
+   "question_id": 228418006,
+   "question": "Is the nightstand junky?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 228418007,
+   "question": "Is the alarm clock going off?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

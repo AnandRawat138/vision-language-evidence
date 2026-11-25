@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000544811",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    325.08,
+    243.21,
+    103.96,
+    96.77
+   ],
+   "area": 3364.016350000002
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    478.82,
+    193.74,
+    119.93,
+    92.26
+   ],
+   "area": 2497.3677500000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two birds flying in the sky over a lake",
+  "Black borders a rippling water-scape with two birds flying overhead.",
+  "Two birds flying over a flat waveless ocean.",
+  "A couple of birds flying over a body of water.",
+  "Two large birds are flying over the calm water."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

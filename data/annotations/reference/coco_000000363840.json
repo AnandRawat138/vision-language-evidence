@@ -1,0 +1,162 @@
+{
+ "uid": "coco_000000363840",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "chair",
+  "handbag",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "person",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 3,
+  "chair": 1,
+  "laptop": 2,
+  "mouse": 2,
+  "keyboard": 1,
+  "handbag": 1,
+  "bottle": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    469.16,
+    40.08,
+    170.84,
+    164.6
+   ],
+   "area": 25119.154249999992
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    395.72,
+    238.61,
+    243.59,
+    235.37
+   ],
+   "area": 21077.146499999995
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    274.59,
+    84.86,
+    244.33,
+    269.19
+   ],
+   "area": 46198.553550000004
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    0.0,
+    91.69,
+    195.24,
+    216.8
+   ],
+   "area": 24160.345999999998
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    536.3,
+    244.3,
+    46.64,
+    34.65
+   ],
+   "area": 1024.102000000001
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    581.04,
+    232.32,
+    47.7,
+    32.83
+   ],
+   "area": 965.4306000000003
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    322.52,
+    307.42,
+    270.74,
+    112.18
+   ],
+   "area": 14134.645549999994
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    211.47,
+    147.54,
+    74.39,
+    71.24
+   ],
+   "area": 4048.172150000001
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    124.63,
+    352.91,
+    23.28,
+    47.15
+   ],
+   "area": 692.2066999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    319.73,
+    34.05,
+    28.52,
+    43.05
+   ],
+   "area": 843.9685999999992
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    279.4,
+    89.42,
+    180.41,
+    144.6
+   ],
+   "area": 21280.481900000002
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    0.0,
+    95.63,
+    124.68,
+    149.61
+   ],
+   "area": 12704.973300000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Several different pieces of electronic equipment and computers on a desk.",
+  "A desk with two laptops and a monitor.",
+  "Two laptops,computer,keyboard and other electrical gadgets are on the table.",
+  "two laptops a mouse cords wires and a monitor",
+  "Several laptop computers and electronic devices on a desk."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,121 @@
+{
+ "uid": "vqa_000000455203",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cat",
+  "laptop",
+  "mouse"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "laptop": 1,
+  "mouse": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    12.94,
+    135.19,
+    359.55,
+    230.11
+   ],
+   "area": 54865.62575000001
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    47.46,
+    109.3,
+    294.83,
+    287.64
+   ],
+   "area": 31076.782499999994
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    346.04,
+    355.06,
+    54.79,
+    48.23
+   ],
+   "area": 1894.784099999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a cat laying on a laptop and looking like it has glowing eyes",
+  "Cat's eyes glowing as it lays on the laptop",
+  "A striped cat lying on a laptop computer atop a wooden desk with a computer mouse and a skull, with a window behind and a wire trash can below.",
+  "a cat that is laying down on a lap top",
+  "A cat sitting on top of a laptop computer on a desk."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 455203000,
+   "question": "What is on the top right?",
+   "answer_type": "other",
+   "question_type": "what is on the",
+   "multiple_choice_answer": "skull",
+   "answers": [
+    "skull;",
+    "skull",
+    "fishbowl",
+    "fishbowl",
+    "skull",
+    "window",
+    "skull",
+    "skull",
+    "skull",
+    "bowl"
+   ]
+  },
+  {
+   "question_id": 455203001,
+   "question": "Has the cat been hypnotized?",
+   "answer_type": "yes/no",
+   "question_type": "has",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 455203002,
+   "question": "Where is the cat in the photo?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "laptop",
+   "answers": [
+    "laptop",
+    "laptop",
+    "laptop",
+    "laptop",
+    "on laptop",
+    "on laptop",
+    "keyboard",
+    "laptop keyboard",
+    "on computer",
+    "laptop"
+   ]
+  }
+ ]
+}

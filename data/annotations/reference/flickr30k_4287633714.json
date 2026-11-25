@@ -1,0 +1,378 @@
+{
+ "uid": "flickr30k_4287633714",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "handbag",
+  "person",
+  "train"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [],
+  "pants": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man with brown hair wearing a leather jacket with a white skull , black pants and brown bag on his left shoulder along with a blond woman wearing a leather jacket and black pants with a purple and red backpack on her back with white skull and cross bones both walking down the subway platform .",
+  "Two people wearing black leather and carrying bags walk hand-in-hand through a railroad station , their attire adorned by skull imagery .",
+  "A person in a leather jacket with a skull on the back is holding the hand of another person wearing a skull backpack .",
+  "Two people dressed in black facing away from the camera with skull bones on their jacket and backpack respectively .",
+  "A view from behind of a group of people at a train station ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "161650",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "161668",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "brown hair",
+   "start": 11,
+   "end": 21
+  },
+  {
+   "entity_id": "161652",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a leather jacket",
+   "start": 30,
+   "end": 46
+  },
+  {
+   "entity_id": "161655",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a white skull",
+   "start": 52,
+   "end": 65
+  },
+  {
+   "entity_id": "161666",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black pants",
+   "start": 68,
+   "end": 79
+  },
+  {
+   "entity_id": "161667",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "brown bag",
+   "start": 84,
+   "end": 93
+  },
+  {
+   "entity_id": "161670",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his left shoulder",
+   "start": 97,
+   "end": 114
+  },
+  {
+   "entity_id": "161662",
+   "types": [
+    "people"
+   ],
+   "phrase": "a blond woman",
+   "start": 126,
+   "end": 139
+  },
+  {
+   "entity_id": "161652",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a leather jacket",
+   "start": 148,
+   "end": 164
+  },
+  {
+   "entity_id": "161656",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black pants",
+   "start": 169,
+   "end": 180
+  },
+  {
+   "entity_id": "161653",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a purple and red backpack",
+   "start": 186,
+   "end": 211
+  },
+  {
+   "entity_id": "161661",
+   "types": [
+    "other"
+   ],
+   "phrase": "her back",
+   "start": 215,
+   "end": 223
+  },
+  {
+   "entity_id": "161655",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "white skull",
+   "start": 229,
+   "end": 240
+  },
+  {
+   "entity_id": "161660",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "cross bones",
+   "start": 245,
+   "end": 256
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "both",
+   "start": 257,
+   "end": 261
+  },
+  {
+   "entity_id": "161654",
+   "types": [
+    "other"
+   ],
+   "phrase": "the subway platform",
+   "start": 275,
+   "end": 294
+  },
+  {
+   "entity_id": "161651",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "161652",
+   "types": [
+    "other"
+   ],
+   "phrase": "black leather",
+   "start": 19,
+   "end": 32
+  },
+  {
+   "entity_id": "161663",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "bags",
+   "start": 46,
+   "end": 50
+  },
+  {
+   "entity_id": "161669",
+   "types": [
+    "other"
+   ],
+   "phrase": "hand-in-hand",
+   "start": 56,
+   "end": 68
+  },
+  {
+   "entity_id": "161654",
+   "types": [
+    "other"
+   ],
+   "phrase": "a railroad station",
+   "start": 77,
+   "end": 95
+  },
+  {
+   "entity_id": "161673",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "their attire",
+   "start": 98,
+   "end": 110
+  },
+  {
+   "entity_id": "161671",
+   "types": [
+    "other"
+   ],
+   "phrase": "skull imagery",
+   "start": 122,
+   "end": 135
+  },
+  {
+   "entity_id": "161650",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "161652",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a leather jacket",
+   "start": 12,
+   "end": 28
+  },
+  {
+   "entity_id": "161655",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a skull",
+   "start": 34,
+   "end": 41
+  },
+  {
+   "entity_id": "161661",
+   "types": [
+    "other"
+   ],
+   "phrase": "the back",
+   "start": 45,
+   "end": 53
+  },
+  {
+   "entity_id": "161669",
+   "types": [
+    "people"
+   ],
+   "phrase": "the hand of another person",
+   "start": 65,
+   "end": 91
+  },
+  {
+   "entity_id": "161659",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a skull backpack",
+   "start": 100,
+   "end": 116
+  },
+  {
+   "entity_id": "161651",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "161657",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black",
+   "start": 22,
+   "end": 27
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the camera",
+   "start": 45,
+   "end": 55
+  },
+  {
+   "entity_id": "161660",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "skull bones",
+   "start": 61,
+   "end": 72
+  },
+  {
+   "entity_id": "161658",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "their jacket",
+   "start": 76,
+   "end": 88
+  },
+  {
+   "entity_id": "161653",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "backpack",
+   "start": 93,
+   "end": 101
+  },
+  {
+   "entity_id": "161674",
+   "types": [
+    "scene"
+   ],
+   "phrase": "A view",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "161664",
+   "types": [
+    "people"
+   ],
+   "phrase": "behind of a group of people",
+   "start": 12,
+   "end": 39
+  },
+  {
+   "entity_id": "161675",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a train station",
+   "start": 43,
+   "end": 58
+  }
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

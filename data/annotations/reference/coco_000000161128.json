@@ -1,0 +1,178 @@
+{
+ "uid": "coco_000000161128",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "fire hydrant",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 8,
+  "person": 3,
+  "bus": 1,
+  "fire hydrant": 1,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    269.3,
+    389.8,
+    47.03,
+    26.51
+   ],
+   "area": 888.2816500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    97.41,
+    386.98,
+    8.56,
+    29.78
+   ],
+   "area": 161.51884999999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    306.08,
+    383.0,
+    29.38,
+    13.65
+   ],
+   "area": 196.54024999999967
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    199.08,
+    355.79,
+    37.46,
+    83.22
+   ],
+   "area": 2510.1421999999984
+  },
+  {
+   "category": "fire hydrant",
+   "bbox": [
+    360.64,
+    398.42,
+    4.66,
+    10.66
+   ],
+   "area": 34.22784999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    136.93,
+    386.27,
+    8.67,
+    24.26
+   ],
+   "area": 103.73914999999973
+  },
+  {
+   "category": "person",
+   "bbox": [
+    106.8,
+    389.67,
+    7.97,
+    27.12
+   ],
+   "area": 149.63109999999995
+  },
+  {
+   "category": "car",
+   "bbox": [
+    232.58,
+    387.05,
+    10.11,
+    17.71
+   ],
+   "area": 128.88504999999967
+  },
+  {
+   "category": "car",
+   "bbox": [
+    40.64,
+    380.43,
+    37.61,
+    37.05
+   ],
+   "area": 1101.4225
+  },
+  {
+   "category": "car",
+   "bbox": [
+    145.56,
+    383.7,
+    7.98,
+    5.9
+   ],
+   "area": 35.31010000000004
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    200.15,
+    357.8,
+    37.96,
+    82.43
+   ],
+   "area": 2406.569649999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    391.1,
+    49.79,
+    47.32
+   ],
+   "area": 1664.8626000000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    284.82,
+    381.42,
+    17.86,
+    9.81
+   ],
+   "area": 128.17245000000028
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.59,
+    399.71,
+    10.03,
+    57.43
+   ],
+   "area": 312.59829999999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A curse word written on a traffic sign.",
+  "A street sign in the city with various symbols on it.",
+  "A street sign is a circle with a cross through it.",
+  "I am assuming that the sign means no profanity.",
+  "A no cursing sign posted as a street sign."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "uid": "coco_000000439426",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "donut",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "donut": 1,
+  "person": 3
+ },
+ "object_boxes": [
+  {
+   "category": "donut",
+   "bbox": [
+    138.07,
+    94.92,
+    328.99,
+    320.36
+   ],
+   "area": 71188.43504999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    548.31,
+    181.55,
+    91.69,
+    77.0
+   ],
+   "area": 5445.021699999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    195.82,
+    0.0,
+    183.42,
+    68.52
+   ],
+   "area": 7525.07895
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.25,
+    112.21,
+    221.92,
+    285.5
+   ],
+   "area": 40576.41534999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A left hand holding a glazed doughnut over a tiled floor.",
+  "A hand holding a donut that been partially eaten.",
+  "A person's hand holding a bitten into doughnut.",
+  "A person is holding a doughnut that has a bite taken out of it.",
+  "A person holding a glazed pastry item with one bite taken out"
+ ],
+ "scene_places": []
+}

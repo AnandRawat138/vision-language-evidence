@@ -1,0 +1,195 @@
+{
+ "uid": "vqa_000000196378",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "tennis racket": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    368.56,
+    89.03,
+    271.44,
+    336.97
+   ],
+   "area": 58037.52020000001
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    0.79,
+    0.85,
+    296.23,
+    56.16
+   ],
+   "area": 9403.609200000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    10.9,
+    0.0,
+    393.08,
+    426.0
+   ],
+   "area": 75308.10290000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two women in pink and yellow dresses holding a tennis racket.",
+  "Two women posing for a photo in costumes one holding a tennis racket and other wearing a small crown on her head.",
+  "Girls posing of a picture one holding a tennis racket the other wearing a crown.",
+  "Two female cosplayers pose beside a wall in their costumes.",
+  "Two women dressed in costumes, with one holding tennis racket."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 196378000,
+   "question": "What color is the wall?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white"
+   ]
+  },
+  {
+   "question_id": 196378001,
+   "question": "What console are these people using?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "tennis",
+   "answers": [
+    "wii",
+    "xbox",
+    "racket",
+    "none",
+    "nintendo",
+    "tennis",
+    "nintendo",
+    "tennis",
+    "tennis",
+    "tennis"
+   ]
+  },
+  {
+   "question_id": 196378002,
+   "question": "What color blue is the dress?",
+   "answer_type": "other",
+   "question_type": "what color",
+   "multiple_choice_answer": "light",
+   "answers": [
+    "button",
+    "sky",
+    "light",
+    "light",
+    "royal blue",
+    "light blue flower",
+    "light",
+    "light",
+    "baby blue",
+    "medium blue"
+   ]
+  },
+  {
+   "question_id": 196378003,
+   "question": "What is written in the bottom corner?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "nothing",
+   "answers": [
+    "copyright",
+    "triinskicom",
+    "nothing",
+    "website url",
+    "website",
+    "http://urielnosekaicom",
+    "nothing",
+    "text not legible",
+    "com",
+    "urielnoseaicom"
+   ]
+  },
+  {
+   "question_id": 196378004,
+   "question": "What color is the ribbon around the waist of the girl on the right?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "pink",
+   "answers": [
+    "pink",
+    "pink",
+    "pink",
+    "pink",
+    "red",
+    "white",
+    "fuschia",
+    "pink",
+    "dark pink",
+    "red"
+   ]
+  },
+  {
+   "question_id": 196378005,
+   "question": "What game is the woman playing?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "tennis",
+   "answers": [
+    "volleyball",
+    "tennis",
+    "tennis",
+    "tennis",
+    "tennis",
+    "cosplay",
+    "tennis",
+    "tennis",
+    "tennis",
+    "tennis"
+   ]
+  },
+  {
+   "question_id": 196378006,
+   "question": "What is the girl in yellow holding?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "tennis racket",
+   "answers": [
+    "racquet",
+    "tennis racket",
+    "tennis racquet",
+    "racket",
+    "tennis racket",
+    "tennis racket",
+    "tennis racket",
+    "smiling",
+    "tennis racket",
+    "tennis racket"
+   ]
+  }
+ ]
+}

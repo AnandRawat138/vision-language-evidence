@@ -1,0 +1,186 @@
+{
+ "uid": "coco_000000186449",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bench",
+  "handbag",
+  "person",
+  "suitcase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 7,
+  "bench": 1,
+  "backpack": 3,
+  "suitcase": 3,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    117.82,
+    179.99,
+    262.84,
+    425.09
+   ],
+   "area": 53591.34045000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    372.49,
+    34.52,
+    63.51,
+    165.39
+   ],
+   "area": 7011.445099999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    316.86,
+    12.43,
+    60.79,
+    127.98
+   ],
+   "area": 5301.58015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    214.32,
+    13.08,
+    89.21,
+    152.52
+   ],
+   "area": 7503.737000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    63.28,
+    0.0,
+    179.78,
+    234.43
+   ],
+   "area": 26354.251
+  },
+  {
+   "category": "person",
+   "bbox": [
+    197.47,
+    1.28,
+    47.32,
+    61.36
+   ],
+   "area": 1829.1631499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    2.17,
+    36.18,
+    251.45
+   ],
+   "area": 5596.8796
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    0.0,
+    133.73,
+    436.0,
+    457.05
+   ],
+   "area": 42689.7582
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    74.81,
+    4.49,
+    88.99,
+    125.06
+   ],
+   "area": 8288.215200000002
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    182.79,
+    96.8,
+    68.39,
+    87.84
+   ],
+   "area": 4550.96425
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    26.43,
+    17.26,
+    52.67,
+    103.06
+   ],
+   "area": 2792.7575499999994
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    31.46,
+    178.67,
+    59.53,
+    101.69
+   ],
+   "area": 4720.21795
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    395.74,
+    148.29,
+    40.26,
+    49.45
+   ],
+   "area": 1300.8185000000003
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    260.68,
+    224.77,
+    105.46,
+    232.7
+   ],
+   "area": 11839.298200000001
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    174.21,
+    159.55,
+    81.78,
+    38.53
+   ],
+   "area": 1645.3489999999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An elderly woman sits on a bench with a crowd behind her.",
+  "An elderly woman with a kerchief on her head sits on the bench.",
+  "there is an old woman sitting on a bench",
+  "A black and white image of an old person sitting on a bench",
+  "A person with a cane and a roller bag sitting on a bench."
+ ],
+ "scene_places": []
+}

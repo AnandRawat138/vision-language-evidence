@@ -1,0 +1,176 @@
+{
+ "uid": "coco_000000363207",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "cake",
+  "dining table",
+  "person",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 6,
+  "cake": 2,
+  "wine glass": 2,
+  "bowl": 2,
+  "dining table": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    268.23,
+    134.92,
+    83.97,
+    205.66
+   ],
+   "area": 5022.285050000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    505.89,
+    326.83,
+    134.11,
+    153.17
+   ],
+   "area": 17521.167749999997
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    203.24,
+    208.65,
+    127.57,
+    162.16
+   ],
+   "area": 13474.671
+  },
+  {
+   "category": "person",
+   "bbox": [
+    456.27,
+    158.83,
+    183.73,
+    238.38
+   ],
+   "area": 23787.750199999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    481.9,
+    272.98,
+    37.89,
+    54.06
+   ],
+   "area": 767.9591999999981
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    361.39,
+    341.58,
+    16.95,
+    60.89
+   ],
+   "area": 643.373950000001
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    372.43,
+    336.46,
+    19.51,
+    57.21
+   ],
+   "area": 625.8939500000007
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    376.72,
+    355.28,
+    54.61,
+    29.11
+   ],
+   "area": 1201.7869500000004
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    122.49,
+    399.1,
+    83.95,
+    50.19
+   ],
+   "area": 3402.11875
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    409.41,
+    316.12,
+    102.55,
+    60.24
+   ],
+   "area": 3715.1838499999994
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    66.08,
+    188.26,
+    452.57,
+    285.51
+   ],
+   "area": 60314.415199999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    316.68,
+    172.05,
+    100.98,
+    188.26
+   ],
+   "area": 11620.497899999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    416.22,
+    251.43,
+    62.33,
+    77.23
+   ],
+   "area": 2623.9111999999986
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    272.31,
+    233.96,
+    207.68
+   ],
+   "area": 25175.5289
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A newly married couple sharing a piece of there wedding cake.",
+  "The bride and groom stand behind a square, multi-layer wedding cake.",
+  "A newly married couple standing next to a four layer wedding cake.",
+  "A new husband and wife feeding each other wedding cake as a photographer takes pictures.",
+  "A just married coule feed each other cake while a photographer takes photos."
+ ],
+ "scene_places": []
+}

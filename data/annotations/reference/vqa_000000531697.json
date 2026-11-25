@@ -1,0 +1,263 @@
+{
+ "uid": "vqa_000000531697",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cell phone",
+  "cup",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "scissors",
+  "tv",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "cup": 1,
+  "laptop": 1,
+  "mouse": 2,
+  "book": 6,
+  "scissors": 2,
+  "cell phone": 1,
+  "vase": 1,
+  "keyboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    175.26,
+    168.05,
+    88.74,
+    81.15
+   ],
+   "area": 4776.7526
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    342.17,
+    191.13,
+    43.06,
+    54.02
+   ],
+   "area": 1861.4028000000008
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    122.7,
+    225.73,
+    176.96,
+    120.34
+   ],
+   "area": 12369.188000000004
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    169.85,
+    279.68,
+    25.53,
+    16.35
+   ],
+   "area": 288.3273499999996
+  },
+  {
+   "category": "book",
+   "bbox": [
+    29.37,
+    225.97,
+    53.35,
+    29.87
+   ],
+   "area": 1063.5436
+  },
+  {
+   "category": "book",
+   "bbox": [
+    320.9,
+    174.48,
+    26.74,
+    50.33
+   ],
+   "area": 892.6936000000018
+  },
+  {
+   "category": "book",
+   "bbox": [
+    308.7,
+    181.87,
+    10.14,
+    41.28
+   ],
+   "area": 224.2301999999999
+  },
+  {
+   "category": "scissors",
+   "bbox": [
+    353.29,
+    165.41,
+    17.6,
+    27.93
+   ],
+   "area": 389.0004499999995
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    94.61,
+    251.1,
+    28.46,
+    14.01
+   ],
+   "area": 267.4966000000002
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    354.82,
+    291.32,
+    30.49,
+    28.24
+   ],
+   "area": 509.75130000000024
+  },
+  {
+   "category": "book",
+   "bbox": [
+    297.92,
+    172.9,
+    22.76,
+    51.14
+   ],
+   "area": 475.477199999999
+  },
+  {
+   "category": "book",
+   "bbox": [
+    280.2,
+    160.22,
+    24.06,
+    60.63
+   ],
+   "area": 868.825400000001
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    410.56,
+    211.57,
+    47.19,
+    48.77
+   ],
+   "area": 1870.3799999999994
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    160.67,
+    239.23,
+    39.16,
+    32.68
+   ],
+   "area": 719.7317500000008
+  },
+  {
+   "category": "scissors",
+   "bbox": [
+    370.05,
+    180.43,
+    10.6,
+    14.42
+   ],
+   "area": 108.51454999999976
+  },
+  {
+   "category": "book",
+   "bbox": [
+    286.79,
+    296.21,
+    33.93,
+    32.11
+   ],
+   "area": 573.4039500000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A laptop computer sitting on a wooden table.",
+  "A computer desk houses both a laptop and a PC computer and monitor.",
+  "A very neat person lives in this room.",
+  "A laptop computer sits of open on a desk.",
+  "A computer desk has two computers and some books."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 531697000,
+   "question": "What does the red sign encourage you to do?",
+   "answer_type": "other",
+   "question_type": "what does the",
+   "multiple_choice_answer": "laugh",
+   "answers": [
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh",
+    "laugh"
+   ]
+  },
+  {
+   "question_id": 531697001,
+   "question": "What color is the wall?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "beige",
+    "white",
+    "white",
+    "beige"
+   ]
+  },
+  {
+   "question_id": 531697002,
+   "question": "How many computing devices are present?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  }
+ ]
+}

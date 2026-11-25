@@ -1,0 +1,64 @@
+{
+ "uid": "coco_000000107094",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "backpack": 1,
+  "skis": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    476.74,
+    77.78,
+    148.38,
+    344.63
+   ],
+   "area": 25858.189949999996
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    582.73,
+    188.82,
+    36.23,
+    62.04
+   ],
+   "area": 764.4856500000009
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    364.62,
+    367.45,
+    160.71,
+    58.55
+   ],
+   "area": 1730.341
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding skis on top of snow covered ground.",
+  "A man standing on his skiesat night with a light  on his head. a city is close behind him.",
+  "A man stands on his skis on a flat patch of snow near a fence.",
+  "A man is skiing on a bridge with snow.",
+  "A man wears a light while skiing at night."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

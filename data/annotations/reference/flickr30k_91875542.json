@@ -1,0 +1,186 @@
+{
+ "uid": "flickr30k_91875542",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "pink"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "An elderly woman with white hair and glasses is next to a window and in front of an open cash register drawer .",
+  "A elderly white-haired woman is looking inside her register and looking through her glasses .",
+  "A woman with white hair is observing something while sitting at a desk .",
+  "An elderly woman in a pink shirt is utilizing an antique cash register .",
+  "An old lady working at a cash registrar ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "283494",
+   "types": [
+    "people"
+   ],
+   "phrase": "An elderly woman",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "283497",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "white hair",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "283496",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 37,
+   "end": 44
+  },
+  {
+   "entity_id": "283502",
+   "types": [
+    "other"
+   ],
+   "phrase": "a window",
+   "start": 56,
+   "end": 64
+  },
+  {
+   "entity_id": "283500",
+   "types": [
+    "other"
+   ],
+   "phrase": "an open cash register drawer",
+   "start": 81,
+   "end": 109
+  },
+  {
+   "entity_id": "283494",
+   "types": [
+    "people"
+   ],
+   "phrase": "A elderly white-haired woman",
+   "start": 0,
+   "end": 28
+  },
+  {
+   "entity_id": "283495",
+   "types": [
+    "other"
+   ],
+   "phrase": "her register",
+   "start": 47,
+   "end": 59
+  },
+  {
+   "entity_id": "283496",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "her glasses",
+   "start": 80,
+   "end": 91
+  },
+  {
+   "entity_id": "283494",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "283497",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "white hair",
+   "start": 13,
+   "end": 23
+  },
+  {
+   "entity_id": "283495",
+   "types": [
+    "other"
+   ],
+   "phrase": "something",
+   "start": 37,
+   "end": 46
+  },
+  {
+   "entity_id": "283499",
+   "types": [
+    "other"
+   ],
+   "phrase": "a desk",
+   "start": 64,
+   "end": 70
+  },
+  {
+   "entity_id": "283494",
+   "types": [
+    "people"
+   ],
+   "phrase": "An elderly woman",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "283501",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a pink shirt",
+   "start": 20,
+   "end": 32
+  },
+  {
+   "entity_id": "283495",
+   "types": [
+    "other"
+   ],
+   "phrase": "an antique cash register",
+   "start": 46,
+   "end": 70
+  },
+  {
+   "entity_id": "283494",
+   "types": [
+    "people"
+   ],
+   "phrase": "An old lady",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "283495",
+   "types": [
+    "people"
+   ],
+   "phrase": "a cash registrar",
+   "start": 23,
+   "end": 39
+  }
+ ],
+ "scene_places": []
+}

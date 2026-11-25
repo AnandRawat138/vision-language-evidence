@@ -1,0 +1,125 @@
+{
+ "n_sentences_test": 525,
+ "n_images_test": 105,
+ "structurers": {
+  "rule-v1": {
+   "clothing": {
+    "precision": 0.976878612716763,
+    "recall": 0.7088607594936709,
+    "f1": 0.8215634359130171,
+    "f1_ci": [
+     0.7621615061663605,
+     0.8750230314539827
+    ],
+    "n_ref_phrases": 237,
+    "n_pred": 173,
+    "semantic_agreement": 1.0,
+    "n_semantic": 166,
+    "color_agreement": 0.9636363636363636,
+    "n_color": 110
+   },
+   "scene": {
+    "precision": 0.8311688311688312,
+    "recall": 0.48031496062992124,
+    "f1": 0.6088109161793372,
+    "f1_ci": [
+     0.5249147808285419,
+     0.6864906458216773
+    ],
+    "n_ref_phrases": 254,
+    "n_pred": 154,
+    "semantic_agreement": 1.0,
+    "n_semantic": 122,
+    "color_agreement": null,
+    "n_color": 0
+   },
+   "certainty_synthetic": {
+    "accuracy": 1.0,
+    "detected": 1.0,
+    "upgrade_rate": 0.0,
+    "n": 96,
+    "n_uncertain": 72,
+    "confusion": {
+     "definite": {
+      "definite": 24
+     },
+     "hedged": {
+      "hedged": 48
+     },
+     "negated": {
+      "negated": 24
+     }
+    }
+   },
+   "missing_clothing_accuracy": 0.9123809523809524
+  },
+  "llm-narrative-v1": {
+   "clothing": {
+    "precision": 0.5678233438485805,
+    "recall": 0.7468354430379747,
+    "f1": 0.645141694256295,
+    "f1_ci": [
+     0.5843625532438724,
+     0.69999030969313
+    ],
+    "n_ref_phrases": 237,
+    "n_pred": 317,
+    "semantic_agreement": 0.9791666666666666,
+    "n_semantic": 144,
+    "color_agreement": 1.0,
+    "n_color": 120
+   },
+   "scene": {
+    "precision": 0.6795580110497238,
+    "recall": 0.484251968503937,
+    "f1": 0.5655172413793104,
+    "f1_ci": [
+     0.492381841613845,
+     0.6359447004608294
+    ],
+    "n_ref_phrases": 254,
+    "n_pred": 181,
+    "semantic_agreement": 0.9787234042553191,
+    "n_semantic": 94,
+    "color_agreement": null,
+    "n_color": 0
+   },
+   "certainty_synthetic": {
+    "accuracy": 0.9375,
+    "detected": 0.96875,
+    "upgrade_rate": 0.041666666666666664,
+    "n": 96,
+    "n_uncertain": 72,
+    "confusion": {
+     "definite": {
+      "definite": 23,
+      "missed": 1
+     },
+     "hedged": {
+      "hedged": 46,
+      "missed": 2
+     },
+     "negated": {
+      "definite": 3,
+      "negated": 21
+     }
+    }
+   },
+   "missing_clothing_accuracy": 0.7771428571428571
+  }
+ },
+ "paired_rule_vs_llm_clothing_f1": {
+  "mean_diff": 0.029784615701330567,
+  "ci95_lo": -0.05937301968750785,
+  "ci95_hi": 0.10981766440882981,
+  "p_bootstrap": 0.4833,
+  "wilcoxon_p": 0.10054423426369066,
+  "n_images": 78
+ },
+ "llm_parse_status": {
+  "valid": 832,
+  "repaired": 12,
+  "failed": 2
+ },
+ "llm_unsupported_items_dropped": 1584
+}

@@ -1,0 +1,226 @@
+{
+ "uid": "flickr30k_503357436",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "An African American male rides a green bike while another person does an ollie on a skateboard in the background .",
+  "A man on a bike and in the background a man performing a trick on a skateboard .",
+  "Kid doing a skateboard trick and an older kid riding a bike .",
+  "A child is skateboarding while a man is riding his bike .",
+  "A man skateboards , while another man rides a bike ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "227301",
+   "types": [
+    "people"
+   ],
+   "phrase": "An African American male",
+   "start": 0,
+   "end": 24
+  },
+  {
+   "entity_id": "227302",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a green bike",
+   "start": 31,
+   "end": 43
+  },
+  {
+   "entity_id": "227300",
+   "types": [
+    "people"
+   ],
+   "phrase": "another person",
+   "start": 50,
+   "end": 64
+  },
+  {
+   "entity_id": "227303",
+   "types": [
+    "other"
+   ],
+   "phrase": "an ollie",
+   "start": 70,
+   "end": 78
+  },
+  {
+   "entity_id": "227304",
+   "types": [
+    "other"
+   ],
+   "phrase": "a skateboard",
+   "start": 82,
+   "end": 94
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 98,
+   "end": 112
+  },
+  {
+   "entity_id": "227301",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "227302",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 9,
+   "end": 15
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 23,
+   "end": 37
+  },
+  {
+   "entity_id": "227300",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 38,
+   "end": 43
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 55,
+   "end": 62
+  },
+  {
+   "entity_id": "227304",
+   "types": [
+    "other"
+   ],
+   "phrase": "a skateboard",
+   "start": 66,
+   "end": 78
+  },
+  {
+   "entity_id": "227300",
+   "types": [
+    "people"
+   ],
+   "phrase": "Kid",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a skateboard trick",
+   "start": 10,
+   "end": 28
+  },
+  {
+   "entity_id": "227301",
+   "types": [
+    "people"
+   ],
+   "phrase": "an older kid",
+   "start": 33,
+   "end": 45
+  },
+  {
+   "entity_id": "227302",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 53,
+   "end": 59
+  },
+  {
+   "entity_id": "227300",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "227301",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 31,
+   "end": 36
+  },
+  {
+   "entity_id": "227302",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "his bike",
+   "start": 47,
+   "end": 55
+  },
+  {
+   "entity_id": "227300",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "227301",
+   "types": [
+    "people"
+   ],
+   "phrase": "another man",
+   "start": 26,
+   "end": 37
+  },
+  {
+   "entity_id": "227302",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 44,
+   "end": 50
+  }
+ ],
+ "scene_places": []
+}

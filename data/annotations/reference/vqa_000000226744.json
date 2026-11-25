@@ -1,0 +1,169 @@
+{
+ "uid": "vqa_000000226744",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 7,
+  "baseball glove": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    198.93,
+    1.26,
+    142.67,
+    115.54
+   ],
+   "area": 13912.1836
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    164.44,
+    117.44,
+    150.58,
+    142.07
+   ],
+   "area": 16528.176949999997
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    320.5,
+    52.5,
+    146.69,
+    137.64
+   ],
+   "area": 13633.08755
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    334.35,
+    159.62,
+    165.16,
+    165.16
+   ],
+   "area": 21923.556299999993
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    289.03,
+    310.68,
+    160.13,
+    116.32
+   ],
+   "area": 15351.10135
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    140.59,
+    246.74,
+    167.98,
+    162.59
+   ],
+   "area": 21293.996499999997
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    271.53,
+    194.05,
+    92.94,
+    143.06
+   ],
+   "area": 5729.067000000004
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    94.27,
+    0.0,
+    469.15,
+    419.24
+   ],
+   "area": 53191.54585000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a glove that has a bunch of baseballs in it",
+  "A worn baseball glove with seven baseball in it.",
+  "a large number of baseballs sitting in a old mitt.",
+  "A baseball glove full of dirty used baseballs.",
+  "A baseball glove holds a large number of balls."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 226744000,
+   "question": "Was this image taken outdoors, or more likely in a studio?",
+   "answer_type": "other",
+   "question_type": "was",
+   "multiple_choice_answer": "studio",
+   "answers": [
+    "studio",
+    "studio",
+    "studio",
+    "studio",
+    "studio",
+    "studio",
+    "studio",
+    "studio",
+    "studio",
+    "in studio"
+   ]
+  },
+  {
+   "question_id": 226744001,
+   "question": "Are there more than seven balls in the photo?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 226744002,
+   "question": "Are the balls and glove old or new?",
+   "answer_type": "other",
+   "question_type": "are the",
+   "multiple_choice_answer": "old",
+   "answers": [
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old",
+    "old"
+   ]
+  }
+ ]
+}

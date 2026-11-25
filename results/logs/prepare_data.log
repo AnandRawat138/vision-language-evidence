@@ -1,0 +1,14 @@
+2026-11-22 12:02:03,881 INFO prepare_data: loading COCO val2017
+2026-11-22 12:02:04,380 INFO prepare_data: loading COCO train2017 (for VQA val2014 images)
+2026-11-22 12:02:18,170 INFO prepare_data: loading VQA v2 val
+2026-11-22 12:02:20,677 INFO prepare_data: loading VG image data + attributes
+2026-11-22 12:02:46,531 INFO prepare_data: candidates: 1150
+2026-11-22 12:10:26,239 INFO prepare_data: final: Counter({('coco', 'test'): 350, ('vg', 'test'): 175, ('coco', 'dev'): 150, ('flickr30k', 'test'): 105, ('vg', 'dev'): 75, ('vqa', 'test'): 70, ('flickr30k', 'dev'): 45, ('vqa', 'dev'): 30})
+2026-11-22 12:10:26,239 INFO prepare_data: excluded: Counter({'surplus': 150})
+2026-11-22 12:11:06,445 INFO prepare_data: loading COCO val2017
+2026-11-22 12:11:06,913 INFO prepare_data: loading COCO train2017 (for VQA val2014 images)
+2026-11-22 12:11:20,290 INFO prepare_data: loading VQA v2 val
+2026-11-22 12:11:22,692 INFO prepare_data: loading VG image data + attributes
+2026-11-22 12:11:47,323 INFO prepare_data: candidates: 1150
+2026-11-22 12:11:52,775 INFO prepare_data: final: Counter({('coco', 'test'): 350, ('vg', 'test'): 175, ('coco', 'dev'): 150, ('flickr30k', 'test'): 105, ('vg', 'dev'): 75, ('vqa', 'test'): 70, ('flickr30k', 'dev'): 45, ('vqa', 'dev'): 30})
+2026-11-22 12:11:52,775 INFO prepare_data: excluded: Counter({'surplus': 150})

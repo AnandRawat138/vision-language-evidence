@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000562843",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "cup",
+  "scissors"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "cup": 1,
+  "scissors": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    67.42,
+    179.49,
+    175.28,
+    80.06
+   ],
+   "area": 11943.8748
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    213.2,
+    8.43,
+    273.88,
+    225.0
+   ],
+   "area": 43811.03135
+  },
+  {
+   "category": "scissors",
+   "bbox": [
+    87.64,
+    243.54,
+    412.36,
+    119.66
+   ],
+   "area": 22313.876449999992
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a cell phone screwdriver a pair of scissors and a black thing on a desk",
+  "A close up of a cell phone, scissors and a cup.",
+  "A cup of coffee, cell phone and scissor sitting on a desk.",
+  "A view of a coffee cup and a pair of scissors sitting on a table.",
+  "A cellphone and scissors are next to a coffee mug."
+ ],
+ "scene_places": []
+}

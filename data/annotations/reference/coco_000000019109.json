@@ -1,0 +1,315 @@
+{
+ "uid": "coco_000000019109",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "handbag",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 14,
+  "person": 13,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    16.39,
+    255.93,
+    79.04,
+    139.78
+   ],
+   "area": 5968.806500000001
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    71.11,
+    253.44,
+    84.53,
+    131.96
+   ],
+   "area": 7202.677
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    142.83,
+    257.36,
+    48.75,
+    118.64
+   ],
+   "area": 3320.82665
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    186.17,
+    271.19,
+    134.35,
+    95.01
+   ],
+   "area": 7753.239449999999
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    312.68,
+    251.54,
+    59.87,
+    102.9
+   ],
+   "area": 3149.922050000001
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    361.39,
+    256.78,
+    43.25,
+    91.82
+   ],
+   "area": 1508.619950000001
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    430.93,
+    252.95,
+    59.74,
+    85.47
+   ],
+   "area": 1670.7341499999998
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    378.59,
+    249.1,
+    82.94,
+    95.36
+   ],
+   "area": 4308.7966000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    4.16,
+    219.64,
+    24.01,
+    41.98
+   ],
+   "area": 578.1933500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    44.49,
+    224.05,
+    32.66,
+    59.03
+   ],
+   "area": 1453.2044000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    347.29,
+    229.4,
+    23.39,
+    39.52
+   ],
+   "area": 461.8997500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    286.07,
+    212.67,
+    18.47,
+    57.06
+   ],
+   "area": 729.4708500000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    445.64,
+    241.9,
+    10.46,
+    24.17
+   ],
+   "area": 112.45500000000025
+  },
+  {
+   "category": "person",
+   "bbox": [
+    552.39,
+    227.77,
+    29.38,
+    35.3
+   ],
+   "area": 509.1810999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    540.75,
+    233.29,
+    13.86,
+    14.06
+   ],
+   "area": 130.22425000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    596.5,
+    221.74,
+    14.91,
+    52.06
+   ],
+   "area": 274.67395000000084
+  },
+  {
+   "category": "person",
+   "bbox": [
+    25.4,
+    223.52,
+    22.38,
+    41.15
+   ],
+   "area": 691.7104499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    366.56,
+    227.31,
+    23.58,
+    54.27
+   ],
+   "area": 724.9064999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    235.25,
+    18.0,
+    137.53
+   ],
+   "area": 1887.4875000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    475.24,
+    246.99,
+    7.18,
+    3.88
+   ],
+   "area": 21.92360000000008
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    559.27,
+    250.04,
+    53.08,
+    75.14
+   ],
+   "area": 1958.5072499999997
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    592.04,
+    269.01,
+    28.21,
+    45.52
+   ],
+   "area": 385.6857499999986
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    600.4,
+    260.87,
+    39.05,
+    36.3
+   ],
+   "area": 678.7150000000017
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    283.79,
+    250.77,
+    56.73,
+    98.94
+   ],
+   "area": 1589.229399999998
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    370.12,
+    254.35,
+    10.99,
+    9.94
+   ],
+   "area": 77.43375000000034
+  },
+  {
+   "category": "person",
+   "bbox": [
+    55.53,
+    174.84,
+    26.29,
+    57.72
+   ],
+   "area": 1149.92285
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    457.22,
+    251.68,
+    70.06,
+    85.22
+   ],
+   "area": 3163.526349999999
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    216,
+    234,
+    366,
+    116
+   ],
+   "area": 9083
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Many small motorbikes are parked along the street.",
+  "Numerous motor scooters parked by backing in facing the street",
+  "A line of motor scooters in front of a bar.",
+  "A row of parked motorcycles sitting in front of a restaurants.",
+  "A group of motorcycles are parked on the street."
+ ],
+ "scene_places": [
+  "restaurant",
+  "street"
+ ]
+}

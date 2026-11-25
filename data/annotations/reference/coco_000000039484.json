@@ -1,0 +1,400 @@
+{
+ "uid": "coco_000000039484",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane",
+  "car",
+  "chair",
+  "dining table",
+  "person",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 11,
+  "airplane": 1,
+  "person": 14,
+  "traffic light": 4,
+  "chair": 4,
+  "dining table": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    314.45,
+    336.44,
+    101.23,
+    56.4
+   ],
+   "area": 4305.955200000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    428.54,
+    340.44,
+    93.98,
+    56.38
+   ],
+   "area": 4045.89655
+  },
+  {
+   "category": "car",
+   "bbox": [
+    391.62,
+    334.62,
+    57.83,
+    54.26
+   ],
+   "area": 1372.2943499999992
+  },
+  {
+   "category": "car",
+   "bbox": [
+    36.82,
+    365.51,
+    229.28,
+    71.49
+   ],
+   "area": 12704.5631
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.69,
+    347.84,
+    112.94,
+    88.61
+   ],
+   "area": 5075.171850000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    256.0,
+    344.29,
+    44.13,
+    37.16
+   ],
+   "area": 1347.5832499999995
+  },
+  {
+   "category": "car",
+   "bbox": [
+    2.29,
+    338.61,
+    37.15,
+    17.6
+   ],
+   "area": 428.7082999999991
+  },
+  {
+   "category": "airplane",
+   "bbox": [
+    604.29,
+    11.75,
+    27.73,
+    11.67
+   ],
+   "area": 85.00954999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    604.0,
+    344.37,
+    9.46,
+    23.7
+   ],
+   "area": 139.76595000000066
+  },
+  {
+   "category": "person",
+   "bbox": [
+    583.05,
+    346.35,
+    17.34,
+    39.35
+   ],
+   "area": 313.06034999999963
+  },
+  {
+   "category": "person",
+   "bbox": [
+    547.61,
+    346.73,
+    21.65,
+    27.09
+   ],
+   "area": 183.7894499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    613.13,
+    342.24,
+    13.89,
+    42.03
+   ],
+   "area": 363.4581499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    524.23,
+    344.24,
+    9.7,
+    17.18
+   ],
+   "area": 87.46029999999968
+  },
+  {
+   "category": "person",
+   "bbox": [
+    518.72,
+    346.98,
+    9.01,
+    14.72
+   ],
+   "area": 78.02420000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    297.32,
+    341.02,
+    16.84,
+    39.52
+   ],
+   "area": 320.22930000000144
+  },
+  {
+   "category": "person",
+   "bbox": [
+    116.82,
+    337.22,
+    12.89,
+    27.33
+   ],
+   "area": 174.64094999999995
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    46.08,
+    309.77,
+    5.44,
+    10.58
+   ],
+   "area": 45.42570000000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    461.67,
+    329.64,
+    5.22,
+    6.53
+   ],
+   "area": 27.87734999999991
+  },
+  {
+   "category": "person",
+   "bbox": [
+    547.75,
+    343.58,
+    10.44,
+    14.24
+   ],
+   "area": 81.92694999999978
+  },
+  {
+   "category": "person",
+   "bbox": [
+    564.89,
+    342.02,
+    18.31,
+    19.12
+   ],
+   "area": 186.50640000000038
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    14.58,
+    303.22,
+    7.9,
+    7.61
+   ],
+   "area": 53.92374999999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    612.79,
+    358.49,
+    12.48,
+    24.84
+   ],
+   "area": 185.4044500000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    598.96,
+    358.91,
+    9.0,
+    26.31
+   ],
+   "area": 179.31709999999958
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    550.11,
+    360.65,
+    28.13,
+    26.38
+   ],
+   "area": 655.6697
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    523.58,
+    357.95,
+    19.39,
+    23.94
+   ],
+   "area": 228.69839999999954
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    571.02,
+    360.62,
+    17.63,
+    3.42
+   ],
+   "area": 40.059299999999794
+  },
+  {
+   "category": "car",
+   "bbox": [
+    138.54,
+    343.95,
+    40.02,
+    21.7
+   ],
+   "area": 735.9888500000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    208.62,
+    330.8,
+    66.53,
+    46.13
+   ],
+   "area": 1614.0175499999993
+  },
+  {
+   "category": "car",
+   "bbox": [
+    177.71,
+    333.79,
+    39.46,
+    32.51
+   ],
+   "area": 923.8538500000002
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    41.39,
+    323.95,
+    3.21,
+    11.41
+   ],
+   "area": 29.767349999999986
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    52.34,
+    320.74,
+    6.58,
+    7.61
+   ],
+   "area": 41.41965000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    580.51,
+    345.06,
+    9.86,
+    16.33
+   ],
+   "area": 89.29534999999991
+  },
+  {
+   "category": "car",
+   "bbox": [
+    42.27,
+    340.04,
+    41.57,
+    12.32
+   ],
+   "area": 341.9791500000002
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    628.27,
+    357.1,
+    11.73,
+    16.67
+   ],
+   "area": 126.9504500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    233.19,
+    332.3,
+    22.23,
+    46.45
+   ],
+   "area": 471.9026999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    127,
+    336,
+    13,
+    27
+   ],
+   "area": 350
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A variety of cars on a street with buildings.",
+  "A variety of shops and stores on a busy city street.",
+  "A busy street crammed with businesses and parked cars.",
+  "A street full of cars that are driving and parked and a group of people sitting outside eating.",
+  "A city has colorful buildings and signs among cars."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

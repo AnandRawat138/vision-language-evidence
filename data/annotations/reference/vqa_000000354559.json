@@ -1,0 +1,109 @@
+{
+ "uid": "vqa_000000354559",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "teddy bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "teddy bear": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    1.12,
+    17.98,
+    260.68,
+    476.4
+   ],
+   "area": 79958.20634999998
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    35.22,
+    2.25,
+    189.46,
+    266.09
+   ],
+   "area": 16455.539300000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A teddy bear is sitting on a woman's neck.",
+  "A very sexy girl with a stuffed animal on her shoulder.",
+  "A WOMAN IS POSING SMILING WITH A TEDDY BEAR",
+  "A girl who has a teddy bear on her shoulders.",
+  "A girl in corset holds a vampire bear."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 354559000,
+   "question": "Is the woman looking at the camera?",
+   "answer_type": "yes/no",
+   "question_type": "is the woman",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 354559001,
+   "question": "What is on her shoulders?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "teddy bear",
+   "answers": [
+    "teddy bear",
+    "teddy bear",
+    "stuffed animal",
+    "bear",
+    "stuffed animal",
+    "teddy bear",
+    "bear",
+    "stuffed bear",
+    "bear",
+    "stuffed animal"
+   ]
+  },
+  {
+   "question_id": 354559002,
+   "question": "Is the woman's lipstick shiny?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "na",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

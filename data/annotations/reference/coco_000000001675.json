@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000001675",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cat",
+  "keyboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "keyboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    0.0,
+    14.01,
+    640.0,
+    293.56
+   ],
+   "area": 143882.10109999997
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    61.48,
+    367.82,
+    508.05,
+    105.71
+   ],
+   "area": 44814.20944999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cat resting on an open laptop computer.",
+  "A black fluffy cat sitting on top of a computer keyboard.",
+  "A black cat is sitting on a metal platform.",
+  "The large cat is resting comfortably behind the laptop screen.",
+  "A black and white cat relaxing inside a laptop."
+ ],
+ "scene_places": []
+}

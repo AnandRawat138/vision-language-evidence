@@ -1,0 +1,204 @@
+{
+ "uid": "flickr30k_118854260",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "scissors"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "sweater": [
+   "gray"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A blond woman wearing glasses and a gray sweatshirt is cutting something with scissors .",
+  "A woman wearing glasses is trimming her nails with a pair of scissors .",
+  "A woman with dirty blond-hair and glasses is cutting something .",
+  "A blond woman in a gray sweatshirt is cutting with scissors .",
+  "A woman cutting construction paper for a detailed project ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "4840",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "4844",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 22,
+   "end": 29
+  },
+  {
+   "entity_id": "4841",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray sweatshirt",
+   "start": 34,
+   "end": 51
+  },
+  {
+   "entity_id": "4843",
+   "types": [
+    "other"
+   ],
+   "phrase": "something",
+   "start": 63,
+   "end": 72
+  },
+  {
+   "entity_id": "4842",
+   "types": [
+    "other"
+   ],
+   "phrase": "scissors",
+   "start": 78,
+   "end": 86
+  },
+  {
+   "entity_id": "4840",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4844",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 16,
+   "end": 23
+  },
+  {
+   "entity_id": "4843",
+   "types": [
+    "other"
+   ],
+   "phrase": "her nails",
+   "start": 36,
+   "end": 45
+  },
+  {
+   "entity_id": "4842",
+   "types": [
+    "other"
+   ],
+   "phrase": "a pair of scissors",
+   "start": 51,
+   "end": 69
+  },
+  {
+   "entity_id": "4840",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4846",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "dirty blond-hair",
+   "start": 13,
+   "end": 29
+  },
+  {
+   "entity_id": "4844",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 34,
+   "end": 41
+  },
+  {
+   "entity_id": "4843",
+   "types": [
+    "other"
+   ],
+   "phrase": "something",
+   "start": 53,
+   "end": 62
+  },
+  {
+   "entity_id": "4840",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "4841",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray sweatshirt",
+   "start": 17,
+   "end": 34
+  },
+  {
+   "entity_id": "4842",
+   "types": [
+    "other"
+   ],
+   "phrase": "scissors",
+   "start": 51,
+   "end": 59
+  },
+  {
+   "entity_id": "4840",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4843",
+   "types": [
+    "other"
+   ],
+   "phrase": "construction paper",
+   "start": 16,
+   "end": 34
+  },
+  {
+   "entity_id": "4845",
+   "types": [
+    "other"
+   ],
+   "phrase": "a detailed project",
+   "start": 39,
+   "end": 57
+  }
+ ],
+ "scene_places": []
+}

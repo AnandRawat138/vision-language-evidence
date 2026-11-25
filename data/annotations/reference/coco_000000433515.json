@@ -1,0 +1,304 @@
+{
+ "uid": "coco_000000433515",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "kite": 1,
+  "person": 14,
+  "car": 12
+ },
+ "object_boxes": [
+  {
+   "category": "kite",
+   "bbox": [
+    204.63,
+    95.42,
+    306.93,
+    115.37
+   ],
+   "area": 7969.040599999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    424.12,
+    310.38,
+    7.24,
+    20.05
+   ],
+   "area": 92.78835000000021
+  },
+  {
+   "category": "person",
+   "bbox": [
+    454.45,
+    300.56,
+    9.48,
+    27.09
+   ],
+   "area": 178.94210000000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    283.14,
+    305.07,
+    15.18,
+    30.37
+   ],
+   "area": 239.00575000000046
+  },
+  {
+   "category": "person",
+   "bbox": [
+    360.63,
+    303.24,
+    8.81,
+    24.94
+   ],
+   "area": 127.9520499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    345.2,
+    321.24,
+    7.7,
+    11.54
+   ],
+   "area": 61.51609999999988
+  },
+  {
+   "category": "car",
+   "bbox": [
+    128.73,
+    312.67,
+    32.81,
+    17.77
+   ],
+   "area": 422.1992999999991
+  },
+  {
+   "category": "person",
+   "bbox": [
+    506.45,
+    300.54,
+    5.26,
+    17.03
+   ],
+   "area": 73.2391999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    306.79,
+    305.21,
+    9.58,
+    28.74
+   ],
+   "area": 165.68340000000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    399.27,
+    308.09,
+    10.46,
+    23.18
+   ],
+   "area": 110.64604999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    551.34,
+    289.57,
+    7.18,
+    13.02
+   ],
+   "area": 64.83279999999952
+  },
+  {
+   "category": "person",
+   "bbox": [
+    410.06,
+    310.81,
+    9.53,
+    20.32
+   ],
+   "area": 125.62649999999978
+  },
+  {
+   "category": "person",
+   "bbox": [
+    315.4,
+    306.7,
+    11.07,
+    25.99
+   ],
+   "area": 204.11910000000023
+  },
+  {
+   "category": "car",
+   "bbox": [
+    434.33,
+    293.73,
+    9.73,
+    7.77
+   ],
+   "area": 62.34904999999984
+  },
+  {
+   "category": "car",
+   "bbox": [
+    524.22,
+    283.62,
+    15.9,
+    8.72
+   ],
+   "area": 91.16355000000053
+  },
+  {
+   "category": "car",
+   "bbox": [
+    605.15,
+    271.05,
+    23.11,
+    6.02
+   ],
+   "area": 89.11724999999949
+  },
+  {
+   "category": "car",
+   "bbox": [
+    585.63,
+    274.09,
+    17.97,
+    7.14
+   ],
+   "area": 84.71054999999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    386.58,
+    296.17,
+    15.59,
+    8.83
+   ],
+   "area": 92.1715499999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    465.92,
+    289.99,
+    19.11,
+    9.21
+   ],
+   "area": 86.70265000000009
+  },
+  {
+   "category": "car",
+   "bbox": [
+    236.02,
+    306.24,
+    11.86,
+    7.22
+   ],
+   "area": 53.737799999999794
+  },
+  {
+   "category": "car",
+   "bbox": [
+    489.96,
+    286.87,
+    15.4,
+    9.32
+   ],
+   "area": 112.04780000000022
+  },
+  {
+   "category": "person",
+   "bbox": [
+    83.28,
+    316.02,
+    10.16,
+    14.64
+   ],
+   "area": 112.98155000000008
+  },
+  {
+   "category": "car",
+   "bbox": [
+    256.43,
+    305.12,
+    33.02,
+    10.87
+   ],
+   "area": 245.45694999999992
+  },
+  {
+   "category": "car",
+   "bbox": [
+    536.65,
+    283.7,
+    11.06,
+    6.54
+   ],
+   "area": 48.2097
+  },
+  {
+   "category": "car",
+   "bbox": [
+    544.36,
+    277.14,
+    8.15,
+    8.49
+   ],
+   "area": 41.71614999999987
+  },
+  {
+   "category": "person",
+   "bbox": [
+    433.39,
+    303.38,
+    10.95,
+    28.37
+   ],
+   "area": 196.11015000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    102,
+    287,
+    523,
+    57
+   ],
+   "area": 2197
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a large kite on a field of green grass",
+  "A large colorful kite is being flown over a field.",
+  "A kite flying through the air in a field.",
+  "some people in a park flying a kite with a long tail",
+  "Colorful kite being flown in a city park land"
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "uid": "vqa_000000389969",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cat"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    118.84,
+    140.98,
+    297.64,
+    414.07
+   ],
+   "area": 74154.55690000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large orange and white cat sitting in a field.",
+  "A cat sitting on the grass looking to its right.",
+  "An orange cat sits on the grass outside.",
+  "A cat sitting in the grass on the ground.",
+  "An orange and white cat sitting in the grass near some yellow flowers."
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 389969000,
+   "question": "What color is the cat?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "orange",
+   "answers": [
+    "tan and white",
+    "orange",
+    "orange",
+    "orange",
+    "orange and white",
+    "orange",
+    "orange and white",
+    "orange and white",
+    "orange",
+    "orange and white"
+   ]
+  },
+  {
+   "question_id": 389969001,
+   "question": "Is the cat sitting in shade?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 389969002,
+   "question": "Is the cat in a garden?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 389969003,
+   "question": "What is the cat sitting on?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "grass",
+   "answers": [
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "lawn",
+    "grass",
+    "grass"
+   ]
+  }
+ ]
+}

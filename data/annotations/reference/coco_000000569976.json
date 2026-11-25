@@ -1,0 +1,102 @@
+{
+ "uid": "coco_000000569976",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "hair drier",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "hair drier": 1,
+  "chair": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    128.58,
+    1.08,
+    212.37,
+    410.3
+   ],
+   "area": 46489.71965
+  },
+  {
+   "category": "person",
+   "bbox": [
+    20.13,
+    336.54,
+    218.61,
+    290.52
+   ],
+   "area": 44029.997849999985
+  },
+  {
+   "category": "hair drier",
+   "bbox": [
+    194.58,
+    209.63,
+    144.71,
+    229.02
+   ],
+   "area": 10347.806049999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    188.4,
+    265.83,
+    145.26,
+    184.09
+   ],
+   "area": 10687.444850000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    168.69,
+    473.76,
+    108.97,
+    38.2
+   ],
+   "area": 1575.3461
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    521.72,
+    263.89,
+    118.28
+   ],
+   "area": 21503.676999999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    208.97,
+    492.19,
+    124.13,
+    147.81
+   ],
+   "area": 12597.112650000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people stare up at something out of the frame.",
+  "A man is watching his daughter get her hair done.",
+  "A woman is air drying a young child's hair.",
+  "a small child is getting their hair dried at the salon.",
+  "Small child getting her hair dried with a man standing behind her."
+ ],
+ "scene_places": []
+}

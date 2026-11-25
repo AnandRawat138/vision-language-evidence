@@ -1,0 +1,112 @@
+{
+ "uid": "coco_000000103723",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "elephant",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 7,
+  "elephant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    341.49,
+    335.27,
+    138.51,
+    304.18
+   ],
+   "area": 24519.126350000006
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    155.67,
+    222.39,
+    230.57,
+    348.23
+   ],
+   "area": 48814.86625000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    157.85,
+    371.06,
+    17.77,
+    18.37
+   ],
+   "area": 151.58240000000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    164.0,
+    380.48,
+    10.32,
+    30.67
+   ],
+   "area": 154.23715000000018
+  },
+  {
+   "category": "person",
+   "bbox": [
+    388.15,
+    385.12,
+    19.47,
+    33.9
+   ],
+   "area": 305.83635000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    367.6,
+    385.42,
+    15.82,
+    20.32
+   ],
+   "area": 212.8394499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    352.64,
+    384.28,
+    7.24,
+    20.18
+   ],
+   "area": 105.03960000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    403.61,
+    382.98,
+    12.8,
+    24.79
+   ],
+   "area": 203.87539999999962
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person standing close to an elephant",
+  "an elephant in a zoo walks around slowly",
+  "a large elephant that is next to a curb",
+  "A woman is watching an elephant in an enclosure.",
+  "A woman looking at an elephant in its enclosure."
+ ],
+ "scene_places": [
+  "farm/rural"
+ ]
+}

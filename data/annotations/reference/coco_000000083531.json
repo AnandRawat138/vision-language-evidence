@@ -1,0 +1,234 @@
+{
+ "uid": "coco_000000083531",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "cup",
+  "hot dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 2,
+  "cup": 1,
+  "hot dog": 14,
+  "person": 3
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    433.25,
+    0.0,
+    61.62,
+    64.21
+   ],
+   "area": 2880.93345
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    481.52,
+    2.83,
+    18.48,
+    74.24
+   ],
+   "area": 840.0969000000003
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    403.72,
+    16.08,
+    30.39,
+    31.02
+   ],
+   "area": 642.1450999999998
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    163.02,
+    141.91,
+    99.39,
+    29.46
+   ],
+   "area": 1251.5101500000005
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    326.24,
+    199.04,
+    73.27,
+    17.57
+   ],
+   "area": 781.6139499999992
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    265.62,
+    160.73,
+    71.65,
+    14.75
+   ],
+   "area": 614.4134000000001
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    205.25,
+    172.71,
+    87.42,
+    18.57
+   ],
+   "area": 853.7742500000002
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    177.36,
+    161.91,
+    100.11,
+    25.34
+   ],
+   "area": 1189.6537
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    35.84,
+    169.84,
+    144.61,
+    34.61
+   ],
+   "area": 1159.6219999999998
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    35.22,
+    155.77,
+    142.14,
+    30.9
+   ],
+   "area": 1763.1472000000003
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    196.97,
+    180.3,
+    108.66,
+    27.83
+   ],
+   "area": 1650.9558000000002
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    153.63,
+    140.21,
+    91.19,
+    26.63
+   ],
+   "area": 903.5201500000005
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    255.22,
+    207.64,
+    80.96,
+    16.07
+   ],
+   "area": 1115.617900000001
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    112.47,
+    121.42,
+    103.56,
+    20.38
+   ],
+   "area": 1239.6570000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    471.84,
+    106.78,
+    28.16,
+    104.64
+   ],
+   "area": 1203.0571000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    433.56,
+    200.37,
+    66.44,
+    71.84
+   ],
+   "area": 2372.870849999999
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    39.29,
+    180.71,
+    139.28,
+    35.0
+   ],
+   "area": 2974.3204499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.0,
+    87.74,
+    115.74
+   ],
+   "area": 8110.05995
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    120.78,
+    131.4,
+    111.86,
+    24.68
+   ],
+   "area": 1534.3457999999998
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    20,
+    0,
+    465,
+    269
+   ],
+   "area": 16599
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A BBQ topped with lots of sausages sitting side by side.",
+  "There are many links of sausage on the grill.",
+  "Several rows of cooking hot dogs on a grill.",
+  "a number of hot dogs cooking on a grill",
+  "The many sausages are arranged on the portable grill."
+ ],
+ "scene_places": []
+}

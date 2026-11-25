@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000459662",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "donut",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "donut": 2,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    331.67,
+    65.94,
+    308.33,
+    413.98
+   ],
+   "area": 77171.21019999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.08,
+    60.41,
+    367.32,
+    409.57
+   ],
+   "area": 106503.15315000003
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    155.18,
+    159.85,
+    123.11,
+    116.23
+   ],
+   "area": 10738.469650000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    334.38,
+    184.45,
+    100.32,
+    113.26
+   ],
+   "area": 8723.9619
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    1.25,
+    3.13,
+    387.5,
+    333.75
+   ],
+   "area": 52457.8125
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two little girls holding up chocolate and vanilla donuts.",
+  "Two young girls peeking through the holes in their donuts.",
+  "Two little girls looking the through the holes in doughnuts.",
+  "two young girls holding doughnuts over their eyes",
+  "Two children hold up doughnuts to their eyeballs."
+ ],
+ "scene_places": []
+}

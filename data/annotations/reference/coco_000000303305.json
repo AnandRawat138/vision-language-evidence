@@ -1,0 +1,84 @@
+{
+ "uid": "coco_000000303305",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bus": 1,
+  "car": 1,
+  "person": 3
+ },
+ "object_boxes": [
+  {
+   "category": "bus",
+   "bbox": [
+    18.34,
+    56.16,
+    608.36,
+    305.26
+   ],
+   "area": 126697.65000000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    591.39,
+    203.49,
+    48.61,
+    51.59
+   ],
+   "area": 1771.9412
+  },
+  {
+   "category": "person",
+   "bbox": [
+    181.69,
+    170.93,
+    21.64,
+    44.15
+   ],
+   "area": 673.9913000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    478.5,
+    146.87,
+    30.25,
+    61.35
+   ],
+   "area": 1606.0832999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    228.58,
+    195.47,
+    14.21,
+    12.45
+   ],
+   "area": 109.54739999999988
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large red and white bus on a city street.",
+  "there is a white and a red bus that is stopped on this street",
+  "A city bus parked on the side of a road.",
+  "A red and white bus on street next to trees.",
+  "Red and white bus parked at the curb of a street under blue sky."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

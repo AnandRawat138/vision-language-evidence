@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000297343",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "stop sign"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "stop sign": 1
+ },
+ "object_boxes": [
+  {
+   "category": "stop sign",
+   "bbox": [
+    59.27,
+    154.72,
+    189.88,
+    191.88
+   ],
+   "area": 25608.533699999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A stop sign has been placed upside-down in the grass beside a building.",
+  "A stop sighn is propped up against the side of a building.",
+  "A red stop sign sitting on the floor next to a wall.",
+  "Road sigh on wooden pole shown upside down next to white wall.",
+  "A stop sign standing up against a wall."
+ ],
+ "scene_places": []
+}

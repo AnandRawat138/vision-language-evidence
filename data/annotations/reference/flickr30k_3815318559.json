@@ -1,0 +1,148 @@
+{
+ "uid": "flickr30k_3815318559",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A person wearing a hat riding in a red car and looking out the window",
+  "Person looking out of a red colored vehicle driving down the street .",
+  "A red rally jeep parked in the street .",
+  "A red car travels down the street .",
+  "a red suv with a woman inside"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "143716",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "143719",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a hat",
+   "start": 17,
+   "end": 22
+  },
+  {
+   "entity_id": "143717",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a red car",
+   "start": 33,
+   "end": 42
+  },
+  {
+   "entity_id": "143720",
+   "types": [
+    "other"
+   ],
+   "phrase": "the window",
+   "start": 59,
+   "end": 69
+  },
+  {
+   "entity_id": "143716",
+   "types": [
+    "people"
+   ],
+   "phrase": "Person",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "143717",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a red colored vehicle",
+   "start": 22,
+   "end": 43
+  },
+  {
+   "entity_id": "143718",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 57,
+   "end": 67
+  },
+  {
+   "entity_id": "143717",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "A red rally jeep",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "143718",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 27,
+   "end": 37
+  },
+  {
+   "entity_id": "143717",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "A red car",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "143718",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 23,
+   "end": 33
+  },
+  {
+   "entity_id": "143717",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a red suv",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "143716",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 15,
+   "end": 22
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

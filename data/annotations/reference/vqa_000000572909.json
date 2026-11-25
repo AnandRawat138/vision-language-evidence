@@ -1,0 +1,111 @@
+{
+ "uid": "vqa_000000572909",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "kite": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    423.78,
+    222.2,
+    12.88,
+    40.7
+   ],
+   "area": 318.9636999999998
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    138.49,
+    130.31,
+    252.93,
+    273.13
+   ],
+   "area": 46414.01235
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A colorful kite sitting on top of a desert field.",
+  "A picture of a large kit in the grass lands.",
+  "A multi colored kite standing on the ground in a field.",
+  "A multicolored kite sits propped up in the brush.",
+  "A brightly colored kite in a wide open tan field."
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 572909000,
+   "question": "Is it cloudy?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 572909001,
+   "question": "What colors are on the kite?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "rainbow",
+   "answers": [
+    "bright",
+    "red, orange, yellow, blue, purple, green",
+    "blue, red, yellow, white, purple",
+    "blue red purple green orange yellow",
+    "rainbow",
+    "red, orange green blue purple yellow",
+    "red, orange, yellow, green, blue purple",
+    "yellow blue white purple red",
+    "red, orange, yellow, green, blue and purple",
+    "red, orange, yellow, green, purple, and white"
+   ]
+  },
+  {
+   "question_id": 572909002,
+   "question": "What type of diagram is illustrated on the kite?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "venn",
+   "answers": [
+    "hexagon",
+    "xy graph",
+    "fans",
+    "venn",
+    "square",
+    "octagon",
+    "venn",
+    "flower",
+    "venn",
+    "diamond"
+   ]
+  }
+ ]
+}

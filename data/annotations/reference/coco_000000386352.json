@@ -1,0 +1,162 @@
+{
+ "uid": "coco_000000386352",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tennis racket": 1,
+  "person": 11,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tennis racket",
+   "bbox": [
+    345.18,
+    0.24,
+    213.35,
+    201.95
+   ],
+   "area": 12369.845599999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    86.07,
+    91.79,
+    310.9,
+    332.97
+   ],
+   "area": 52722.27060000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    244.83,
+    3.25,
+    150.36,
+    181.21
+   ],
+   "area": 15611.267849999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    489.37,
+    75.51,
+    150.63,
+    332.01
+   ],
+   "area": 23559.586200000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    100.75,
+    91.16,
+    324.33
+   ],
+   "area": 18912.503299999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    28.14,
+    58.38,
+    117.81,
+    200.96
+   ],
+   "area": 11244.763699999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    19.19,
+    4.64,
+    137.22,
+    145.85
+   ],
+   "area": 8588.8388
+  },
+  {
+   "category": "person",
+   "bbox": [
+    366.02,
+    0.5,
+    134.9,
+    127.22
+   ],
+   "area": 8698.1791
+  },
+  {
+   "category": "person",
+   "bbox": [
+    496.73,
+    0.0,
+    128.01,
+    150.07
+   ],
+   "area": 9661.955700000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    101.21,
+    0.0,
+    98.28,
+    72.12
+   ],
+   "area": 5072.3369999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    365.85,
+    86.45,
+    267.8,
+    333.17
+   ],
+   "area": 35473.50559999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    258.42,
+    231.8,
+    166.36,
+    137.53
+   ],
+   "area": 4222.85355
+  },
+  {
+   "category": "person",
+   "bbox": [
+    170.8,
+    26.62,
+    87.62,
+    175.23
+   ],
+   "area": 5492.86095
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a tennis player who has just made a shot.",
+  "A girl swinging a tennis racket in a match.",
+  "A tennis player swinging a racket at a public tennis match.",
+  "A woman playing tennis with spectators behind her.",
+  "a woman swinging her tennis racket while playing tennis"
+ ],
+ "scene_places": []
+}

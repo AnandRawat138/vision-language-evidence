@@ -1,0 +1,244 @@
+{
+ "uid": "flickr30k_4491044489",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "red",
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two men one wearing a red shirt , and one wearing a white shirt are standing on a boat and paddling it to shore .",
+  "Two men , one in a red shirt and one in a white shirt , are on a boat in the beautiful blue-green water .",
+  "Two people on a floating device in the water on a nice day .",
+  "Two men stand and row a thin boat in the ocean .",
+  "Two men are making their way across the ocean ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "172825",
+   "types": [
+    "other"
+   ],
+   "phrase": "Two men one",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "172827",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red shirt",
+   "start": 20,
+   "end": 31
+  },
+  {
+   "entity_id": "172829",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 38,
+   "end": 41
+  },
+  {
+   "entity_id": "172828",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 50,
+   "end": 63
+  },
+  {
+   "entity_id": "172826",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a boat",
+   "start": 80,
+   "end": 86
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 100,
+   "end": 102
+  },
+  {
+   "entity_id": "172824",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "172825",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 10,
+   "end": 13
+  },
+  {
+   "entity_id": "172827",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red shirt",
+   "start": 17,
+   "end": 28
+  },
+  {
+   "entity_id": "172829",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 33,
+   "end": 36
+  },
+  {
+   "entity_id": "172828",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 40,
+   "end": 53
+  },
+  {
+   "entity_id": "172826",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a boat",
+   "start": 63,
+   "end": 69
+  },
+  {
+   "entity_id": "172830",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beautiful blue-green water",
+   "start": 73,
+   "end": 103
+  },
+  {
+   "entity_id": "172824",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "172826",
+   "types": [
+    "other"
+   ],
+   "phrase": "a floating device",
+   "start": 14,
+   "end": 31
+  },
+  {
+   "entity_id": "172830",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 35,
+   "end": 44
+  },
+  {
+   "entity_id": "172832",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a nice day",
+   "start": 48,
+   "end": 58
+  },
+  {
+   "entity_id": "172824",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "172826",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a thin boat",
+   "start": 22,
+   "end": 33
+  },
+  {
+   "entity_id": "172830",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the ocean",
+   "start": 37,
+   "end": 46
+  },
+  {
+   "entity_id": "172824",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "172833",
+   "types": [
+    "scene"
+   ],
+   "phrase": "their way",
+   "start": 19,
+   "end": 28
+  },
+  {
+   "entity_id": "172830",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the ocean",
+   "start": 36,
+   "end": 45
+  }
+ ],
+ "scene_places": [
+  "beach",
+  "water"
+ ]
+}

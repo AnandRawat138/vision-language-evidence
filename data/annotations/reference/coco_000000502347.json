@@ -1,0 +1,132 @@
+{
+ "uid": "coco_000000502347",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane",
+  "boat"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 1,
+  "boat": 9
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    269.54,
+    86.83,
+    27.25,
+    12.37
+   ],
+   "area": 166.28770000000014
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    8.6,
+    356.32,
+    30.91,
+    13.9
+   ],
+   "area": 114.2376500000006
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    219.1,
+    360.49,
+    30.18,
+    7.2
+   ],
+   "area": 99.15389999999985
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    84.79,
+    365.29,
+    9.34,
+    4.23
+   ],
+   "area": 33.672849999999976
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    271.3,
+    329.35,
+    30.55,
+    23.14
+   ],
+   "area": 409.5717000000004
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    387.03,
+    319.38,
+    16.39,
+    31.32
+   ],
+   "area": 241.8211000000002
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    411.89,
+    330.15,
+    25.57,
+    21.85
+   ],
+   "area": 448.95015
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    307.65,
+    346.26,
+    20.82,
+    6.94
+   ],
+   "area": 124.03280000000004
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    126.38,
+    360.34,
+    28.74,
+    10.17
+   ],
+   "area": 160.91325000000015
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    153.04,
+    364.0,
+    38.85,
+    5.73
+   ],
+   "area": 131.3600000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A plane passing over a harbor, on a clear day.",
+  "a little plane flying above a lake full of boats",
+  "The airplane is flying low over the town.",
+  "A dock that is separating the harbor from the ocean.",
+  "A plane flies over the hills above a developed shoreline."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

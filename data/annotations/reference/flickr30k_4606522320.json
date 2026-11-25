@@ -1,0 +1,225 @@
+{
+ "uid": "flickr30k_4606522320",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "red"
+  ],
+  "suit": [
+   "blue"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Several men are wearing red caps , one stands apart from the others and looks towards the camera .",
+  "A group of people with red berets and one man in the front with gray hair and glasses .",
+  "Men in red caps stand in an audience of some sort amid costumed figures .",
+  "Men at a gathering together wearing orange berets .",
+  "Men wearing red hats and blue suits ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "182073",
+   "types": [
+    "people"
+   ],
+   "phrase": "Several men",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "182074",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red caps",
+   "start": 24,
+   "end": 32
+  },
+  {
+   "entity_id": "182080",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 35,
+   "end": 38
+  },
+  {
+   "entity_id": "182082",
+   "types": [
+    "other"
+   ],
+   "phrase": "the others",
+   "start": 57,
+   "end": 67
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the camera",
+   "start": 86,
+   "end": 96
+  },
+  {
+   "entity_id": "182073",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "182074",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red berets",
+   "start": 23,
+   "end": 33
+  },
+  {
+   "entity_id": "182081",
+   "types": [
+    "people"
+   ],
+   "phrase": "one man",
+   "start": 38,
+   "end": 45
+  },
+  {
+   "entity_id": "182081",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the front",
+   "start": 49,
+   "end": 58
+  },
+  {
+   "entity_id": "182084",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "gray hair",
+   "start": 64,
+   "end": 73
+  },
+  {
+   "entity_id": "182079",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 78,
+   "end": 85
+  },
+  {
+   "entity_id": "182073",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "182074",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red caps",
+   "start": 7,
+   "end": 15
+  },
+  {
+   "entity_id": "182076",
+   "types": [
+    "other"
+   ],
+   "phrase": "an audience of some sort",
+   "start": 25,
+   "end": 49
+  },
+  {
+   "entity_id": "182078",
+   "types": [
+    "other"
+   ],
+   "phrase": "costumed figures",
+   "start": 55,
+   "end": 71
+  },
+  {
+   "entity_id": "182073",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "182075",
+   "types": [
+    "people"
+   ],
+   "phrase": "a gathering",
+   "start": 7,
+   "end": 18
+  },
+  {
+   "entity_id": "182074",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "orange berets",
+   "start": 36,
+   "end": 49
+  },
+  {
+   "entity_id": "182073",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "182074",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red hats",
+   "start": 12,
+   "end": 20
+  },
+  {
+   "entity_id": "182077",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue suits",
+   "start": 25,
+   "end": 35
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,129 @@
+{
+ "policy": "adaptive",
+ "n_requests": 32,
+ "n_ok": 32,
+ "n_failed": 0,
+ "n_timeout": 0,
+ "n_oom_events": 0,
+ "n_retries": 0,
+ "wall_time_s": 131.003,
+ "throughput_img_s": 0.2443,
+ "latency_median_s": 117.15709049999714,
+ "latency_p95_s": 117.15709049999714,
+ "latency_p99_s": 126.59413259398777,
+ "latency_mean_s": 94.16944940622852,
+ "mean_batch_size": 5.333333333333333,
+ "gpu_mem_peak_mb": 4922.2,
+ "gpu_util_mean": 67.2,
+ "cpu_pct_mean": 6.4,
+ "cpu_pct_peak": 49.6,
+ "ram_peak_mb": 711.0,
+ "samples": 523,
+ "torch_peak_alloc_mb": 3389.5,
+ "tag": "adaptive_r2",
+ "config": {
+  "policy": "adaptive",
+  "batch_size": 16,
+  "max_batch_size": 64,
+  "max_wait_s": 0.5,
+  "timeout_s": 1800,
+  "max_retries": 2,
+  "memory_budget_mb": 5800,
+  "latency_slo_s": null,
+  "growth_tolerance": 0.03
+ },
+ "batch_sizes": [
+  1,
+  2,
+  4,
+  8,
+  16,
+  1
+ ],
+ "batch_latencies": [
+  14.1232,
+  22.9724,
+  23.5632,
+  23.977,
+  32.5156,
+  13.6733
+ ],
+ "adaptive_trace": [
+  {
+   "batch": 1,
+   "latency_s": 14.123,
+   "throughput": 0.071,
+   "gpu_mem_mb": 3156.2,
+   "violated": false
+  },
+  {
+   "batch": 2,
+   "latency_s": 22.972,
+   "throughput": 0.087,
+   "gpu_mem_mb": 3232.2,
+   "violated": false
+  },
+  {
+   "batch": 4,
+   "latency_s": 23.563,
+   "throughput": 0.17,
+   "gpu_mem_mb": 3414.2,
+   "violated": false
+  },
+  {
+   "batch": 8,
+   "latency_s": 23.977,
+   "throughput": 0.334,
+   "gpu_mem_mb": 3918.2,
+   "violated": false
+  },
+  {
+   "batch": 16,
+   "latency_s": 32.516,
+   "throughput": 0.492,
+   "gpu_mem_mb": 4922.2,
+   "violated": false
+  },
+  {
+   "batch": 1,
+   "latency_s": 13.673,
+   "throughput": 0.073,
+   "gpu_mem_mb": 4922.2,
+   "violated": false
+  }
+ ],
+ "request_latencies": [
+  14.1241,
+  37.0969,
+  37.0969,
+  60.6608,
+  60.6608,
+  60.6608,
+  60.6608,
+  84.6392,
+  84.6392,
+  84.6392,
+  84.6392,
+  84.6392,
+  84.6392,
+  84.6392,
+  84.6392,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  117.1571,
+  130.834
+ ]
+}

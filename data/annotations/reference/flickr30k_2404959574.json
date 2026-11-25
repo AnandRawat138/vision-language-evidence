@@ -1,0 +1,195 @@
+{
+ "uid": "flickr30k_2404959574",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sheep"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "blue"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A brunette female in a blue shirt , wearing sunglasses , gazing at a ram with black fur and curled horns .",
+  "A woman in a blue t-shirt is looking down at a black ram .",
+  "A woman in a blue hiking shirt looking at a black ram .",
+  "A woman in a blue shirt is looking at a black ram .",
+  "A girl in sunglasses looks at a sheep ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "46819",
+   "types": [
+    "people"
+   ],
+   "phrase": "A brunette female",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "46821",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue shirt",
+   "start": 21,
+   "end": 33
+  },
+  {
+   "entity_id": "46822",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 44,
+   "end": 54
+  },
+  {
+   "entity_id": "46820",
+   "types": [
+    "other"
+   ],
+   "phrase": "a ram",
+   "start": 67,
+   "end": 72
+  },
+  {
+   "entity_id": "46820",
+   "types": [
+    "other"
+   ],
+   "phrase": "black fur",
+   "start": 78,
+   "end": 87
+  },
+  {
+   "entity_id": "46824",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "horns",
+   "start": 99,
+   "end": 104
+  },
+  {
+   "entity_id": "46819",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "46821",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue t-shirt",
+   "start": 11,
+   "end": 25
+  },
+  {
+   "entity_id": "46820",
+   "types": [
+    "other"
+   ],
+   "phrase": "a black ram",
+   "start": 45,
+   "end": 56
+  },
+  {
+   "entity_id": "46819",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "46821",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue hiking shirt",
+   "start": 11,
+   "end": 30
+  },
+  {
+   "entity_id": "46820",
+   "types": [
+    "other"
+   ],
+   "phrase": "a black ram",
+   "start": 42,
+   "end": 53
+  },
+  {
+   "entity_id": "46819",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "46821",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue shirt",
+   "start": 11,
+   "end": 23
+  },
+  {
+   "entity_id": "46820",
+   "types": [
+    "other"
+   ],
+   "phrase": "a black ram",
+   "start": 38,
+   "end": 49
+  },
+  {
+   "entity_id": "46819",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "46822",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 10,
+   "end": 20
+  },
+  {
+   "entity_id": "46820",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a sheep",
+   "start": 30,
+   "end": 37
+  }
+ ],
+ "scene_places": []
+}

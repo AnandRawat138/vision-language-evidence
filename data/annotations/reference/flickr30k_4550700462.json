@@ -1,0 +1,199 @@
+{
+ "uid": "flickr30k_4550700462",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A little boy is holding a Mexican flag as he walks down the street with a woman .",
+  "A young boy carries a green , white , and red flag and walks next to a woman .",
+  "A mother and son walk together while the son carries a flag .",
+  "A woman is walking with a boy who is holding a flag .",
+  "The boy with the flag is walking in the road ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "177454",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "177456",
+   "types": [
+    "other"
+   ],
+   "phrase": "a Mexican flag",
+   "start": 24,
+   "end": 38
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "he",
+   "start": 42,
+   "end": 44
+  },
+  {
+   "entity_id": "177457",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 56,
+   "end": 66
+  },
+  {
+   "entity_id": "177455",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 72,
+   "end": 79
+  },
+  {
+   "entity_id": "177454",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "177456",
+   "types": [
+    "other"
+   ],
+   "phrase": "a green , white , and red flag",
+   "start": 20,
+   "end": 50
+  },
+  {
+   "entity_id": "177455",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 69,
+   "end": 76
+  },
+  {
+   "entity_id": "177455",
+   "types": [
+    "people"
+   ],
+   "phrase": "A mother",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "177454",
+   "types": [
+    "people"
+   ],
+   "phrase": "son",
+   "start": 13,
+   "end": 16
+  },
+  {
+   "entity_id": "177454",
+   "types": [
+    "people"
+   ],
+   "phrase": "the son",
+   "start": 37,
+   "end": 44
+  },
+  {
+   "entity_id": "177456",
+   "types": [
+    "other"
+   ],
+   "phrase": "a flag",
+   "start": 53,
+   "end": 59
+  },
+  {
+   "entity_id": "177455",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "177454",
+   "types": [
+    "people"
+   ],
+   "phrase": "a boy",
+   "start": 24,
+   "end": 29
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "who",
+   "start": 30,
+   "end": 33
+  },
+  {
+   "entity_id": "177456",
+   "types": [
+    "other"
+   ],
+   "phrase": "a flag",
+   "start": 45,
+   "end": 51
+  },
+  {
+   "entity_id": "177454",
+   "types": [
+    "people"
+   ],
+   "phrase": "The boy",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "177456",
+   "types": [
+    "other"
+   ],
+   "phrase": "the flag",
+   "start": 13,
+   "end": 21
+  },
+  {
+   "entity_id": "177457",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the road",
+   "start": 36,
+   "end": 44
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

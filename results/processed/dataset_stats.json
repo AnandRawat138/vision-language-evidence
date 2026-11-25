@@ -1,0 +1,42 @@
+{
+ "coco": {
+  "n": 500,
+  "dev": 150,
+  "test": 350,
+  "objects_mean": 3.15,
+  "garments_mean": 0.0,
+  "acc_carried_mean": 0.0,
+  "scene_frac": 0.476,
+  "megapixels_mean": 0.27165191800000005
+ },
+ "vqa": {
+  "n": 100,
+  "dev": 30,
+  "test": 70,
+  "objects_mean": 2.85,
+  "garments_mean": 0.0,
+  "acc_carried_mean": 0.0,
+  "scene_frac": 0.38,
+  "megapixels_mean": 0.28101232000000004
+ },
+ "vg": {
+  "n": 250,
+  "dev": 75,
+  "test": 175,
+  "objects_mean": 3.32,
+  "garments_mean": 2.428,
+  "acc_carried_mean": 0.896,
+  "scene_frac": 0.0,
+  "megapixels_mean": 0.20783053599999998
+ },
+ "flickr30k": {
+  "n": 150,
+  "dev": 45,
+  "test": 105,
+  "objects_mean": 1.5733333333333333,
+  "garments_mean": 0.9266666666666666,
+  "acc_carried_mean": 0.14,
+  "scene_frac": 0.36666666666666664,
+  "megapixels_mean": 0.17825
+ }
+}

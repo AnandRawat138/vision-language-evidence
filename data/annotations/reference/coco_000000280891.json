@@ -1,0 +1,266 @@
+{
+ "uid": "coco_000000280891",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "apple",
+  "bottle",
+  "handbag",
+  "orange",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "handbag": 1,
+  "bottle": 1,
+  "apple": 6,
+  "orange": 11
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    118.31,
+    95.5,
+    305.03,
+    413.36
+   ],
+   "area": 69386.22634999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    23.13,
+    0.0,
+    223.93,
+    403.35
+   ],
+   "area": 56970.34574999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    254.28,
+    14.16,
+    133.98,
+    132.56
+   ],
+   "area": 6472.3817999999965
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    108.94,
+    73.91,
+    35.8,
+    158.04
+   ],
+   "area": 1594.3603500000013
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    374.59,
+    464.29,
+    52.28,
+    173.41
+   ],
+   "area": 7828.29605
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    145.61,
+    393.55,
+    60.5,
+    60.03
+   ],
+   "area": 2606.3059499999995
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    135.19,
+    447.28,
+    79.1,
+    67.6
+   ],
+   "area": 3826.6618999999996
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    0.0,
+    562.14,
+    88.04,
+    77.86
+   ],
+   "area": 4392.3396500000035
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    109.3,
+    510.32,
+    57.53,
+    81.98
+   ],
+   "area": 2969.4427499999974
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    7.26,
+    606.62,
+    113.3,
+    33.38
+   ],
+   "area": 2239.4033500000014
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    202.63,
+    420.67,
+    94.32,
+    81.36
+   ],
+   "area": 5541.4141
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    204.38,
+    498.99,
+    71.68,
+    74.76
+   ],
+   "area": 3182.178
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    278.18,
+    474.51,
+    73.06,
+    50.28
+   ],
+   "area": 1427.2770499999988
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    137.3,
+    559.21,
+    117.68,
+    80.79
+   ],
+   "area": 7208.6446499999975
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    241.04,
+    569.06,
+    83.88,
+    70.94
+   ],
+   "area": 4514.665649999997
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    57.51,
+    457.85,
+    81.22,
+    81.5
+   ],
+   "area": 4641.38875
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    16.45,
+    519.35,
+    93.52,
+    85.01
+   ],
+   "area": 4228.40075
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    174.9,
+    372.87,
+    56.93,
+    54.71
+   ],
+   "area": 2164.69795
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    275.93,
+    425.33,
+    53.97,
+    52.49
+   ],
+   "area": 1802.4083999999984
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    0.0,
+    396.51,
+    95.87,
+    76.82
+   ],
+   "area": 5513.730799999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.44,
+    109.3,
+    48.9,
+    225.8
+   ],
+   "area": 3859.1419000000014
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    271.59,
+    491.95,
+    94.36,
+    96.72
+   ],
+   "area": 6430.399299999998
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    160.25,
+    516.91,
+    84.0,
+    59.76
+   ],
+   "area": 3139.462100000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman standing next to a young man near a pile of fruit.",
+  "A boy wearing a green shirt posing with some fruit.",
+  "A young boy with his hands on his face near some fruit.",
+  "A child with oranges and apples biting into one.",
+  "a person leaning on a bunch of oranges and apples"
+ ],
+ "scene_places": []
+}

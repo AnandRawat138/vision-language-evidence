@@ -1,0 +1,229 @@
+{
+ "uid": "vqa_000000393979",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 14
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    439.81,
+    242.22,
+    150.84,
+    167.51
+   ],
+   "area": 8932.554950000003
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    582.87,
+    164.37,
+    57.13,
+    93.74
+   ],
+   "area": 2460.3605000000034
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    493.79,
+    175.75,
+    83.98,
+    93.55
+   ],
+   "area": 3066.151499999997
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    403.79,
+    150.98,
+    98.68,
+    110.64
+   ],
+   "area": 4325.476950000002
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    325.2,
+    155.29,
+    80.56,
+    96.63
+   ],
+   "area": 3069.7047
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    258.94,
+    135.44,
+    58.9,
+    103.71
+   ],
+   "area": 2514.688950000001
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    3.26,
+    127.11,
+    117.94,
+    100.67
+   ],
+   "area": 5339.2733499999995
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    123.88,
+    130.03,
+    97.04,
+    89.89
+   ],
+   "area": 3486.6967000000036
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    209.53,
+    141.19,
+    72.41,
+    80.84
+   ],
+   "area": 2633.362400000001
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    473.88,
+    142.14,
+    105.92,
+    104.89
+   ],
+   "area": 3240.917350000001
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    415.5,
+    144.72,
+    66.17,
+    36.21
+   ],
+   "area": 1104.0696500000008
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    105.69,
+    133.95,
+    80.7,
+    83.99
+   ],
+   "area": 1509.6704499999998
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    430.74,
+    134.48,
+    48.44,
+    27.6
+   ],
+   "area": 713.1776500000005
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    1,
+    101,
+    638,
+    317
+   ],
+   "area": 25092
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The herd of zebras are traveling together as they walk, eat, and stand.",
+  "a herd of zebras walking through the grassland",
+  "A herd of zebra running on a savanna with brown grass and scrubby trees.",
+  "A large herd of zebra running through a dried grassy field",
+  "an image of a herd of zebra running in the wild"
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 393979000,
+   "question": "What is the pattern of the skin of the animals you see?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "stripes",
+   "answers": [
+    "stripes",
+    "stripes",
+    "white & black",
+    "stripped",
+    "striped",
+    "stripes",
+    "stripes",
+    "white black",
+    "strip",
+    "striped"
+   ]
+  },
+  {
+   "question_id": 393979001,
+   "question": "Which direction are the zebras walking?",
+   "answer_type": "other",
+   "question_type": "which",
+   "multiple_choice_answer": "left",
+   "answers": [
+    "west",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left"
+   ]
+  },
+  {
+   "question_id": 393979002,
+   "question": "How many zebras do you see?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "25",
+   "answers": [
+    "18",
+    "22",
+    "22",
+    "many",
+    "25",
+    "25",
+    "20",
+    "25",
+    "22",
+    "25"
+   ]
+  }
+ ]
+}

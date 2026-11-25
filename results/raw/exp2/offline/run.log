@@ -1,0 +1,23 @@
+2026-11-22 13:59:59,088 INFO vle.inference.hf_backend: loaded Qwen/Qwen2.5-VL-3B-Instruct (nf4) in 20.0s
+2026-11-22 14:08:14,932 INFO exp2: static_b64_check_r0: 0.135 img/s p95=475.28s gpu=6073.3 ok=64 fail=0 oom=0
+2026-11-22 14:13:50,847 INFO exp2: independent_b1_r0: 0.048 img/s p95=321.72s gpu=3150.2 ok=16 fail=0 oom=0
+2026-11-22 14:16:38,935 INFO exp2: static_b4_r0: 0.191 img/s p95=167.72s gpu=3444.2 ok=32 fail=0 oom=0
+2026-11-22 14:18:14,951 INFO exp2: static_b8_r0: 0.334 img/s p95=95.55s gpu=4394.2 ok=32 fail=0 oom=0
+2026-11-22 14:19:20,338 INFO exp2: static_b16_r0: 0.491 img/s p95=65.02s gpu=5288.9 ok=32 fail=0 oom=0
+2026-11-22 14:20:32,009 INFO exp2: static_b32_r0: 0.448 img/s p95=71.19s gpu=6032.9 ok=32 fail=0 oom=0
+2026-11-22 14:21:36,189 INFO exp2: sorted_b16_r0: 0.501 img/s p95=63.75s gpu=5420.9 ok=32 fail=0 oom=0
+2026-11-22 14:23:47,463 INFO exp2: adaptive_r0: 0.244 img/s p95=117.17s gpu=4990.1 ok=32 fail=0 oom=0
+2026-11-22 14:29:29,595 INFO exp2: independent_b1_r1: 0.047 img/s p95=329.57s gpu=3203.6 ok=16 fail=0 oom=0
+2026-11-22 14:32:19,932 INFO exp2: static_b4_r1: 0.188 img/s p95=169.91s gpu=3468.7 ok=32 fail=0 oom=0
+2026-11-22 14:33:58,118 INFO exp2: static_b8_r1: 0.327 img/s p95=97.79s gpu=4431.3 ok=32 fail=0 oom=0
+2026-11-22 14:35:04,253 INFO exp2: static_b16_r1: 0.486 img/s p95=65.80s gpu=5324.9 ok=32 fail=0 oom=0
+2026-11-22 14:36:16,390 INFO exp2: static_b32_r1: 0.445 img/s p95=71.64s gpu=6004.9 ok=32 fail=0 oom=0
+2026-11-22 14:37:20,834 INFO exp2: sorted_b16_r1: 0.499 img/s p95=64.01s gpu=5456.9 ok=32 fail=0 oom=0
+2026-11-22 14:39:32,089 INFO exp2: adaptive_r1: 0.244 img/s p95=116.99s gpu=4936.9 ok=32 fail=0 oom=0
+2026-11-22 14:45:11,715 INFO exp2: independent_b1_r2: 0.047 img/s p95=325.64s gpu=3182.4 ok=16 fail=0 oom=0
+2026-11-22 14:48:00,284 INFO exp2: static_b4_r2: 0.190 img/s p95=168.33s gpu=3470.8 ok=32 fail=0 oom=0
+2026-11-22 14:49:34,964 INFO exp2: static_b8_r2: 0.339 img/s p95=94.24s gpu=4414.2 ok=32 fail=0 oom=0
+2026-11-22 14:50:39,593 INFO exp2: static_b16_r2: 0.497 img/s p95=64.38s gpu=5310.2 ok=32 fail=0 oom=0
+2026-11-22 14:51:50,745 INFO exp2: static_b32_r2: 0.451 img/s p95=70.84s gpu=5990.2 ok=32 fail=0 oom=0
+2026-11-22 14:52:54,690 INFO exp2: sorted_b16_r2: 0.503 img/s p95=63.63s gpu=5442.2 ok=32 fail=0 oom=0
+2026-11-22 14:55:05,954 INFO exp2: adaptive_r2: 0.244 img/s p95=117.16s gpu=4922.2 ok=32 fail=0 oom=0

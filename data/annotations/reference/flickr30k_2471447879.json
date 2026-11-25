@@ -1,0 +1,116 @@
+{
+ "uid": "flickr30k_2471447879",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young girl practicing rock climbing on an indoor wall .",
+  "A young girl ascends an indoor climbing wall .",
+  "A little girl is climbing up a climbing wall",
+  "A girl climbing on a climbing ledge .",
+  "A small girl climbs a rock wall ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "51948",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "51949",
+   "types": [
+    "other"
+   ],
+   "phrase": "an indoor wall",
+   "start": 41,
+   "end": 55
+  },
+  {
+   "entity_id": "51948",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "51949",
+   "types": [
+    "other"
+   ],
+   "phrase": "an indoor climbing wall",
+   "start": 21,
+   "end": 44
+  },
+  {
+   "entity_id": "51948",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little girl",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "51949",
+   "types": [
+    "other"
+   ],
+   "phrase": "a climbing wall",
+   "start": 29,
+   "end": 44
+  },
+  {
+   "entity_id": "51948",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "51949",
+   "types": [
+    "other"
+   ],
+   "phrase": "a climbing ledge",
+   "start": 19,
+   "end": 35
+  },
+  {
+   "entity_id": "51948",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "51949",
+   "types": [
+    "other"
+   ],
+   "phrase": "a rock wall",
+   "start": 20,
+   "end": 31
+  }
+ ],
+ "scene_places": []
+}

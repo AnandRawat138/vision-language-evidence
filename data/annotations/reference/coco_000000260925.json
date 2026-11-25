@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000260925",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "cat",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "car": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    70.5,
+    236.11,
+    495.55,
+    190.76
+   ],
+   "area": 48159.0567
+  },
+  {
+   "category": "car",
+   "bbox": [
+    1.08,
+    28.65,
+    638.92,
+    445.4
+   ],
+   "area": 264019.9616
+  },
+  {
+   "category": "person",
+   "bbox": [
+    547.34,
+    35.72,
+    13.07,
+    21.51
+   ],
+   "area": 144.32834999999966
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cat sitting on the hood of a car.",
+  "A cat laying on a white car outside.",
+  "A black and white cat lays on the hood of a car.",
+  "Startled cat lying on the windshield of a car.",
+  "The cat is laying on the hood of the car."
+ ],
+ "scene_places": []
+}

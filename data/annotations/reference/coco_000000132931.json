@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000132931",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "baseball glove": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    317.86,
+    64.26,
+    131.16,
+    292.96
+   ],
+   "area": 19561.270550000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    170.8,
+    101.71,
+    80.6,
+    227.42
+   ],
+   "area": 10860.342999999997
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    176.79,
+    181.67,
+    28.93,
+    30.59
+   ],
+   "area": 677.7993500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two baseball players standing on the field during a game.",
+  "two men on different baseball teams getting ready for the next move.",
+  "Two baseball players standing next to a wall on a baseball field.",
+  "A baseball game is in progress during the day time.",
+  "A runner leading off base to try and get to the next base."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

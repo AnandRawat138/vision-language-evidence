@@ -1,0 +1,196 @@
+{
+ "uid": "flickr30k_405615014",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "vest": [
+   "green",
+   "yellow"
+  ],
+  "suit": [
+   "yellow"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A policeman wearing a neon green vest has a whistle in his mouth while directing traffic .",
+  "A traffic director wears a yellow safety suit marked , \" Seattle Police . \"",
+  "A policeman wearing a green vest blows his whistle and moves his arms .",
+  "A police officer in a yellow vest directs traffic .",
+  "A man in a lime green vest directs traffic"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "153581",
+   "types": [
+    "people"
+   ],
+   "phrase": "A policeman",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "153582",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a neon green vest",
+   "start": 20,
+   "end": 37
+  },
+  {
+   "entity_id": "153583",
+   "types": [
+    "other"
+   ],
+   "phrase": "a whistle",
+   "start": 42,
+   "end": 51
+  },
+  {
+   "entity_id": "153587",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his mouth",
+   "start": 55,
+   "end": 64
+  },
+  {
+   "entity_id": "153584",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "traffic",
+   "start": 81,
+   "end": 88
+  },
+  {
+   "entity_id": "153581",
+   "types": [
+    "people"
+   ],
+   "phrase": "A traffic director",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "153582",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a yellow safety suit",
+   "start": 25,
+   "end": 45
+  },
+  {
+   "entity_id": "153581",
+   "types": [
+    "people"
+   ],
+   "phrase": "Seattle Police",
+   "start": 57,
+   "end": 71
+  },
+  {
+   "entity_id": "153581",
+   "types": [
+    "people"
+   ],
+   "phrase": "A policeman",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "153582",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a green vest",
+   "start": 20,
+   "end": 32
+  },
+  {
+   "entity_id": "153583",
+   "types": [
+    "other"
+   ],
+   "phrase": "his whistle",
+   "start": 39,
+   "end": 50
+  },
+  {
+   "entity_id": "153586",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his arms",
+   "start": 61,
+   "end": 69
+  },
+  {
+   "entity_id": "153581",
+   "types": [
+    "people"
+   ],
+   "phrase": "A police officer",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "153582",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a yellow vest",
+   "start": 20,
+   "end": 33
+  },
+  {
+   "entity_id": "153584",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "traffic",
+   "start": 42,
+   "end": 49
+  },
+  {
+   "entity_id": "153581",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "153582",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a lime green vest",
+   "start": 9,
+   "end": 26
+  },
+  {
+   "entity_id": "153584",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "traffic",
+   "start": 35,
+   "end": 42
+  }
+ ],
+ "scene_places": []
+}

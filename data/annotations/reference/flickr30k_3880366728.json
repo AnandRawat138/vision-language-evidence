@@ -1,0 +1,183 @@
+{
+ "uid": "flickr30k_3880366728",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A dancing couple is performing a dip where the man is crouched nearly to the floor .",
+  "A woman is being dipped by a man with a blue button up shirt while dancing .",
+  "A man in a blue shirt dancing with a woman with brown hair .",
+  "A couple performs during dance competition .",
+  "A man dips a woman as they dance together ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "146814",
+   "types": [
+    "people"
+   ],
+   "phrase": "A dancing couple",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "146819",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a dip",
+   "start": 31,
+   "end": 36
+  },
+  {
+   "entity_id": "146811",
+   "types": [
+    "people"
+   ],
+   "phrase": "the man",
+   "start": 43,
+   "end": 50
+  },
+  {
+   "entity_id": "146820",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the floor",
+   "start": 73,
+   "end": 82
+  },
+  {
+   "entity_id": "146812",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "146811",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 27,
+   "end": 32
+  },
+  {
+   "entity_id": "146811",
+   "types": [
+    "other"
+   ],
+   "phrase": "a blue button",
+   "start": 38,
+   "end": 51
+  },
+  {
+   "entity_id": "146816",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "shirt",
+   "start": 55,
+   "end": 60
+  },
+  {
+   "entity_id": "146811",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "146816",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue shirt",
+   "start": 9,
+   "end": 21
+  },
+  {
+   "entity_id": "146812",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 35,
+   "end": 42
+  },
+  {
+   "entity_id": "146821",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "brown hair",
+   "start": 48,
+   "end": 58
+  },
+  {
+   "entity_id": "146811",
+   "types": [
+    "people"
+   ],
+   "phrase": "A couple",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "146817",
+   "types": [
+    "other"
+   ],
+   "phrase": "dance competition",
+   "start": 25,
+   "end": 42
+  },
+  {
+   "entity_id": "146811",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "146812",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 11,
+   "end": 18
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "they",
+   "start": 22,
+   "end": 26
+  }
+ ],
+ "scene_places": []
+}

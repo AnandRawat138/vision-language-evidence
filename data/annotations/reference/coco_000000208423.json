@@ -1,0 +1,232 @@
+{
+ "uid": "coco_000000208423",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 6,
+  "kite": 12,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    349.01,
+    451.31,
+    110.88,
+    28.69
+   ],
+   "area": 2284.94535
+  },
+  {
+   "category": "car",
+   "bbox": [
+    330.27,
+    421.27,
+    57.14,
+    37.76
+   ],
+   "area": 1590.1368500000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    269.05,
+    427.25,
+    77.59,
+    42.07
+   ],
+   "area": 2128.4112999999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    185.31,
+    430.89,
+    94.89,
+    48.61
+   ],
+   "area": 3336.68375
+  },
+  {
+   "category": "car",
+   "bbox": [
+    65.78,
+    437.53,
+    126.06,
+    42.47
+   ],
+   "area": 3993.6052500000005
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    297.21,
+    49.08,
+    34.27,
+    41.53
+   ],
+   "area": 134.32590000000008
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    459.86,
+    98.07,
+    25.69,
+    20.42
+   ],
+   "area": 106.23470000000015
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    387.38,
+    114.67,
+    8.75,
+    4.07
+   ],
+   "area": 14.247299999999965
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    340.79,
+    235.15,
+    12.96,
+    9.93
+   ],
+   "area": 87.49604999999997
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    232.09,
+    154.93,
+    15.9,
+    15.45
+   ],
+   "area": 80.1917000000001
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    492.15,
+    320.94,
+    30.49,
+    28.09
+   ],
+   "area": 230.28844999999893
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    567.4,
+    212.8,
+    19.28,
+    10.1
+   ],
+   "area": 35.1748499999997
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    423.78,
+    271.59,
+    4.29,
+    2.91
+   ],
+   "area": 7.925800000000102
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    285.06,
+    264.64,
+    6.07,
+    7.14
+   ],
+   "area": 12.097399999999892
+  },
+  {
+   "category": "car",
+   "bbox": [
+    521.64,
+    469.38,
+    113.44,
+    10.62
+   ],
+   "area": 888.3304999999993
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    429.56,
+    339.02,
+    2.26,
+    2.59
+   ],
+   "area": 3.081900000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    415.8,
+    432.12,
+    8.75,
+    20.71
+   ],
+   "area": 111.72899999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    493.15,
+    419.94,
+    8.56,
+    15.84
+   ],
+   "area": 96.66614999999973
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    272.48,
+    126.81,
+    6.73,
+    7.65
+   ],
+   "area": 26.134100000000075
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    139,
+    240,
+    300,
+    105
+   ],
+   "area": 1823
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A crowd of people flying kites over a field.",
+  "A distant view of several kites flying in the air.",
+  "Several different kites flying over a parking lot.",
+  "many kites flying in the sky with cars parked",
+  "multiple kites fly high in the sky near a stadium"
+ ],
+ "scene_places": []
+}

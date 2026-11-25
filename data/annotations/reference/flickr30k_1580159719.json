@@ -1,0 +1,199 @@
+{
+ "uid": "flickr30k_1580159719",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A group of young people sitting in the grass as one plays a guitar and another the violin .",
+  "A group of young people are sitting outside listening a guitar and violin being played .",
+  "Two guys are playing music outside while people surround them .",
+  "A group of people sit on a lawn while one plays a guitar .",
+  "A group of friends are sitting listening to some music ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "16933",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of young people",
+   "start": 0,
+   "end": 23
+  },
+  {
+   "entity_id": "16934",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the grass",
+   "start": 35,
+   "end": 44
+  },
+  {
+   "entity_id": "16935",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 48,
+   "end": 51
+  },
+  {
+   "entity_id": "16936",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 58,
+   "end": 66
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "another",
+   "start": 71,
+   "end": 78
+  },
+  {
+   "entity_id": "16937",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "the violin",
+   "start": 79,
+   "end": 89
+  },
+  {
+   "entity_id": "16933",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of young people",
+   "start": 0,
+   "end": 23
+  },
+  {
+   "entity_id": "16936",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 54,
+   "end": 62
+  },
+  {
+   "entity_id": "16937",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "violin",
+   "start": 67,
+   "end": 73
+  },
+  {
+   "entity_id": "16938",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two guys",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "16940",
+   "types": [
+    "other"
+   ],
+   "phrase": "music",
+   "start": 21,
+   "end": 26
+  },
+  {
+   "entity_id": "16933",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 41,
+   "end": 47
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "them",
+   "start": 57,
+   "end": 61
+  },
+  {
+   "entity_id": "16933",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "16934",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a lawn",
+   "start": 25,
+   "end": 31
+  },
+  {
+   "entity_id": "16935",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 38,
+   "end": 41
+  },
+  {
+   "entity_id": "16936",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 48,
+   "end": 56
+  },
+  {
+   "entity_id": "16933",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of friends",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "16941",
+   "types": [
+    "other"
+   ],
+   "phrase": "some music",
+   "start": 44,
+   "end": 54
+  }
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

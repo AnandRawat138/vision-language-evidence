@@ -1,0 +1,185 @@
+{
+ "uid": "flickr30k_3514184232",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "uniform": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A baseball player is making a play nearby a large sign and boundary of the field .",
+  "A ponytailed girl in a softball uniform raises her mitt in the air .",
+  "A woman with long hair is catching a softball in a softball field .",
+  "A woman playing softball , running to catch the ball .",
+  "a girl catches a baseball ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "123958",
+   "types": [
+    "people"
+   ],
+   "phrase": "A baseball player",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "123960",
+   "types": [
+    "other"
+   ],
+   "phrase": "a play",
+   "start": 28,
+   "end": 34
+  },
+  {
+   "entity_id": "123963",
+   "types": [
+    "other"
+   ],
+   "phrase": "nearby a large sign",
+   "start": 35,
+   "end": 54
+  },
+  {
+   "entity_id": "123961",
+   "types": [
+    "scene"
+   ],
+   "phrase": "boundary of the field",
+   "start": 59,
+   "end": 80
+  },
+  {
+   "entity_id": "123958",
+   "types": [
+    "people"
+   ],
+   "phrase": "A ponytailed girl",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "123965",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a softball uniform",
+   "start": 21,
+   "end": 39
+  },
+  {
+   "entity_id": "123966",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "her mitt",
+   "start": 47,
+   "end": 55
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 59,
+   "end": 66
+  },
+  {
+   "entity_id": "123958",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "123967",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "long hair",
+   "start": 13,
+   "end": 22
+  },
+  {
+   "entity_id": "123959",
+   "types": [
+    "other"
+   ],
+   "phrase": "a softball",
+   "start": 35,
+   "end": 45
+  },
+  {
+   "entity_id": "123961",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a softball field",
+   "start": 49,
+   "end": 65
+  },
+  {
+   "entity_id": "123958",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "123959",
+   "types": [
+    "other"
+   ],
+   "phrase": "softball",
+   "start": 16,
+   "end": 24
+  },
+  {
+   "entity_id": "123959",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 44,
+   "end": 52
+  },
+  {
+   "entity_id": "123958",
+   "types": [
+    "people"
+   ],
+   "phrase": "a girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "123959",
+   "types": [
+    "other"
+   ],
+   "phrase": "a baseball",
+   "start": 15,
+   "end": 25
+  }
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

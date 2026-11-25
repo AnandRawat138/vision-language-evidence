@@ -1,0 +1,80 @@
+{
+ "uid": "coco_000000224337",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "pizza": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.0,
+    365.45,
+    425.08
+   ],
+   "area": 138493.52375
+  },
+  {
+   "category": "person",
+   "bbox": [
+    422.74,
+    152.92,
+    84.34,
+    144.04
+   ],
+   "area": 5697.114600000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    395.82,
+    167.53,
+    50.65,
+    119.02
+   ],
+   "area": 4684.79605
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    233.7,
+    289.96,
+    266.39,
+    71.16
+   ],
+   "area": 9355.7088
+  },
+  {
+   "category": "person",
+   "bbox": [
+    440.08,
+    144.02,
+    199.06,
+    211.87
+   ],
+   "area": 22722.9955
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man holds pizza crust in his mouth.",
+  "A close-up of a man as he holds a piece of bread in his mouth.",
+  "A man with a piece of food in his mouth.",
+  "A man with a piece of flat bread sticking out of his mouth.",
+  "A man with a pizza hanging out of his mouth"
+ ],
+ "scene_places": []
+}

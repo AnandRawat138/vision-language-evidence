@@ -1,0 +1,186 @@
+{
+ "uid": "coco_000000381639",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane",
+  "backpack",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 1,
+  "person": 9,
+  "backpack": 3,
+  "handbag": 2
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    41.91,
+    21.9,
+    425.36,
+    117.43
+   ],
+   "area": 20905.806550000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    179.45,
+    229.59,
+    102.01,
+    358.01
+   ],
+   "area": 23357.69205000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    210.19,
+    41.12,
+    22.38,
+    44.76
+   ],
+   "area": 586.8063499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    193.8,
+    46.05,
+    14.02,
+    25.89
+   ],
+   "area": 271.72914999999966
+  },
+  {
+   "category": "person",
+   "bbox": [
+    237.57,
+    64.91,
+    23.06,
+    38.72
+   ],
+   "area": 472.87685
+  },
+  {
+   "category": "person",
+   "bbox": [
+    271.39,
+    92.45,
+    19.35,
+    44.14
+   ],
+   "area": 406.7536000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    332.71,
+    98.77,
+    20.74,
+    63.47
+   ],
+   "area": 365.772749999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    464.74,
+    91.13,
+    20.66,
+    68.55
+   ],
+   "area": 408.49384999999967
+  },
+  {
+   "category": "person",
+   "bbox": [
+    307.0,
+    94.54,
+    17.98,
+    62.94
+   ],
+   "area": 550.0340499999991
+  },
+  {
+   "category": "person",
+   "bbox": [
+    484.86,
+    83.97,
+    22.82,
+    70.2
+   ],
+   "area": 639.2393500000002
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    352.16,
+    106.82,
+    12.91,
+    22.0
+   ],
+   "area": 152.18994999999995
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    317.86,
+    103.24,
+    15.53,
+    25.0
+   ],
+   "area": 197.75444999999993
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    254.4,
+    397.18,
+    25.91,
+    76.36
+   ],
+   "area": 1481.1935999999994
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    329.85,
+    110.2,
+    10.7,
+    16.64
+   ],
+   "area": 152.08959999999976
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    221.2,
+    52.32,
+    12.18,
+    19.97
+   ],
+   "area": 174.18250000000023
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A little girl walking along a row of orange cones.",
+  "a little girl is standing on a runway",
+  "A girl stands on an airport tarmac between orange cones in front of an airplane being boarded.",
+  "this is a little girl standing in an airport",
+  "A little girl is standing between several orange cones."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

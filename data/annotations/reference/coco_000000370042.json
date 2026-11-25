@@ -1,0 +1,170 @@
+{
+ "uid": "coco_000000370042",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "vase": 14
+ },
+ "object_boxes": [
+  {
+   "category": "vase",
+   "bbox": [
+    271.14,
+    186.92,
+    61.31,
+    149.47
+   ],
+   "area": 6079.3029000000015
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    392.8,
+    178.4,
+    69.6,
+    145.6
+   ],
+   "area": 7136.959999999999
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    537.29,
+    261.13,
+    19.53,
+    49.85
+   ],
+   "area": 577.4618000000025
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    498.24,
+    213.84,
+    54.69,
+    100.34
+   ],
+   "area": 4190.549350000001
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    559.74,
+    200.14,
+    54.97,
+    110.39
+   ],
+   "area": 3611.2460500000007
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    352.8,
+    244.0,
+    46.4,
+    86.4
+   ],
+   "area": 2787.5199999999995
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    197.86,
+    269.86,
+    42.13,
+    48.89
+   ],
+   "area": 1185.36365
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    15.2,
+    263.2,
+    39.2,
+    65.6
+   ],
+   "area": 1623.0400000000004
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    111.51,
+    263.03,
+    37.17,
+    58.64
+   ],
+   "area": 1366.3528999999999
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    493.4,
+    250.42,
+    11.18,
+    27.64
+   ],
+   "area": 151.8564999999998
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    232.28,
+    268.2,
+    29.53,
+    46.29
+   ],
+   "area": 1022.1774000000006
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    145.62,
+    270.5,
+    42.64,
+    50.85
+   ],
+   "area": 1274.2522500000005
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    220.35,
+    163.64,
+    34.47,
+    50.38
+   ],
+   "area": 1120.8545499999998
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    43,
+    147,
+    96,
+    75
+   ],
+   "area": 4816
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Large assortment of small and large vases displayed outdoors.",
+  "A pile of clay and gold vases sitting in a yard.",
+  "there are many vases on the ground in the street",
+  "There are many vases on display outside the building.",
+  "A bunch of pottery sitting on a sidewalk"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

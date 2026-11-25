@@ -1,0 +1,103 @@
+{
+ "uid": "coco_000000311883",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "traffic light",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1,
+  "traffic light": 6
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    55.85,
+    112.15,
+    584.15,
+    103.91
+   ],
+   "area": 36913.040250000005
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    27.17,
+    160.07,
+    10.74,
+    10.33
+   ],
+   "area": 87.89690000000004
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    36.99,
+    160.28,
+    16.43,
+    11.19
+   ],
+   "area": 140.24689999999998
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    481.52,
+    139.95,
+    12.12,
+    14.15
+   ],
+   "area": 86.91894999999992
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    505.08,
+    140.14,
+    19.31,
+    13.23
+   ],
+   "area": 150.26400000000058
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    508.65,
+    124.35,
+    16.31,
+    14.4
+   ],
+   "area": 177.28605000000042
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    525.21,
+    126.16,
+    14.55,
+    13.32
+   ],
+   "area": 166.07104999999953
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A train moving along a track during the day.",
+  "A train passes by a road on a railroad track",
+  "Yellow train engine hauling freight cars past a level crossing.",
+  "A large long train on a steel track.",
+  "A yellow train engine pulling train cars over road."
+ ],
+ "scene_places": [
+  "station",
+  "street"
+ ]
+}

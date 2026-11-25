@@ -1,0 +1,209 @@
+{
+ "uid": "flickr30k_2501548593",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two women playing beach volleyball with one trying to spike the ball and one trying to block the ball .",
+  "Two women jumping to get the ball over the net in a game of beach volleyball .",
+  "Two women playing beach volleyball are jumping in the air for the ball .",
+  "One woman spikes the volleyball while the other attempts to block .",
+  "Two woman beach volleyball players jump during a match ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "53579",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "53580",
+   "types": [
+    "other"
+   ],
+   "phrase": "beach volleyball",
+   "start": 18,
+   "end": 34
+  },
+  {
+   "entity_id": "53583",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 40,
+   "end": 43
+  },
+  {
+   "entity_id": "53581",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 60,
+   "end": 68
+  },
+  {
+   "entity_id": "53582",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 73,
+   "end": 76
+  },
+  {
+   "entity_id": "53581",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 93,
+   "end": 101
+  },
+  {
+   "entity_id": "53579",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "53581",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 25,
+   "end": 33
+  },
+  {
+   "entity_id": "53585",
+   "types": [
+    "other"
+   ],
+   "phrase": "the net",
+   "start": 39,
+   "end": 46
+  },
+  {
+   "entity_id": "53580",
+   "types": [
+    "other"
+   ],
+   "phrase": "a game of beach volleyball",
+   "start": 50,
+   "end": 76
+  },
+  {
+   "entity_id": "53579",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "53580",
+   "types": [
+    "other"
+   ],
+   "phrase": "beach volleyball",
+   "start": 18,
+   "end": 34
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 50,
+   "end": 57
+  },
+  {
+   "entity_id": "53581",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 62,
+   "end": 70
+  },
+  {
+   "entity_id": "53583",
+   "types": [
+    "people"
+   ],
+   "phrase": "One woman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "53581",
+   "types": [
+    "other"
+   ],
+   "phrase": "the volleyball",
+   "start": 17,
+   "end": 31
+  },
+  {
+   "entity_id": "53582",
+   "types": [
+    "other"
+   ],
+   "phrase": "the other",
+   "start": 38,
+   "end": 47
+  },
+  {
+   "entity_id": "53579",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two woman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "53587",
+   "types": [
+    "people"
+   ],
+   "phrase": "volleyball players",
+   "start": 16,
+   "end": 34
+  },
+  {
+   "entity_id": "53584",
+   "types": [
+    "other"
+   ],
+   "phrase": "a match",
+   "start": 47,
+   "end": 54
+  }
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

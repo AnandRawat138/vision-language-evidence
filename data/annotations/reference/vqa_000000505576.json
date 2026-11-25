@@ -1,0 +1,240 @@
+{
+ "uid": "vqa_000000505576",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 5,
+  "person": 8
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    232.73,
+    95.69,
+    312.56,
+    125.02
+   ],
+   "area": 20904.80375
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    427.96,
+    1.63,
+    212.04,
+    249.48
+   ],
+   "area": 22879.6569
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    230.81,
+    13.94,
+    313.52,
+    139.45
+   ],
+   "area": 9429.536700000006
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    0.96,
+    86.36,
+    279.23,
+    104.59
+   ],
+   "area": 17866.496450000006
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    0.0,
+    200.3,
+    91.52,
+    38.85
+   ],
+   "area": 2519.0917499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    68.13,
+    204.38,
+    177.51,
+    216.86
+   ],
+   "area": 32423.2483
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.96,
+    224.99,
+    108.18,
+    196.27
+   ],
+   "area": 8819.250149999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    240.85,
+    214.94,
+    318.57,
+    208.22
+   ],
+   "area": 57670.26569999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    537.95,
+    199.32,
+    102.05,
+    226.49
+   ],
+   "area": 13412.448100000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    548.67,
+    248.42,
+    58.39,
+    38.36
+   ],
+   "area": 1587.8731000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    86.9,
+    186.79,
+    68.05,
+    46.2
+   ],
+   "area": 1922.3255500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    30.48,
+    233.45,
+    32.5,
+    49.89
+   ],
+   "area": 669.6848500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.3,
+    244.74,
+    48.51,
+    139.7
+   ],
+   "area": 3212.82445
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large group of people with umbrellas on a street.",
+  "A big bunch of pretty umbrellas and a crowd.",
+  "Many people are walking among large, open umbrellas.",
+  "A group of people and some taking cover with umbrellas",
+  "It's a rainy day on the street and people are using umbrellas."
+ ],
+ "scene_places": [
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 505576000,
+   "question": "What color is the umbrella?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "yellow",
+   "answers": [
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow, white, blue",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow"
+   ]
+  },
+  {
+   "question_id": 505576001,
+   "question": "How many umbrellas are in the photo?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "5",
+   "answers": [
+    "5",
+    "5",
+    "3",
+    "6",
+    "5",
+    "5",
+    "4",
+    "5",
+    "7",
+    "6"
+   ]
+  },
+  {
+   "question_id": 505576002,
+   "question": "What color umbrella stands out in the crowd?",
+   "answer_type": "other",
+   "question_type": "what color",
+   "multiple_choice_answer": "yellow",
+   "answers": [
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow",
+    "yellow"
+   ]
+  },
+  {
+   "question_id": 505576003,
+   "question": "Is this a sunny day?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

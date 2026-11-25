@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000203639",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "tie": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    80.72,
+    38.2,
+    242.16,
+    579.46
+   ],
+   "area": 64825.13554999999
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    199.94,
+    152.11,
+    44.8,
+    86.97
+   ],
+   "area": 1684.6699499999986
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A girl in a dress and shirt standing in a field.",
+  "A woman in a red dress standing on top of a lush green field.",
+  "A young woman stands still on a grassy patch",
+  "a woman wearing a dress and a bow tie in a pasture",
+  "This girl is looking down at her shoes."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

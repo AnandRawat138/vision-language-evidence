@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000522393",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "cell phone",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "boat": 1,
+  "person": 2,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "boat",
+   "bbox": [
+    284.76,
+    525.94,
+    163.96,
+    61.85
+   ],
+   "area": 8091.076899999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    375.07,
+    450.02,
+    33.86,
+    75.59
+   ],
+   "area": 1490.6123500000003
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    397.43,
+    464.61,
+    2.63,
+    3.57
+   ],
+   "area": 7.453849999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    313.03,
+    503.73,
+    36.94,
+    33.81
+   ],
+   "area": 673.2923999999989
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "two people in a wooden boat with sails on some water",
+  "a man that is sailing on a boat in the water",
+  "A boat that is sitting in the water with a sail.",
+  "Sail boat of older design, in middle of expansive bay",
+  "Some people who are riding on a sail boat."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

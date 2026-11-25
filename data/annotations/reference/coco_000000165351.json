@@ -1,0 +1,90 @@
+{
+ "uid": "coco_000000165351",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "dining table"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "banana": 5,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "banana",
+   "bbox": [
+    0.0,
+    240.03,
+    544.31,
+    178.22
+   ],
+   "area": 33158.610649999995
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    185.05,
+    177.53,
+    169.67,
+    81.66
+   ],
+   "area": 9404.344550000002
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    114.15,
+    120.6,
+    426.34,
+    133.41
+   ],
+   "area": 9684.331749999998
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    136.6,
+    67.24,
+    412.9,
+    108.59
+   ],
+   "area": 10159.1862
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    440.6,
+    225.23,
+    91.68,
+    105.19
+   ],
+   "area": 6371.306349999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    0.4,
+    612.0,
+    52.14
+   ],
+   "area": 4172.950100000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Sliced bananas sit on top of a pastry dish on a plate.",
+  "A food that is topped with bananas and a brown sauce.",
+  "odd meal on a plate with bananas and gravy",
+  "The desert is made and ready to be eaten.",
+  "Blueberry pancakes with slices bananas and glaze on top."
+ ],
+ "scene_places": []
+}

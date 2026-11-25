@@ -1,0 +1,58 @@
+{
+ "uid": "coco_000000154000",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 3
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    33.85,
+    61.98,
+    511.59,
+    377.02
+   ],
+   "area": 116524.13330000003
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    496.72,
+    177.75,
+    75.84,
+    195.55
+   ],
+   "area": 5087.467900000005
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    601.73,
+    268.18,
+    38.02,
+    23.35
+   ],
+   "area": 748.6848000000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A small white tow truck parked to another small white tow truck.",
+  "A dump truck with a dumpster on the back",
+  "A big truck loaded with some items in the back.",
+  "Two large trucks are parked near each other.",
+  "A white and blue truck parked in the middle of a dirt road."
+ ],
+ "scene_places": []
+}

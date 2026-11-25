@@ -1,0 +1,186 @@
+{
+ "uid": "flickr30k_4400746838",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "yellow"
+  ],
+  "dress": [
+   "yellow"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A blond girl in a yellow shirt with blue flowers is covering her face .",
+  "A blond girl covering her eyes with her hand in yellow dress .",
+  "A little girl in a yellow shirt is standing covering her eyes .",
+  "A small girl covering her eyes in a yellow shirt , outdoors .",
+  "Little girl covering her eyes !"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "166354",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "166355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a yellow shirt",
+   "start": 16,
+   "end": 30
+  },
+  {
+   "entity_id": "166360",
+   "types": [
+    "other"
+   ],
+   "phrase": "blue flowers",
+   "start": 36,
+   "end": 48
+  },
+  {
+   "entity_id": "166358",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her face",
+   "start": 61,
+   "end": 69
+  },
+  {
+   "entity_id": "166354",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "166356",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her eyes",
+   "start": 22,
+   "end": 30
+  },
+  {
+   "entity_id": "166359",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her hand",
+   "start": 36,
+   "end": 44
+  },
+  {
+   "entity_id": "166355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "yellow dress",
+   "start": 48,
+   "end": 60
+  },
+  {
+   "entity_id": "166354",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little girl",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "166355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a yellow shirt",
+   "start": 17,
+   "end": 31
+  },
+  {
+   "entity_id": "166356",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her eyes",
+   "start": 53,
+   "end": 61
+  },
+  {
+   "entity_id": "166354",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "166356",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her eyes",
+   "start": 22,
+   "end": 30
+  },
+  {
+   "entity_id": "166355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a yellow shirt",
+   "start": 34,
+   "end": 48
+  },
+  {
+   "entity_id": "166361",
+   "types": [
+    "scene"
+   ],
+   "phrase": "outdoors",
+   "start": 51,
+   "end": 59
+  },
+  {
+   "entity_id": "166354",
+   "types": [
+    "people"
+   ],
+   "phrase": "Little girl",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "166356",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her eyes",
+   "start": 21,
+   "end": 29
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,92 @@
+{
+ "uid": "coco_000000447088",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "baseball bat": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    320.28,
+    14.22,
+    144.42,
+    310.55
+   ],
+   "area": 17115.716699999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    277.3,
+    9.03,
+    155.23,
+    304.31
+   ],
+   "area": 14598.8822
+  },
+  {
+   "category": "person",
+   "bbox": [
+    141.43,
+    10.53,
+    104.02,
+    301.57
+   ],
+   "area": 16161.988800000003
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    75.65,
+    61.9,
+    80.74,
+    78.16
+   ],
+   "area": 827.9882500000001
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    307.08,
+    200.83,
+    5.86,
+    11.33
+   ],
+   "area": 33.19689999999989
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    425.49,
+    106.04,
+    28.27,
+    33.19
+   ],
+   "area": 261.60290000000043
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "three baseball players walking around while holding bats",
+  "A group of baseball players holding a black bat.",
+  "A group of men on a field playing baseball.",
+  "Three baseball players from the Chicago cubs teams.",
+  "adult men in baseball uniforms walking in a baseball field"
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "uid": "coco_000000554266",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bed": 2,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bed",
+   "bbox": [
+    273.27,
+    149.04,
+    265.54,
+    84.43
+   ],
+   "area": 4818.45255
+  },
+  {
+   "category": "person",
+   "bbox": [
+    274.92,
+    130.69,
+    133.02,
+    103.46
+   ],
+   "area": 7176.780400000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    376.99,
+    130.88,
+    251.06,
+    102.78
+   ],
+   "area": 12773.4208
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    75.83,
+    214.49,
+    67.34,
+    35.3
+   ],
+   "area": 1014.6555499999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A series of photos showing a person laying on a bed.",
+  "Many photos are arranged to show a couple holding hands in bed.",
+  "a bunch of stuff in a home living room",
+  "Adults seen lying in bed in mosaic photograph montage.",
+  "A collage of photos that shoes two people laying on a bed."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,207 @@
+{
+ "uid": "flickr30k_3562606482",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black",
+   "gray"
+  ],
+  "hat": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man in a gray tank top and woman in a black tank top walk across a grassy field .",
+  "A man with a hat and a woman with a black top are walking on a grass field .",
+  "A young man , with a white hat , walks with a woman in a field .",
+  "A man and a woman walking across a field of grass .",
+  "Two people walking in a field ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "127884",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "127890",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray tank top",
+   "start": 9,
+   "end": 24
+  },
+  {
+   "entity_id": "127888",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 29,
+   "end": 34
+  },
+  {
+   "entity_id": "127885",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black tank top",
+   "start": 38,
+   "end": 54
+  },
+  {
+   "entity_id": "127886",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a grassy field",
+   "start": 67,
+   "end": 81
+  },
+  {
+   "entity_id": "127884",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "127887",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a hat",
+   "start": 11,
+   "end": 16
+  },
+  {
+   "entity_id": "127888",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 21,
+   "end": 28
+  },
+  {
+   "entity_id": "127885",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black top",
+   "start": 34,
+   "end": 45
+  },
+  {
+   "entity_id": "127886",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a grass field",
+   "start": 61,
+   "end": 74
+  },
+  {
+   "entity_id": "127884",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "127887",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white hat",
+   "start": 19,
+   "end": 30
+  },
+  {
+   "entity_id": "127888",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 44,
+   "end": 51
+  },
+  {
+   "entity_id": "127886",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field",
+   "start": 55,
+   "end": 62
+  },
+  {
+   "entity_id": "127884",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "127888",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 10,
+   "end": 17
+  },
+  {
+   "entity_id": "127886",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field of grass",
+   "start": 33,
+   "end": 49
+  },
+  {
+   "entity_id": "127889",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "127886",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field",
+   "start": 22,
+   "end": 29
+  }
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

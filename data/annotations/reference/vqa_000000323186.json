@@ -1,0 +1,121 @@
+{
+ "uid": "vqa_000000323186",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "potted plant",
+  "sink"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sink": 1,
+  "potted plant": 2
+ },
+ "object_boxes": [
+  {
+   "category": "sink",
+   "bbox": [
+    415.56,
+    203.39,
+    56.91,
+    4.85
+   ],
+   "area": 119.26285000000091
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    0.0,
+    16.56,
+    126.62,
+    352.6
+   ],
+   "area": 27465.748099999997
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    415.57,
+    102.73,
+    52.3,
+    99.54
+   ],
+   "area": 2507.2157
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white egg-shaped bathtub in a decorative bathroom.",
+  "A bath tub sits in the middle of a luxurious bathroom.",
+  "A bathroom with hardwood floors and a double sink, with a white oval bathtub in the middle of the room.",
+  "A bathtub sits on a tiled floor near a sink that has ornate mirrors over it while greenery grows on the other side of the tub.",
+  "A large oval above ground bathtub sits in a bathroom."
+ ],
+ "scene_places": [
+  "bathroom"
+ ],
+ "vqa": [
+  {
+   "question_id": 323186000,
+   "question": "What shape is the tub?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "oval",
+   "answers": [
+    "oval",
+    "oval",
+    "oval",
+    "oval",
+    "oval",
+    "oval",
+    "egg",
+    "oval",
+    "oval",
+    "oval"
+   ]
+  },
+  {
+   "question_id": 323186001,
+   "question": "How big is the tub?",
+   "answer_type": "other",
+   "question_type": "how",
+   "multiple_choice_answer": "big",
+   "answers": [
+    "6 feet",
+    "medium",
+    "big",
+    "4 feet",
+    "to fit body",
+    "7 ft",
+    "big",
+    "6 feet long",
+    "6 feet",
+    "large"
+   ]
+  },
+  {
+   "question_id": 323186002,
+   "question": "Is this an old fashioned room?",
+   "answer_type": "yes/no",
+   "question_type": "is this an",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

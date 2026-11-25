@@ -1,0 +1,191 @@
+{
+ "uid": "flickr30k_2113592981",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman in the middle of a grassy field during autumn jumps in the air and extends her arms over her head .",
+  "An asian woman is jumping in celebration in a park outside the city .",
+  "A young Asian woman is jumping midair in a crowded city part .",
+  "A girl jumps in the air in the middle of a city park .",
+  "oriental lady jumping in the air with joy ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "29478",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "29479",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of a grassy field",
+   "start": 11,
+   "end": 39
+  },
+  {
+   "entity_id": "29483",
+   "types": [
+    "other"
+   ],
+   "phrase": "autumn",
+   "start": 47,
+   "end": 53
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 63,
+   "end": 70
+  },
+  {
+   "entity_id": "29486",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her arms",
+   "start": 83,
+   "end": 91
+  },
+  {
+   "entity_id": "29487",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her head",
+   "start": 97,
+   "end": 105
+  },
+  {
+   "entity_id": "29478",
+   "types": [
+    "people"
+   ],
+   "phrase": "An asian woman",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "29484",
+   "types": [
+    "other"
+   ],
+   "phrase": "celebration",
+   "start": 29,
+   "end": 40
+  },
+  {
+   "entity_id": "29479",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a park",
+   "start": 44,
+   "end": 50
+  },
+  {
+   "entity_id": "29481",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the city",
+   "start": 59,
+   "end": 67
+  },
+  {
+   "entity_id": "29478",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young Asian woman",
+   "start": 0,
+   "end": 19
+  },
+  {
+   "entity_id": "29479",
+   "types": [
+    "other"
+   ],
+   "phrase": "a crowded city part",
+   "start": 41,
+   "end": 60
+  },
+  {
+   "entity_id": "29478",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 16,
+   "end": 23
+  },
+  {
+   "entity_id": "29479",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of a city park",
+   "start": 27,
+   "end": 52
+  },
+  {
+   "entity_id": "29478",
+   "types": [
+    "people"
+   ],
+   "phrase": "oriental lady",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 25,
+   "end": 32
+  },
+  {
+   "entity_id": "29485",
+   "types": [
+    "other"
+   ],
+   "phrase": "joy",
+   "start": 38,
+   "end": 41
+  }
+ ],
+ "scene_places": [
+  "park",
+  "street"
+ ]
+}

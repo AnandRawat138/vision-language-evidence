@@ -1,0 +1,29 @@
+{
+ "uid": "vg_2357449",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bear",
+  "chair",
+  "person",
+  "teddy bear",
+  "tie"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shoes": [],
+  "shirt": [
+   "orange"
+  ]
+ },
+ "accessories": [
+  "tie"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

@@ -1,0 +1,223 @@
+{
+ "uid": "vqa_000000576966",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 6,
+  "boat": 4,
+  "umbrella": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    40.59,
+    347.99,
+    13.78,
+    37.28
+   ],
+   "area": 310.64165000000014
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    110.17,
+    363.34,
+    81.94,
+    50.5
+   ],
+   "area": 3412.691200000001
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    251.19,
+    352.14,
+    68.83,
+    38.98
+   ],
+   "area": 1991.8303500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    48.68,
+    343.57,
+    9.89,
+    33.35
+   ],
+   "area": 133.52845000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    107.11,
+    342.7,
+    8.94,
+    30.42
+   ],
+   "area": 147.9729000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    113.84,
+    343.93,
+    9.11,
+    29.01
+   ],
+   "area": 177.67179999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    257.51,
+    362.09,
+    8.29,
+    11.89
+   ],
+   "area": 59.367750000000036
+  },
+  {
+   "category": "person",
+   "bbox": [
+    14.96,
+    345.64,
+    15.3,
+    39.82
+   ],
+   "area": 307.88439999999997
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    206.84,
+    350.51,
+    65.46,
+    64.43
+   ],
+   "area": 2569.54165
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    44.43,
+    329.21,
+    33.89,
+    9.2
+   ],
+   "area": 196.73710000000094
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    287.46,
+    347.02,
+    103.1,
+    42.7
+   ],
+   "area": 2565.2708000000025
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of raft boats sitting on a river side.",
+  "Several boats are docked under a tall mountain.",
+  "A body of water with many people and boats and mountains in the background.",
+  "a bunch of hills and a house build into one next to the water",
+  "A couple of boats near a short line near tall mountains."
+ ],
+ "scene_places": [
+  "snow/mountain",
+  "water"
+ ],
+ "vqa": [
+  {
+   "question_id": 576966000,
+   "question": "What color is the sky?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue and white",
+    "blue",
+    "blue",
+    "blue"
+   ]
+  },
+  {
+   "question_id": 576966001,
+   "question": "How many umbrellas are open?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "no",
+    "2",
+    "1",
+    "1",
+    "5",
+    "1"
+   ]
+  },
+  {
+   "question_id": 576966002,
+   "question": "What city is this?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "phuket",
+   "answers": [
+    "malta",
+    "good time dive resort",
+    "singapore",
+    "phuket",
+    "lesbos",
+    "mexico",
+    "fiji",
+    "honolulu",
+    "it is not city",
+    "nepal"
+   ]
+  },
+  {
+   "question_id": 576966003,
+   "question": "Is it daytime?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

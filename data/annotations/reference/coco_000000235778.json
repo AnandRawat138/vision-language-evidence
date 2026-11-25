@@ -1,0 +1,150 @@
+{
+ "uid": "coco_000000235778",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "kite": 10
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    248.4,
+    125.71,
+    202.95,
+    206.75
+   ],
+   "area": 16724.73375
+  },
+  {
+   "category": "person",
+   "bbox": [
+    524.39,
+    252.88,
+    80.1,
+    78.58
+   ],
+   "area": 5183.182150000001
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    191.1,
+    127.66,
+    53.92,
+    102.29
+   ],
+   "area": 2908.3065000000006
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    411.54,
+    89.6,
+    49.95,
+    109.43
+   ],
+   "area": 2989.8110499999993
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    575.68,
+    25.37,
+    60.26,
+    286.26
+   ],
+   "area": 6357.159850000006
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    95.93,
+    112.27,
+    49.7,
+    213.44
+   ],
+   "area": 4560.0428999999995
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    356.08,
+    105.31,
+    57.22,
+    107.3
+   ],
+   "area": 3101.4463000000014
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    140.34,
+    117.05,
+    47.61,
+    210.31
+   ],
+   "area": 4503.233300000001
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    56.16,
+    93.49,
+    37.82,
+    192.38
+   ],
+   "area": 2668.76765
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    628.54,
+    23.89,
+    11.46,
+    40.18
+   ],
+   "area": 253.423650000001
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    237.46,
+    155.07,
+    18.78,
+    30.53
+   ],
+   "area": 223.34994999999986
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    480.92,
+    61.98,
+    54.2,
+    116.91
+   ],
+   "area": 3492.7736999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A little kid that is playing with stuff.",
+  "a person hanging paper kites to a wire",
+  "a teenager hanging paper tassels from a long string",
+  "A young boy tying paper kites to a string stretched across a room.",
+  "A boy hangs up paper kites on a string."
+ ],
+ "scene_places": []
+}

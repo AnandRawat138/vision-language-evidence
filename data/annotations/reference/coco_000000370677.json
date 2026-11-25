@@ -1,0 +1,190 @@
+{
+ "uid": "coco_000000370677",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "donut",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "donut": 13
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    2.98,
+    49.24,
+    189.51,
+    276.79
+   ],
+   "area": 35702.34359999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    159.66,
+    90.27,
+    191.74,
+    235.76
+   ],
+   "area": 28326.295349999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    348.41,
+    111.04,
+    149.96,
+    217.85
+   ],
+   "area": 22658.500649999998
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    209.45,
+    60.46,
+    41.25,
+    24.2
+   ],
+   "area": 713.8780499999999
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    219.5,
+    37.23,
+    36.95,
+    25.53
+   ],
+   "area": 745.0699500000003
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    155.54,
+    49.08,
+    25.63,
+    10.7
+   ],
+   "area": 229.8497000000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    44.73,
+    41.43,
+    34.18,
+    26.85
+   ],
+   "area": 698.9456499999999
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    254.81,
+    39.93,
+    34.71,
+    24.46
+   ],
+   "area": 516.8321000000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    139.34,
+    125.62,
+    37.6,
+    23.7
+   ],
+   "area": 496.726
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    365.95,
+    57.28,
+    29.54,
+    13.75
+   ],
+   "area": 297.0524000000004
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    477.13,
+    118.63,
+    22.87,
+    11.64
+   ],
+   "area": 179.10390000000027
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    447.84,
+    138.67,
+    28.73,
+    10.9
+   ],
+   "area": 234.23965000000044
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    343.18,
+    64.19,
+    24.77,
+    13.15
+   ],
+   "area": 239.65409999999986
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    330.65,
+    45.37,
+    25.2,
+    12.68
+   ],
+   "area": 262.7306500000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    424.54,
+    50.81,
+    25.51,
+    12.83
+   ],
+   "area": 253.7185
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    0,
+    0,
+    488,
+    302
+   ],
+   "area": 26163
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Three workers stand next to each other with their baked goods behind them.",
+  "three people standing in front of trays of doughnuts and bagels",
+  "Three people in work uniforms and visors standing together in front of various types of donuts.",
+  "Three female workers stand in front of rows of pastries.",
+  "Some girls in colorful shirts standing by some pastries."
+ ],
+ "scene_places": []
+}

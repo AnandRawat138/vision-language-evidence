@@ -1,0 +1,106 @@
+{
+ "uid": "coco_000000371749",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "dog",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 1,
+  "person": 2,
+  "remote": 3,
+  "dog": 1
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    31.45,
+    230.65,
+    250.81,
+    139.51
+   ],
+   "area": 28711.977750000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    224.16,
+    0.0,
+    275.84,
+    367.16
+   ],
+   "area": 61463.08675
+  },
+  {
+   "category": "person",
+   "bbox": [
+    139.26,
+    94.04,
+    260.91,
+    274.33
+   ],
+   "area": 17821.637450000002
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    284.59,
+    164.28,
+    82.58,
+    67.33
+   ],
+   "area": 1464.7941500000013
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    125.65,
+    174.79,
+    63.89,
+    38.78
+   ],
+   "area": 1028.5522500000004
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    213.93,
+    228.43,
+    48.84,
+    39.79
+   ],
+   "area": 1092.70125
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    109.64,
+    22.08,
+    100.72,
+    115.66
+   ],
+   "area": 8281.61095
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of women holding game controllers in their hands.",
+  "There are two women holding objects in their hands.",
+  "Two women play Wii in a room with a white sofa.",
+  "Two woman playing a video game in their living room.",
+  "Two girls holding Wii controllers, playing video games in a living room."
+ ],
+ "scene_places": [
+  "living room"
+ ]
+}

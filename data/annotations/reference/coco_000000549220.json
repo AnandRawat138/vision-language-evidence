@@ -1,0 +1,116 @@
+{
+ "uid": "coco_000000549220",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "book",
+  "dog",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 4,
+  "skateboard": 1,
+  "book": 1,
+  "bench": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    0.0,
+    86.63,
+    451.23,
+    394.34
+   ],
+   "area": 104988.31994999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    248.05,
+    2.87,
+    139.79,
+    226.13
+   ],
+   "area": 17390.720599999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    358.11,
+    33.08,
+    121.89,
+    202.79
+   ],
+   "area": 10277.502349999999
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    1.44,
+    344.5,
+    478.56,
+    175.86
+   ],
+   "area": 32394.524650000014
+  },
+  {
+   "category": "book",
+   "bbox": [
+    350.1,
+    56.87,
+    57.01,
+    41.27
+   ],
+   "area": 1044.9046999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    391.61,
+    8.66,
+    88.39,
+    208.97
+   ],
+   "area": 5172.59205
+  },
+  {
+   "category": "person",
+   "bbox": [
+    441.71,
+    35.48,
+    38.29,
+    75.89
+   ],
+   "area": 1757.3906000000002
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    360.73,
+    146.1,
+    57.16,
+    80.44
+   ],
+   "area": 1008.5572000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A dog on a leash trying to ride a skateboard.",
+  "A small dog standing on top of a skateboard.",
+  "A very cute dog standing on a skate board.",
+  "a dog that is sitting on a skate board",
+  "a close up of a dog riding a skate board"
+ ],
+ "scene_places": []
+}

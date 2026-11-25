@@ -1,0 +1,116 @@
+{
+ "uid": "coco_000000116362",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "apple",
+  "bowl",
+  "carrot",
+  "dining table",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "spoon": 1,
+  "apple": 3,
+  "bowl": 2,
+  "dining table": 1,
+  "carrot": 1
+ },
+ "object_boxes": [
+  {
+   "category": "spoon",
+   "bbox": [
+    26.19,
+    44.8,
+    409.38,
+    223.29
+   ],
+   "area": 28935.27355
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    190.54,
+    244.94,
+    131.47,
+    64.71
+   ],
+   "area": 4936.617300000001
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    72.89,
+    27.28,
+    518.48,
+    390.58
+   ],
+   "area": 155132.42575
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    22.54,
+    402.45,
+    231.2,
+    194.27
+   ],
+   "area": 38342.92355000001
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    441.91,
+    168.5,
+    52.46,
+    44.51
+   ],
+   "area": 1389.6998499999997
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    340.07,
+    330.68,
+    124.55,
+    42.9
+   ],
+   "area": 3569.3423
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    28.61,
+    247.98,
+    562.73,
+    349.71
+   ],
+   "area": 86850.82160000004
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    313.93,
+    108.4,
+    127.4,
+    125.86
+   ],
+   "area": 8027.2184499999985
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bowl filled with food on top of a wooden table.",
+  "A small bowl filled with chopped vegetables and spoon",
+  "A bowl of food sits prepared with eating utensils.",
+  "A bowl with a bunch of food in it sitting on a table",
+  "Grainy photograph of thinly sliced fruit in a bowl"
+ ],
+ "scene_places": []
+}

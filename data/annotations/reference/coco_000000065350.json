@@ -1,0 +1,188 @@
+{
+ "uid": "coco_000000065350",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bicycle",
+  "car",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "car": 3,
+  "bicycle": 4,
+  "backpack": 2,
+  "skateboard": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    221.48,
+    41.34,
+    188.04,
+    220.22
+   ],
+   "area": 20567.0929
+  },
+  {
+   "category": "person",
+   "bbox": [
+    462.71,
+    30.61,
+    169.35,
+    235.73
+   ],
+   "area": 15722.059349999976
+  },
+  {
+   "category": "car",
+   "bbox": [
+    54.03,
+    1.13,
+    212.54,
+    84.55
+   ],
+   "area": 9326.491800000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.48,
+    0.21,
+    63.5,
+    66.41
+   ],
+   "area": 3622.68105
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    286.11,
+    23.42,
+    61.51,
+    62.18
+   ],
+   "area": 1900.6201999999996
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    448.27,
+    186.71,
+    82.11,
+    59.79
+   ],
+   "area": 1674.6047999999992
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    534.33,
+    241.29,
+    100.32,
+    16.37
+   ],
+   "area": 650.4034500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    528.73,
+    71.53,
+    108.43,
+    187.11
+   ],
+   "area": 9457.072400000001
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    219.44,
+    3.75,
+    173.1,
+    84.89
+   ],
+   "area": 8728.581650000002
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    464.16,
+    0.0,
+    131.92,
+    94.28
+   ],
+   "area": 7679.036399999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    467.66,
+    42.25,
+    38.37,
+    51.07
+   ],
+   "area": 1310.8689499999987
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    529.08,
+    218.58,
+    31.19,
+    26.52
+   ],
+   "area": 262.4910999999998
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    193.0,
+    153.1,
+    105.28,
+    76.85
+   ],
+   "area": 2356.82775
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    468.58,
+    253.59,
+    141.52,
+    33.07
+   ],
+   "area": 1555.5740499999993
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    596.7,
+    0.67,
+    43.3,
+    96.33
+   ],
+   "area": 2199.1607500000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Kids are skateboarding at a skate park and one them has fallen down.",
+  "A man flying through the air while riding a skateboard.",
+  "Two young people are skateboarding on the ramp, trying to pull off tricks.",
+  "A skateboarder wearing a helmet doing a trick at a skate park.",
+  "A young person is doing a trick on their skateboard."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

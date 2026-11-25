@@ -1,0 +1,226 @@
+{
+ "uid": "coco_000000173008",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "cake",
+  "cup",
+  "microwave",
+  "orange",
+  "oven",
+  "person",
+  "scissors",
+  "toaster"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "banana": 2,
+  "orange": 1,
+  "microwave": 1,
+  "toaster": 1,
+  "cake": 8,
+  "oven": 2,
+  "cup": 1,
+  "scissors": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    242.7,
+    66.95,
+    265.34,
+    407.73
+   ],
+   "area": 68865.00105
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    257.86,
+    196.31,
+    53.72,
+    93.72
+   ],
+   "area": 2255.27285
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    49.95,
+    444.43,
+    43.72,
+    30.93
+   ],
+   "area": 975.5072500000005
+  },
+  {
+   "category": "microwave",
+   "bbox": [
+    345.17,
+    92.76,
+    99.23,
+    105.71
+   ],
+   "area": 4825.458500000001
+  },
+  {
+   "category": "toaster",
+   "bbox": [
+    0.0,
+    300.94,
+    67.96,
+    124.05
+   ],
+   "area": 7129.695450000002
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    24.25,
+    421.13,
+    119.64,
+    58.87
+   ],
+   "area": 1958.3458
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    174.31,
+    325.08,
+    33.24,
+    20.4
+   ],
+   "area": 374.0575000000001
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    104.33,
+    364.01,
+    47.87,
+    18.76
+   ],
+   "area": 660.9520499999999
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    140.87,
+    341.44,
+    35.02,
+    33.31
+   ],
+   "area": 768.2907500000003
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    211.57,
+    317.18,
+    17.12,
+    20.6
+   ],
+   "area": 248.0070500000001
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    124.62,
+    353.58,
+    21.58,
+    18.33
+   ],
+   "area": 189.0219000000001
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    166.51,
+    404.65,
+    21.46,
+    19.3
+   ],
+   "area": 298.0097500000002
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    473.54,
+    319.82,
+    49.08,
+    158.07
+   ],
+   "area": 4476.390549999995
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    488.49,
+    265.45,
+    23.86,
+    43.93
+   ],
+   "area": 850.5232000000013
+  },
+  {
+   "category": "scissors",
+   "bbox": [
+    189.43,
+    399.35,
+    51.41,
+    21.2
+   ],
+   "area": 382.6489999999995
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    194.83,
+    341.01,
+    19.52,
+    12.44
+   ],
+   "area": 194.0274000000001
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    225.81,
+    271.92,
+    47.4,
+    118.23
+   ],
+   "area": 2603.3735999999976
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    144.48,
+    381.99,
+    16.76,
+    9.76
+   ],
+   "area": 113.01079999999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man in a tropical print shirt with glasses and long hair is eating a banana.",
+  "A man wearing a Hawaiian shirt eats a banana instead of pastries.",
+  "Man taking a bite of a half peeled banana.",
+  "a person eating a banana in a kitchen",
+  "A man eating a banana at a kitchen counter."
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000389316",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "elephant",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "elephant": 2,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "elephant",
+   "bbox": [
+    219.03,
+    64.9,
+    315.57,
+    238.5
+   ],
+   "area": 43383.01745000001
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    93.71,
+    79.66,
+    124.68,
+    255.87
+   ],
+   "area": 21243.700800000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    535.3,
+    56.33,
+    89.11,
+    215.37
+   ],
+   "area": 6000.040100000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two young elephants stand next to a wooden fence.",
+  "Two baby elephants take a drink from a trainer in an enclosure.",
+  "Two elephants are standing inside of an enclosure",
+  "Two elephants in an enclosure at a zoo.",
+  "Two elephants outside, one being fed, one standing."
+ ],
+ "scene_places": [
+  "farm/rural"
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "uid": "coco_000000052891",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "frisbee": 1,
+  "person": 6
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    146.08,
+    125.33,
+    372.54,
+    301.67
+   ],
+   "area": 52628.033650000005
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    29.75,
+    289.78,
+    275.39,
+    132.42
+   ],
+   "area": 26009.713
+  },
+  {
+   "category": "person",
+   "bbox": [
+    612.81,
+    127.3,
+    4.76,
+    4.66
+   ],
+   "area": 13.542050000000037
+  },
+  {
+   "category": "person",
+   "bbox": [
+    608.4,
+    126.99,
+    4.8,
+    5.13
+   ],
+   "area": 17.198300000000017
+  },
+  {
+   "category": "person",
+   "bbox": [
+    597.85,
+    125.8,
+    3.15,
+    4.68
+   ],
+   "area": 10.396349999999874
+  },
+  {
+   "category": "person",
+   "bbox": [
+    587.43,
+    127.72,
+    2.77,
+    2.37
+   ],
+   "area": 5.803650000000218
+  },
+  {
+   "category": "person",
+   "bbox": [
+    595.49,
+    127.32,
+    2.55,
+    3.98
+   ],
+   "area": 8.280000000000026
+  },
+  {
+   "category": "person",
+   "bbox": [
+    604.8,
+    129.1,
+    3.4,
+    2.22
+   ],
+   "area": 4.78025000000008
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "There is a dog holding a Frisbee in its mouth.",
+  "A very cute looking dog with a disc on the beach.",
+  "A dog holding a Frisbee in the middle of a beach.",
+  "A dog walking on the beach with a frizzbe in his month.",
+  "A shaggy dog is at the beach with a frisbee."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

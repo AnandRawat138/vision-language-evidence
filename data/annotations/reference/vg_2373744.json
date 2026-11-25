@@ -1,0 +1,33 @@
+{
+ "uid": "vg_2373744",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "green"
+  ],
+  "skirt": [
+   "pink"
+  ],
+  "shoes": [
+   "pink",
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [
+  "umbrella"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

@@ -1,0 +1,182 @@
+{
+ "uid": "coco_000000496571",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "cell phone",
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "person",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 2,
+  "cup": 4,
+  "fork": 2,
+  "spoon": 1,
+  "bowl": 1,
+  "knife": 2,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    23.38,
+    186.83,
+    50.39,
+    69.8
+   ],
+   "area": 2257.5308999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    50.34,
+    1.2,
+    260.31,
+    163.95
+   ],
+   "area": 34912.24215
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    257.53,
+    183.86,
+    46.64,
+    61.68
+   ],
+   "area": 2264.1173
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    239.94,
+    437.06,
+    107.06,
+    27.31
+   ],
+   "area": 848.3014
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    193.87,
+    102.52,
+    33.41,
+    77.76
+   ],
+   "area": 261.19180000000006
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    254.25,
+    377.62,
+    23.21,
+    116.68
+   ],
+   "area": 927.8607999999982
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    372.67,
+    230.97,
+    54.23,
+    72.44
+   ],
+   "area": 3248.4481499999983
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    290.91,
+    361.55,
+    68.86,
+    72.62
+   ],
+   "area": 3324.730449999998
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    358.03,
+    329.19,
+    63.43,
+    59.42
+   ],
+   "area": 2501.04545
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    117.45,
+    203.9,
+    61.38,
+    61.82
+   ],
+   "area": 2687.70595
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    274.7,
+    359.55,
+    17.26,
+    138.07
+   ],
+   "area": 1092.0545999999993
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    77.49,
+    191.08,
+    103.74,
+    15.05
+   ],
+   "area": 644.3912500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    82.98,
+    559.46,
+    266.89,
+    80.54
+   ],
+   "area": 13451.060699999993
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    132.52,
+    427.0,
+    387.83
+   ],
+   "area": 155242.5962
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person is eating at a table with plates, a fork, knife, spoon, cup, and cell phone on it.",
+  "Overhead view of a table with a log and food on it.",
+  "People eating meal consisting of eggs, lettuce, tomatoes, nuts, and a leafy food wrapped in a tortilla.",
+  "A woman taking a picture of a man eating.",
+  "Downward angled picture of meal for two on a white table"
+ ],
+ "scene_places": []
+}

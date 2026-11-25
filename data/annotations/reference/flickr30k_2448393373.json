@@ -1,0 +1,190 @@
+{
+ "uid": "flickr30k_2448393373",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young boy wearing blue is holding a blue baseball bat and holding a white ball in his hand .",
+  "A boy with a plastic bat , looking skyward , about to throw a ball .",
+  "A small boy playing in the grass with a blue bat and a ball .",
+  "A little boy plays baseball with himself .",
+  "A boy plays baseball ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "50467",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "50468",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue",
+   "start": 20,
+   "end": 24
+  },
+  {
+   "entity_id": "50469",
+   "types": [
+    "other"
+   ],
+   "phrase": "a blue baseball bat",
+   "start": 36,
+   "end": 55
+  },
+  {
+   "entity_id": "50470",
+   "types": [
+    "other"
+   ],
+   "phrase": "a white ball",
+   "start": 68,
+   "end": 80
+  },
+  {
+   "entity_id": "50471",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hand",
+   "start": 84,
+   "end": 92
+  },
+  {
+   "entity_id": "50467",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "50469",
+   "types": [
+    "other"
+   ],
+   "phrase": "a plastic bat",
+   "start": 11,
+   "end": 24
+  },
+  {
+   "entity_id": "50473",
+   "types": [
+    "other"
+   ],
+   "phrase": "about",
+   "start": 45,
+   "end": 50
+  },
+  {
+   "entity_id": "50470",
+   "types": [
+    "other"
+   ],
+   "phrase": "a ball",
+   "start": 60,
+   "end": 66
+  },
+  {
+   "entity_id": "50467",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "50472",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the grass",
+   "start": 23,
+   "end": 32
+  },
+  {
+   "entity_id": "50469",
+   "types": [
+    "other"
+   ],
+   "phrase": "a blue bat",
+   "start": 38,
+   "end": 48
+  },
+  {
+   "entity_id": "50470",
+   "types": [
+    "other"
+   ],
+   "phrase": "a ball",
+   "start": 53,
+   "end": 59
+  },
+  {
+   "entity_id": "50467",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "50474",
+   "types": [
+    "other"
+   ],
+   "phrase": "baseball",
+   "start": 19,
+   "end": 27
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "himself",
+   "start": 33,
+   "end": 40
+  },
+  {
+   "entity_id": "50467",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "50474",
+   "types": [
+    "other"
+   ],
+   "phrase": "baseball",
+   "start": 12,
+   "end": 20
+  }
+ ],
+ "scene_places": []
+}

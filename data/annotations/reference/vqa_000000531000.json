@@ -1,0 +1,116 @@
+{
+ "uid": "vqa_000000531000",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 1
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    0.0,
+    13.01,
+    563.87,
+    411.58
+   ],
+   "area": 94999.3614
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A giraffe with its teeth on a fence.",
+  "A giraffe licking a board on a  fence.",
+  "A giraffe head, opening its mouth to bit at a wooden fence.",
+  "A giraffe holds its mouth open over a piece of wood.",
+  "a giraffes head is near a wood fence"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 531000000,
+   "question": "Is the giraffe's mouth open?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 531000001,
+   "question": "Is the giraffe eating the log?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 531000002,
+   "question": "How many animals are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 531000003,
+   "question": "Is the giraffe eating leaves?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

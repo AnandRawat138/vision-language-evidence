@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000070229",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "person",
+  "teddy bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "bench": 2,
+  "teddy bear": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    453.14,
+    312.48,
+    24.48,
+    69.28
+   ],
+   "area": 850.3122000000004
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    7.19,
+    204.32,
+    473.81,
+    421.39
+   ],
+   "area": 39519.78895000001
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    287.84,
+    365.81,
+    60.3,
+    67.32
+   ],
+   "area": 1994.38815
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    4.99,
+    262.65,
+    370.7,
+    369.04
+   ],
+   "area": 96207.44825
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a park bench that has a teddy bear on it",
+  "A black and white teddy bear sitting on a park bench.",
+  "A teddy bear sitting on a bench in the middle of the park.",
+  "A teddy bear sitting on top of a wooden bench.",
+  "A close up of a black and white teddy bear sitting on a bench."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

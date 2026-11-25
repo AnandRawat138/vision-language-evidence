@@ -1,0 +1,136 @@
+{
+ "uid": "coco_000000277051",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird",
+  "bottle",
+  "chair",
+  "dining table",
+  "knife"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 4,
+  "chair": 2,
+  "knife": 1,
+  "dining table": 2,
+  "bottle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    254.91,
+    173.01,
+    183.13,
+    153.68
+   ],
+   "area": 10574.301250000008
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    65.2,
+    193.76,
+    309.46,
+    168.04
+   ],
+   "area": 21308.755750000004
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    427.0,
+    65.2,
+    151.52,
+    112.95
+   ],
+   "area": 8014.16265
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    21.11,
+    338.72,
+    485.53,
+    82.52
+   ],
+   "area": 11017.630050000007
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    284.03,
+    640.0,
+    138.17
+   ],
+   "area": 62830.83435
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    472.1,
+    133.08,
+    167.9,
+    41.26
+   ],
+   "area": 3378.3899999999976
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    55.45,
+    3.33,
+    130.88,
+    302.78
+   ],
+   "area": 30471.062749999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    614.42,
+    71.17,
+    25.58,
+    46.73
+   ],
+   "area": 877.1649500000004
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    500.78,
+    99.53,
+    85.75,
+    50.76
+   ],
+   "area": 1650.0963499999996
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    500.22,
+    99.43,
+    86.1,
+    49.66
+   ],
+   "area": 1567.3083000000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "two little sparrows standing on a table by a knife",
+  "two gray white and brown birds a knife and a red table",
+  "A couple of small birds standing on top of a table.",
+  "Two sparrows sit n a table with a red tablecloth at an outdoor cafe.",
+  "Two birds perched on a table near a plate of food."
+ ],
+ "scene_places": []
+}

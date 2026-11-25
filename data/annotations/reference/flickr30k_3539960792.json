@@ -1,0 +1,250 @@
+{
+ "uid": "flickr30k_3539960792",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "uniform": [
+   "red"
+  ]
+ },
+ "accessories": [
+  "gloves"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "There is a baseball player standing at home plate , the catcher behind him has his hand up in the air with his glove , and the umpire is standing behind him , and many people in the stands .",
+  "A baseball player holds his bat , while the catcher and umpire squat behind him and a crowd watches .",
+  "A man in a red and white uniform holding a bat .",
+  "A baseball player getting ready to bat .",
+  "A baseball player is holding a bat ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "There",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "126022",
+   "types": [
+    "people"
+   ],
+   "phrase": "a baseball player",
+   "start": 9,
+   "end": 26
+  },
+  {
+   "entity_id": "126030",
+   "types": [
+    "other"
+   ],
+   "phrase": "home plate",
+   "start": 39,
+   "end": 49
+  },
+  {
+   "entity_id": "126027",
+   "types": [
+    "people"
+   ],
+   "phrase": "the catcher",
+   "start": 52,
+   "end": 63
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 71,
+   "end": 74
+  },
+  {
+   "entity_id": "126031",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hand",
+   "start": 79,
+   "end": 87
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 94,
+   "end": 101
+  },
+  {
+   "entity_id": "126029",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "his glove",
+   "start": 107,
+   "end": 116
+  },
+  {
+   "entity_id": "126026",
+   "types": [
+    "people"
+   ],
+   "phrase": "the umpire",
+   "start": 123,
+   "end": 133
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 153,
+   "end": 156
+  },
+  {
+   "entity_id": "126025",
+   "types": [
+    "people"
+   ],
+   "phrase": "many people",
+   "start": 163,
+   "end": 174
+  },
+  {
+   "entity_id": "126025",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the stands",
+   "start": 178,
+   "end": 188
+  },
+  {
+   "entity_id": "126022",
+   "types": [
+    "people"
+   ],
+   "phrase": "A baseball player",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "126024",
+   "types": [
+    "other"
+   ],
+   "phrase": "his bat",
+   "start": 24,
+   "end": 31
+  },
+  {
+   "entity_id": "126027",
+   "types": [
+    "people"
+   ],
+   "phrase": "the catcher",
+   "start": 40,
+   "end": 51
+  },
+  {
+   "entity_id": "126026",
+   "types": [
+    "people"
+   ],
+   "phrase": "umpire",
+   "start": 56,
+   "end": 62
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 76,
+   "end": 79
+  },
+  {
+   "entity_id": "126025",
+   "types": [
+    "people"
+   ],
+   "phrase": "a crowd",
+   "start": 84,
+   "end": 91
+  },
+  {
+   "entity_id": "126022",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "126028",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red and white uniform",
+   "start": 9,
+   "end": 32
+  },
+  {
+   "entity_id": "126024",
+   "types": [
+    "other"
+   ],
+   "phrase": "a bat",
+   "start": 41,
+   "end": 46
+  },
+  {
+   "entity_id": "126022",
+   "types": [
+    "people"
+   ],
+   "phrase": "A baseball player",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "126022",
+   "types": [
+    "people"
+   ],
+   "phrase": "A baseball player",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "126024",
+   "types": [
+    "other"
+   ],
+   "phrase": "a bat",
+   "start": 29,
+   "end": 34
+  }
+ ],
+ "scene_places": []
+}

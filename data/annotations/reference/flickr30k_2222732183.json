@@ -1,0 +1,169 @@
+{
+ "uid": "flickr30k_2222732183",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "sweater": [
+   "blue"
+  ],
+  "shirt": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman and a young boy are sitting on a flowered couch and reading .",
+  "A woman wearing a blue sweater is reading to a boy on the couch .",
+  "A woman with a blue shirt is reading to her son .",
+  "A woman in a blue shirt reads to a young boy .",
+  "a mother is sitting and reading with her son ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "35050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "35052",
+   "types": [
+    "people"
+   ],
+   "phrase": "a young boy",
+   "start": 12,
+   "end": 23
+  },
+  {
+   "entity_id": "35053",
+   "types": [
+    "other"
+   ],
+   "phrase": "a flowered couch",
+   "start": 39,
+   "end": 55
+  },
+  {
+   "entity_id": "35050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "35051",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue sweater",
+   "start": 16,
+   "end": 30
+  },
+  {
+   "entity_id": "35052",
+   "types": [
+    "people"
+   ],
+   "phrase": "a boy",
+   "start": 45,
+   "end": 50
+  },
+  {
+   "entity_id": "35053",
+   "types": [
+    "other"
+   ],
+   "phrase": "the couch",
+   "start": 54,
+   "end": 63
+  },
+  {
+   "entity_id": "35050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "35051",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue shirt",
+   "start": 13,
+   "end": 25
+  },
+  {
+   "entity_id": "35052",
+   "types": [
+    "people"
+   ],
+   "phrase": "her son",
+   "start": 40,
+   "end": 47
+  },
+  {
+   "entity_id": "35050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "35051",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue shirt",
+   "start": 11,
+   "end": 23
+  },
+  {
+   "entity_id": "35052",
+   "types": [
+    "people"
+   ],
+   "phrase": "a young boy",
+   "start": 33,
+   "end": 44
+  },
+  {
+   "entity_id": "35050",
+   "types": [
+    "people"
+   ],
+   "phrase": "a mother",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "35052",
+   "types": [
+    "people"
+   ],
+   "phrase": "her son",
+   "start": 37,
+   "end": 44
+  }
+ ],
+ "scene_places": []
+}

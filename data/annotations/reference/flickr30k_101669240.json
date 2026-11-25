@@ -1,0 +1,231 @@
+{
+ "uid": "flickr30k_101669240",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skis"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A person wearing skis looking at framed pictures set up in the snow .",
+  "A man in a hat is displaying pictures next to a skier in a blue hat .",
+  "A man skis past another man displaying paintings in the snow .",
+  "A skier looks at framed pictures in the snow next to trees .",
+  "Man on skis looking at artwork for sale in the snow"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "538",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "539",
+   "types": [
+    "other"
+   ],
+   "phrase": "skis",
+   "start": 17,
+   "end": 21
+  },
+  {
+   "entity_id": "540",
+   "types": [
+    "other"
+   ],
+   "phrase": "framed pictures",
+   "start": 33,
+   "end": 48
+  },
+  {
+   "entity_id": "541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the snow",
+   "start": 59,
+   "end": 67
+  },
+  {
+   "entity_id": "542",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "543",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a hat",
+   "start": 9,
+   "end": 14
+  },
+  {
+   "entity_id": "540",
+   "types": [
+    "other"
+   ],
+   "phrase": "pictures",
+   "start": 29,
+   "end": 37
+  },
+  {
+   "entity_id": "538",
+   "types": [
+    "people"
+   ],
+   "phrase": "a skier",
+   "start": 46,
+   "end": 53
+  },
+  {
+   "entity_id": "544",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue hat",
+   "start": 57,
+   "end": 67
+  },
+  {
+   "entity_id": "538",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "542",
+   "types": [
+    "people"
+   ],
+   "phrase": "another man",
+   "start": 16,
+   "end": 27
+  },
+  {
+   "entity_id": "540",
+   "types": [
+    "other"
+   ],
+   "phrase": "paintings",
+   "start": 39,
+   "end": 48
+  },
+  {
+   "entity_id": "541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the snow",
+   "start": 52,
+   "end": 60
+  },
+  {
+   "entity_id": "538",
+   "types": [
+    "people"
+   ],
+   "phrase": "A skier",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "540",
+   "types": [
+    "other"
+   ],
+   "phrase": "framed pictures",
+   "start": 17,
+   "end": 32
+  },
+  {
+   "entity_id": "541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the snow",
+   "start": 36,
+   "end": 44
+  },
+  {
+   "entity_id": "545",
+   "types": [
+    "other"
+   ],
+   "phrase": "trees",
+   "start": 53,
+   "end": 58
+  },
+  {
+   "entity_id": "538",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "539",
+   "types": [
+    "other"
+   ],
+   "phrase": "skis",
+   "start": 7,
+   "end": 11
+  },
+  {
+   "entity_id": "540",
+   "types": [
+    "other"
+   ],
+   "phrase": "artwork",
+   "start": 23,
+   "end": 30
+  },
+  {
+   "entity_id": "546",
+   "types": [
+    "other"
+   ],
+   "phrase": "sale",
+   "start": 35,
+   "end": 39
+  },
+  {
+   "entity_id": "541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the snow",
+   "start": 43,
+   "end": 51
+  }
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

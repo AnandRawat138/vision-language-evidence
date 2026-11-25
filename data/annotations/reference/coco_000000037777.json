@@ -1,0 +1,184 @@
+{
+ "uid": "coco_000000037777",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "chair",
+  "dining table",
+  "orange",
+  "oven",
+  "potted plant",
+  "refrigerator",
+  "sink"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 1,
+  "chair": 3,
+  "dining table": 1,
+  "refrigerator": 1,
+  "banana": 1,
+  "oven": 1,
+  "sink": 1,
+  "orange": 5
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    102.49,
+    118.47,
+    7.9,
+    17.31
+   ],
+   "area": 88.52115000000006
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    26.5,
+    215.25,
+    61.5,
+    14.5
+   ],
+   "area": 546.375
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    116.5,
+    189.57,
+    50.0,
+    25.5
+   ],
+   "area": 394.875
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    79.55,
+    178.05,
+    208.36,
+    48.7
+   ],
+   "area": 6174.067000000002
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    301.84,
+    74.94,
+    49.62,
+    151.44
+   ],
+   "area": 7005.383600000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    220.65,
+    178.93,
+    37.84,
+    27.91
+   ],
+   "area": 386.12880000000007
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    137.47,
+    124.11,
+    60.18,
+    71.02
+   ],
+   "area": 3612.881550000001
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    266.33,
+    134.49,
+    27.87,
+    3.47
+   ],
+   "area": 54.88899999999999
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    215.77,
+    184.9,
+    17.26,
+    15.97
+   ],
+   "area": 223.43700000000007
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    231.6,
+    200.96,
+    16.69,
+    15.93
+   ],
+   "area": 203.87264999999996
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    230.55,
+    178.25,
+    11.73,
+    10.98
+   ],
+   "area": 102.20185000000008
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    205.19,
+    187.01,
+    14.99,
+    21.2
+   ],
+   "area": 231.49945000000017
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    241.95,
+    180.42,
+    51.37,
+    45.4
+   ],
+   "area": 608.3693000000005
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    217.89,
+    200.56,
+    14.14,
+    13.49
+   ],
+   "area": 155.8865500000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The dining table near the kitchen has a bowl of fruit on it.",
+  "A small kitchen has various appliances and a table.",
+  "The kitchen is clean and ready for us to see.",
+  "A kitchen and dining area decorated in white.",
+  "A kitchen that has a bowl of fruit on the table."
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

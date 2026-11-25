@@ -1,0 +1,111 @@
+{
+ "uid": "vqa_000000250506",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "skateboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    179.03,
+    41.28,
+    261.37,
+    359.98
+   ],
+   "area": 44233.84469999999
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    126.01,
+    279.71,
+    445.88,
+    97.23
+   ],
+   "area": 11497.559800000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A young girl sitting on top of a skateboard.",
+  "A little girl that is sitting down on a skateboard.",
+  "A toddler sits on a skateboard in an open grass field",
+  "A little girl sitting on a skateboard in the grass.",
+  "a kid is sitting on a skateboard outside"
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 250506000,
+   "question": "Is her right hand free?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 250506001,
+   "question": "What is the girl seated on?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "skateboard",
+   "answers": [
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard"
+   ]
+  },
+  {
+   "question_id": 250506002,
+   "question": "Is she a pro skater?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

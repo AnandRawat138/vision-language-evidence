@@ -1,0 +1,206 @@
+{
+ "uid": "flickr30k_3246724744",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black"
+  ],
+  "shorts": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young woman wearing a black shirt and black shorts jumps in the air at the beach .",
+  "A girl jumping in the air on the beach in front of the water .",
+  "A girl is jumping on the beach with her legs and arms spread .",
+  "A girl leaps into the air in front of the ocean .",
+  "A girl is jumping into the air by the ocean ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "104050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "104055",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black shirt",
+   "start": 22,
+   "end": 35
+  },
+  {
+   "entity_id": "104056",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black shorts",
+   "start": 40,
+   "end": 52
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 62,
+   "end": 69
+  },
+  {
+   "entity_id": "104051",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 73,
+   "end": 82
+  },
+  {
+   "entity_id": "104050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 18,
+   "end": 25
+  },
+  {
+   "entity_id": "104054",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 29,
+   "end": 38
+  },
+  {
+   "entity_id": "104051",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 51,
+   "end": 60
+  },
+  {
+   "entity_id": "104050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "104051",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 21,
+   "end": 30
+  },
+  {
+   "entity_id": "104057",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her legs",
+   "start": 36,
+   "end": 44
+  },
+  {
+   "entity_id": "104058",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "arms",
+   "start": 49,
+   "end": 53
+  },
+  {
+   "entity_id": "104050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 18,
+   "end": 25
+  },
+  {
+   "entity_id": "104051",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the ocean",
+   "start": 38,
+   "end": 47
+  },
+  {
+   "entity_id": "104050",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 23,
+   "end": 30
+  },
+  {
+   "entity_id": "104051",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the ocean",
+   "start": 34,
+   "end": 43
+  }
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

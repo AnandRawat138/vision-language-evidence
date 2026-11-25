@@ -1,0 +1,53 @@
+{
+ "uid": "coco_000000197658",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "baseball glove": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "baseball glove",
+   "bbox": [
+    152.49,
+    394.18,
+    97.8,
+    66.15
+   ],
+   "area": 4646.074449999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    178.34,
+    140.94,
+    384.0,
+    438.66
+   ],
+   "area": 65452.05399999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Cather preparing to catch ball in an empty field",
+  "a baseball player on a baseball field fielding a baseball",
+  "A baseball player wearing a catchers mitt in a baseball field.",
+  "The baseball player is waiting for the ball.",
+  "A man getting ready to catch a baseball."
+ ],
+ "scene_places": [
+  "park",
+  "sports field"
+ ]
+}

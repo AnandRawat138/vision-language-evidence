@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000527220",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "motorcycle"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 1,
+  "motorcycle": 3
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    3.0,
+    3.5,
+    163.0,
+    154.5
+   ],
+   "area": 24530.625
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    345.0,
+    3.0,
+    96.0,
+    152.5
+   ],
+   "area": 6502.0
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    335.85,
+    6.17,
+    97.68,
+    122.35
+   ],
+   "area": 2762.029499999998
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    395.5,
+    5.5,
+    102.5,
+    160.0
+   ],
+   "area": 10674.875
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A red car next to a gas station sign and parked blue and silver motorcycles.",
+  "A red Ferrari at a gas station showing the gas prices and three mopeds",
+  "A car with some gas prices and motorcycle lined up.",
+  "A collage shows a car, a gas station sign, and motor scooters.",
+  "A bunch of vespas , a car and gas signs"
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

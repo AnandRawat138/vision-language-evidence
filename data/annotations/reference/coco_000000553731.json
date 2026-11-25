@@ -1,0 +1,100 @@
+{
+ "uid": "coco_000000553731",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 6,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    172.75,
+    56.29,
+    260.1,
+    365.89
+   ],
+   "area": 61807.201199999996
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    316.65,
+    148.38,
+    8.54,
+    15.15
+   ],
+   "area": 83.80580000000036
+  },
+  {
+   "category": "person",
+   "bbox": [
+    392.07,
+    336.42,
+    175.96,
+    91.58
+   ],
+   "area": 5443.0189
+  },
+  {
+   "category": "person",
+   "bbox": [
+    20.34,
+    118.03,
+    117.92,
+    91.72
+   ],
+   "area": 8089.576650000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    363.01,
+    135.62,
+    63.42,
+    76.33
+   ],
+   "area": 2622.746850000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    583.81,
+    193.32,
+    55.79,
+    228.91
+   ],
+   "area": 9166.877050000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    409.55,
+    0.0,
+    230.45,
+    428.0
+   ],
+   "area": 54292.64675
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A clown talking on a  phone next to a building.",
+  "A man dressed up as a clown is holding a cellphone to his ear.",
+  "Mandor stuff is a clown holding his cell phone up to his face.",
+  "A clown is standing in a cable car and talking on a cell phone.",
+  "A man dressed as a clown talking on his phone."
+ ],
+ "scene_places": []
+}

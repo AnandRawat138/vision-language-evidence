@@ -1,0 +1,180 @@
+{
+ "uid": "flickr30k_3449846784",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A dog is up on its backlegs trying OT catch a ball above its head .",
+  "A dog plays catch with a white ball near a wooden fence .",
+  "A black dog looks up at a white ball that 's in midair .",
+  "A black and white dog catching a baseball in midair .",
+  "A black and white dog is playing with a white ball ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "119090",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A dog",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "119095",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "its backlegs",
+   "start": 15,
+   "end": 27
+  },
+  {
+   "entity_id": "119093",
+   "types": [
+    "other"
+   ],
+   "phrase": "OT",
+   "start": 35,
+   "end": 37
+  },
+  {
+   "entity_id": "119091",
+   "types": [
+    "other"
+   ],
+   "phrase": "a ball",
+   "start": 44,
+   "end": 50
+  },
+  {
+   "entity_id": "119096",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "its head",
+   "start": 57,
+   "end": 65
+  },
+  {
+   "entity_id": "119090",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A dog",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "119091",
+   "types": [
+    "other"
+   ],
+   "phrase": "a white ball",
+   "start": 23,
+   "end": 35
+  },
+  {
+   "entity_id": "119094",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a wooden fence",
+   "start": 41,
+   "end": 55
+  },
+  {
+   "entity_id": "119090",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A black dog",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "119091",
+   "types": [
+    "other"
+   ],
+   "phrase": "a white ball",
+   "start": 24,
+   "end": 36
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 37,
+   "end": 41
+  },
+  {
+   "entity_id": "119092",
+   "types": [
+    "scene"
+   ],
+   "phrase": "midair",
+   "start": 48,
+   "end": 54
+  },
+  {
+   "entity_id": "119090",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A black and white dog",
+   "start": 0,
+   "end": 21
+  },
+  {
+   "entity_id": "119091",
+   "types": [
+    "other"
+   ],
+   "phrase": "a baseball",
+   "start": 31,
+   "end": 41
+  },
+  {
+   "entity_id": "119092",
+   "types": [
+    "scene"
+   ],
+   "phrase": "midair",
+   "start": 45,
+   "end": 51
+  },
+  {
+   "entity_id": "119090",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A black and white dog",
+   "start": 0,
+   "end": 21
+  },
+  {
+   "entity_id": "119091",
+   "types": [
+    "other"
+   ],
+   "phrase": "a white ball",
+   "start": 38,
+   "end": 50
+  }
+ ],
+ "scene_places": []
+}

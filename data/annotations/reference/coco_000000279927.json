@@ -1,0 +1,200 @@
+{
+ "uid": "coco_000000279927",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 3,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    211.4,
+    214.2,
+    62.58,
+    29.3
+   ],
+   "area": 1332.481
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    33.49,
+    181.18,
+    59.97,
+    68.05
+   ],
+   "area": 1183.1809499999995
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    154.64,
+    205.04,
+    52.39,
+    17.67
+   ],
+   "area": 495.9720999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    438.33,
+    324.75,
+    16.64,
+    17.78
+   ],
+   "area": 122.51170000000025
+  },
+  {
+   "category": "person",
+   "bbox": [
+    476.7,
+    285.69,
+    8.88,
+    21.98
+   ],
+   "area": 117.67220000000032
+  },
+  {
+   "category": "person",
+   "bbox": [
+    122.48,
+    216.23,
+    41.07,
+    144.83
+   ],
+   "area": 3856.895100000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    404.14,
+    356.03,
+    15.95,
+    24.55
+   ],
+   "area": 214.81974999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    527.66,
+    310.19,
+    16.43,
+    22.38
+   ],
+   "area": 194.80235
+  },
+  {
+   "category": "person",
+   "bbox": [
+    588.72,
+    291.02,
+    14.89,
+    21.82
+   ],
+   "area": 136.5425500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    399.95,
+    248.03,
+    5.67,
+    7.32
+   ],
+   "area": 28.504300000000036
+  },
+  {
+   "category": "person",
+   "bbox": [
+    73.89,
+    201.86,
+    53.28,
+    152.5
+   ],
+   "area": 3777.0580500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    55.97,
+    218.47,
+    33.66,
+    114.64
+   ],
+   "area": 2313.447
+  },
+  {
+   "category": "person",
+   "bbox": [
+    158.59,
+    216.16,
+    42.57,
+    131.85
+   ],
+   "area": 2499.99005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    433.54,
+    284.32,
+    12.15,
+    26.71
+   ],
+   "area": 160.87109999999984
+  },
+  {
+   "category": "person",
+   "bbox": [
+    189.71,
+    236.82,
+    68.4,
+    141.99
+   ],
+   "area": 5327.821150000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    313.03,
+    256.79,
+    9.51,
+    10.74
+   ],
+   "area": 55.07645000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1,
+    26,
+    638,
+    354
+   ],
+   "area": 77983
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people standing next to each other near a ground of people on a green patch fo grass.",
+  "A large crowd is watching a group who are dressed in old swimming clothes.",
+  "The beach is filled with people, whom are expecting someone.",
+  "A large crowd gathered watching another smaller crowd",
+  "PERFORMERS DOING A SHOW IN FRONT OF SPECTATORS"
+ ],
+ "scene_places": []
+}

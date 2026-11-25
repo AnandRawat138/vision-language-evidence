@@ -1,0 +1,48 @@
+{
+ "uid": "coco_000000414261",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bear": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bear",
+   "bbox": [
+    390.62,
+    9.53,
+    249.38,
+    383.91
+   ],
+   "area": 72131.94284999999
+  },
+  {
+   "category": "bear",
+   "bbox": [
+    153.05,
+    65.44,
+    279.5,
+    262.85
+   ],
+   "area": 40339.93014999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Baby bear climbing large rock near pine tree.",
+  "A baby bear that is laying on a rock.",
+  "some kind of animal that is on a rock",
+  "A large black bear laying on top of a large rock.",
+  "A bear cub struggles to scale a boulder."
+ ],
+ "scene_places": []
+}

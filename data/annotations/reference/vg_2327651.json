@@ -1,0 +1,28 @@
+{
+ "uid": "vg_2327651",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shorts": [
+   "white"
+  ],
+  "pants": [
+   "green"
+  ],
+  "shirt": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

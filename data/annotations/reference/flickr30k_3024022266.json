@@ -1,0 +1,119 @@
+{
+ "uid": "flickr30k_3024022266",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young boy rides on a surfboard with light blue water behind him .",
+  "a young surfer surfs the large blue wave .",
+  "young boy surfing on blue water",
+  "A young male surfing .",
+  "A boy surfs ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "88202",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "88204",
+   "types": [
+    "other"
+   ],
+   "phrase": "a surfboard",
+   "start": 21,
+   "end": 32
+  },
+  {
+   "entity_id": "88203",
+   "types": [
+    "scene"
+   ],
+   "phrase": "light blue water",
+   "start": 38,
+   "end": 54
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 62,
+   "end": 65
+  },
+  {
+   "entity_id": "88202",
+   "types": [
+    "people"
+   ],
+   "phrase": "a young surfer",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "88203",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the large blue wave",
+   "start": 21,
+   "end": 40
+  },
+  {
+   "entity_id": "88202",
+   "types": [
+    "people"
+   ],
+   "phrase": "young boy",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "88203",
+   "types": [
+    "scene"
+   ],
+   "phrase": "blue water",
+   "start": 21,
+   "end": 31
+  },
+  {
+   "entity_id": "88202",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young male",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "88202",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

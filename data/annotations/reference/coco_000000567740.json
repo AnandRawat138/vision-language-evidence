@@ -1,0 +1,94 @@
+{
+ "uid": "coco_000000567740",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "skis": 2,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    1.43,
+    116.69,
+    218.41,
+    307.75
+   ],
+   "area": 22125.017800000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    441.17,
+    113.26,
+    133.75,
+    354.87
+   ],
+   "area": 26354.277449999998
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    55.01,
+    395.69,
+    221.12,
+    67.95
+   ],
+   "area": 3653.5490000000004
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    347.03,
+    399.46,
+    127.56,
+    69.19
+   ],
+   "area": 1883.6631000000002
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    563.11,
+    189.69,
+    22.8,
+    61.93
+   ],
+   "area": 821.5537000000005
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    47.14,
+    210.22,
+    40.47,
+    72.26
+   ],
+   "area": 1461.29095
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of snow skiers are casting a shadow on the snow.",
+  "Two people in ski gear standing at the top of a mountain.",
+  "Two people wearing skis on a snowy slope.",
+  "Two people with skis on at the top of a mountain.",
+  "There are people standing in the snow on skis."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000394611",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 2
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    394.89,
+    208.06,
+    53.28,
+    109.04
+   ],
+   "area": 3225.5459499999984
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    85.94,
+    202.83,
+    103.76,
+    102.97
+   ],
+   "area": 3836.530899999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two tall giraffes graze on bushes in an open field.",
+  "A few giraffes are grazing in a grassy field.",
+  "Two giraffes eat from a tree in the wild.",
+  "Two giraffes browsing on a bush under a cloudy sky.",
+  "Giraffes are grazing in a field of grass."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

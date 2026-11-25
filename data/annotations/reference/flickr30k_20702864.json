@@ -1,0 +1,193 @@
+{
+ "uid": "flickr30k_20702864",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "suit": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Orange cones , a man in a business suit , and workers with a drill and a wheel barrel on the corner of a street .",
+  "Two old men are using jackhammers on the sidewalk while people walk by .",
+  "Two men are using a jackhammer near a drain on a sidewalk .",
+  "Two construction workers working in the middle of a city .",
+  "Two middle-aged construction workers are jackhammering ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "26835",
+   "types": [
+    "other"
+   ],
+   "phrase": "Orange cones",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "26836",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 15,
+   "end": 20
+  },
+  {
+   "entity_id": "26837",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a business suit",
+   "start": 24,
+   "end": 39
+  },
+  {
+   "entity_id": "26838",
+   "types": [
+    "people"
+   ],
+   "phrase": "workers",
+   "start": 46,
+   "end": 53
+  },
+  {
+   "entity_id": "26839",
+   "types": [
+    "other"
+   ],
+   "phrase": "a drill",
+   "start": 59,
+   "end": 66
+  },
+  {
+   "entity_id": "26840",
+   "types": [
+    "other"
+   ],
+   "phrase": "a wheel barrel",
+   "start": 71,
+   "end": 85
+  },
+  {
+   "entity_id": "26847",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the corner of a street",
+   "start": 89,
+   "end": 111
+  },
+  {
+   "entity_id": "26838",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two old men",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "26841",
+   "types": [
+    "other"
+   ],
+   "phrase": "jackhammers",
+   "start": 22,
+   "end": 33
+  },
+  {
+   "entity_id": "26842",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the sidewalk",
+   "start": 37,
+   "end": 49
+  },
+  {
+   "entity_id": "26843",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 56,
+   "end": 62
+  },
+  {
+   "entity_id": "26844",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "26845",
+   "types": [
+    "other"
+   ],
+   "phrase": "a jackhammer",
+   "start": 18,
+   "end": 30
+  },
+  {
+   "entity_id": "26846",
+   "types": [
+    "other"
+   ],
+   "phrase": "a drain",
+   "start": 36,
+   "end": 43
+  },
+  {
+   "entity_id": "26842",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sidewalk",
+   "start": 47,
+   "end": 57
+  },
+  {
+   "entity_id": "26844",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two construction workers",
+   "start": 0,
+   "end": 24
+  },
+  {
+   "entity_id": "26848",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of a city",
+   "start": 36,
+   "end": 56
+  },
+  {
+   "entity_id": "26838",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two middle-aged construction workers",
+   "start": 0,
+   "end": 36
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

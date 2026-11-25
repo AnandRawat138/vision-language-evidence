@@ -1,0 +1,112 @@
+{
+ "uid": "coco_000000398742",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "car": 2,
+  "person": 5
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    219.79,
+    203.38,
+    76.33,
+    72.62
+   ],
+   "area": 3781.444100000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    1.77,
+    405.47,
+    97.06,
+    96.65
+   ],
+   "area": 8080.805699999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    352.29,
+    413.4,
+    74.71,
+    79.75
+   ],
+   "area": 4240.629450000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    56.22,
+    430.99,
+    270.99,
+    198.92
+   ],
+   "area": 28696.456250000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    258.88,
+    485.67,
+    168.12,
+    145.26
+   ],
+   "area": 11887.41834999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    2.88,
+    44.58,
+    372.49,
+    497.62
+   ],
+   "area": 77455.50325000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    294.78,
+    445.71,
+    31.24,
+    69.14
+   ],
+   "area": 1141.4667999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    13.76,
+    531.22,
+    50.13,
+    65.88
+   ],
+   "area": 2169.876550000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A hefty rugby player in red shirt and black shorts in the air.",
+  "a guy being held up with a ball in his hands",
+  "A couple of men are holding up a team member",
+  "Two men hold up a man holding a soccer ball and all the men have on orange shirts.",
+  "The team mates are lifting up one of their members."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,423 @@
+{
+ "uid": "vqa_000000144252",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "baseball glove",
+  "bottle",
+  "chair",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "chair": 2,
+  "baseball bat": 1,
+  "baseball glove": 2,
+  "person": 14,
+  "bottle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    554.02,
+    308.42,
+    22.5,
+    19.28
+   ],
+   "area": 307.4874999999995
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    505.34,
+    60.0,
+    25.09,
+    22.93
+   ],
+   "area": 432.9617500000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    481.4,
+    81.41,
+    27.24,
+    14.79
+   ],
+   "area": 301.6782500000004
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    417.79,
+    163.84,
+    145.16,
+    42.62
+   ],
+   "area": 2339.6472000000026
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    44.83,
+    260.31,
+    69.7,
+    79.65
+   ],
+   "area": 2873.6114000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    102.43,
+    12.44,
+    362.82,
+    396.33
+   ],
+   "area": 50707.037950000034
+  },
+  {
+   "category": "person",
+   "bbox": [
+    503.66,
+    149.11,
+    66.25,
+    195.85
+   ],
+   "area": 7758.9142999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.08,
+    197.04,
+    64.26,
+    161.78
+   ],
+   "area": 3769.8094499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    370.6,
+    185.3,
+    64.0,
+    53.49
+   ],
+   "area": 2225.1691499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    394.86,
+    188.69,
+    93.96,
+    159.27
+   ],
+   "area": 6421.182699999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    560.88,
+    140.96,
+    76.99,
+    196.53
+   ],
+   "area": 5081.416199999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    35.8,
+    67.78,
+    78.6
+   ],
+   "area": 2556.7322000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    375.98,
+    8.7,
+    25.27,
+    24.63
+   ],
+   "area": 400.5320000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    414.95,
+    1.19,
+    43.71,
+    54.43
+   ],
+   "area": 1361.6241499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    304.63,
+    194.8,
+    98.23,
+    156.47
+   ],
+   "area": 3473.1499999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    29.67,
+    263.34,
+    19.29,
+    23.72
+   ],
+   "area": 250.8277000000004
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    486.91,
+    234.58,
+    11.35,
+    15.09
+   ],
+   "area": 126.00284999999975
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    166.41,
+    301.92,
+    10.55,
+    18.08
+   ],
+   "area": 103.35135000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    187.23,
+    226.45,
+    45.23,
+    93.31
+   ],
+   "area": 2762.455450000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    41.22,
+    161.71,
+    109.23,
+    120.13
+   ],
+   "area": 5301.12945
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1,
+    34,
+    418,
+    305
+   ],
+   "area": 5204
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "this is a man swing a bat at a ball",
+  "The baseball player powers his bat into the hit.",
+  "A man on a field swinging a baseball bat.",
+  "A sporting event is taking place in a sporting field.",
+  "A baseball player in the middle of a swing"
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 144252000,
+   "question": "Are the baseball stadium seats empty?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "some",
+    "most",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 144252001,
+   "question": "What color is his helmet?",
+   "answer_type": "other",
+   "question_type": "what color is",
+   "multiple_choice_answer": "black",
+   "answers": [
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "dark blue",
+    "black"
+   ]
+  },
+  {
+   "question_id": 144252002,
+   "question": "What is the player attempting to do successfully?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "hit ball",
+   "answers": [
+    "hit ball",
+    "hit baseball",
+    "hit ball",
+    "swing",
+    "hit ball",
+    "hit",
+    "hit ball",
+    "hit",
+    "hit ball",
+    "hit baseball"
+   ]
+  },
+  {
+   "question_id": 144252003,
+   "question": "Does the batter have on clean clothes?",
+   "answer_type": "yes/no",
+   "question_type": "does the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 144252004,
+   "question": "What team is that?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "giants",
+   "answers": [
+    "baseball",
+    "white",
+    "atlanta braves",
+    "white team",
+    "avalanche",
+    "giants",
+    "astros",
+    "home team",
+    "angels",
+    "buckeyes"
+   ]
+  },
+  {
+   "question_id": 144252005,
+   "question": "What position is the person playing?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "batter",
+   "answers": [
+    "batter",
+    "hitter",
+    "batter",
+    "batter",
+    "batter",
+    "batter",
+    "batter",
+    "batter",
+    "batter",
+    "batter"
+   ]
+  },
+  {
+   "question_id": 144252006,
+   "question": "About how old is this player?",
+   "answer_type": "number",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "30",
+   "answers": [
+    "30",
+    "30",
+    "27",
+    "30s",
+    "30",
+    "27",
+    "25",
+    "20's",
+    "29",
+    "30"
+   ]
+  },
+  {
+   "question_id": 144252007,
+   "question": "What color is the teams uniforms?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "white",
+    "white",
+    "black/white/orange/blue",
+    "white",
+    "black and white",
+    "white",
+    "white",
+    "white"
+   ]
+  },
+  {
+   "question_id": 144252008,
+   "question": "Where is the ball?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "under bat",
+   "answers": [
+    "in air",
+    "near bat/air",
+    "near ground",
+    "under bat",
+    "close to ground",
+    "under bat",
+    "air",
+    "under bat",
+    "below knee",
+    "in air"
+   ]
+  }
+ ]
+}

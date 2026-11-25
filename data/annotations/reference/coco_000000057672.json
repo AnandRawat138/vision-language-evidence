@@ -1,0 +1,196 @@
+{
+ "uid": "coco_000000057672",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "car",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "boat": 1,
+  "person": 11,
+  "car": 3,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "boat",
+   "bbox": [
+    11.28,
+    190.88,
+    628.72,
+    114.49
+   ],
+   "area": 17553.152300000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    161.33,
+    130.95,
+    51.65,
+    110.33
+   ],
+   "area": 3146.0892000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    271.89,
+    186.93,
+    55.24,
+    89.62
+   ],
+   "area": 2234.658650000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    342.64,
+    195.95,
+    59.68,
+    83.42
+   ],
+   "area": 2522.3245999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    417.03,
+    191.5,
+    67.14,
+    98.13
+   ],
+   "area": 2922.5171500000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    552.08,
+    197.58,
+    60.83,
+    94.22
+   ],
+   "area": 2898.1979499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    481.52,
+    199.21,
+    67.53,
+    82.09
+   ],
+   "area": 2369.0120500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    517.11,
+    192.59,
+    39.03,
+    68.77
+   ],
+   "area": 1401.8316999999981
+  },
+  {
+   "category": "person",
+   "bbox": [
+    310.03,
+    182.26,
+    36.04,
+    73.87
+   ],
+   "area": 1515.7673500000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    380.93,
+    196.18,
+    48.72,
+    61.84
+   ],
+   "area": 1382.9025999999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    453.45,
+    191.97,
+    36.3,
+    61.69
+   ],
+   "area": 1310.5615500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    336.93,
+    60.44,
+    11.43,
+    21.69
+   ],
+   "area": 133.72565
+  },
+  {
+   "category": "car",
+   "bbox": [
+    189.39,
+    57.46,
+    46.02,
+    15.07
+   ],
+   "area": 496.9433500000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    234.66,
+    60.49,
+    21.08,
+    10.86
+   ],
+   "area": 189.33020000000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    67.06,
+    53.57,
+    32.8,
+    16.17
+   ],
+   "area": 296.5776999999999
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    122.87,
+    45.83,
+    49.56,
+    24.34
+   ],
+   "area": 929.9239999999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The group paddles the boat down on the water.",
+  "The boat is full of many rowers as one person stands steering.",
+  "a river.A group of people with life jacket rowing a long boat in",
+  "A group of men in red vests rowing a dragon boat.",
+  "A long canoe paddled along by a large group of people."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

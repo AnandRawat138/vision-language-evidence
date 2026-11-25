@@ -1,0 +1,114 @@
+{
+ "uid": "coco_000000255536",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "motorcycle",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 4,
+  "motorcycle": 1,
+  "person": 2,
+  "umbrella": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    166.88,
+    226.42,
+    74.91,
+    95.34
+   ],
+   "area": 5051.03445
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    30.75,
+    219.65,
+    43.42,
+    86.13
+   ],
+   "area": 2340.6463999999983
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    110.01,
+    232.39,
+    55.75,
+    85.05
+   ],
+   "area": 1666.187949999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    71.33,
+    235.77,
+    48.91,
+    68.92
+   ],
+   "area": 1358.5841000000007
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    119.2,
+    130.19,
+    58.11,
+    21.59
+   ],
+   "area": 471.9192499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    134.21,
+    120.14,
+    29.49,
+    29.62
+   ],
+   "area": 336.8686999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    124.99,
+    119.1,
+    23.99,
+    33.67
+   ],
+   "area": 307.81460000000027
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    184.16,
+    120.31,
+    190.55,
+    186.63
+   ],
+   "area": 7927.984000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A row of various types of chairs and umbrella with a bridge in the background.",
+  "4 chairs rest on the concrete outside in front of a fence.",
+  "Pieces of office furniture sitting outside under an umbrella.",
+  "some abandoned chairs sitting by and umbrella by a fence",
+  "two people riding a motorcycle with chairs and umbrellas near by"
+ ],
+ "scene_places": []
+}

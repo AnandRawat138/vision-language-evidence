@@ -1,0 +1,43 @@
+{
+ "policy": "static",
+ "n_requests": 120,
+ "n_ok": 120,
+ "n_failed": 0,
+ "n_timeout": 0,
+ "n_oom_events": 0,
+ "n_retries": 0,
+ "wall_time_s": 301.173,
+ "throughput_img_s": 0.3984,
+ "latency_median_s": 132.68294010008685,
+ "latency_p95_s": 300.9782338999212,
+ "latency_p99_s": 300.9782338999212,
+ "latency_mean_s": 152.89899371331558,
+ "mean_batch_size": 15.0,
+ "gpu_mem_peak_mb": 5310.1,
+ "gpu_util_mean": 92.1,
+ "cpu_pct_mean": 5.9,
+ "cpu_pct_peak": 50.0,
+ "ram_peak_mb": 1717.7,
+ "samples": 1200,
+ "torch_peak_alloc_mb": 3390.3,
+ "batch_sizes": [
+  16,
+  16,
+  16,
+  16,
+  16,
+  16,
+  16,
+  8
+ ],
+ "batch_latencies": [
+  30.04597959993407,
+  33.21002380014397,
+  37.45160010014661,
+  31.91945150005631,
+  42.43901939992793,
+  49.69365849997848,
+  44.63749049999751,
+  31.509860399877653
+ ]
+}

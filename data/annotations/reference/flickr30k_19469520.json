@@ -1,0 +1,173 @@
+{
+ "uid": "flickr30k_19469520",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Competitors getting ready to compete in a grand opening event hosted by the chief executive",
+  "A group of cyclists at a race with their arms around each other .",
+  "Men in colorful shirts show camaraderie after a bicycle race .",
+  "A group of bicyclist having their arms around each other .",
+  "Cyclists await the start of a race ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "23811",
+   "types": [
+    "people"
+   ],
+   "phrase": "Competitors",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "23816",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a grand opening event",
+   "start": 40,
+   "end": 61
+  },
+  {
+   "entity_id": "23814",
+   "types": [
+    "people"
+   ],
+   "phrase": "the chief executive",
+   "start": 72,
+   "end": 91
+  },
+  {
+   "entity_id": "23811",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of cyclists",
+   "start": 0,
+   "end": 19
+  },
+  {
+   "entity_id": "23812",
+   "types": [
+    "other"
+   ],
+   "phrase": "a race",
+   "start": 23,
+   "end": 29
+  },
+  {
+   "entity_id": "23813",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "their arms",
+   "start": 35,
+   "end": 45
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "each other",
+   "start": 53,
+   "end": 63
+  },
+  {
+   "entity_id": "23811",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "23817",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "colorful shirts",
+   "start": 7,
+   "end": 22
+  },
+  {
+   "entity_id": "23815",
+   "types": [
+    "other"
+   ],
+   "phrase": "camaraderie",
+   "start": 28,
+   "end": 39
+  },
+  {
+   "entity_id": "23812",
+   "types": [
+    "other"
+   ],
+   "phrase": "a bicycle race",
+   "start": 46,
+   "end": 60
+  },
+  {
+   "entity_id": "23811",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of bicyclist",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "23813",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "their arms",
+   "start": 28,
+   "end": 38
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "each other",
+   "start": 46,
+   "end": 56
+  },
+  {
+   "entity_id": "23811",
+   "types": [
+    "people"
+   ],
+   "phrase": "Cyclists",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "23812",
+   "types": [
+    "other"
+   ],
+   "phrase": "the start of a race",
+   "start": 15,
+   "end": 34
+  }
+ ],
+ "scene_places": []
+}

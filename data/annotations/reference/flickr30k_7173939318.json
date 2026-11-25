@@ -1,0 +1,255 @@
+{
+ "uid": "flickr30k_7173939318",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Amidst a busy dock comes a red and white ship with a landscape of mountains and possibly middle-eastern territory .",
+  "Pier with groups of people , some with fishing poles , boats in water and buildings and monuments in background .",
+  "a beautiful seaside scene with people on a dock and a large white building in the background",
+  "A boat pear with people boarding and disembarking some boats .",
+  "A group of people on a dock by a city boarding various boats"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "266529",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a busy dock",
+   "start": 7,
+   "end": 18
+  },
+  {
+   "entity_id": "266536",
+   "types": [
+    "other"
+   ],
+   "phrase": "a red and white ship",
+   "start": 25,
+   "end": 45
+  },
+  {
+   "entity_id": "266534",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a landscape of mountains",
+   "start": 51,
+   "end": 75
+  },
+  {
+   "entity_id": "266540",
+   "types": [
+    "scene"
+   ],
+   "phrase": "possibly middle-eastern territory",
+   "start": 80,
+   "end": 113
+  },
+  {
+   "entity_id": "266529",
+   "types": [
+    "scene"
+   ],
+   "phrase": "Pier",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "266528",
+   "types": [
+    "people"
+   ],
+   "phrase": "groups of people",
+   "start": 10,
+   "end": 26
+  },
+  {
+   "entity_id": "266541",
+   "types": [
+    "other"
+   ],
+   "phrase": "some",
+   "start": 29,
+   "end": 33
+  },
+  {
+   "entity_id": "266538",
+   "types": [
+    "other"
+   ],
+   "phrase": "fishing poles",
+   "start": 39,
+   "end": 52
+  },
+  {
+   "entity_id": "266530",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "boats",
+   "start": 55,
+   "end": 60
+  },
+  {
+   "entity_id": "266542",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 64,
+   "end": 69
+  },
+  {
+   "entity_id": "266537",
+   "types": [
+    "scene"
+   ],
+   "phrase": "buildings",
+   "start": 74,
+   "end": 83
+  },
+  {
+   "entity_id": "266539",
+   "types": [
+    "other"
+   ],
+   "phrase": "monuments",
+   "start": 88,
+   "end": 97
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "background",
+   "start": 101,
+   "end": 111
+  },
+  {
+   "entity_id": "266532",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a beautiful seaside scene",
+   "start": 0,
+   "end": 25
+  },
+  {
+   "entity_id": "266528",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 31,
+   "end": 37
+  },
+  {
+   "entity_id": "266529",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a dock",
+   "start": 41,
+   "end": 47
+  },
+  {
+   "entity_id": "266535",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large white building",
+   "start": 52,
+   "end": 74
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 78,
+   "end": 92
+  },
+  {
+   "entity_id": "266531",
+   "types": [
+    "other"
+   ],
+   "phrase": "A boat pear",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "266528",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 17,
+   "end": 23
+  },
+  {
+   "entity_id": "266530",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "some boats",
+   "start": 50,
+   "end": 60
+  },
+  {
+   "entity_id": "266528",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "266529",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a dock",
+   "start": 21,
+   "end": 27
+  },
+  {
+   "entity_id": "266533",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a city",
+   "start": 31,
+   "end": 37
+  },
+  {
+   "entity_id": "266530",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "various boats",
+   "start": 47,
+   "end": 60
+  }
+ ],
+ "scene_places": []
+}

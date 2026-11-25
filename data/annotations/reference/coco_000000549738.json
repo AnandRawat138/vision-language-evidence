@@ -1,0 +1,174 @@
+{
+ "uid": "coco_000000549738",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 9,
+  "person": 4,
+  "kite": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    131.92,
+    398.13,
+    19.26,
+    10.24
+   ],
+   "area": 156.44009999999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    244.49,
+    401.98,
+    30.41,
+    10.35
+   ],
+   "area": 235.74660000000017
+  },
+  {
+   "category": "car",
+   "bbox": [
+    320.4,
+    404.94,
+    25.28,
+    11.35
+   ],
+   "area": 213.78405000000055
+  },
+  {
+   "category": "car",
+   "bbox": [
+    353.39,
+    405.3,
+    31.91,
+    14.78
+   ],
+   "area": 315.37309999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    378.99,
+    390.0,
+    14.33,
+    35.73
+   ],
+   "area": 284.2776999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    596.71,
+    400.19,
+    11.53,
+    25.6
+   ],
+   "area": 214.62530000000055
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    95.58,
+    154.97,
+    208.85,
+    190.2
+   ],
+   "area": 17959.910149999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    422.46,
+    408.75,
+    34.77,
+    15.47
+   ],
+   "area": 372.21610000000084
+  },
+  {
+   "category": "person",
+   "bbox": [
+    477.98,
+    398.95,
+    11.01,
+    25.37
+   ],
+   "area": 155.66819999999973
+  },
+  {
+   "category": "person",
+   "bbox": [
+    390.86,
+    408.85,
+    9.57,
+    17.0
+   ],
+   "area": 91.27560000000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    114.28,
+    398.94,
+    16.34,
+    9.44
+   ],
+   "area": 120.31719999999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    504.65,
+    416.19,
+    31.52,
+    9.81
+   ],
+   "area": 240.44044999999954
+  },
+  {
+   "category": "car",
+   "bbox": [
+    177.27,
+    399.56,
+    29.29,
+    10.05
+   ],
+   "area": 242.0469500000005
+  },
+  {
+   "category": "car",
+   "bbox": [
+    280.26,
+    402.11,
+    33.31,
+    12.49
+   ],
+   "area": 286.2868000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A kite is flying in a clear sky.",
+  "A huge dragon kite flown with a steeple in the background.",
+  "A picture of a very large kite flying in the air.",
+  "A photo of a kite is a town in the background.",
+  "A large, colorful kite flown over an urban area."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

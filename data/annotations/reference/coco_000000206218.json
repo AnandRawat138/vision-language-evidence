@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000206218",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "keyboard",
+  "laptop"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "laptop": 1,
+  "keyboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "laptop",
+   "bbox": [
+    360.0,
+    101.08,
+    269.19,
+    216.22
+   ],
+   "area": 39860.60340000001
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    393.66,
+    232.18,
+    175.01,
+    43.37
+   ],
+   "area": 4812.159649999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A laptop computer sitting on a truck table.",
+  "A laptop on a table that looks like a tank",
+  "a laptop computer sitting on top of a homemade machine with wheels",
+  "An all terrain robot with a laptop sitting on it in a lab.",
+  "A small tank like vehicle with wheels and a camera attached to the top, along with a laptop computer resting on top of it."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,70 @@
+{
+ "uid": "coco_000000438907",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "skateboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    48.79,
+    163.52,
+    80.36,
+    327.17
+   ],
+   "area": 14833.627250000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    123.54,
+    21.43,
+    179.35,
+    380.77
+   ],
+   "area": 28312.686399999995
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    27.46,
+    348.98,
+    122.16,
+    42.58
+   ],
+   "area": 2886.082299999999
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    132.71,
+    359.23,
+    128.17,
+    73.92
+   ],
+   "area": 2690.822699999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man is doing a trick on a skateboard.",
+  "a teenager attempting a jump on his skateboard",
+  "One person on a skateboard does a jump while another watches.",
+  "A man riding a skateboard in the air above a skateboard ramp.",
+  "A skateboarder attempts a trick above ground while his friend watches."
+ ],
+ "scene_places": []
+}

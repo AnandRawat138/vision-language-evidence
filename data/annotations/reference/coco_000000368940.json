@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000368940",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sink"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sink",
+   "bbox": [
+    0.0,
+    98.16,
+    333.3,
+    157.48
+   ],
+   "area": 26392.88325
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a bathroom with a mirror and a sink",
+  "Small wooden and white kitchen sink with a small mirror.",
+  "A clean bathroom with a sink and a checkered linoleum floor",
+  "this floor has a pattern of black and white tiles the sink is the same pattern",
+  "A white sink with a black cabinet underneath it."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

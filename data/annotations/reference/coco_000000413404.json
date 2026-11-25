@@ -1,0 +1,156 @@
+{
+ "uid": "coco_000000413404",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bird",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 3,
+  "person": 2,
+  "bench": 6,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    134.99,
+    327.17,
+    9.7,
+    4.37
+   ],
+   "area": 22.072250000000032
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    148.88,
+    326.7,
+    11.95,
+    4.05
+   ],
+   "area": 27.456650000000007
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    167.83,
+    325.49,
+    9.06,
+    3.6
+   ],
+   "area": 18.908799999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    598.37,
+    235.31,
+    40.89,
+    187.67
+   ],
+   "area": 5787.0837500000025
+  },
+  {
+   "category": "person",
+   "bbox": [
+    576.08,
+    249.75,
+    38.55,
+    158.79
+   ],
+   "area": 1692.0888999999995
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    193.47,
+    297.01,
+    124.51,
+    44.04
+   ],
+   "area": 3200.5064000000016
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    460.62,
+    294.7,
+    119.15,
+    43.01
+   ],
+   "area": 3219.3842999999983
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    381.8,
+    292.5,
+    74.6,
+    33.4
+   ],
+   "area": 1357.7132999999997
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    90.47,
+    300.32,
+    23.09,
+    37.39
+   ],
+   "area": 382.01424999999983
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    535.47,
+    291.2,
+    42.58,
+    5.15
+   ],
+   "area": 177.0685000000006
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    573.66,
+    272.0,
+    22.63,
+    59.73
+   ],
+   "area": 449.83480000000105
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    410.73,
+    279.91,
+    51.24,
+    21.57
+   ],
+   "area": 463.1289499999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A park with lots of benches under trees.",
+  "a couple of park benches next to some trees",
+  "Two people stroll through a park with benches and a playground.",
+  "a park with benches and lots of trees.",
+  "Park benches with a brown fence in the background and trees overhead."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

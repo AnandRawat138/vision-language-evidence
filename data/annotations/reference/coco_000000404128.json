@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000404128",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 1
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    34.34,
+    147.46,
+    492.69,
+    192.36
+   ],
+   "area": 23541.39925000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A propellor airplane is on a grassy runway.",
+  "The older airplane is about ready to take off from the runway.",
+  "A plan is shown sitting on the pavement.",
+  "A prop airplane parked along the side of a runway.",
+  "An old plane sitting on the grass beside the runway."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "uid": "flickr30k_128395402",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "pink"
+  ],
+  "jacket": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman on a blue bike with a pink helmet rides by a public fountain as the sun rises over an urban area .",
+  "A woman is riding her bike past a water fountain display .",
+  "A woman in a light blue jacket is riding a bike .",
+  "A woman is riding a bicycle on the pavement .",
+  "A girl rides a bike down a city sidewalk ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "7186",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "7187",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a blue bike",
+   "start": 11,
+   "end": 22
+  },
+  {
+   "entity_id": "7193",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a pink helmet",
+   "start": 28,
+   "end": 41
+  },
+  {
+   "entity_id": "7188",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a public fountain",
+   "start": 51,
+   "end": 68
+  },
+  {
+   "entity_id": "7196",
+   "types": [
+    "other"
+   ],
+   "phrase": "the sun",
+   "start": 72,
+   "end": 79
+  },
+  {
+   "entity_id": "7192",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an urban area",
+   "start": 91,
+   "end": 104
+  },
+  {
+   "entity_id": "7186",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "7187",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "her bike",
+   "start": 18,
+   "end": 26
+  },
+  {
+   "entity_id": "7194",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a water",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "7195",
+   "types": [
+    "other"
+   ],
+   "phrase": "display",
+   "start": 49,
+   "end": 56
+  },
+  {
+   "entity_id": "7186",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "7191",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a light blue jacket",
+   "start": 11,
+   "end": 30
+  },
+  {
+   "entity_id": "7187",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 41,
+   "end": 47
+  },
+  {
+   "entity_id": "7186",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "7187",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bicycle",
+   "start": 18,
+   "end": 27
+  },
+  {
+   "entity_id": "7188",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the pavement",
+   "start": 31,
+   "end": 43
+  },
+  {
+   "entity_id": "7186",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "7187",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 13,
+   "end": 19
+  },
+  {
+   "entity_id": "7188",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a city sidewalk",
+   "start": 25,
+   "end": 40
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

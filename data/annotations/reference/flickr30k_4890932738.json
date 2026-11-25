@@ -1,0 +1,116 @@
+{
+ "uid": "flickr30k_4890932738",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Some graffiti appears on a column of a stone structure .",
+  "A person walking down a lonely corridor of columns .",
+  "A person walks down a hallway of stone archways .",
+  "One person in a long hall is walking .",
+  "Someone walks in a hallway ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "215494",
+   "types": [
+    "other"
+   ],
+   "phrase": "Some graffiti",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "215495",
+   "types": [
+    "other"
+   ],
+   "phrase": "a column of a stone structure",
+   "start": 25,
+   "end": 54
+  },
+  {
+   "entity_id": "215492",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "215493",
+   "types": [
+    "people"
+   ],
+   "phrase": "a lonely corridor of columns",
+   "start": 22,
+   "end": 50
+  },
+  {
+   "entity_id": "215492",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "215493",
+   "types": [
+    "other"
+   ],
+   "phrase": "a hallway of stone archways",
+   "start": 20,
+   "end": 47
+  },
+  {
+   "entity_id": "215492",
+   "types": [
+    "people"
+   ],
+   "phrase": "One person",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "215496",
+   "types": [
+    "other"
+   ],
+   "phrase": "a long hall",
+   "start": 14,
+   "end": 25
+  },
+  {
+   "entity_id": "215492",
+   "types": [
+    "people"
+   ],
+   "phrase": "Someone",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "215493",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a hallway",
+   "start": 17,
+   "end": 26
+  }
+ ],
+ "scene_places": []
+}

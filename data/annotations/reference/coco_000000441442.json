@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000441442",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 1,
+  "chair": 1,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    154.84,
+    140.22,
+    316.56,
+    173.76
+   ],
+   "area": 22522.296250000007
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    29.61,
+    181.61,
+    15.23,
+    24.27
+   ],
+   "area": 221.86195
+  },
+  {
+   "category": "person",
+   "bbox": [
+    251.69,
+    52.13,
+    74.6,
+    177.08
+   ],
+   "area": 6969.098050000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.72,
+    165.09,
+    29.25,
+    40.78
+   ],
+   "area": 703.0425499999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A professional rider is riding a horse outside",
+  "a man is riding a brown horse down a green field",
+  "The person is riding a horse in the pen.",
+  "A young girl rides her horse in the middle of a course.",
+  "a girl in full riding gear riding a brown horse"
+ ],
+ "scene_places": []
+}

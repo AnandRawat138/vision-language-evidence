@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000038825",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 2
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    335.43,
+    0.72,
+    304.57,
+    392.3
+   ],
+   "area": 75840.72310000002
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    112.27,
+    0.8,
+    355.99,
+    378.06
+   ],
+   "area": 68466.62980000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two Zebras grazing together in a grassy area.",
+  "A pair of zebras stand together and eat grass.",
+  "A pair of zebra graze near a barbed wire fence.",
+  "a couple of zebras graze on some grass",
+  "Two black and white zebras standing next to each other while grazing on grass."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

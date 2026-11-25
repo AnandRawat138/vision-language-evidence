@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000234413",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toilet": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toilet",
+   "bbox": [
+    149.93,
+    46.38,
+    294.47,
+    409.89
+   ],
+   "area": 66413.92055
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white toilet sitting in a bathroom stall next to a TP dispenser.",
+  "A white toilet sits in a bathroom, with the lid open.",
+  "A small, white toilet with a toilet paper dispenser on the wall.",
+  "A toilet is placed within a shower stall.",
+  "A toilet right next to a shower stall."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "uid": "vqa_000000188948",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "remote",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "person": 3,
+  "remote": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    382.38,
+    191.19,
+    115.57,
+    82.04
+   ],
+   "area": 8172.4841000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    230.9,
+    23.66,
+    180.07,
+    322.34
+   ],
+   "area": 40148.742
+  },
+  {
+   "category": "person",
+   "bbox": [
+    23.24,
+    56.57,
+    166.14,
+    289.43
+   ],
+   "area": 17996.61755
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    174.49,
+    50.72,
+    314.68,
+    149.1
+   ],
+   "area": 141.52454999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    65.59,
+    130.14,
+    92.34,
+    215.86
+   ],
+   "area": 3929.6686999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "there are three men playing a video game together",
+  "A group of men standing around a flat screen TV.",
+  "A group of people in a room with remotes.",
+  "Men laughing and playing tennis on Wii Sports",
+  "Three young men playing a video game in front of a television."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 188948000,
+   "question": "What sport are they playing?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "tennis",
+   "answers": [
+    "tennis",
+    "football",
+    "wii tennis",
+    "wii",
+    "video game tennis",
+    "tennis",
+    "wii tennis",
+    "tennis",
+    "tennis",
+    "wii"
+   ]
+  },
+  {
+   "question_id": 188948001,
+   "question": "Are the men playing video games or video conferencing?",
+   "answer_type": "other",
+   "question_type": "are the",
+   "multiple_choice_answer": "games",
+   "answers": [
+    "yes",
+    "games",
+    "games",
+    "games",
+    "games",
+    "video games",
+    "video games",
+    "games",
+    "games",
+    "playing"
+   ]
+  },
+  {
+   "question_id": 188948002,
+   "question": "Is there a TV screen?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

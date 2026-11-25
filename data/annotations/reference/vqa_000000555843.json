@@ -1,0 +1,279 @@
+{
+ "uid": "vqa_000000555843",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird",
+  "bottle",
+  "scissors"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "scissors": 1,
+  "bird": 13,
+  "bottle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "scissors",
+   "bbox": [
+    481.37,
+    13.11,
+    128.69,
+    267.28
+   ],
+   "area": 15830.961499999998
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    203.28,
+    3.79,
+    93.26,
+    142.21
+   ],
+   "area": 7218.151600000001
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    136.1,
+    105.56,
+    101.92,
+    136.11
+   ],
+   "area": 7239.209300000002
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    442.86,
+    188.63,
+    162.17,
+    77.22
+   ],
+   "area": 6461.679349999997
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    387.12,
+    84.96,
+    24.12,
+    45.56
+   ],
+   "area": 705.0656500000006
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    320.55,
+    97.87,
+    84.83,
+    141.8
+   ],
+   "area": 7497.884799999999
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    253.77,
+    27.72,
+    224.44,
+    81.38
+   ],
+   "area": 6430.0466
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    106.26,
+    268.05,
+    156.36,
+    74.94
+   ],
+   "area": 8055.1875
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    74.31,
+    347.15,
+    105.36,
+    74.3
+   ],
+   "area": 5560.9319
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    422.87,
+    96.66,
+    66.19,
+    113.72
+   ],
+   "area": 4598.9484
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    324.47,
+    223.8,
+    62.78,
+    112.07
+   ],
+   "area": 3394.7961
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    228.04,
+    194.87,
+    109.36,
+    65.48
+   ],
+   "area": 5243.815149999999
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    27.83,
+    112.15,
+    107.55,
+    133.25
+   ],
+   "area": 8331.714949999998
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    245.54,
+    98.13,
+    104.64,
+    98.05
+   ],
+   "area": 4872.76715
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    1,
+    0,
+    638,
+    426
+   ],
+   "area": 79853
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Looks like an image of small caged brown and white birds.",
+  "Many birds are inside of a wire cage.",
+  "Small animals in a cage that has sheers resting on top.",
+  "A pair of blue scissors on top of a bird cage.",
+  "chickens in a cage with a pair of scissors on top."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 555843000,
+   "question": "What is on top of the cage?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "scissors",
+   "answers": [
+    "shears",
+    "scissors",
+    "scissors",
+    "scissors",
+    "scissors",
+    "scissors",
+    "scissors",
+    "scissors",
+    "scissors",
+    "scissors"
+   ]
+  },
+  {
+   "question_id": 555843001,
+   "question": "Are these animals free to roam?",
+   "answer_type": "yes/no",
+   "question_type": "are these",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 555843002,
+   "question": "Is this a herd of Giraffes?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 555843003,
+   "question": "What animals are these?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "birds",
+   "answers": [
+    "birds",
+    "chicken",
+    "chicken",
+    "birds",
+    "chickens",
+    "birds",
+    "birds",
+    "birds",
+    "birds",
+    "sparrows"
+   ]
+  },
+  {
+   "question_id": 555843004,
+   "question": "What are these animals?",
+   "answer_type": "other",
+   "question_type": "what are",
+   "multiple_choice_answer": "birds",
+   "answers": [
+    "chicken",
+    "birds",
+    "chickens",
+    "birds",
+    "no idea",
+    "birds",
+    "birds",
+    "birds",
+    "birds",
+    "chicken"
+   ]
+  }
+ ]
+}

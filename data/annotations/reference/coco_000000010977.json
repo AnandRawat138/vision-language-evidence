@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000010977",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sink",
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toilet": 1,
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toilet",
+   "bbox": [
+    240.55,
+    255.75,
+    59.93,
+    83.81
+   ],
+   "area": 3897.0741500000004
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    343.54,
+    213.86,
+    74.86,
+    39.61
+   ],
+   "area": 1403.9370999999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bath and a toilet in a small room.",
+  "The bathroom is painted a light blue and has pink ceramic tile that adorns the shower wall along with a maple color vanity and door.",
+  "A bathroom with blue walls and pink tile.",
+  "this bathroom has pink tiles in the shower and is painted blue",
+  "A toilet lid is closed next to a bathtub with a white curtain and pink tile wall."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

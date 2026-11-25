@@ -1,0 +1,173 @@
+{
+ "uid": "flickr30k_3634400263",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man performs a trick on a yellow bike in a skate park covered in graffiti .",
+  "a lone bicyclist wearing a helmet jumping a graffitied concrete ramp .",
+  "The bicyclist has both wheels off the ground .",
+  "A trials biker doing a trick in the air .",
+  "A bicyclist doing a jump ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "132928",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 15,
+   "end": 22
+  },
+  {
+   "entity_id": "132935",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a yellow bike",
+   "start": 26,
+   "end": 39
+  },
+  {
+   "entity_id": "132930",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a skate park",
+   "start": 43,
+   "end": 55
+  },
+  {
+   "entity_id": "132930",
+   "types": [
+    "other"
+   ],
+   "phrase": "graffiti",
+   "start": 67,
+   "end": 75
+  },
+  {
+   "entity_id": "132928",
+   "types": [
+    "people"
+   ],
+   "phrase": "a lone bicyclist",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "132936",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a helmet",
+   "start": 25,
+   "end": 33
+  },
+  {
+   "entity_id": "132930",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a graffitied concrete ramp",
+   "start": 42,
+   "end": 68
+  },
+  {
+   "entity_id": "132928",
+   "types": [
+    "people"
+   ],
+   "phrase": "The bicyclist",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "132932",
+   "types": [
+    "other"
+   ],
+   "phrase": "both wheels",
+   "start": 18,
+   "end": 29
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the ground",
+   "start": 34,
+   "end": 44
+  },
+  {
+   "entity_id": "132928",
+   "types": [
+    "people"
+   ],
+   "phrase": "A trials biker",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 21,
+   "end": 28
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "132928",
+   "types": [
+    "people"
+   ],
+   "phrase": "A bicyclist",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a jump",
+   "start": 18,
+   "end": 24
+  }
+ ],
+ "scene_places": []
+}

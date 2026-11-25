@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000180383",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock",
+  "cow",
+  "person",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "clock": 1,
+  "tv": 1,
+  "cow": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    314.97,
+    100.31,
+    102.47,
+    79.82
+   ],
+   "area": 4290.436900000001
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    0.0,
+    324.62,
+    29.71,
+    57.44
+   ],
+   "area": 1274.8922000000002
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    267.51,
+    77.93,
+    182.29,
+    167.19
+   ],
+   "area": 27135.204049999997
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    25.83,
+    51.34,
+    597.12,
+    368.49
+   ],
+   "area": 89318.90669999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The television, in a plastic cow, is on.",
+  "there's a cow that has a Television on its side",
+  "A cow sculpture with a TV sticking out of it's center.",
+  "A television is mounted inside of a cow figurine.",
+  "A TV mounted in a cow on a wall."
+ ],
+ "scene_places": []
+}

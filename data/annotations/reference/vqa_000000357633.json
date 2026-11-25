@@ -1,0 +1,185 @@
+{
+ "uid": "vqa_000000357633",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "dining table",
+  "keyboard",
+  "laptop",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "wine glass": 1,
+  "laptop": 1,
+  "chair": 3,
+  "keyboard": 1,
+  "dining table": 3
+ },
+ "object_boxes": [
+  {
+   "category": "wine glass",
+   "bbox": [
+    4.31,
+    75.51,
+    144.54,
+    284.76
+   ],
+   "area": 26033.494849999995
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    91.89,
+    61.08,
+    545.95,
+    412.97
+   ],
+   "area": 167950.48095000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    578.5,
+    64.34,
+    61.26,
+    164.84
+   ],
+   "area": 2044.1366999999977
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    138.1,
+    302.29,
+    446.65,
+    93.3
+   ],
+   "area": 32413.913699999994
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    102.23,
+    207.83,
+    537.35,
+    253.09
+   ],
+   "area": 10427.971900000004
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    563.66,
+    27.57,
+    76.34,
+    131.86
+   ],
+   "area": 2996.5417499999985
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    468.92,
+    34.02,
+    76.62,
+    155.95
+   ],
+   "area": 2055.2928
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    292.41,
+    37.58,
+    62.15,
+    24.79
+   ],
+   "area": 1310.4723499999998
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    201.48,
+    143.41,
+    260.74
+   ],
+   "area": 19872.897650000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An alcoholic beverage besides a laptop within a restaurant",
+  "a laptop on a wooden table near a drink",
+  "A laptop sitting on a picnic table with a glass of beer.",
+  "A laptop is on a table with a frosty beverage nearby.",
+  "A beverage in a glass on a table next to a laptop."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 357633000,
+   "question": "What is the white stuff on top of the drink?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "foam",
+   "answers": [
+    "fizz",
+    "foam",
+    "foam",
+    "foam",
+    "foam",
+    "foam",
+    "foam",
+    "foam",
+    "foam",
+    "foam"
+   ]
+  },
+  {
+   "question_id": 357633001,
+   "question": "What is next to the computer?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "beer",
+   "answers": [
+    "beer glass",
+    "drink",
+    "beverage",
+    "beer",
+    "beer",
+    "drink",
+    "glass",
+    "beer",
+    "beer",
+    "beer"
+   ]
+  },
+  {
+   "question_id": 357633002,
+   "question": "Are there plants in this picture?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

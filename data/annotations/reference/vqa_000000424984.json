@@ -1,0 +1,97 @@
+{
+ "uid": "vqa_000000424984",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    2.74,
+    1.5,
+    598.31,
+    554.5
+   ],
+   "area": 210801.4788000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A wooden box filled with flowers sitting on top of a wooden floor.",
+  "Different flowers sit in a small rectangular pot.",
+  "A metal container holding a wood basket with several flowers in it.",
+  "A small metal flower box containing white and pink flowers.",
+  "Wrought iron rack with wood box and flowers."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 424984000,
+   "question": "Would you eat this?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 424984001,
+   "question": "What kind of plant is this?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "flowers",
+   "answers": [
+    "plastic",
+    "daisy",
+    "petunia",
+    "petunia",
+    "flowers",
+    "flowers",
+    "flowers",
+    "flower",
+    "petunia",
+    "flower"
+   ]
+  },
+  {
+   "question_id": 424984002,
+   "question": "Is this a real or artificial plant?",
+   "answer_type": "other",
+   "question_type": "is this a",
+   "multiple_choice_answer": "real",
+   "answers": [
+    "real",
+    "i don't know",
+    "real",
+    "artificial",
+    "real",
+    "real",
+    "real",
+    "artificial",
+    "artificial plant",
+    "artificial"
+   ]
+  }
+ ]
+}

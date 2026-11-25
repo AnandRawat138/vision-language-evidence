@@ -1,0 +1,98 @@
+{
+ "uid": "coco_000000195918",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 2,
+  "laptop": 1,
+  "mouse": 1,
+  "keyboard": 1,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    300.57,
+    121.87,
+    183.68,
+    127.43
+   ],
+   "area": 23158.477200000005
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    36.91,
+    118.35,
+    205.65,
+    158.19
+   ],
+   "area": 27018.32235
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    528.59,
+    188.67,
+    110.94,
+    145.39
+   ],
+   "area": 6802.574149999992
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    284.76,
+    285.27,
+    34.2,
+    18.65
+   ],
+   "area": 524.4542499999999
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    99.07,
+    294.31,
+    169.27,
+    44.24
+   ],
+   "area": 3443.061649999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    378.35,
+    186.0,
+    49.65
+   ],
+   "area": 7826.887499999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A workspace inside an office with snowy trees outside the window.",
+  "An office work station with two computer monitors, and laptop.",
+  "A couple of computer monitors sitting on top of a desk.",
+  "The desk has two monitors and one laptop on it.",
+  "a desk with a monitor and a keyboard"
+ ],
+ "scene_places": [
+  "office"
+ ]
+}

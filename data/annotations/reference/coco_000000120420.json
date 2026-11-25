@@ -1,0 +1,296 @@
+{
+ "uid": "coco_000000120420",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bird",
+  "cell phone",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 10,
+  "bench": 1,
+  "bird": 13,
+  "umbrella": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    153.17,
+    188.84,
+    271.82,
+    74.42
+   ],
+   "area": 14150.669900000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    114.9,
+    108.56,
+    430.6,
+    371.44
+   ],
+   "area": 112808.52719999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    468.48,
+    91.99,
+    29.6,
+    89.29
+   ],
+   "area": 1382.0518999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    430.75,
+    88.15,
+    31.93,
+    95.78
+   ],
+   "area": 1938.4675999999981
+  },
+  {
+   "category": "person",
+   "bbox": [
+    401.1,
+    117.26,
+    28.49,
+    63.56
+   ],
+   "area": 1117.0212999999976
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    36.21,
+    150.32,
+    31.83,
+    17.19
+   ],
+   "area": 252.6587000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    370.0,
+    98.06,
+    20.27,
+    37.41
+   ],
+   "area": 475.59639999999956
+  },
+  {
+   "category": "person",
+   "bbox": [
+    355.07,
+    92.74,
+    17.2,
+    28.82
+   ],
+   "area": 291.1702000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    13.28,
+    99.02,
+    7.41,
+    20.52
+   ],
+   "area": 100.70120000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    339.7,
+    100.3,
+    13.78,
+    10.95
+   ],
+   "area": 85.43955000000007
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    26.97,
+    168.72,
+    8.53,
+    10.94
+   ],
+   "area": 42.758849999999974
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    8.52,
+    168.41,
+    10.17,
+    7.46
+   ],
+   "area": 34.06725000000002
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    393.22,
+    87.27,
+    41.56,
+    33.08
+   ],
+   "area": 995.1967499999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    30.7,
+    114.9,
+    32.2,
+    54.07
+   ],
+   "area": 842.34375
+  },
+  {
+   "category": "person",
+   "bbox": [
+    388.25,
+    98.22,
+    20.27,
+    59.03
+   ],
+   "area": 553.2669000000004
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    206.78,
+    163.53,
+    8.43,
+    5.76
+   ],
+   "area": 20.27020000000007
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    201.43,
+    158.8,
+    7.17,
+    7.17
+   ],
+   "area": 23.310849999999903
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    39.29,
+    177.83,
+    15.59,
+    7.45
+   ],
+   "area": 67.79679999999998
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    3.96,
+    176.42,
+    6.97,
+    8.25
+   ],
+   "area": 37.00959999999994
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    193.14,
+    165.55,
+    10.01,
+    7.1
+   ],
+   "area": 26.64029999999999
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    224.16,
+    163.88,
+    7.31,
+    5.59
+   ],
+   "area": 22.308649999999968
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    190.91,
+    155.24,
+    5.69,
+    6.97
+   ],
+   "area": 17.00864999999993
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    36.94,
+    176.54,
+    8.86,
+    7.09
+   ],
+   "area": 32.320850000000036
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    66.56,
+    172.45,
+    2.34,
+    3.61
+   ],
+   "area": 4.876850000000045
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    231.21,
+    156.22,
+    6.7,
+    8.05
+   ],
+   "area": 26.16965000000004
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    219.71,
+    159.14,
+    7.48,
+    5.76
+   ],
+   "area": 20.156350000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man holding a silver flip phone open in front of his face.",
+  "A guy in a green shirt holding his cell phone to take a picture.",
+  "A man in a green shirt is taking a picture with his cell phone.",
+  "Man in a park taking a picture with his phone.",
+  "Individual is doing something at the moment that is intriguing."
+ ],
+ "scene_places": []
+}

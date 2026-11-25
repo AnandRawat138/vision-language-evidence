@@ -1,0 +1,288 @@
+{
+ "uid": "vqa_000000552186",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 1,
+  "person": 11,
+  "skateboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    43.62,
+    146.86,
+    148.43,
+    115.26
+   ],
+   "area": 12544.196699999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    63.39,
+    94.7,
+    335.84,
+    494.74
+   ],
+   "area": 56391.07605000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    357.2,
+    180.19,
+    86.73,
+    290.45
+   ],
+   "area": 14415.494200000001
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    51.61,
+    517.68,
+    190.97,
+    82.58
+   ],
+   "area": 3706.389650000001
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    328.72,
+    449.56,
+    130.28,
+    25.38
+   ],
+   "area": 1391.4138500000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    432.54,
+    162.92,
+    26.44,
+    62.77
+   ],
+   "area": 1294.1041000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    389.39,
+    167.96,
+    12.74,
+    29.91
+   ],
+   "area": 273.37379999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    397.61,
+    171.02,
+    17.05,
+    22.31
+   ],
+   "area": 150.89750000000026
+  },
+  {
+   "category": "person",
+   "bbox": [
+    351.18,
+    174.31,
+    13.91,
+    41.75
+   ],
+   "area": 474.80409999999875
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    165.39,
+    43.15,
+    89.17
+   ],
+   "area": 2460.4957500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    42.83,
+    161.18,
+    14.57,
+    61.17
+   ],
+   "area": 605.28595
+  },
+  {
+   "category": "person",
+   "bbox": [
+    129.83,
+    213.47,
+    53.95,
+    60.5
+   ],
+   "area": 2121.9698000000017
+  },
+  {
+   "category": "person",
+   "bbox": [
+    370.03,
+    168.83,
+    16.17,
+    50.6
+   ],
+   "area": 536.6029999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    154.97,
+    33.99,
+    28.08
+   ],
+   "area": 294.18779999999987
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a skateboard performing a trick.",
+  "A shirtless man performing a stunt on a skateboard.",
+  "A man riding a skateboard into the air on a parking lot.",
+  "A person on a skateboard on the street.",
+  "A shirtless young man is skateboarding at the skate park."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 552186000,
+   "question": "What is the man riding?",
+   "answer_type": "other",
+   "question_type": "what is the man",
+   "multiple_choice_answer": "skateboard",
+   "answers": [
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboard",
+    "skateboarding",
+    "skateboard",
+    "skateboard",
+    "skateboard"
+   ]
+  },
+  {
+   "question_id": 552186001,
+   "question": "Is the man wearing a shirt?",
+   "answer_type": "yes/no",
+   "question_type": "is the man",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 552186002,
+   "question": "What trick is the skater performing?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "jump",
+   "answers": [
+    "jump",
+    "kicking",
+    "heel kick",
+    "pop wheelie",
+    "manual",
+    "balancing",
+    "jump",
+    "manual",
+    "jump",
+    "flip"
+   ]
+  },
+  {
+   "question_id": 552186003,
+   "question": "How many people are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many people are in",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "9",
+    "2",
+    "lots",
+    "7",
+    "2",
+    "4",
+    "4",
+    "3",
+    "10",
+    "12"
+   ]
+  },
+  {
+   "question_id": 552186004,
+   "question": "Is something in his right back pocket?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 552186005,
+   "question": "Why is the surface not even?",
+   "answer_type": "other",
+   "question_type": "why is the",
+   "multiple_choice_answer": "parking lot",
+   "answers": [
+    "skateboard ramp",
+    "ground",
+    "it's skate park",
+    "unknown",
+    "it's skateboard park",
+    "paved",
+    "friction",
+    "designed poorly",
+    "parking lot",
+    "i don't know"
+   ]
+  }
+ ]
+}

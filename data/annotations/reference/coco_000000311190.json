@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000311190",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    43.43,
+    150.51,
+    284.85,
+    341.41
+   ],
+   "area": 71521.60530000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    45.65,
+    24.29,
+    113.74
+   ],
+   "area": 2185.50455
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A dog wearing a hat while in a car.",
+  "A dog that is in a car with a hat.",
+  "A sleepy dog wearing a cowboy hat in the back seat of a car",
+  "A large brown dog wearing a brown hat.",
+  "A dog with a cowboy hat on its head."
+ ],
+ "scene_places": []
+}

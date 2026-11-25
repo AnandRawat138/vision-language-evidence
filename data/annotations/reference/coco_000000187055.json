@@ -1,0 +1,92 @@
+{
+ "uid": "coco_000000187055",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sports ball",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 2,
+  "person": 3,
+  "tennis racket": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    302.46,
+    316.29,
+    21.42,
+    19.44
+   ],
+   "area": 248.80950000000067
+  },
+  {
+   "category": "person",
+   "bbox": [
+    176.41,
+    127.45,
+    185.39,
+    334.1
+   ],
+   "area": 30266.349150000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    193.72,
+    317.3,
+    134.89,
+    301.34
+   ],
+   "area": 17452.922049999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    314.92,
+    321.28,
+    324.38
+   ],
+   "area": 56691.47609999996
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    284.85,
+    194.94,
+    140.15,
+    288.45
+   ],
+   "area": 27742.230450000003
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    278.79,
+    195.88,
+    33.14,
+    32.75
+   ],
+   "area": 890.5779499999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An older man catching a fast moving tennis ball.",
+  "A man throws tennis balls to waiting tennis players.",
+  "A man with a ball facing a girl with a racquet.",
+  "A girl dressed in black holds up a tennis racket as a man in a white t-shirt stands in front of her.",
+  "People are playing with a tennis ball in a gym."
+ ],
+ "scene_places": []
+}

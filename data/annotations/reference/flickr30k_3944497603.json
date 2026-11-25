@@ -1,0 +1,175 @@
+{
+ "uid": "flickr30k_3944497603",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "orange"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A person in an orange coat with a hood lays on top of the entrance corridor to the metro .",
+  "A person in an orange jumpsuit is laying over a metro station .",
+  "A person in orange clothing rests above a metro entrance .",
+  "person in orange clothing lying on a wall",
+  "Bus worker sleeping on building ledge ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "149049",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "149053",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "an orange coat",
+   "start": 12,
+   "end": 26
+  },
+  {
+   "entity_id": "149054",
+   "types": [
+    "other"
+   ],
+   "phrase": "a hood",
+   "start": 32,
+   "end": 38
+  },
+  {
+   "entity_id": "149050",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the entrance corridor",
+   "start": 54,
+   "end": 75
+  },
+  {
+   "entity_id": "149055",
+   "types": [
+    "people"
+   ],
+   "phrase": "the metro",
+   "start": 79,
+   "end": 88
+  },
+  {
+   "entity_id": "149049",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "149053",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "an orange jumpsuit",
+   "start": 12,
+   "end": 30
+  },
+  {
+   "entity_id": "149050",
+   "types": [
+    "other"
+   ],
+   "phrase": "a metro station",
+   "start": 46,
+   "end": 61
+  },
+  {
+   "entity_id": "149049",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "149053",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "orange clothing",
+   "start": 12,
+   "end": 27
+  },
+  {
+   "entity_id": "149050",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a metro entrance",
+   "start": 40,
+   "end": 56
+  },
+  {
+   "entity_id": "149049",
+   "types": [
+    "people"
+   ],
+   "phrase": "person",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "149053",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "orange clothing",
+   "start": 10,
+   "end": 25
+  },
+  {
+   "entity_id": "149050",
+   "types": [
+    "other"
+   ],
+   "phrase": "a wall",
+   "start": 35,
+   "end": 41
+  },
+  {
+   "entity_id": "149049",
+   "types": [
+    "people"
+   ],
+   "phrase": "Bus worker",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "149056",
+   "types": [
+    "other"
+   ],
+   "phrase": "building ledge",
+   "start": 23,
+   "end": 37
+  }
+ ],
+ "scene_places": []
+}

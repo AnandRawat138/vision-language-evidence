@@ -1,0 +1,199 @@
+{
+ "uid": "flickr30k_4712636240",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "An older man peers through his binoculars at the expansive , mountainous vista before him .",
+  "A man is at an overlook point staring out across a valley by using binoculars .",
+  "A man with a walking stick looks through binoculars to see the mountains .",
+  "An old man with a walking stick uses binoculars to look at mountains .",
+  "Older man carrying a stick looking through binoculars ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "194014",
+   "types": [
+    "people"
+   ],
+   "phrase": "An older man",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "194018",
+   "types": [
+    "other"
+   ],
+   "phrase": "his binoculars",
+   "start": 27,
+   "end": 41
+  },
+  {
+   "entity_id": "194019",
+   "types": [
+    "other"
+   ],
+   "phrase": "the expansive , mountainous vista",
+   "start": 45,
+   "end": 78
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 86,
+   "end": 89
+  },
+  {
+   "entity_id": "194014",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "194020",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an overlook point",
+   "start": 12,
+   "end": 29
+  },
+  {
+   "entity_id": "194017",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a valley",
+   "start": 49,
+   "end": 57
+  },
+  {
+   "entity_id": "194018",
+   "types": [
+    "other"
+   ],
+   "phrase": "binoculars",
+   "start": 67,
+   "end": 77
+  },
+  {
+   "entity_id": "194014",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "194015",
+   "types": [
+    "other"
+   ],
+   "phrase": "a walking stick",
+   "start": 11,
+   "end": 26
+  },
+  {
+   "entity_id": "194018",
+   "types": [
+    "other"
+   ],
+   "phrase": "binoculars",
+   "start": 41,
+   "end": 51
+  },
+  {
+   "entity_id": "194016",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the mountains",
+   "start": 59,
+   "end": 72
+  },
+  {
+   "entity_id": "194014",
+   "types": [
+    "people"
+   ],
+   "phrase": "An old man",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "194015",
+   "types": [
+    "other"
+   ],
+   "phrase": "a walking stick",
+   "start": 16,
+   "end": 31
+  },
+  {
+   "entity_id": "194018",
+   "types": [
+    "other"
+   ],
+   "phrase": "binoculars",
+   "start": 37,
+   "end": 47
+  },
+  {
+   "entity_id": "194021",
+   "types": [
+    "scene"
+   ],
+   "phrase": "mountains",
+   "start": 59,
+   "end": 68
+  },
+  {
+   "entity_id": "194014",
+   "types": [
+    "people"
+   ],
+   "phrase": "Older man",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "194015",
+   "types": [
+    "other"
+   ],
+   "phrase": "a stick",
+   "start": 19,
+   "end": 26
+  },
+  {
+   "entity_id": "194018",
+   "types": [
+    "other"
+   ],
+   "phrase": "binoculars",
+   "start": 43,
+   "end": 53
+  }
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

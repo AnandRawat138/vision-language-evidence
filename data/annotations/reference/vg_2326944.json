@@ -1,0 +1,35 @@
+{
+ "uid": "vg_2326944",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person",
+  "skis",
+  "snowboard",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "black"
+  ],
+  "pants": [
+   "blue"
+  ],
+  "jacket": [
+   "black"
+  ]
+ },
+ "accessories": [
+  "glasses",
+  "gloves"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

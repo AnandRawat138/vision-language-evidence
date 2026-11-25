@@ -1,0 +1,252 @@
+{
+ "uid": "coco_000000332351",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 14,
+  "surfboard": 8
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    372.15,
+    164.7,
+    25.29,
+    41.79
+   ],
+   "area": 599.1129999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    496.11,
+    181.02,
+    16.54,
+    20.98
+   ],
+   "area": 226.2687999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    545.72,
+    188.89,
+    25.89,
+    13.02
+   ],
+   "area": 166.82920000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    456.62,
+    162.89,
+    16.18,
+    11.94
+   ],
+   "area": 78.43175000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    205.6,
+    160.18,
+    10.58,
+    17.24
+   ],
+   "area": 116.65139999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    171.46,
+    167.27,
+    24.46,
+    23.0
+   ],
+   "area": 237.85245000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    140.54,
+    169.01,
+    21.06,
+    24.16
+   ],
+   "area": 286.71725
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    546.22,
+    196.6,
+    11.34,
+    4.43
+   ],
+   "area": 32.78194999999985
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    370.31,
+    206.16,
+    42.72,
+    7.76
+   ],
+   "area": 175.17539999999957
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    202.47,
+    167.59,
+    26.75,
+    9.66
+   ],
+   "area": 142.27949999999998
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    108.93,
+    178.45,
+    15.62,
+    8.2
+   ],
+   "area": 97.8434
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    408.38,
+    151.52,
+    23.02,
+    21.88
+   ],
+   "area": 218.30119999999974
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    9.54,
+    201.33,
+    55.05,
+    9.5
+   ],
+   "area": 177.87175000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    422.91,
+    179.49,
+    12.0,
+    15.08
+   ],
+   "area": 90.97444999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    24.42,
+    190.98,
+    17.82,
+    20.12
+   ],
+   "area": 217.2999500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    95.34,
+    164.4,
+    15.49,
+    23.31
+   ],
+   "area": 238.30215000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    549.04,
+    156.5,
+    15.18,
+    14.79
+   ],
+   "area": 147.98505000000065
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    415.64,
+    179.81,
+    24.43,
+    14.13
+   ],
+   "area": 121.24535000000037
+  },
+  {
+   "category": "person",
+   "bbox": [
+    259.56,
+    169.59,
+    9.43,
+    26.42
+   ],
+   "area": 183.47429999999983
+  },
+  {
+   "category": "person",
+   "bbox": [
+    155.2,
+    166.02,
+    9.29,
+    9.43
+   ],
+   "area": 47.56509999999994
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    250.22,
+    169.57,
+    30.75,
+    19.43
+   ],
+   "area": 187.89215000000019
+  },
+  {
+   "category": "person",
+   "bbox": [
+    24,
+    167,
+    258,
+    11
+   ],
+   "area": 99
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "so many people on the sea skating and swimming",
+  "A group of people surfing the waves in the ocean.",
+  "Surfers are catching the waves near the beach",
+  "A group of surfers ride waves in the ocean.",
+  "A lot of people riding boards on top of a wave."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

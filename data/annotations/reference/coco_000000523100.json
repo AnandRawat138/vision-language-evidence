@@ -1,0 +1,136 @@
+{
+ "uid": "coco_000000523100",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "orange",
+  "oven",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 3,
+  "person": 1,
+  "bowl": 1,
+  "orange": 4,
+  "oven": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    185.76,
+    119.78,
+    27.16,
+    48.05
+   ],
+   "area": 869.7820500000003
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    153.77,
+    86.61,
+    33.36,
+    91.69
+   ],
+   "area": 1904.3808000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    251.93,
+    26.73,
+    228.07,
+    235.55
+   ],
+   "area": 26021.58600000001
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    1.44,
+    327.47,
+    477.48,
+    300.58
+   ],
+   "area": 133736.3639
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    1.51,
+    376.47,
+    474.35,
+    256.0
+   ],
+   "area": 90646.29415000002
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    83.69,
+    247.9,
+    110.98,
+    87.46
+   ],
+   "area": 7997.212099999999
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    0.0,
+    80.36,
+    163.59,
+    154.98
+   ],
+   "area": 19035.49025
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    200.66,
+    78.27,
+    28.31,
+    97.43
+   ],
+   "area": 1457.5594500000002
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    128.3,
+    211.2,
+    22.3,
+    24.37
+   ],
+   "area": 247.79134999999988
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    226.79,
+    229.82,
+    111.43,
+    97.68
+   ],
+   "area": 8160.337799999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person fills jars with orange slices from a large bowl.",
+  "A bowl of peeled oranges sit next to several jars of peeled oranges.",
+  "A metal bowl filled with orange slices on a table.",
+  "Person canning oranges showing a large bowl of fruit wedges.",
+  "Oranges that have been peeled are placed into a larger bowl."
+ ],
+ "scene_places": []
+}

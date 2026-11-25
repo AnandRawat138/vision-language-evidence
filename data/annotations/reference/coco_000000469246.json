@@ -1,0 +1,124 @@
+{
+ "uid": "coco_000000469246",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "suitcase",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1,
+  "person": 7,
+  "suitcase": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    114.08,
+    32.29,
+    525.92,
+    413.27
+   ],
+   "area": 102296.84975
+  },
+  {
+   "category": "person",
+   "bbox": [
+    147.27,
+    236.05,
+    32.9,
+    65.41
+   ],
+   "area": 1000.2828999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    182.43,
+    235.31,
+    15.07,
+    34.12
+   ],
+   "area": 246.3590500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    112.0,
+    238.12,
+    8.32,
+    16.15
+   ],
+   "area": 72.60920000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    171.12,
+    231.82,
+    10.11,
+    37.62
+   ],
+   "area": 157.69925
+  },
+  {
+   "category": "person",
+   "bbox": [
+    131.55,
+    242.76,
+    3.64,
+    9.31
+   ],
+   "area": 24.698599999999956
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    137.04,
+    282.68,
+    16.95,
+    20.23
+   ],
+   "area": 295.8865500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    125.16,
+    241.13,
+    2.79,
+    10.42
+   ],
+   "area": 15.300750000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    120.52,
+    238.67,
+    4.61,
+    14.54
+   ],
+   "area": 44.136900000000026
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A commuter train stops at a train station for passengers.",
+  "Passengers wait for a train as it approaches the platform.",
+  "Person waiting on a train platform near a train.",
+  "A side view of a train by the street.",
+  "A train stops at the station while people hurry to get on."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

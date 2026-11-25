@@ -1,0 +1,12 @@
+# Optional cloud / Linux configuration: same request API, vLLM OpenAI-compatible server.
+# NOT executed for the reported results (no Linux GPU host was available; see feasibility report).
+# Server (example, Linux + >=16 GB GPU):
+#   vllm serve Qwen/Qwen2.5-VL-3B-Instruct --max-model-len 8192 \
+#     --limit-mm-per-prompt '{"image":4}' --mm-processor-kwargs '{"min_pixels":100352,"max_pixels":200704}'
+backend: vllm
+timeout_s: 900
+vllm:
+  base_url: http://localhost:8000/v1
+  model_id: Qwen/Qwen2.5-VL-3B-Instruct
+  quantization: none        # fp16/bf16 weights on the server; differs from the local NF4 run -> report separately
+  repetition_penalty: 1.05

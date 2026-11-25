@@ -1,0 +1,94 @@
+{
+ "uid": "coco_000000463690",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sports ball",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "sports ball": 1,
+  "person": 4
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    190.58,
+    64.46,
+    16.76,
+    52.05
+   ],
+   "area": 361.2845999999999
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    271.93,
+    83.9,
+    58.9,
+    56.62
+   ],
+   "area": 2498.43855
+  },
+  {
+   "category": "person",
+   "bbox": [
+    163.86,
+    20.96,
+    80.97,
+    211.09
+   ],
+   "area": 8588.526650000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    49.02,
+    20.4,
+    48.93,
+    191.07
+   ],
+   "area": 5598.4897999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    259.49,
+    141.04,
+    261.36,
+    280.56
+   ],
+   "area": 28873.5277
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.19,
+    18.42,
+    45.32,
+    196.61
+   ],
+   "area": 5964.6027
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The man is lying on the sidewalk with one leg in the air.",
+  "A man is laying down in a pavement balancing a ball on his foot while others watch.",
+  "A man laying on the street playing with a soccer ball while people look on",
+  "A man laying on his back while kicking a soccer ball.",
+  "A man balancing a soccer ball on his foot."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

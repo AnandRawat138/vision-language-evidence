@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000188439",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    76.27,
+    209.05,
+    328.97,
+    171.84
+   ],
+   "area": 41837.480749999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    405.24,
+    255.47,
+    11.97,
+    31.52
+   ],
+   "area": 260.12069999999983
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A colorful truck is driving with a full load of sticks and twigs.",
+  "A truck loaded with cargo slowly creeps down the street.",
+  "a truck on a street with hay in the back",
+  "A small white truck on the road next to trees.",
+  "a big truck with some branches in the back of it"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

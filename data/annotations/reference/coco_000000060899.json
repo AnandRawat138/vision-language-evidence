@@ -1,0 +1,116 @@
+{
+ "uid": "coco_000000060899",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 5,
+  "person": 1,
+  "horse": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    285.23,
+    141.14,
+    72.62,
+    141.53
+   ],
+   "area": 4269.294099999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    329.58,
+    166.78,
+    29.29,
+    177.61
+   ],
+   "area": 1860.4953000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    99.24,
+    143.82,
+    139.5,
+    375.37
+   ],
+   "area": 32066.9073
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    120.34,
+    125.06,
+    216.28
+   ],
+   "area": 17985.696700000008
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    142.1,
+    266.06,
+    155.89,
+    186.18
+   ],
+   "area": 13059.327899999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    329.09,
+    138.69,
+    30.91,
+    61.82
+   ],
+   "area": 413.3815999999998
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    234.1,
+    170.95,
+    20.53,
+    65.87
+   ],
+   "area": 763.7506499999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    0.0,
+    585.15,
+    35.17,
+    54.42
+   ],
+   "area": 1738.2375500000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The young boy is playing in the living room of his house.",
+  "A little boy has a hairbrush in his hands.",
+  "a toddler playing with a hairbrush in a living room",
+  "A young boy stands in the living room playing with a brush",
+  "A toddler holding a hairbrush above his head."
+ ],
+ "scene_places": [
+  "living room"
+ ]
+}

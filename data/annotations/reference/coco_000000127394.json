@@ -1,0 +1,262 @@
+{
+ "uid": "coco_000000127394",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "chair",
+  "cup",
+  "dining table",
+  "person",
+  "pizza",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 3,
+  "person": 6,
+  "cup": 4,
+  "spoon": 5,
+  "bowl": 1,
+  "pizza": 1,
+  "chair": 1,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    333.18,
+    166.56,
+    13.13,
+    17.62
+   ],
+   "area": 148.2401
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    86.37,
+    92.19,
+    249.32
+   ],
+   "area": 15095.642699999997
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    244.38,
+    166.95,
+    23.82,
+    31.86
+   ],
+   "area": 576.0611500000009
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    354.01,
+    305.23,
+    43.54,
+    61.23
+   ],
+   "area": 2140.6404999999986
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    343.24,
+    164.19,
+    24.76,
+    51.27
+   ],
+   "area": 665.9050499999988
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    163.07,
+    199.85,
+    24.13,
+    41.62
+   ],
+   "area": 926.1303500000001
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    129.84,
+    340.88,
+    39.51,
+    150.17
+   ],
+   "area": 1850.2857000000001
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    187.42,
+    408.97,
+    142.32,
+    116.99
+   ],
+   "area": 1772.7737000000006
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    186.7,
+    286.91,
+    62.13,
+    15.47
+   ],
+   "area": 226.69120000000046
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    45.16,
+    302.02,
+    54.22,
+    33.79
+   ],
+   "area": 422.2656499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    67.22,
+    77.37,
+    127.69,
+    171.2
+   ],
+   "area": 10939.42305
+  },
+  {
+   "category": "person",
+   "bbox": [
+    168.81,
+    51.89,
+    108.33,
+    172.58
+   ],
+   "area": 10559.61335
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    319.3,
+    159.25,
+    14.64,
+    58.3
+   ],
+   "area": 353.9492499999999
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    303.22,
+    175.13,
+    20.2,
+    43.96
+   ],
+   "area": 684.9774499999996
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    97.8,
+    419.96,
+    166.83,
+    148.13
+   ],
+   "area": 17076.720550000002
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    62.42,
+    317.95,
+    100.4,
+    51.81
+   ],
+   "area": 3337.108800000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    329.82,
+    227.82,
+    79.18,
+    89.18
+   ],
+   "area": 3193.0251499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    391.93,
+    92.31,
+    17.07,
+    54.19
+   ],
+   "area": 386.16549999999967
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    133.41,
+    114.23,
+    81.45,
+    108.42
+   ],
+   "area": 2979.2130000000006
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    207.79,
+    409.0,
+    420.57
+   ],
+   "area": 155900.30200000003
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    373.0,
+    373.64,
+    36.0,
+    23.16
+   ],
+   "area": 455.3368500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    260.02,
+    48.71,
+    65.84,
+    104.92
+   ],
+   "area": 4151.83375
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people sitting around a table filled with food.",
+  "People sitting around a table several pans of food.",
+  "a number of people sitting at a table with lots of food",
+  "A group of people sit at a table laden with food.",
+  "The people are at the dining table with a lot of food around them."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000151516",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    202.94,
+    224.98,
+    269.97,
+    89.99
+   ],
+   "area": 8116.600449999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A beautiful bird with brown wings, glides over the water",
+  "A brown bird with a white head flys over  a large body of water.",
+  "The brown eagle is soaring over the ocean.",
+  "An eagle flies low over the open water.",
+  "A bird swooping down to the water to catch food."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

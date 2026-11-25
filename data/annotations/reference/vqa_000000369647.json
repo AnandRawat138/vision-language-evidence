@@ -1,0 +1,147 @@
+{
+ "uid": "vqa_000000369647",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    160.65,
+    384.81,
+    97.65,
+    252.22
+   ],
+   "area": 17313.2534
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    4.43,
+    422.37,
+    624.25
+   ],
+   "area": 206369.99195
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man with a suit and tie about to speak",
+  "A picture of a picture of a man wearing a tie.",
+  "A photo of a man in suit and tie on the television.",
+  "A man in business attire with a striped tie,",
+  "A MAN WITH A TIE IS ON THE TELEVISON"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 369647000,
+   "question": "Does he have facial hair?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 369647001,
+   "question": "What color is the tie?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "red and white",
+   "answers": [
+    "purple and maroon striped",
+    "purple and lavender",
+    "red and white",
+    "red and silver",
+    "red and white",
+    "red",
+    "red and blue",
+    "red & white",
+    "red and white",
+    "red white and blue"
+   ]
+  },
+  {
+   "question_id": 369647002,
+   "question": "Is the man wearing a long neck tie or a bow tie?",
+   "answer_type": "other",
+   "question_type": "is the man",
+   "multiple_choice_answer": "long neck tie",
+   "answers": [
+    "necktie",
+    "long neck tie",
+    "necktie",
+    "long neck tie",
+    "long neck tie",
+    "long neck tie",
+    "long neck tie",
+    "long neck tie",
+    "long neck tie",
+    "long neck tie"
+   ]
+  },
+  {
+   "question_id": 369647003,
+   "question": "Is the tie going to choke the man?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 369647004,
+   "question": "What color is the shirt?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "white",
+    "white",
+    "blue",
+    "white",
+    "white",
+    "white",
+    "white",
+    "blue"
+   ]
+  }
+ ]
+}

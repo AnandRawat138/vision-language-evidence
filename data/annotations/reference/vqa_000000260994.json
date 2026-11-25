@@ -1,0 +1,233 @@
+{
+ "uid": "vqa_000000260994",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "handbag",
+  "hot dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 5,
+  "handbag": 2,
+  "backpack": 1,
+  "hot dog": 6
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    109.64,
+    32.51,
+    250.04,
+    388.53
+   ],
+   "area": 60655.00705
+  },
+  {
+   "category": "person",
+   "bbox": [
+    284.55,
+    65.42,
+    41.03,
+    99.22
+   ],
+   "area": 2109.0665999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    156.24,
+    95.09,
+    50.55,
+    66.91
+   ],
+   "area": 776.9679499999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    270.16,
+    100.84,
+    15.56,
+    35.27
+   ],
+   "area": 273.68480000000005
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    98.09,
+    160.15,
+    26.59,
+    29.13
+   ],
+   "area": 501.18630000000024
+  },
+  {
+   "category": "person",
+   "bbox": [
+    138.06,
+    82.45,
+    36.12,
+    31.57
+   ],
+   "area": 736.7099499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    82.42,
+    86.69,
+    48.56,
+    122.46
+   ],
+   "area": 3380.4032000000007
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    97.13,
+    104.57,
+    31.4,
+    39.95
+   ],
+   "area": 387.7368500000003
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    257.06,
+    279.63,
+    32.67,
+    19.06
+   ],
+   "area": 319.16919999999965
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    511.29,
+    235.67,
+    51.27,
+    32.16
+   ],
+   "area": 873.5190499999992
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    484.58,
+    282.79,
+    77.49,
+    18.81
+   ],
+   "area": 1012.0368499999993
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    536.11,
+    267.33,
+    28.25,
+    27.54
+   ],
+   "area": 384.31430000000057
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    455.64,
+    273.64,
+    62.04,
+    25.01
+   ],
+   "area": 861.7283499999998
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    508.83,
+    264.31,
+    31.47,
+    17.52
+   ],
+   "area": 353.47010000000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A chef is holding a hot dog in a container.",
+  "a male cook holding a paper bowl with a hot dog and standing next to a bun warming machine",
+  "A man holds a hot dog while several people walk in the background.",
+  "An older man in a chef coat holding some food.",
+  "A chef holding a hotdog outside at a food stand."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 260994000,
+   "question": "What are the bread items on the right?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "hot dog buns",
+   "answers": [
+    "buns",
+    "hot dog's bun",
+    "hot dog buns",
+    "hot dog buns",
+    "hot dog buns",
+    "hot dog bun",
+    "baguettes",
+    "rolls",
+    "buns",
+    "hot dog buns"
+   ]
+  },
+  {
+   "question_id": 260994001,
+   "question": "What type of scene is this?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "kitchen",
+   "answers": [
+    "kitchen",
+    "kitchen",
+    "kitchen",
+    "grill",
+    "restaurant",
+    "street fair",
+    "vending",
+    "hot dog vendor",
+    "food service",
+    "outdoor kitchen"
+   ]
+  },
+  {
+   "question_id": 260994002,
+   "question": "What is this person?",
+   "answer_type": "other",
+   "question_type": "what is this",
+   "multiple_choice_answer": "chef",
+   "answers": [
+    "chef",
+    "chef",
+    "chef",
+    "chef",
+    "cook",
+    "chef",
+    "cook",
+    "chef",
+    "cook",
+    "chef"
+   ]
+  }
+ ]
+}

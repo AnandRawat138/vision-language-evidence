@@ -1,0 +1,190 @@
+{
+ "uid": "flickr30k_3223809913",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "The skateboarder is jumping his board in the air while another skateboarder watches .",
+  "A skateboarder does a trick in the air , another watches and so does a crowd .",
+  "A skateboarder is watching another skateboarder perform a jumping stunt .",
+  "A man with an Afro propels his skateboard into the air .",
+  "Boy does skateboard trick ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "102405",
+   "types": [
+    "people"
+   ],
+   "phrase": "The skateboarder",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "102406",
+   "types": [
+    "other"
+   ],
+   "phrase": "his board",
+   "start": 28,
+   "end": 37
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 41,
+   "end": 48
+  },
+  {
+   "entity_id": "102407",
+   "types": [
+    "people"
+   ],
+   "phrase": "another skateboarder",
+   "start": 55,
+   "end": 75
+  },
+  {
+   "entity_id": "102405",
+   "types": [
+    "people"
+   ],
+   "phrase": "A skateboarder",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 20,
+   "end": 27
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "another",
+   "start": 41,
+   "end": 48
+  },
+  {
+   "entity_id": "102408",
+   "types": [
+    "people"
+   ],
+   "phrase": "a crowd",
+   "start": 69,
+   "end": 76
+  },
+  {
+   "entity_id": "102405",
+   "types": [
+    "people"
+   ],
+   "phrase": "A skateboarder",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "102405",
+   "types": [
+    "people"
+   ],
+   "phrase": "another skateboarder",
+   "start": 27,
+   "end": 47
+  },
+  {
+   "entity_id": "102411",
+   "types": [
+    "other"
+   ],
+   "phrase": "a jumping stunt",
+   "start": 56,
+   "end": 71
+  },
+  {
+   "entity_id": "102405",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "102409",
+   "types": [
+    "other"
+   ],
+   "phrase": "an Afro propels",
+   "start": 11,
+   "end": 26
+  },
+  {
+   "entity_id": "102406",
+   "types": [
+    "other"
+   ],
+   "phrase": "his skateboard",
+   "start": 27,
+   "end": 41
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 47,
+   "end": 54
+  },
+  {
+   "entity_id": "102405",
+   "types": [
+    "people"
+   ],
+   "phrase": "Boy",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "skateboard trick",
+   "start": 9,
+   "end": 25
+  }
+ ],
+ "scene_places": []
+}

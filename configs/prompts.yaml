@@ -1,0 +1,85 @@
+# Version-controlled prompt templates. Any change to a template MUST bump its id.
+# Prompts were written and checked on dev-split images only.
+
+struct-v1:
+  purpose: single-image structured observation extraction (framework, Exp1/2/5/6/7)
+  max_new_tokens: 320
+  system: >-
+    You describe only what is visibly present in images. You never guess identity, names, age,
+    ethnicity, gender, emotions, intentions or whether anyone did anything wrong.
+  text: |-
+    List what is clearly visible in this image. Return ONLY a JSON object with these keys:
+    {"objects": [{"name": str, "count": int, "confidence": "high|medium|low"}],
+     "clothing": [{"name": str, "color": str, "confidence": "high|medium|low"}],
+     "accessories": [{"name": str, "confidence": "high|medium|low"}],
+     "carried_objects": [{"name": str, "confidence": "high|medium|low"}],
+     "scene": {"setting": "indoor|outdoor|unclear", "place": str, "lighting": str, "weather": str},
+     "image_quality": {"blur": "none|mild|severe", "occlusion": "none|partial|heavy", "lighting": "good|dim|very dark"},
+     "unclear": [str]}
+    Rules: use short common nouns; include every distinct object type you can see; list clothing items
+    worn by any visible person (no identities); use empty lists when nothing applies; put anything you
+    cannot see well in "unclear" instead of guessing.
+
+struct-v2:
+  purpose: struct-v1 + explicit no-repetition rule (selected on dev split, see results/raw/prompt_dev)
+  max_new_tokens: 320
+  system: >-
+    You describe only what is visibly present in images. You never guess identity, names, age,
+    ethnicity, gender, emotions, intentions or whether anyone did anything wrong.
+  text: |-
+    List what is clearly visible in this image. Return ONLY a JSON object with these keys:
+    {"objects": [{"name": str, "count": int, "confidence": "high|medium|low"}],
+     "clothing": [{"name": str, "color": str, "confidence": "high|medium|low"}],
+     "accessories": [{"name": str, "confidence": "high|medium|low"}],
+     "carried_objects": [{"name": str, "confidence": "high|medium|low"}],
+     "scene": {"setting": "indoor|outdoor|unclear", "place": str, "lighting": str, "weather": str},
+     "image_quality": {"blur": "none|mild|severe", "occlusion": "none|partial|heavy", "lighting": "good|dim|very dark"},
+     "unclear": [str]}
+    Rules: use short common nouns; include every distinct object type you can see, each type only once
+    (use "count" for multiples); list each clothing item type once per colour, worn by any visible person
+    (no identities); use empty lists when nothing applies; put anything you cannot see well in "unclear"
+    instead of guessing. Never repeat an entry. End after the closing brace.
+
+caption-v1:
+  purpose: conventional free-form captioning with the same VLM (baseline B3)
+  max_new_tokens: 96
+  system: null
+  text: Describe this image in two sentences.
+
+context-v1:
+  purpose: contextual multi-image reasoning over a group of views (Exp3)
+  max_new_tokens: 400
+  system: >-
+    You describe only what is visibly present in images. You never guess identity, names, age,
+    ethnicity, gender, emotions, intentions or whether anyone did anything wrong. Do not assume that
+    people in different images are the same person.
+  text: |-
+    You are given {n} images of the same location captured at about the same time, possibly with
+    different framing, blur or lighting. Combine the evidence and return ONLY a JSON object:
+    {"objects": [{"name": str, "count": int, "confidence": "high|medium|low", "images": [int]}],
+     "clothing": [{"name": str, "color": str, "confidence": "high|medium|low", "images": [int]}],
+     "accessories": [{"name": str, "confidence": "high|medium|low", "images": [int]}],
+     "carried_objects": [{"name": str, "confidence": "high|medium|low", "images": [int]}],
+     "scene": {"setting": "indoor|outdoor|unclear", "place": str, "lighting": str, "weather": str},
+     "image_quality": {"blur": "none|mild|severe", "occlusion": "none|partial|heavy", "lighting": "good|dim|very dark"},
+     "unclear": [str]}
+    "images" lists the 1-based numbers of the images in which the item is visible. Include an item only
+    if it is visible in at least one image. Use empty lists when nothing applies.
+
+narrative-v1:
+  purpose: text-only structuring of a free-form (witness-style) description (Exp4)
+  max_new_tokens: 320
+  system: >-
+    You convert descriptions into structured observations. You never add details that are not in the
+    text and never turn an uncertain statement into a certain one.
+  text: |-
+    Description: "{narrative}"
+    Return ONLY a JSON object:
+    {"clothing": [{"name": str, "color": str, "certainty": "definite|hedged|negated", "quote": str}],
+     "accessories": [{"name": str, "certainty": "definite|hedged|negated", "quote": str}],
+     "carried_objects": [{"name": str, "certainty": "definite|hedged|negated", "quote": str}],
+     "objects": [{"name": str, "certainty": "definite|hedged|negated", "quote": str}],
+     "scene": {"place": str, "setting": "indoor|outdoor|unclear", "lighting": str},
+     "missing": [str]}
+    "quote" is the exact words from the description. "hedged" means the speaker expressed doubt.
+    "missing" lists which of clothing, accessories, carried_objects, scene, lighting are not mentioned.

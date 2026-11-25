@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000314914",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    342.78,
+    265.51,
+    137.22,
+    101.56
+   ],
+   "area": 9468.585849999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A two sign sitting on the side of a road.",
+  "A group of signs on a pole on a city street.",
+  "Several signs attached to a post detail regulations related to parking and other issues.",
+  "The signs describe which rules will be enforced.",
+  "there are many different signs on the same street pole"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

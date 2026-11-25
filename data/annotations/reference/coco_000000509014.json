@@ -1,0 +1,252 @@
+{
+ "uid": "coco_000000509014",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "skis": 8,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "skis",
+   "bbox": [
+    346.61,
+    235.42,
+    79.19,
+    13.55
+   ],
+   "area": 361.3199500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    252.58,
+    168.6,
+    78.31,
+    109.24
+   ],
+   "area": 5945.557199999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    337.7,
+    187.75,
+    30.88,
+    46.63
+   ],
+   "area": 936.3028499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    435.32,
+    151.81,
+    12.97,
+    42.72
+   ],
+   "area": 380.1017500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    122.2,
+    151.86,
+    2.96,
+    8.2
+   ],
+   "area": 19.407499999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    532.03,
+    145.24,
+    8.6,
+    24.77
+   ],
+   "area": 121.84900000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    545.76,
+    169.48,
+    33.35,
+    83.57
+   ],
+   "area": 1533.1007999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    230.51,
+    158.13,
+    13.73,
+    38.57
+   ],
+   "area": 233.3655500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    199.24,
+    154.36,
+    25.55,
+    66.88
+   ],
+   "area": 818.21505
+  },
+  {
+   "category": "person",
+   "bbox": [
+    369.2,
+    197.45,
+    36.99,
+    50.48
+   ],
+   "area": 987.1894500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    619.4,
+    176.15,
+    20.6,
+    30.41
+   ],
+   "area": 382.64649999999915
+  },
+  {
+   "category": "person",
+   "bbox": [
+    514.01,
+    157.87,
+    12.0,
+    41.04
+   ],
+   "area": 316.24600000000135
+  },
+  {
+   "category": "person",
+   "bbox": [
+    633.62,
+    210.2,
+    6.38,
+    70.8
+   ],
+   "area": 333.13580000000013
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    324.19,
+    226.11,
+    27.33,
+    6.74
+   ],
+   "area": 68.61639999999969
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    421.18,
+    190.26,
+    35.82,
+    6.09
+   ],
+   "area": 63.59584999999957
+  },
+  {
+   "category": "person",
+   "bbox": [
+    347.02,
+    160.29,
+    13.66,
+    27.71
+   ],
+   "area": 184.87645000000003
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    520.2,
+    250.41,
+    36.0,
+    11.56
+   ],
+   "area": 233.5836000000001
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    367.58,
+    219.13,
+    44.8,
+    5.54
+   ],
+   "area": 55.682599999999965
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    195.1,
+    211.78,
+    37.61,
+    15.54
+   ],
+   "area": 103.94379999999983
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    608.28,
+    208.22,
+    18.52,
+    6.36
+   ],
+   "area": 36.90020000000007
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    524.94,
+    164.79,
+    23.03,
+    6.36
+   ],
+   "area": 36.62510000000053
+  },
+  {
+   "category": "person",
+   "bbox": [
+    85,
+    133,
+    501,
+    67
+   ],
+   "area": 5767
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people that are standing in the snow.",
+  "This is a picture of skiers enjoying their day on a mountain.",
+  "a bunch of people on skis are in the snow",
+  "a bunch of people that are walking across the snow",
+  "A busy ski resort with people dressed in winter gear."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

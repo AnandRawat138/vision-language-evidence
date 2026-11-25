@@ -1,0 +1,140 @@
+{
+ "uid": "vqa_000000069194",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "person": 1,
+  "baseball bat": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    8.56,
+    180.28,
+    24.81,
+    22.56
+   ],
+   "area": 448.34104999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    220.9,
+    40.07,
+    286.05,
+    410.24
+   ],
+   "area": 35697.69195000001
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    169.75,
+    85.64,
+    65.44,
+    103.28
+   ],
+   "area": 1388.1268500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person swinging at bat at a ball on a baseball field.",
+  "A little girl that is hitting a baseball.",
+  "image does not appear in this particular one",
+  "The little league player swings a bat at the baseball.",
+  "Girl in blue shirt swinging a baseball bat."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 69194000,
+   "question": "Is the person holding the bat a boy or girl?",
+   "answer_type": "other",
+   "question_type": "is the person",
+   "multiple_choice_answer": "girl",
+   "answers": [
+    "girl",
+    "girl",
+    "girl",
+    "girl",
+    "girl",
+    "girl",
+    "girl",
+    "girl",
+    "girl",
+    "girl"
+   ]
+  },
+  {
+   "question_id": 69194001,
+   "question": "Did they hit the ball?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "maybe",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 69194002,
+   "question": "Is this a professional game?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 69194003,
+   "question": "Does this girl appear to be in a team, or playing by herself?",
+   "answer_type": "other",
+   "question_type": "does this",
+   "multiple_choice_answer": "team",
+   "answers": [
+    "playing by herself",
+    "team",
+    "team",
+    "on team",
+    "team",
+    "team",
+    "team",
+    "in team",
+    "team",
+    "team"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "uid": "coco_000000351530",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bicycle",
+  "cell phone",
+  "chair",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 4,
+  "bicycle": 1,
+  "chair": 13,
+  "bench": 4
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    237.93,
+    157.65,
+    13.68,
+    6.84
+   ],
+   "area": 52.612650000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    135.6,
+    111.72,
+    162.96,
+    166.57
+   ],
+   "area": 8622.865000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    134.25,
+    116.11,
+    115.53,
+    91.9
+   ],
+   "area": 3477.3607999999995
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    0.17,
+    146.88,
+    132.15,
+    101.72
+   ],
+   "area": 9565.013799999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    149.55,
+    131.95,
+    48.14,
+    140.07
+   ],
+   "area": 1599.5253999999993
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    247.01,
+    135.84,
+    109.18,
+    151.85
+   ],
+   "area": 4972.862650000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    320.79,
+    135.93,
+    64.65,
+    165.35
+   ],
+   "area": 3589.061350000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    344.59,
+    133.08,
+    72.11,
+    176.65
+   ],
+   "area": 6290.238849999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    444.26,
+    135.91,
+    195.74,
+    218.31
+   ],
+   "area": 14638.205450000007
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    388.19,
+    124.87,
+    118.92,
+    173.28
+   ],
+   "area": 4994.1768999999995
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    417.74,
+    126.79,
+    145.65,
+    199.91
+   ],
+   "area": 6154.52085
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    533.95,
+    139.8,
+    57.63,
+    55.09
+   ],
+   "area": 1609.0422999999967
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    561.12,
+    216.76,
+    78.88,
+    160.38
+   ],
+   "area": 8968.886950000006
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    204.67,
+    185.16,
+    32.87,
+    97.06
+   ],
+   "area": 1644.6566499999994
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    526.58,
+    198.97,
+    113.42,
+    158.6
+   ],
+   "area": 6018.266200000005
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    322.78,
+    128.16,
+    146.58,
+    170.41
+   ],
+   "area": 3404.833199999998
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    448.26,
+    137.01,
+    189.55,
+    211.01
+   ],
+   "area": 14960.470849999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    2.9,
+    77.0,
+    110.65,
+    125.28
+   ],
+   "area": 4284.283949999999
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    560.62,
+    216.98,
+    79.38,
+    156.11
+   ],
+   "area": 9040.6814
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    529.2,
+    199.31,
+    109.96,
+    160.04
+   ],
+   "area": 6181.988749999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    294.79,
+    181.19,
+    39.34,
+    113.25
+   ],
+   "area": 2764.6491499999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    226.56,
+    183.86,
+    31.71,
+    98.55
+   ],
+   "area": 1850.8681999999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    375.28,
+    125.97,
+    100.94,
+    70.2
+   ],
+   "area": 1678.114949999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "People seated on wooden chairs and a bicycle parked nearby.",
+  "two people sitting on benches with trees in the background",
+  "There is a long line of wooden chairs and two women sit.",
+  "The two women sit on a bench together.",
+  "There are people sitting on chairs lined up"
+ ],
+ "scene_places": []
+}

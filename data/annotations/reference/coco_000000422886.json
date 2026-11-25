@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000422886",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "hot dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "hot dog": 1,
+  "couch": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    21.57,
+    28.76,
+    618.43,
+    604.05
+   ],
+   "area": 219708.62300000002
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    265.66,
+    253.58,
+    141.89,
+    197.74
+   ],
+   "area": 19926.00795
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    0.0,
+    446.78,
+    355.6,
+    193.22
+   ],
+   "area": 51579.287299999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man eating a hot dog with cheese and onions.",
+  "A man making a face while biting a hot dog with cheese on it.",
+  "a man in a hat is biting into a hotdog",
+  "a man eating a hotdog that has a lot of cheese",
+  "A man eagerly stuffing a cheesy hot dog into his mouth"
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000407960",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "cat",
+  "oven"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "bowl": 1,
+  "oven": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    55.09,
+    158.37,
+    299.3,
+    218.51
+   ],
+   "area": 27357.867300000005
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    198.47,
+    105.87,
+    84.84,
+    55.62
+   ],
+   "area": 3600.4806500000004
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    372.39,
+    1.2,
+    267.61,
+    421.21
+   ],
+   "area": 94882.24375000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cat is observing the dishwasher in the kitchen.",
+  "A small cat is looking up at a stove top.",
+  "A cat looks up at the stove and is reflected in the oven's glass.",
+  "A cat is looking up at an oven.",
+  "A brown cat is sitting on a wood floor."
+ ],
+ "scene_places": []
+}

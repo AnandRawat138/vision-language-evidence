@@ -1,0 +1,96 @@
+{
+ "uid": "coco_000000375278",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cat",
+  "dog",
+  "person",
+  "suitcase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "person": 1,
+  "book": 2,
+  "dog": 1,
+  "suitcase": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    3.24,
+    24.57,
+    226.78,
+    328.29
+   ],
+   "area": 35319.82880000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    2.24,
+    44.84,
+    192.83,
+    161.44
+   ],
+   "area": 15961.034699999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    240.08,
+    102.58,
+    92.92,
+    136.86
+   ],
+   "area": 8371.5547
+  },
+  {
+   "category": "book",
+   "bbox": [
+    258.91,
+    228.34,
+    74.09,
+    205.13
+   ],
+   "area": 10218.25855
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    0.0,
+    32.5,
+    227.71,
+    317.44
+   ],
+   "area": 31881.968699999998
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    0.0,
+    54.55,
+    277.92,
+    438.96
+   ],
+   "area": 64311.133699999955
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An hand pets a cat in a suitcase.",
+  "a black puppy playing with a hand as it stands in a black suitcase",
+  "The person has a bag and some magazines laying on the table.",
+  "a man pets a cat over a bag",
+  "A person's hand is wrapped around the head of a puppy."
+ ],
+ "scene_places": []
+}

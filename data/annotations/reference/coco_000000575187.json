@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000575187",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "giraffe",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "giraffe": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    0.65,
+    160.11,
+    256.4,
+    187.8
+   ],
+   "area": 20924.382749999997
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    269.9,
+    52.97,
+    227.86,
+    114.35
+   ],
+   "area": 12197.596749999999
+  },
+  {
+   "category": "book",
+   "bbox": [
+    64.04,
+    289.94,
+    69.95,
+    37.93
+   ],
+   "area": 1641.1681000000015
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A giraffe sticks his nose and tongue out of a wire fence to accept something a man is offering him.",
+  "A giraffe eating out of the hands of a man through fence.",
+  "A man in black sweater feeding a giraffe through a fence.",
+  "A man feeding a giraffe through a metal fence",
+  "A man feeding a giraffe through a fence."
+ ],
+ "scene_places": []
+}

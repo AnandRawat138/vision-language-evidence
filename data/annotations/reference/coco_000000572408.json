@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000572408",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cow",
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cow": 4,
+  "sheep": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cow",
+   "bbox": [
+    96.34,
+    240.86,
+    206.46,
+    227.1
+   ],
+   "area": 20673.035
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    34.44,
+    442.1,
+    209.91,
+    102.27
+   ],
+   "area": 11655.121499999992
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    287.62,
+    223.19,
+    28.92,
+    36.43
+   ],
+   "area": 641.4322000000004
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    230.16,
+    229.78,
+    29.89,
+    24.1
+   ],
+   "area": 397.66320000000013
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    104.66,
+    248.57,
+    180.16,
+    214.52
+   ],
+   "area": 18187.853700000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cow standing in a field with a smaller cow.",
+  "A calf laying in front of a cow.",
+  "Long haired cattle in a field with calf.",
+  "A long horn bull standing next to a  sheep on a grass covered field.",
+  "A bull standing over a calf in a large open pasture."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

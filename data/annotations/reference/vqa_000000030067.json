@@ -1,0 +1,406 @@
+{
+ "uid": "vqa_000000030067",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sports ball",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "person": 1,
+  "tennis racket": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    207.22,
+    413.22,
+    27.33,
+    26.33
+   ],
+   "area": 524.8296500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    53.48,
+    70.12,
+    217.66,
+    569.88
+   ],
+   "area": 76415.62290000002
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    82.15,
+    388.95,
+    92.41,
+    170.78
+   ],
+   "area": 5747.625850000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Indian man getting ready to serve a yellow ball.",
+  "A man preparing to serve a tennis ball.",
+  "A man is playing tennis with a racquet and ball.",
+  "A man getting ready to hit a tennis ball .",
+  "A man holding a tennis racquet and tennis ball."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 30067000,
+   "question": "Are there spectators in this scene?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "unknown",
+    "no",
+    "no",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30067001,
+   "question": "What color shorts is this person wearing?",
+   "answer_type": "other",
+   "question_type": "what color",
+   "multiple_choice_answer": "black",
+   "answers": [
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black"
+   ]
+  },
+  {
+   "question_id": 30067002,
+   "question": "What color shirt is he wearing?",
+   "answer_type": "other",
+   "question_type": "what color",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white"
+   ]
+  },
+  {
+   "question_id": 30067003,
+   "question": "Is this man running?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 30067004,
+   "question": "Did he just hit a ball?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 30067005,
+   "question": "Is this man serving a tennis ball?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30067006,
+   "question": "Is he ready to serve?",
+   "answer_type": "yes/no",
+   "question_type": "is he",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30067007,
+   "question": "Is there anyone watching the player?",
+   "answer_type": "yes/no",
+   "question_type": "is there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "maybe",
+    "no",
+    "yes",
+    "no",
+    "probably",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 30067008,
+   "question": "Is the man about to serve?",
+   "answer_type": "yes/no",
+   "question_type": "is the man",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30067009,
+   "question": "What color shorts is the man wearing?",
+   "answer_type": "other",
+   "question_type": "what color",
+   "multiple_choice_answer": "black",
+   "answers": [
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black",
+    "black"
+   ]
+  },
+  {
+   "question_id": 30067010,
+   "question": "What brand of tennis racket is in this photo?",
+   "answer_type": "other",
+   "question_type": "what brand",
+   "multiple_choice_answer": "wilson",
+   "answers": [
+    "wilson",
+    "dunham",
+    "can't tell",
+    "wilson",
+    "dunlop",
+    "unknown",
+    "adidas",
+    "dunlop",
+    "dunlap",
+    "head"
+   ]
+  },
+  {
+   "question_id": 30067011,
+   "question": "What is the man's mood?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "serious",
+   "answers": [
+    "neutral",
+    "happy",
+    "serious",
+    "solemn",
+    "focused",
+    "frustrated",
+    "serious",
+    "pensive",
+    "serious",
+    "tired"
+   ]
+  },
+  {
+   "question_id": 30067012,
+   "question": "Is the man wearing a white shirt?",
+   "answer_type": "yes/no",
+   "question_type": "is the man",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30067013,
+   "question": "Is this person wearing wristbands?",
+   "answer_type": "yes/no",
+   "question_type": "is this person",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 30067014,
+   "question": "Is this a professional match?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30067015,
+   "question": "What is the man throwing?",
+   "answer_type": "other",
+   "question_type": "what is the man",
+   "multiple_choice_answer": "ball",
+   "answers": [
+    "tennis ball",
+    "tennis ball",
+    "ball",
+    "ball",
+    "ball",
+    "tennis ball",
+    "ball",
+    "tennis ball",
+    "ball",
+    "tennis ball"
+   ]
+  },
+  {
+   "question_id": 30067016,
+   "question": "Is the man crouching down?",
+   "answer_type": "yes/no",
+   "question_type": "is the man",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 30067017,
+   "question": "Is the player sad?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,143 @@
+{
+ "uid": "flickr30k_3669527584",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A Indian women displaying her cultural heritage with painted red fingers and an extravagant head piece .",
+  "An Indian woman poses in ornate ceremonial clothing with an elaborate headpiece .",
+  "A small image used to signify a broken web image link",
+  "A young woman performing a traditional dance .",
+  "An exotic dancer making a pose ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "135626",
+   "types": [
+    "people"
+   ],
+   "phrase": "A Indian women",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "135627",
+   "types": [
+    "other"
+   ],
+   "phrase": "her cultural heritage",
+   "start": 26,
+   "end": 47
+  },
+  {
+   "entity_id": "135631",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "painted red fingers",
+   "start": 53,
+   "end": 72
+  },
+  {
+   "entity_id": "135630",
+   "types": [
+    "other"
+   ],
+   "phrase": "an extravagant head piece",
+   "start": 77,
+   "end": 102
+  },
+  {
+   "entity_id": "135626",
+   "types": [
+    "people"
+   ],
+   "phrase": "An Indian woman",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "135632",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "ornate ceremonial clothing",
+   "start": 25,
+   "end": 51
+  },
+  {
+   "entity_id": "135633",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "an elaborate headpiece",
+   "start": 57,
+   "end": 79
+  },
+  {
+   "entity_id": "135628",
+   "types": [
+    "other"
+   ],
+   "phrase": "A small image",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "135629",
+   "types": [
+    "other"
+   ],
+   "phrase": "a broken web image link",
+   "start": 30,
+   "end": 53
+  },
+  {
+   "entity_id": "135626",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "135627",
+   "types": [
+    "other"
+   ],
+   "phrase": "a traditional dance",
+   "start": 25,
+   "end": 44
+  },
+  {
+   "entity_id": "135626",
+   "types": [
+    "people"
+   ],
+   "phrase": "An exotic dancer",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "135627",
+   "types": [
+    "other"
+   ],
+   "phrase": "a pose",
+   "start": 24,
+   "end": 30
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,161 @@
+{
+ "uid": "flickr30k_39024981",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "pink"
+  ],
+  "pants": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two women wearing pink T-shirts and blue jeans converse outside clothing store .",
+  "Two women are standing outside a store wearing pink shirts and jeans .",
+  "One woman is smoking and talking to another woman .",
+  "Two women talk in front of a clothing store .",
+  "Two female co-workers talk on break ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "147494",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "147497",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "pink T-shirts",
+   "start": 18,
+   "end": 31
+  },
+  {
+   "entity_id": "147496",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue jeans",
+   "start": 36,
+   "end": 46
+  },
+  {
+   "entity_id": "147501",
+   "types": [
+    "scene"
+   ],
+   "phrase": "outside clothing store",
+   "start": 56,
+   "end": 78
+  },
+  {
+   "entity_id": "147494",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "147495",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a store",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "entity_id": "147497",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "pink shirts",
+   "start": 47,
+   "end": 58
+  },
+  {
+   "entity_id": "147496",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "jeans",
+   "start": 63,
+   "end": 68
+  },
+  {
+   "entity_id": "147498",
+   "types": [
+    "people"
+   ],
+   "phrase": "One woman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "147498",
+   "types": [
+    "people"
+   ],
+   "phrase": "another woman",
+   "start": 36,
+   "end": 49
+  },
+  {
+   "entity_id": "147494",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "147495",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a clothing store",
+   "start": 27,
+   "end": 43
+  },
+  {
+   "entity_id": "147494",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two female co-workers",
+   "start": 0,
+   "end": 21
+  },
+  {
+   "entity_id": "147500",
+   "types": [
+    "scene"
+   ],
+   "phrase": "break",
+   "start": 30,
+   "end": 35
+  }
+ ],
+ "scene_places": [
+  "store"
+ ]
+}

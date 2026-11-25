@@ -1,0 +1,167 @@
+{
+ "uid": "vqa_000000165401",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "surfboard": 2,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "surfboard",
+   "bbox": [
+    320.54,
+    217.86,
+    160.09,
+    38.02
+   ],
+   "area": 1431.0461499999994
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    170.9,
+    58.58,
+    13.19,
+    4.36
+   ],
+   "area": 35.458049999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    168.25,
+    36.51,
+    53.54,
+    17.61
+   ],
+   "area": 613.5822
+  },
+  {
+   "category": "person",
+   "bbox": [
+    339.95,
+    171.01,
+    69.31,
+    66.62
+   ],
+   "area": 2234.437900000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple surfers catching waves in the water",
+  "Surfer squatting down on a surfboard while ring a large wave.",
+  "A beautiful woman riding a wave on a surfboard.",
+  "A male surfer is laying on his board while a female surfer takes a squat position.",
+  "A couple of surfers in wetsuits catching a gentle wave"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 165401000,
+   "question": "Are there other seagulls on water?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 165401001,
+   "question": "Are the waves big?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "not really"
+   ]
+  },
+  {
+   "question_id": 165401002,
+   "question": "Is the man going to fall?",
+   "answer_type": "yes/no",
+   "question_type": "is the man",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "perhaps",
+    "yes",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 165401003,
+   "question": "Is the water clear?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 165401004,
+   "question": "Which one is the girl?",
+   "answer_type": "number",
+   "question_type": "which",
+   "multiple_choice_answer": "right",
+   "answers": [
+    "one riding wave",
+    "one in foreground",
+    "one standing",
+    "front",
+    "front surfer",
+    "one closest to camera",
+    "one crouching",
+    "closet",
+    "right",
+    "first one"
+   ]
+  }
+ ]
+}

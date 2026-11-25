@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000047819",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person",
+  "suitcase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 1,
+  "suitcase": 2,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    128.23,
+    91.13,
+    350.8,
+    237.9
+   ],
+   "area": 19925.340549999997
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    217.31,
+    101.28,
+    80.57,
+    49.33
+   ],
+   "area": 3535.0524000000005
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    223.34,
+    62.91,
+    90.97,
+    60.88
+   ],
+   "area": 3369.120650000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    41.29,
+    83.43,
+    76.69,
+    224.15
+   ],
+   "area": 10490.337650000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man standing behind a brown horse carrying lots of luggage.",
+  "A trail guide stands next to the loaded pack horse.",
+  "A man standing next to a donkey loaded with luggage",
+  "a man standing next to a horse in the woods",
+  "A man standing next to a donkey with a lot of baggage on it."
+ ],
+ "scene_places": []
+}

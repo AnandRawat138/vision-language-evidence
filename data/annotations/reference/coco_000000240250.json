@@ -1,0 +1,260 @@
+{
+ "uid": "coco_000000240250",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 2,
+  "person": 9,
+  "fork": 1,
+  "cup": 1,
+  "knife": 1,
+  "pizza": 3,
+  "chair": 5
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    2.75,
+    354.59,
+    609.25,
+    246.18
+   ],
+   "area": 139777.73129999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    199.98,
+    8.44,
+    311.08,
+    379.97
+   ],
+   "area": 66842.56065
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    319.88,
+    327.46,
+    75.44,
+    21.76
+   ],
+   "area": 464.36469999999866
+  },
+  {
+   "category": "person",
+   "bbox": [
+    165.3,
+    50.67,
+    34.72,
+    42.5
+   ],
+   "area": 953.38105
+  },
+  {
+   "category": "person",
+   "bbox": [
+    38.24,
+    14.11,
+    79.24,
+    185.96
+   ],
+   "area": 3759.473550000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    135.21,
+    45.43,
+    30.36,
+    33.88
+   ],
+   "area": 585.2327999999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    559.86,
+    306.82,
+    52.14,
+    155.06
+   ],
+   "area": 6932.540599999997
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    243.64,
+    331.46,
+    77.02,
+    35.15
+   ],
+   "area": 839.7670500000005
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    297.47,
+    415.47,
+    139.22,
+    168.5
+   ],
+   "area": 15360.434200000002
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    431.84,
+    424.73,
+    154.03,
+    108.65
+   ],
+   "area": 10211.27285
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    2.75,
+    456.59,
+    257.18,
+    147.16
+   ],
+   "area": 21860.627650000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    151.28,
+    90.77,
+    206.29
+   ],
+   "area": 8913.78845
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    157.51,
+    103.04,
+    70.64,
+    115.06
+   ],
+   "area": 2034.840949999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    122.01,
+    63.6,
+    48.79,
+    109.94
+   ],
+   "area": 2072.43235
+  },
+  {
+   "category": "person",
+   "bbox": [
+    90.45,
+    69.12,
+    50.53,
+    58.67
+   ],
+   "area": 1354.8762499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    259.61,
+    102.29,
+    222.09,
+    120.33
+   ],
+   "area": 2966.472599999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    156.06,
+    78.62,
+    61.54,
+    74.58
+   ],
+   "area": 2640.2291
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    78.78,
+    121.03,
+    83.78,
+    168.47
+   ],
+   "area": 4431.780749999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    131.06,
+    105.18,
+    30.95,
+    16.01
+   ],
+   "area": 235.21249999999984
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.0,
+    62.57,
+    323.31
+   ],
+   "area": 8669.36685
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    104.58,
+    108.6,
+    17.1,
+    21.43
+   ],
+   "area": 185.22955000000007
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    250.47,
+    247.97,
+    272.65,
+    120.56
+   ],
+   "area": 2131.0182000000013
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman sitting down at a table with pizza.",
+  "A woman is eating pizza with a fork.",
+  "She happily downs another piece of their pizza.",
+  "A woman holding a fork and reaching for a slice of pizza.",
+  "A woman sitting at a table with two pizzas and a plate on it."
+ ],
+ "scene_places": []
+}

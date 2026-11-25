@@ -1,0 +1,246 @@
+{
+ "uid": "flickr30k_4569926879",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black"
+  ],
+  "jacket": [
+   "black"
+  ],
+  "hat": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [
+  "bottle"
+ ],
+ "attr_available": true,
+ "captions": [
+  "This photo shows a group of people walking and one man is holding a bottle of wine while handing a glass of wine to a woman walking near him .",
+  "A man in a black shirt is walking down the street offering a glass of wine to a woman .",
+  "A redheaded woman standing next to a man in a black jacket with a wine bottle .",
+  "A man drinking in public , while making contact with a redheaded girl .",
+  "Several people with white hats on with a black brim ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "179537",
+   "types": [
+    "other"
+   ],
+   "phrase": "This photo",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "179533",
+   "types": [
+    "people"
+   ],
+   "phrase": "a group of people",
+   "start": 17,
+   "end": 34
+  },
+  {
+   "entity_id": "179531",
+   "types": [
+    "people"
+   ],
+   "phrase": "one man",
+   "start": 47,
+   "end": 54
+  },
+  {
+   "entity_id": "179535",
+   "types": [
+    "other"
+   ],
+   "phrase": "a bottle of wine",
+   "start": 66,
+   "end": 82
+  },
+  {
+   "entity_id": "179536",
+   "types": [
+    "other"
+   ],
+   "phrase": "a glass of wine",
+   "start": 97,
+   "end": 112
+  },
+  {
+   "entity_id": "179532",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 116,
+   "end": 123
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 137,
+   "end": 140
+  },
+  {
+   "entity_id": "179531",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "179534",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "179539",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 39,
+   "end": 49
+  },
+  {
+   "entity_id": "179536",
+   "types": [
+    "other"
+   ],
+   "phrase": "a glass of wine",
+   "start": 59,
+   "end": 74
+  },
+  {
+   "entity_id": "179532",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 78,
+   "end": 85
+  },
+  {
+   "entity_id": "179532",
+   "types": [
+    "people"
+   ],
+   "phrase": "A redheaded woman",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "179531",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 35,
+   "end": 40
+  },
+  {
+   "entity_id": "179534",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black jacket",
+   "start": 44,
+   "end": 58
+  },
+  {
+   "entity_id": "179535",
+   "types": [
+    "other"
+   ],
+   "phrase": "a wine bottle",
+   "start": 64,
+   "end": 77
+  },
+  {
+   "entity_id": "179531",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "179541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "public",
+   "start": 18,
+   "end": 24
+  },
+  {
+   "entity_id": "179540",
+   "types": [
+    "other"
+   ],
+   "phrase": "contact",
+   "start": 40,
+   "end": 47
+  },
+  {
+   "entity_id": "179532",
+   "types": [
+    "people"
+   ],
+   "phrase": "a redheaded girl",
+   "start": 53,
+   "end": 69
+  },
+  {
+   "entity_id": "179533",
+   "types": [
+    "people"
+   ],
+   "phrase": "Several people",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "179542",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white hats",
+   "start": 20,
+   "end": 30
+  },
+  {
+   "entity_id": "179538",
+   "types": [
+    "other"
+   ],
+   "phrase": "a black brim",
+   "start": 39,
+   "end": 51
+  }
+ ],
+ "scene_places": []
+}

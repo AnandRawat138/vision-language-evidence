@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000402118",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "snowboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "snowboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    184.56,
+    65.68,
+    301.19,
+    245.7
+   ],
+   "area": 33626.5283
+  },
+  {
+   "category": "snowboard",
+   "bbox": [
+    201.39,
+    266.67,
+    331.23,
+    72.27
+   ],
+   "area": 7615.324799999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person riding a snow board while flying through the air.",
+  "A person performs a jump in the air on a snowboard.",
+  "A snowboarder dressed in white does a jump.",
+  "A person in the air on a snowboard",
+  "White suited snowboarder displaying aerial skills at ski slope."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

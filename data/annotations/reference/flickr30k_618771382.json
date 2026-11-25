@@ -1,0 +1,125 @@
+{
+ "uid": "flickr30k_618771382",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "One girl is hugging another girl in front of an American flag .",
+  "Two young girls are hugging in front of an american flag .",
+  "Two girls hugging in front of a giant American flag .",
+  "Two young girls hug in front of the American flag",
+  "two girls in front of large american flag"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "249517",
+   "types": [
+    "people"
+   ],
+   "phrase": "One girl",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "249518",
+   "types": [
+    "people"
+   ],
+   "phrase": "another girl",
+   "start": 20,
+   "end": 32
+  },
+  {
+   "entity_id": "249516",
+   "types": [
+    "other"
+   ],
+   "phrase": "an American flag",
+   "start": 45,
+   "end": 61
+  },
+  {
+   "entity_id": "249515",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two young girls",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "249516",
+   "types": [
+    "other"
+   ],
+   "phrase": "an american flag",
+   "start": 40,
+   "end": 56
+  },
+  {
+   "entity_id": "249515",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two girls",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "249516",
+   "types": [
+    "other"
+   ],
+   "phrase": "a giant American flag",
+   "start": 30,
+   "end": 51
+  },
+  {
+   "entity_id": "249515",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two young girls",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "249516",
+   "types": [
+    "other"
+   ],
+   "phrase": "the American flag",
+   "start": 32,
+   "end": 49
+  },
+  {
+   "entity_id": "249515",
+   "types": [
+    "people"
+   ],
+   "phrase": "two girls",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "249516",
+   "types": [
+    "other"
+   ],
+   "phrase": "large american flag",
+   "start": 22,
+   "end": 41
+  }
+ ],
+ "scene_places": []
+}

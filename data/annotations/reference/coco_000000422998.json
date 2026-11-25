@@ -1,0 +1,84 @@
+{
+ "uid": "coco_000000422998",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "knife",
+  "person",
+  "sandwich"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 2,
+  "sandwich": 1,
+  "person": 1,
+  "knife": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    47.49,
+    197.0,
+    88.88,
+    230.0
+   ],
+   "area": 17555.772950000006
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    423.19,
+    201.53,
+    85.02,
+    225.47
+   ],
+   "area": 16119.635199999995
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    324.79,
+    221.71,
+    112.72,
+    125.14
+   ],
+   "area": 9625.8063
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.25,
+    0.96,
+    516.91,
+    320.11
+   ],
+   "area": 120959.55339999999
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    123.24,
+    381.27,
+    114.58,
+    37.83
+   ],
+   "area": 1861.894400000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person makes a sandwich on a paper plate.",
+  "A plate that has food on it on a table.",
+  "A close up picture of someone preparing a sandwich.",
+  "A woman is preparing a sandwich on a paper plate.",
+  "A person prepares a sandwich on a plate."
+ ],
+ "scene_places": []
+}

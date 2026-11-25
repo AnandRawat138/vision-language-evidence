@@ -1,0 +1,112 @@
+{
+ "uid": "coco_000000489305",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "bowl",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bowl": 2,
+  "banana": 5,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bowl",
+   "bbox": [
+    132.25,
+    97.1,
+    172.75,
+    115.28
+   ],
+   "area": 14130.253999999999
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    43.74,
+    91.6,
+    88.0,
+    71.53
+   ],
+   "area": 4821.8805999999995
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    80.23,
+    132.54,
+    22.27,
+    16.74
+   ],
+   "area": 172.82590000000008
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    49.28,
+    115.56,
+    17.76,
+    12.15
+   ],
+   "area": 112.06499999999997
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    98.47,
+    110.15,
+    23.59,
+    18.25
+   ],
+   "area": 252.10420000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.0,
+    278.92,
+    164.16
+   ],
+   "area": 27414.10705
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    155.37,
+    130.21,
+    12.61,
+    20.17
+   ],
+   "area": 196.86784999999983
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    204.35,
+    121.9,
+    23.98,
+    16.85
+   ],
+   "area": 317.7195500000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person shows two bowls full of different fruits",
+  "A chef displays a bowl of freshly made fruit salad",
+  "Adult displaying several bowls of fruits in kitchen area.",
+  "A fruit salad that includes a variety of fruit.",
+  "a small bowl and a very big bowl full of fruit salad"
+ ],
+ "scene_places": []
+}

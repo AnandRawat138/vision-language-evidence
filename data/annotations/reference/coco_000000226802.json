@@ -1,0 +1,266 @@
+{
+ "uid": "coco_000000226802",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "motorcycle": 1,
+  "bus": 5,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    519.37,
+    192.93,
+    50.64,
+    23.99
+   ],
+   "area": 925.5817499999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    504.82,
+    188.33,
+    22.22,
+    22.15
+   ],
+   "area": 249.90259999999944
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    365.94,
+    199.5,
+    34.94,
+    22.94
+   ],
+   "area": 408.1387999999999
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    370.97,
+    166.6,
+    71.63,
+    46.59
+   ],
+   "area": 2553.7668499999995
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    240.33,
+    175.61,
+    79.53,
+    27.77
+   ],
+   "area": 1628.4391499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    22.61,
+    190.58,
+    19.64,
+    53.53
+   ],
+   "area": 606.7896000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    112.1,
+    185.74,
+    22.91,
+    63.02
+   ],
+   "area": 849.9523500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    317.3,
+    188.93,
+    6.51,
+    24.28
+   ],
+   "area": 106.6141000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    333.99,
+    188.54,
+    8.34,
+    27.71
+   ],
+   "area": 121.3175999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    598.68,
+    190.98,
+    13.03,
+    33.67
+   ],
+   "area": 214.42525000000046
+  },
+  {
+   "category": "person",
+   "bbox": [
+    489.14,
+    188.5,
+    7.66,
+    19.6
+   ],
+   "area": 92.91779999999981
+  },
+  {
+   "category": "person",
+   "bbox": [
+    473.31,
+    187.44,
+    6.8,
+    21.68
+   ],
+   "area": 68.53535000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    450.33,
+    190.98,
+    11.63,
+    28.62
+   ],
+   "area": 197.56635000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    56.5,
+    191.22,
+    16.97,
+    29.01
+   ],
+   "area": 153.09314999999975
+  },
+  {
+   "category": "person",
+   "bbox": [
+    16.79,
+    190.38,
+    8.89,
+    16.24
+   ],
+   "area": 73.83360000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    386.21,
+    191.84,
+    9.56,
+    22.42
+   ],
+   "area": 97.60865000000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    568.96,
+    193.84,
+    62.36,
+    24.78
+   ],
+   "area": 828.4180500000004
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    437.99,
+    171.63,
+    26.36,
+    34.04
+   ],
+   "area": 533.657400000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    410.2,
+    192.63,
+    7.37,
+    28.3
+   ],
+   "area": 138.03624999999948
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    327.59,
+    177.68,
+    36.22,
+    21.44
+   ],
+   "area": 646.1612500000006
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    363.08,
+    176.99,
+    9.4,
+    17.02
+   ],
+   "area": 127.98335000000014
+  },
+  {
+   "category": "person",
+   "bbox": [
+    282.44,
+    189.31,
+    9.1,
+    17.76
+   ],
+   "area": 68.00140000000042
+  },
+  {
+   "category": "person",
+   "bbox": [
+    185,
+    181,
+    419,
+    42
+   ],
+   "area": 2695
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A red bus driving down a busy city street surrounded by tall buildings.",
+  "An Asian city square, with people, buses, and a McDonald's.",
+  "People and buses on a city street under cloudy skies.",
+  "A large open area with concrete floor and a McDonalds in the background with Chinese writing on the building.",
+  "a chinese street with a mcdonalds in the back drop"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

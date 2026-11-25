@@ -1,0 +1,40 @@
+{
+ "uid": "vg_2352626",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "bottle",
+  "chair",
+  "handbag",
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "red"
+  ],
+  "hat": [
+   "orange",
+   "red"
+  ],
+  "shorts": [
+   "black"
+  ],
+  "shoes": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [
+  "bag",
+  "bottle"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

@@ -1,0 +1,154 @@
+{
+ "uid": "flickr30k_520913429",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man dressed in green sweeps leaves from an outdoor altar .",
+  "Man sweeping debris from road with bundle of twigs .",
+  "Boy sweeping trash away from a shrine .",
+  "this man is sweeping the sidewalk .",
+  "A man uses a homemade broom ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "231007",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "231012",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "green",
+   "start": 17,
+   "end": 22
+  },
+  {
+   "entity_id": "231008",
+   "types": [
+    "other"
+   ],
+   "phrase": "an outdoor altar",
+   "start": 42,
+   "end": 58
+  },
+  {
+   "entity_id": "231007",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "231010",
+   "types": [
+    "other"
+   ],
+   "phrase": "debris",
+   "start": 13,
+   "end": 19
+  },
+  {
+   "entity_id": "231009",
+   "types": [
+    "scene"
+   ],
+   "phrase": "road",
+   "start": 25,
+   "end": 29
+  },
+  {
+   "entity_id": "231008",
+   "types": [
+    "other"
+   ],
+   "phrase": "bundle of twigs",
+   "start": 35,
+   "end": 50
+  },
+  {
+   "entity_id": "231007",
+   "types": [
+    "people"
+   ],
+   "phrase": "Boy",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "231010",
+   "types": [
+    "other"
+   ],
+   "phrase": "trash",
+   "start": 13,
+   "end": 18
+  },
+  {
+   "entity_id": "231011",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a shrine",
+   "start": 29,
+   "end": 37
+  },
+  {
+   "entity_id": "231007",
+   "types": [
+    "people"
+   ],
+   "phrase": "this man",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "231009",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the sidewalk",
+   "start": 21,
+   "end": 33
+  },
+  {
+   "entity_id": "231007",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "231008",
+   "types": [
+    "other"
+   ],
+   "phrase": "a homemade broom",
+   "start": 11,
+   "end": 27
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

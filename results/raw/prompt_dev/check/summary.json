@@ -1,0 +1,115 @@
+{
+ "environment": {
+  "python": "3.12.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "git_commit": "42d07e151a2c807c897bca8b45cda259db9c5443",
+  "utc": "2026-11-22T07:03:14+00:00",
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_total_mb": 6144,
+  "ram_total_mb": 15773,
+  "cpu_count_logical": 16
+ },
+ "backend": {
+  "backend": "hf-transformers",
+  "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "model_revision": "66285546d2b821cf421d4f5eb2576359d3770cd3",
+  "quantization": "nf4",
+  "min_pixels": 100352,
+  "max_pixels": 200704,
+  "decoding": "greedy",
+  "repetition_penalty": 1.05,
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "transformers": "4.57.3",
+  "bitsandbytes": "0.50.2",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "os": "Windows-11-10.0.26200-SP0",
+  "load_time_s": 20.01
+ },
+ "uids": [
+  "coco_000000277197",
+  "coco_000000383921",
+  "coco_000000537355",
+  "vqa_000000204821",
+  "coco_000000150726",
+  "vqa_000000226244",
+  "coco_000000235784",
+  "coco_000000035197",
+  "coco_000000562843",
+  "coco_000000237316",
+  "vqa_000000275253",
+  "vqa_000000510877",
+  "vqa_000000279305",
+  "coco_000000424975",
+  "coco_000000544052",
+  "coco_000000080659",
+  "coco_000000382009",
+  "coco_000000377588",
+  "coco_000000271728",
+  "coco_000000565045",
+  "vqa_000000091474",
+  "coco_000000172083",
+  "vqa_000000571518",
+  "coco_000000327601",
+  "coco_000000208423",
+  "coco_000000546011",
+  "coco_000000352760",
+  "coco_000000018519",
+  "coco_000000351530",
+  "vqa_000000414750",
+  "coco_000000288862",
+  "coco_000000396518",
+  "coco_000000229747",
+  "coco_000000185472",
+  "coco_000000442993",
+  "coco_000000191614",
+  "coco_000000225757",
+  "coco_000000311190",
+  "coco_000000461751",
+  "coco_000000038070",
+  "coco_000000527616",
+  "coco_000000018837",
+  "coco_000000332455",
+  "coco_000000411530",
+  "coco_000000370042",
+  "coco_000000305343",
+  "coco_000000463690",
+  "coco_000000020571"
+ ],
+ "prompts": {
+  "struct-v1": {
+   "truncated_rate": 0.020833333333333332,
+   "parse": {
+    "valid": 47,
+    "repaired": 1
+   },
+   "mean_out_tokens": 194.27083333333334,
+   "dev_object_p_r_f1": [
+    0.921875,
+    0.5412844036697247,
+    0.6820809248554913
+   ],
+   "sha1": "091797bcd4",
+   "wall_s_total": 100.85691880004015
+  },
+  "struct-v2": {
+   "truncated_rate": 0.041666666666666664,
+   "parse": {
+    "valid": 46,
+    "failed": 1,
+    "repaired": 1
+   },
+   "mean_out_tokens": 200.77083333333334,
+   "dev_object_p_r_f1": [
+    0.9642857142857143,
+    0.4954128440366973,
+    0.6545454545454545
+   ],
+   "sha1": "16e04be76f",
+   "wall_s_total": 119.73188370000571
+  }
+ }
+}

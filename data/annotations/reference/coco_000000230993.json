@@ -1,0 +1,106 @@
+{
+ "uid": "coco_000000230993",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "handbag",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 2,
+  "person": 2,
+  "backpack": 1,
+  "handbag": 2
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    53.03,
+    40.52,
+    342.9,
+    217.29
+   ],
+   "area": 54621.473750000005
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    370.27,
+    65.35,
+    249.22,
+    131.86
+   ],
+   "area": 22356.42795
+  },
+  {
+   "category": "person",
+   "bbox": [
+    369.49,
+    185.84,
+    134.78,
+    211.79
+   ],
+   "area": 17351.1471
+  },
+  {
+   "category": "person",
+   "bbox": [
+    99.02,
+    224.63,
+    184.29,
+    176.95
+   ],
+   "area": 22028.409850000004
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    217.06,
+    247.92,
+    65.47,
+    103.67
+   ],
+   "area": 3750.6982500000004
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    311.95,
+    217.68,
+    102.63,
+    187.14
+   ],
+   "area": 7483.575399999996
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    221.53,
+    249.18,
+    59.24,
+    101.07
+   ],
+   "area": 3345.2049500000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two people walk down the street with umbrellas.",
+  "Two women with open umbrellas walking down a street.",
+  "People are walking in the street while holding umbrellas.",
+  "A couple of young adults walking along a little path carrying a couple umbrellas.",
+  "Two women walk outside, both holding up umbrellas"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

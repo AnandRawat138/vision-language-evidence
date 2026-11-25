@@ -1,0 +1,85 @@
+{
+ "uid": "coco_000000273198",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "fire hydrant",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "person": 1,
+  "fire hydrant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    112.67,
+    0.45,
+    110.37,
+    37.18
+   ],
+   "area": 3160.43965
+  },
+  {
+   "category": "car",
+   "bbox": [
+    89.36,
+    0.01,
+    27.77,
+    19.02
+   ],
+   "area": 332.95305
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.0,
+    102.72,
+    205.89
+   ],
+   "area": 10804.189349999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    257.34,
+    0.0,
+    128.99,
+    33.27
+   ],
+   "area": 1686.2676499999995
+  },
+  {
+   "category": "fire hydrant",
+   "bbox": [
+    73.89,
+    76.77,
+    51.73,
+    134.85
+   ],
+   "area": 5502.256350000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man opening a fire hydrant spewing out rusty water into a street.",
+  "A man opens a fire hydrant and brown colored water is flowing out.",
+  "Muddy water is coming out from a water hose.",
+  "A man opening a fire hydrant on a city side walk.",
+  "a fire hydrant that has dirty, brown water inside"
+ ],
+ "scene_places": [
+  "street",
+  "water"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "uid": "vg_2395872",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shoes": [
+   "black"
+  ],
+  "jacket": [
+   "blue",
+   "purple"
+  ],
+  "pants": [
+   "black"
+  ]
+ },
+ "accessories": [
+  "jewelry"
+ ],
+ "carried": [
+  "bag"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

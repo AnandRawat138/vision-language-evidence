@@ -1,0 +1,201 @@
+{
+ "uid": "flickr30k_4655361417",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man with sideburns and a black t-shirt grimaces as he sings into a microphone .",
+  "A man with a big white e on his shirt sings into a microphone on stage .",
+  "a man in a black shirt is singing into a microphone .",
+  "A man in a black shirt is singing with a microphone .",
+  "A man in a black shirt sings into a microphone ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "187369",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "187373",
+   "types": [
+    "other"
+   ],
+   "phrase": "sideburns",
+   "start": 11,
+   "end": 20
+  },
+  {
+   "entity_id": "187370",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black t-shirt",
+   "start": 25,
+   "end": 40
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "he",
+   "start": 53,
+   "end": 55
+  },
+  {
+   "entity_id": "187371",
+   "types": [
+    "other"
+   ],
+   "phrase": "a microphone",
+   "start": 67,
+   "end": 79
+  },
+  {
+   "entity_id": "187369",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "187372",
+   "types": [
+    "other"
+   ],
+   "phrase": "a big white e",
+   "start": 11,
+   "end": 24
+  },
+  {
+   "entity_id": "187370",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "his shirt",
+   "start": 28,
+   "end": 37
+  },
+  {
+   "entity_id": "187371",
+   "types": [
+    "other"
+   ],
+   "phrase": "a microphone",
+   "start": 49,
+   "end": 61
+  },
+  {
+   "entity_id": "187374",
+   "types": [
+    "scene"
+   ],
+   "phrase": "stage",
+   "start": 65,
+   "end": 70
+  },
+  {
+   "entity_id": "187369",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "187370",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "187371",
+   "types": [
+    "other"
+   ],
+   "phrase": "a microphone",
+   "start": 39,
+   "end": 51
+  },
+  {
+   "entity_id": "187369",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "187370",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "187371",
+   "types": [
+    "other"
+   ],
+   "phrase": "a microphone",
+   "start": 39,
+   "end": 51
+  },
+  {
+   "entity_id": "187369",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "187370",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "187371",
+   "types": [
+    "other"
+   ],
+   "phrase": "a microphone",
+   "start": 34,
+   "end": 46
+  }
+ ],
+ "scene_places": []
+}

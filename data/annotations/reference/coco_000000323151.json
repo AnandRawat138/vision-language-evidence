@@ -1,0 +1,86 @@
+{
+ "uid": "coco_000000323151",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "chair",
+  "cup",
+  "dining table",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "pizza": 1,
+  "bowl": 1,
+  "chair": 1,
+  "dining table": 1,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "pizza",
+   "bbox": [
+    0.0,
+    240.94,
+    450.26,
+    316.24
+   ],
+   "area": 108804.22355
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    112.38,
+    111.23,
+    187.22,
+    71.43
+   ],
+   "area": 3251.568399999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    312.78,
+    0.0,
+    15.92,
+    40.64
+   ],
+   "area": 394.92110000000037
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    6.75,
+    480.0,
+    624.18
+   ],
+   "area": 262049.20500000002
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    380.68,
+    13.02,
+    99.32,
+    269.3
+   ],
+   "area": 19168.118599999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A pizza sitting on top of a white plate next to a glass of beer.",
+  "A whole pizza on a white plate on a table.",
+  "A marble table with white plate holding a pizza.",
+  "A table is set with pizza and beer and a salad.",
+  "A beer sits untouched on a table with other food"
+ ],
+ "scene_places": []
+}

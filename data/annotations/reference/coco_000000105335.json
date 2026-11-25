@@ -1,0 +1,144 @@
+{
+ "uid": "coco_000000105335",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "broccoli",
+  "carrot",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "carrot": 7,
+  "bowl": 1,
+  "person": 2,
+  "broccoli": 1
+ },
+ "object_boxes": [
+  {
+   "category": "carrot",
+   "bbox": [
+    78.71,
+    289.33,
+    124.73,
+    93.06
+   ],
+   "area": 6395.7374500000005
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    267.29,
+    290.76,
+    85.87,
+    68.1
+   ],
+   "area": 3818.1636000000003
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    388.5,
+    365.78,
+    88.09,
+    69.59
+   ],
+   "area": 3947.2084999999997
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    21.28,
+    245.29,
+    96.3,
+    67.5
+   ],
+   "area": 4077.5288500000015
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    2.75,
+    233.8,
+    609.25,
+    328.69
+   ],
+   "area": 161960.89210000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    174.27,
+    0.91,
+    422.64,
+    282.68
+   ],
+   "area": 86729.17099999997
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    237.7,
+    277.81,
+    47.11,
+    64.3
+   ],
+   "area": 1277.074799999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    119.04,
+    560.58,
+    211.0,
+    51.42
+   ],
+   "area": 6897.9186999999965
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    201.47,
+    388.06,
+    39.95,
+    34.07
+   ],
+   "area": 982.2508
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    0.0,
+    394.76,
+    83.21,
+    58.74
+   ],
+   "area": 3396.71655
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    231.31,
+    306.71,
+    82.03,
+    64.85
+   ],
+   "area": 889.3500500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white bowl filled with meat, vegetables and broth.",
+  "A person holding a plate with food",
+  "A bowl of stew in a white bowl, being held by a person.",
+  "A bowl of a kind of vegetable stew on a table.",
+  "A bowl has a soup with potatoes and vegetables."
+ ],
+ "scene_places": []
+}

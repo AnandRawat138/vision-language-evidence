@@ -1,0 +1,90 @@
+{
+ "uid": "coco_000000328286",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "boat": 6
+ },
+ "object_boxes": [
+  {
+   "category": "boat",
+   "bbox": [
+    191.4,
+    321.96,
+    119.45,
+    41.47
+   ],
+   "area": 3820.4344499999993
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    145.37,
+    341.87,
+    108.75,
+    67.1
+   ],
+   "area": 4141.847549999999
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    45.15,
+    355.09,
+    136.25,
+    68.91
+   ],
+   "area": 6738.94735
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    118.74,
+    221.38,
+    215.47,
+    60.74
+   ],
+   "area": 8244.943899999998
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    564.83,
+    208.14,
+    18.94,
+    6.45
+   ],
+   "area": 71.5236999999997
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    217.02,
+    212.75,
+    11.7,
+    2.39
+   ],
+   "area": 16.76324999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Boats docked at a harbor facing the city.",
+  "A city's downtown skyline at dusk on the waterfront.",
+  "A city ferry sits docked with the city in the background.",
+  "A small ferry boat is moored at the end of a dock.",
+  "Boats at the dock with a city backdrop."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

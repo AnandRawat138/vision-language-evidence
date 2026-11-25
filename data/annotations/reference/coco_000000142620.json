@@ -1,0 +1,194 @@
+{
+ "uid": "coco_000000142620",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "chair",
+  "cup",
+  "dining table",
+  "knife",
+  "orange",
+  "person",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 2,
+  "chair": 2,
+  "dining table": 1,
+  "cup": 3,
+  "knife": 1,
+  "spoon": 2,
+  "orange": 1,
+  "person": 1,
+  "bowl": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    110.62,
+    203.7,
+    37.68,
+    111.85
+   ],
+   "area": 2701.366549999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    158.31,
+    104.1,
+    187.1,
+    165.03
+   ],
+   "area": 22781.92065
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    503.54,
+    113.63,
+    136.46,
+    303.46
+   ],
+   "area": 11783.354049999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    203.89,
+    354.28,
+    217.32
+   ],
+   "area": 45738.02144999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    235.19,
+    292.88,
+    44.15,
+    40.01
+   ],
+   "area": 1317.2115
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    164.61,
+    377.82,
+    49.68,
+    48.18
+   ],
+   "area": 2055.341199999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    229.72,
+    379.51,
+    47.37,
+    46.49
+   ],
+   "area": 1843.35715
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    251.81,
+    266.69,
+    50.26,
+    15.4
+   ],
+   "area": 271.1759999999999
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    191.05,
+    313.68,
+    39.78,
+    11.83
+   ],
+   "area": 113.03799999999967
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    187.23,
+    292.17,
+    21.25,
+    21.86
+   ],
+   "area": 360.89059999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    269.96,
+    5.74,
+    359.95,
+    414.52
+   ],
+   "area": 76233.89099999997
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    99.86,
+    350.75,
+    60.42,
+    48.59
+   ],
+   "area": 2244.0526
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    253.77,
+    321.42,
+    101.05,
+    54.37
+   ],
+   "area": 2900.3090999999995
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    74.2,
+    280.99,
+    49.76,
+    79.26
+   ],
+   "area": 2892.095349999999
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    110.97,
+    332.51,
+    69.56,
+    44.65
+   ],
+   "area": 486.2843500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man that is  sitting down on a bench in front of a table.",
+  "a man that is sitting in front of a picnic table",
+  "A man sitting at a table outside eating a meal.",
+  "A man eating out on a table and bench.",
+  "The man is sitting outside with food on the table."
+ ],
+ "scene_places": []
+}

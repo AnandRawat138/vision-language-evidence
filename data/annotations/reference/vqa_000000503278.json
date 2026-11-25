@@ -1,0 +1,354 @@
+{
+ "uid": "vqa_000000503278",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cake",
+  "dining table",
+  "handbag",
+  "person",
+  "tie",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 3,
+  "cake": 1,
+  "person": 12,
+  "dining table": 2,
+  "handbag": 1,
+  "wine glass": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    399.79,
+    139.36,
+    67.74,
+    115.61
+   ],
+   "area": 1127.2944000000005
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    371.81,
+    26.11,
+    15.48,
+    44.38
+   ],
+   "area": 111.63125000000026
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    124.89,
+    59.74,
+    12.71,
+    24.06
+   ],
+   "area": 93.12084999999985
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    245.47,
+    43.57,
+    36.32,
+    49.23
+   ],
+   "area": 1137.3933499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    266.2,
+    47.2,
+    254.17,
+    380.8
+   ],
+   "area": 39138.42660000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    492.73,
+    96.0,
+    133.33,
+    271.49
+   ],
+   "area": 15977.739899999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    310.66,
+    1.92,
+    50.98,
+    135.62
+   ],
+   "area": 3813.8202499999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.96,
+    67.33,
+    181.78
+   ],
+   "area": 10030.801400000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    346.0,
+    2.3,
+    58.55,
+    134.17
+   ],
+   "area": 4194.971449999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    478.97,
+    72.93,
+    161.03,
+    208.3
+   ],
+   "area": 6563.7694999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    490.49,
+    14.07,
+    48.4,
+    82.87
+   ],
+   "area": 1841.9664499999974
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    547.2,
+    79.87,
+    20.42,
+    17.29
+   ],
+   "area": 262.6620499999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    435.29,
+    15.37,
+    36.59,
+    43.97
+   ],
+   "area": 758.9894499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    59.63,
+    1.92,
+    129.84,
+    330.86
+   ],
+   "area": 23709.227
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    173.31,
+    344.51,
+    254.69
+   ],
+   "area": 37531.23974999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    562.05,
+    44.55,
+    62.17,
+    78.16
+   ],
+   "area": 2263.665200000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    123.79,
+    4.89,
+    120.92,
+    298.45
+   ],
+   "area": 11415.246549999996
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    334.03,
+    59.66,
+    10.27,
+    13.14
+   ],
+   "area": 87.29825000000024
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    344.29,
+    23.98,
+    9.1,
+    16.02
+   ],
+   "area": 63.46509999999966
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    202.66,
+    79.89,
+    110.92,
+    93.9
+   ],
+   "area": 6812.425299999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man and woman dancing on top of a dance floor.",
+  "The man and woman are dancing at a party.",
+  "People are dancing at a party for a wedding.",
+  "A man dancing with a woman at a party.",
+  "A group of people dancing on a wooden dance floor."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 503278000,
+   "question": "Is this a wedding celebration?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 503278001,
+   "question": "What event is being celebrated?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "wedding",
+   "answers": [
+    "bar mitzvah",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding"
+   ]
+  },
+  {
+   "question_id": 503278002,
+   "question": "Is this a school prom?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 503278003,
+   "question": "What is the tattoo on the woman's arm?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "spider",
+   "answers": [
+    "dragonfly",
+    "yes",
+    "armband",
+    "bracelet",
+    "spider",
+    "tribal",
+    "butterfly",
+    "spider",
+    "bird",
+    "barb wire"
+   ]
+  },
+  {
+   "question_id": 503278004,
+   "question": "What are the girls holding?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "man's hand",
+   "answers": [
+    "hands",
+    "man's hand",
+    "man",
+    "glasses, hands",
+    "man's wrist",
+    "hands",
+    "man's hand",
+    "hand",
+    "man's hand",
+    "hand"
+   ]
+  },
+  {
+   "question_id": 503278005,
+   "question": "How many tiers does the cake on the table have?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "3",
+   "answers": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ]
+}

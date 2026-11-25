@@ -1,0 +1,96 @@
+{
+ "uid": "coco_000000227491",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bottle",
+  "donut",
+  "person",
+  "sandwich"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "bench": 1,
+  "donut": 2,
+  "bottle": 1,
+  "sandwich": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    143.46,
+    159.71,
+    180.14,
+    314.97
+   ],
+   "area": 35737.6117
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    40.66,
+    341.19,
+    528.58,
+    138.81
+   ],
+   "area": 29129.447350000002
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    139.27,
+    256.25,
+    28.45,
+    27.23
+   ],
+   "area": 480.6001999999998
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    307.0,
+    326.77,
+    31.53,
+    15.05
+   ],
+   "area": 344.57855000000023
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    302.56,
+    340.41,
+    35.81,
+    60.87
+   ],
+   "area": 1663.5744499999994
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    139.38,
+    256.21,
+    27.91,
+    26.87
+   ],
+   "area": 454.8008000000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Woman skier taking a break and enjoying a snack",
+  "A skier sitting on a picnic table and eating a doughnut.",
+  "A woman is sitting on a bench and is eating something.",
+  "A female skier sits down on a bench eating a bagel.",
+  "A woman that is sitting outside on a bench in the snow."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,194 @@
+{
+ "uid": "coco_000000564336",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "car",
+  "chair",
+  "dining table",
+  "laptop",
+  "parking meter",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 1,
+  "chair": 5,
+  "dining table": 2,
+  "person": 1,
+  "laptop": 1,
+  "car": 3,
+  "truck": 1,
+  "parking meter": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    531.48,
+    140.84,
+    56.27,
+    99.07
+   ],
+   "area": 4464.8316
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    66.49,
+    182.43,
+    188.1,
+    177.57
+   ],
+   "area": 17003.544949999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    240.74,
+    181.53,
+    91.07,
+    49.49
+   ],
+   "area": 3639.403849999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    193.29,
+    183.7,
+    48.32,
+    57.18
+   ],
+   "area": 2140.439100000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    377.03,
+    184.46,
+    51.08,
+    36.49
+   ],
+   "area": 1281.352500000001
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    172.31,
+    140.76,
+    467.69,
+    175.55
+   ],
+   "area": 39044.4994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    105.98,
+    100.37,
+    85.75,
+    90.61
+   ],
+   "area": 3850.393399999999
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    184.45,
+    154.52,
+    51.77,
+    39.64
+   ],
+   "area": 1437.2503999999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    274.97,
+    155.94,
+    140.74,
+    62.61
+   ],
+   "area": 2841.869449999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    411.88,
+    170.43,
+    77.42,
+    25.73
+   ],
+   "area": 980.4526999999998
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    570.81,
+    127.7,
+    69.19,
+    60.81
+   ],
+   "area": 2957.6586500000003
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    96.52,
+    187.68,
+    102.27,
+    23.56
+   ],
+   "area": 255.93894999999944
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.12,
+    162.32,
+    62.37,
+    99.94
+   ],
+   "area": 4160.098049999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    602.66,
+    173.75,
+    16.35,
+    6.94
+   ],
+   "area": 93.00669999999971
+  },
+  {
+   "category": "parking meter",
+   "bbox": [
+    426.5,
+    150.58,
+    20.72,
+    43.41
+   ],
+   "area": 664.8032000000009
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a man at a restaurant using his laptop",
+  "A man sitting in front of a laptop computer.",
+  "A empty table in a restaurant with a gentleman using a computer by the window.",
+  "Man using a personal laptop computer next to an open breezy window.",
+  "there is a man sitting at a table and using a lap top"
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

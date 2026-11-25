@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000015440",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "stop sign"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "stop sign": 1,
+  "bus": 2
+ },
+ "object_boxes": [
+  {
+   "category": "stop sign",
+   "bbox": [
+    116.14,
+    115.77,
+    113.18,
+    107.58
+   ],
+   "area": 9075.6204
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    192.34,
+    182.74,
+    69.91,
+    78.02
+   ],
+   "area": 4511.170749999998
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    113.59,
+    191.86,
+    31.14,
+    61.68
+   ],
+   "area": 1488.5892499999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A stop sigh on a post with two buses in the background.",
+  "an image of a stop sign and yield sign",
+  "A stop sign on post with a building in the background.",
+  "A stop sign sitting on top of a metal column.",
+  "a street sign with buildings in the background"
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,566 @@
+{
+ "uid": "coco_000000036494",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "chair",
+  "clock",
+  "cup",
+  "dining table",
+  "person",
+  "refrigerator",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 4,
+  "clock": 1,
+  "dining table": 14,
+  "person": 14,
+  "bowl": 2,
+  "vase": 1,
+  "cup": 1,
+  "chair": 14,
+  "refrigerator": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    387.95,
+    345.38,
+    7.48,
+    22.82
+   ],
+   "area": 124.4621000000001
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    290.22,
+    287.46,
+    4.93,
+    13.9
+   ],
+   "area": 42.80750000000019
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    199.04,
+    199.6,
+    3.95,
+    9.13
+   ],
+   "area": 19.218900000000072
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    389.14,
+    38.85,
+    178.47,
+    212.61
+   ],
+   "area": 28292.57415
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    287.96,
+    356.36,
+    122.39,
+    60.56
+   ],
+   "area": 2115.403500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    106.79,
+    220.36,
+    36.52,
+    61.03
+   ],
+   "area": 1377.6053999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    178.88,
+    266.03,
+    39.42,
+    122.83
+   ],
+   "area": 2484.955400000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    374.48,
+    291.93,
+    45.85,
+    64.95
+   ],
+   "area": 1779.4825999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    245.57,
+    255.01,
+    42.91,
+    93.13
+   ],
+   "area": 2232.0318999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    569.99,
+    283.23,
+    42.0,
+    47.06
+   ],
+   "area": 1213.5238500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    605.67,
+    276.63,
+    21.88,
+    34.78
+   ],
+   "area": 490.75225
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    117.63,
+    279.85,
+    25.71,
+    18.47
+   ],
+   "area": 377.5785499999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    287.33,
+    297.01,
+    14.97,
+    15.23
+   ],
+   "area": 89.28745000000029
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    469.27,
+    282.94,
+    37.24,
+    13.03
+   ],
+   "area": 255.34330000000008
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    277.52,
+    271.89,
+    24.7,
+    7.63
+   ],
+   "area": 116.25865000000006
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    69.24,
+    338.95,
+    40.81,
+    30.78
+   ],
+   "area": 662.4033999999998
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    533.51,
+    317.45,
+    64.31,
+    23.0
+   ],
+   "area": 475.33399999999983
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    461.36,
+    260.3,
+    35.65,
+    16.19
+   ],
+   "area": 385.5522000000001
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    407.19,
+    342.12,
+    60.31,
+    18.81
+   ],
+   "area": 415.4617999999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    366.7,
+    254.18,
+    22.39,
+    4.46
+   ],
+   "area": 39.80180000000019
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    359.29,
+    281.01,
+    52.21,
+    18.28
+   ],
+   "area": 431.35935000000046
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    200.04,
+    251.77,
+    8.84,
+    9.22
+   ],
+   "area": 41.732549999999975
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    350.24,
+    212.48,
+    7.96,
+    20.66
+   ],
+   "area": 146.93189999999987
+  },
+  {
+   "category": "person",
+   "bbox": [
+    404.05,
+    324.97,
+    53.87,
+    97.95
+   ],
+   "area": 2467.4067999999993
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    286.93,
+    270.7,
+    4.76,
+    6.47
+   ],
+   "area": 28.298649999999967
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    307.14,
+    368.9,
+    23.91,
+    12.66
+   ],
+   "area": 242.82650000000032
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    415.44,
+    376.61,
+    47.4,
+    47.4
+   ],
+   "area": 1438.474799999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    364.79,
+    386.81,
+    50.27,
+    36.4
+   ],
+   "area": 1150.2334000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    271.61,
+    389.43,
+    53.31,
+    34.5
+   ],
+   "area": 994.2431999999994
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    34.55,
+    361.45,
+    70.69,
+    62.66
+   ],
+   "area": 2160.637200000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    487.62,
+    351.95,
+    35.96,
+    69.74
+   ],
+   "area": 1537.063650000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    616.05,
+    305.42,
+    13.44,
+    23.53
+   ],
+   "area": 180.14360000000016
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    360.24,
+    273.1,
+    19.39,
+    15.45
+   ],
+   "area": 220.91699999999958
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    377.47,
+    255.09,
+    19.04,
+    29.76
+   ],
+   "area": 282.7321000000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    391.89,
+    274.58,
+    18.36,
+    13.77
+   ],
+   "area": 141.79785000000018
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    533.27,
+    326.27,
+    28.99,
+    42.62
+   ],
+   "area": 667.9702000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    315.38,
+    305.31,
+    65.63,
+    63.7
+   ],
+   "area": 2195.4940999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    401.14,
+    253.9,
+    24.33,
+    35.49
+   ],
+   "area": 463.90830000000096
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    207.92,
+    373.14,
+    57.11,
+    51.74
+   ],
+   "area": 1826.0048499999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    569.85,
+    321.44,
+    43.69,
+    56.32
+   ],
+   "area": 1122.4612499999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    85.67,
+    362.98,
+    28.18,
+    27.06
+   ],
+   "area": 389.42864999999995
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    159.45,
+    200.17,
+    25.04,
+    36.42
+   ],
+   "area": 839.3389000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    332.06,
+    344.55,
+    64.18,
+    78.85
+   ],
+   "area": 2588.0146999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    507.62,
+    299.4,
+    41.65,
+    60.7
+   ],
+   "area": 1489.511300000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    528.61,
+    283.55,
+    30.96,
+    35.02
+   ],
+   "area": 729.025800000001
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    287.13,
+    264.67,
+    3.47,
+    11.56
+   ],
+   "area": 32.1310500000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    261.25,
+    343.68,
+    25.06,
+    70.32
+   ],
+   "area": 1004.5421000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    224.99,
+    274.24,
+    41.36,
+    116.89
+   ],
+   "area": 3302.8276999999994
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    306.25,
+    316.26,
+    35.37,
+    36.95
+   ],
+   "area": 509.11710000000045
+  },
+  {
+   "category": "person",
+   "bbox": [
+    85,
+    220,
+    526,
+    164
+   ],
+   "area": 17142
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    180,
+    252,
+    444,
+    174
+   ],
+   "area": 2355
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    149,
+    252,
+    377,
+    73
+   ],
+   "area": 5973
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "the people are all in a restaurant some are sitting",
+  "This crowded restaurant has an enormous clock on the wall",
+  "a bunch of people gathered inside of a building",
+  "A crowd of people sitting in a room, with a clock tower in front.",
+  "People sitting at tables inside a large clock tower."
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

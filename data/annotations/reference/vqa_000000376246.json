@@ -1,0 +1,151 @@
+{
+ "uid": "vqa_000000376246",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "snowboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "snowboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    356.42,
+    119.91,
+    70.18,
+    131.29
+   ],
+   "area": 4738.955699999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    49.15,
+    92.1,
+    53.35,
+    97.11
+   ],
+   "area": 2923.0060500000004
+  },
+  {
+   "category": "snowboard",
+   "bbox": [
+    564.29,
+    362.62,
+    68.02,
+    15.37
+   ],
+   "area": 613.8112000000003
+  },
+  {
+   "category": "snowboard",
+   "bbox": [
+    357.53,
+    245.96,
+    52.91,
+    6.07
+   ],
+   "area": 198.6007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    518.09,
+    200.41,
+    89.96,
+    162.82
+   ],
+   "area": 7418.850950000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    212.49,
+    108.81,
+    50.94,
+    87.65
+   ],
+   "area": 2210.7217
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Snowboarder in a red jacket moving near a row of trees.",
+  "A person on a snowboard in the snow.",
+  "A person riding a snowboard down a snow covered slope.",
+  "Four frames show a person riding on a snowboard.",
+  "A few different shots of a man on his ski board."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ],
+ "vqa": [
+  {
+   "question_id": 376246000,
+   "question": "Is this an alien snowboarding?",
+   "answer_type": "yes/no",
+   "question_type": "is this an",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 376246001,
+   "question": "What type of photo is this?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "collage",
+   "answers": [
+    "snowboarding",
+    "sequence",
+    "action",
+    "collage",
+    "winter/snow",
+    "collage",
+    "action",
+    "ski boarding",
+    "collage",
+    "snowboarding"
+   ]
+  },
+  {
+   "question_id": 376246002,
+   "question": "How many panels are in this picture?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "4",
+   "answers": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  }
+ ]
+}

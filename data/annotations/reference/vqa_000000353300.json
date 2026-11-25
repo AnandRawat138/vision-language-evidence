@@ -1,0 +1,121 @@
+{
+ "uid": "vqa_000000353300",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "keyboard",
+  "laptop"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "laptop": 1,
+  "keyboard": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "laptop",
+   "bbox": [
+    251.03,
+    0.8,
+    388.97,
+    75.98
+   ],
+   "area": 17924.3524
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    230.39,
+    159.05,
+    392.33,
+    179.3
+   ],
+   "area": 29150.938850000002
+  },
+  {
+   "category": "book",
+   "bbox": [
+    30.78,
+    82.71,
+    204.86,
+    168.32
+   ],
+   "area": 18949.40955
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of lego men standing on top of a computer keyboard.",
+  "Several Lego people appear to be pressing keyboard keys.",
+  "bunch of toy men near a computer keyboard and a book",
+  "Lego figures are place to climb up a keyboard.",
+  "a keyboard that has some lego men on  it"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 353300000,
+   "question": "What brand of computer is in the image?",
+   "answer_type": "other",
+   "question_type": "what brand",
+   "multiple_choice_answer": "apple",
+   "answers": [
+    "apple",
+    "imac",
+    "apple",
+    "apple",
+    "apple",
+    "apple",
+    "apple",
+    "apple",
+    "apple",
+    "apple"
+   ]
+  },
+  {
+   "question_id": 353300001,
+   "question": "How many lego guys are sitting?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "0",
+   "answers": [
+    "6",
+    "0",
+    "0",
+    "0 sitting",
+    "0",
+    "0",
+    "1",
+    "2",
+    "3",
+    "0"
+   ]
+  },
+  {
+   "question_id": 353300002,
+   "question": "How many Lego guys are there?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "6",
+   "answers": [
+    "6",
+    "6",
+    "6",
+    "6",
+    "6",
+    "6",
+    "6",
+    "6",
+    "6",
+    "6"
+   ]
+  }
+ ]
+}

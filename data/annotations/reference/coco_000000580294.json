@@ -1,0 +1,132 @@
+{
+ "uid": "coco_000000580294",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "cup",
+  "oven",
+  "person",
+  "sink",
+  "spoon",
+  "toothbrush"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "bowl": 3,
+  "sink": 1,
+  "spoon": 1,
+  "oven": 1,
+  "toothbrush": 1,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    411.14,
+    3.05,
+    228.86,
+    435.04
+   ],
+   "area": 48319.18645
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    2.0,
+    320.78,
+    190.57,
+    117.73
+   ],
+   "area": 16845.417999999998
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    365.17,
+    171.7,
+    45.78,
+    29.26
+   ],
+   "area": 1047.7210500000003
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    442.34,
+    186.06,
+    54.57,
+    26.51
+   ],
+   "area": 768.3065499999997
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    0.76,
+    330.73,
+    342.87,
+    112.27
+   ],
+   "area": 5353.006149999995
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    4.61,
+    245.15,
+    437.24,
+    163.82
+   ],
+   "area": 18607.103150000006
+  },
+  {
+   "category": "toothbrush",
+   "bbox": [
+    495.27,
+    184.09,
+    5.23,
+    30.23
+   ],
+   "area": 54.64059999999992
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    450.18,
+    172.56,
+    47.0,
+    38.69
+   ],
+   "area": 1332.8135999999997
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    405.71,
+    174.12,
+    30.2,
+    24.45
+   ],
+   "area": 445.8773500000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Person cooking an eggs on a black pot on a stove.",
+  "A beautiful woman cooking food in a kitchen.",
+  "A woman makes eggs on the stove top.",
+  "A person frying some kind of food on a stove.",
+  "A lady is preparing pancakes in a charming white kitchen."
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

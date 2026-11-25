@@ -1,0 +1,128 @@
+{
+ "uid": "coco_000000225757",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "remote",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 3,
+  "cell phone": 2,
+  "mouse": 1,
+  "keyboard": 1,
+  "laptop": 1,
+  "remote": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    319.33,
+    40.86,
+    161.93,
+    154.37
+   ],
+   "area": 19257.083450000002
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    0.75,
+    60.4,
+    78.38,
+    113.79
+   ],
+   "area": 6833.4059
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    126.08,
+    48.36,
+    170.97,
+    133.84
+   ],
+   "area": 20567.191000000003
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    266.96,
+    194.87,
+    21.23,
+    46.69
+   ],
+   "area": 830.0328000000004
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    251.05,
+    283.05,
+    44.3,
+    54.48
+   ],
+   "area": 1804.7979499999992
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    88.05,
+    232.87,
+    185.14,
+    67.48
+   ],
+   "area": 9964.1464
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    314.93,
+    231.03,
+    160.35,
+    123.16
+   ],
+   "area": 9841.246350000001
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    95.92,
+    217.55,
+    70.51,
+    20.35
+   ],
+   "area": 913.5632499999999
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    80.9,
+    192.63,
+    20.73,
+    42.28
+   ],
+   "area": 628.2898499999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A desk with multiple computers and cell phones.",
+  "A computer desk with a laptop, desktop monitors and a television.",
+  "This workstation features three desktop monitors with a single keyboard as well as a laptop computer.",
+  "A desk has two monitors and other electronics equipment.",
+  "A work station with multiple computers and cell phones."
+ ],
+ "scene_places": []
+}

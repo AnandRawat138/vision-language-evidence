@@ -1,0 +1,214 @@
+{
+ "uid": "flickr30k_4222067827",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cow",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "blue"
+  ],
+  "hat": [
+   "red"
+  ],
+  "vest": [],
+  "shorts": [
+   "silver"
+  ],
+  "pants": [
+   "brown"
+  ]
+ },
+ "accessories": [
+  "mask"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "The little boy wearing a striped blue , white , and purple shirt is wearing a red and black mask in front of a very interested little girl in the back .",
+  "A child wearing a red helmet , cowboy vest , striped shirt , silver shorts and brown pants .",
+  "A kid is dressed in a costume wearing a power rangers helmet .",
+  "This boy is wearing a red Power Rangers helmet .",
+  "White child with a helmet on and cow vest ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "159473",
+   "types": [
+    "people"
+   ],
+   "phrase": "The little boy",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "159476",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a striped blue , white , and purple shirt",
+   "start": 23,
+   "end": 64
+  },
+  {
+   "entity_id": "159475",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red and black mask",
+   "start": 76,
+   "end": 96
+  },
+  {
+   "entity_id": "159473",
+   "types": [
+    "people"
+   ],
+   "phrase": "a very interested little girl",
+   "start": 109,
+   "end": 138
+  },
+  {
+   "entity_id": "159480",
+   "types": [
+    "other"
+   ],
+   "phrase": "the back",
+   "start": 142,
+   "end": 150
+  },
+  {
+   "entity_id": "159473",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "159475",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red helmet",
+   "start": 16,
+   "end": 28
+  },
+  {
+   "entity_id": "159478",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "cowboy vest",
+   "start": 31,
+   "end": 42
+  },
+  {
+   "entity_id": "159476",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "striped shirt",
+   "start": 45,
+   "end": 58
+  },
+  {
+   "entity_id": "159479",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "silver shorts",
+   "start": 61,
+   "end": 74
+  },
+  {
+   "entity_id": "159477",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "brown pants",
+   "start": 79,
+   "end": 90
+  },
+  {
+   "entity_id": "159473",
+   "types": [
+    "people"
+   ],
+   "phrase": "A kid",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "159474",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a costume",
+   "start": 20,
+   "end": 29
+  },
+  {
+   "entity_id": "159475",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a power rangers helmet",
+   "start": 38,
+   "end": 60
+  },
+  {
+   "entity_id": "159473",
+   "types": [
+    "people"
+   ],
+   "phrase": "This boy",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "159475",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red Power Rangers helmet",
+   "start": 20,
+   "end": 46
+  },
+  {
+   "entity_id": "159473",
+   "types": [
+    "people"
+   ],
+   "phrase": "White child",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "159475",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a helmet",
+   "start": 17,
+   "end": 25
+  },
+  {
+   "entity_id": "159474",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "cow vest",
+   "start": 33,
+   "end": 41
+  }
+ ],
+ "scene_places": []
+}

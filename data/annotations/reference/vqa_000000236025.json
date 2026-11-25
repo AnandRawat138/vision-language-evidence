@@ -1,0 +1,149 @@
+{
+ "uid": "vqa_000000236025",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "tennis racket": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    260.04,
+    56.61,
+    255.24,
+    370.39
+   ],
+   "area": 41633.32249999997
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    365.86,
+    97.53,
+    150.93,
+    93.61
+   ],
+   "area": 6008.7244
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A young man holding a tennis racquet in his hand.",
+  "a man that is standing next to a fence with a racket",
+  "a young boy is holding a tennis racket on a court",
+  "A young man holding a tennis racket at the tennis court.",
+  "Male athlete ready for ball during outdoor tennis game."
+ ],
+ "scene_places": [
+  "sports field"
+ ],
+ "vqa": [
+  {
+   "question_id": 236025000,
+   "question": "Is this man playing outside?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "tennis",
+    "tennis",
+    "yes",
+    "yes",
+    "tennis",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 236025001,
+   "question": "Is he wearing a helmet?",
+   "answer_type": "yes/no",
+   "question_type": "is he",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 236025002,
+   "question": "Where is the man playing?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "tennis court",
+   "answers": [
+    "tennis",
+    "tennis",
+    "tennis",
+    "in tennis cage",
+    "tennis court",
+    "tennis court",
+    "on court",
+    "park",
+    "tennis court",
+    "tennis court"
+   ]
+  },
+  {
+   "question_id": 236025003,
+   "question": "What color racket is he using?",
+   "answer_type": "other",
+   "question_type": "what color",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "blue",
+    "black",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue"
+   ]
+  },
+  {
+   "question_id": 236025004,
+   "question": "Which hand holds the racket?",
+   "answer_type": "other",
+   "question_type": "which",
+   "multiple_choice_answer": "left",
+   "answers": [
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left",
+    "left"
+   ]
+  }
+ ]
+}

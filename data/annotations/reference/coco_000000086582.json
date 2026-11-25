@@ -1,0 +1,104 @@
+{
+ "uid": "coco_000000086582",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "laptop",
+  "mouse",
+  "person",
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 4,
+  "person": 1,
+  "laptop": 1,
+  "mouse": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    206.3,
+    132.42,
+    83.48,
+    102.67
+   ],
+   "area": 6094.335749999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.96,
+    20.68,
+    179.03,
+    180.95
+   ],
+   "area": 9973.31175
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    69.89,
+    162.76,
+    65.1,
+    91.91
+   ],
+   "area": 4717.42185
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    291.94,
+    156.48,
+    88.35,
+    86.3
+   ],
+   "area": 4878.794499999999
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    139.51,
+    183.64,
+    65.16,
+    69.75
+   ],
+   "area": 3695.20145
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    308.98,
+    102.67,
+    326.24,
+    293.62
+   ],
+   "area": 58012.61125
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    398.21,
+    362.55,
+    130.5,
+    55.65
+   ],
+   "area": 5215.292449999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cloth bag is on the keyboard of a laptop.",
+  "A laptop computer sitting on top of a desk.",
+  "A person watering plants with a computer in the foreground.",
+  "A knit item sitting on a laptop on a desk.",
+  "Something knitted is lying on top of a laptop."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,32 @@
+{
+ "uid": "vg_2317493",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "handbag",
+  "horse",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "white"
+  ],
+  "shirt": [
+   "orange"
+  ],
+  "shorts": [],
+  "pants": []
+ },
+ "accessories": [],
+ "carried": [
+  "bag"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

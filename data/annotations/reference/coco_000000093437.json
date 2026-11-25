@@ -1,0 +1,174 @@
+{
+ "uid": "coco_000000093437",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "bottle",
+  "chair",
+  "clock",
+  "cup",
+  "dining table",
+  "person",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 3,
+  "person": 1,
+  "cup": 1,
+  "book": 4,
+  "bottle": 1,
+  "clock": 1,
+  "vase": 1,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    432.45,
+    169.84,
+    68.31,
+    91.44
+   ],
+   "area": 2420.9983999999986
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    40.31,
+    204.26,
+    59.08,
+    99.95
+   ],
+   "area": 2091.5623500000015
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    178.56,
+    26.4,
+    122.66
+   ],
+   "area": 2159.2917
+  },
+  {
+   "category": "person",
+   "bbox": [
+    78.69,
+    8.92,
+    351.27,
+    346.4
+   ],
+   "area": 74462.7767
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    575.78,
+    205.62,
+    18.31,
+    33.16
+   ],
+   "area": 532.3323000000006
+  },
+  {
+   "category": "book",
+   "bbox": [
+    455.18,
+    223.28,
+    14.88,
+    3.08
+   ],
+   "area": 39.72209999999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    454.39,
+    226.49,
+    15.31,
+    2.43
+   ],
+   "area": 32.88539999999973
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    579.94,
+    187.85,
+    13.19,
+    18.18
+   ],
+   "area": 194.61434999999986
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    118.1,
+    164.17,
+    27.0,
+    29.86
+   ],
+   "area": 609.3294500000002
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    147.45,
+    167.87,
+    13.46,
+    23.55
+   ],
+   "area": 252.06044999999983
+  },
+  {
+   "category": "book",
+   "bbox": [
+    440.99,
+    212.68,
+    20.36,
+    7.76
+   ],
+   "area": 120.0308000000001
+  },
+  {
+   "category": "book",
+   "bbox": [
+    490.55,
+    212.2,
+    33.28,
+    10.71
+   ],
+   "area": 277.1858000000005
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    426.79,
+    275.31,
+    213.21,
+    85.55
+   ],
+   "area": 11551.686399999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A shot of an elderly man inside a kitchen.",
+  "An old man is wearing an odd hat",
+  "An older man is wearing a funny hat in his dining room.",
+  "A man in a jacket and hat looks at the camera.",
+  "An old man standing in a kitchen posing for a picture."
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

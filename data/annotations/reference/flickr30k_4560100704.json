@@ -1,0 +1,143 @@
+{
+ "uid": "flickr30k_4560100704",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "sweater": [
+   "gray"
+  ],
+  "jacket": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman in a gray sweater talking to another woman in a black jacket .",
+  "A group of people enjoying a small carnival .",
+  "A group of people are at an amusement park .",
+  "People standing near a street fair .",
+  "A few people standing in the road ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "178572",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "178577",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray sweater",
+   "start": 11,
+   "end": 25
+  },
+  {
+   "entity_id": "178574",
+   "types": [
+    "people"
+   ],
+   "phrase": "another woman",
+   "start": 37,
+   "end": 50
+  },
+  {
+   "entity_id": "178578",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black jacket",
+   "start": 54,
+   "end": 68
+  },
+  {
+   "entity_id": "178571",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "178579",
+   "types": [
+    "other"
+   ],
+   "phrase": "a small carnival",
+   "start": 27,
+   "end": 43
+  },
+  {
+   "entity_id": "178571",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "178573",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an amusement park",
+   "start": 25,
+   "end": 42
+  },
+  {
+   "entity_id": "178571",
+   "types": [
+    "people"
+   ],
+   "phrase": "People",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "178576",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street fair",
+   "start": 21,
+   "end": 34
+  },
+  {
+   "entity_id": "178571",
+   "types": [
+    "people"
+   ],
+   "phrase": "A few people",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "178575",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the road",
+   "start": 25,
+   "end": 33
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

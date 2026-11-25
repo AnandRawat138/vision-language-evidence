@@ -1,0 +1,157 @@
+{
+ "uid": "flickr30k_3708748633",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [],
+  "skirt": [
+   "green"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man wearing a coat and a plaid green skirt is playing a bagpipe .",
+  "an older man playing wearing a quilt the bagpipes outside .",
+  "A man wearing a kilt is playing the bagpipes .",
+  "a man plays the bagpipes .",
+  "A man playing bagpipes ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "138471",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "138474",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a coat",
+   "start": 14,
+   "end": 20
+  },
+  {
+   "entity_id": "138473",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a plaid green skirt",
+   "start": 25,
+   "end": 44
+  },
+  {
+   "entity_id": "138472",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a bagpipe",
+   "start": 56,
+   "end": 65
+  },
+  {
+   "entity_id": "138471",
+   "types": [
+    "people"
+   ],
+   "phrase": "an older man",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "138473",
+   "types": [
+    "other"
+   ],
+   "phrase": "a quilt",
+   "start": 29,
+   "end": 36
+  },
+  {
+   "entity_id": "138472",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "the bagpipes",
+   "start": 37,
+   "end": 49
+  },
+  {
+   "entity_id": "138471",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "138473",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a kilt",
+   "start": 14,
+   "end": 20
+  },
+  {
+   "entity_id": "138472",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "the bagpipes",
+   "start": 32,
+   "end": 44
+  },
+  {
+   "entity_id": "138471",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "138472",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "the bagpipes",
+   "start": 12,
+   "end": 24
+  },
+  {
+   "entity_id": "138471",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "138472",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "bagpipes",
+   "start": 14,
+   "end": 22
+  }
+ ],
+ "scene_places": []
+}

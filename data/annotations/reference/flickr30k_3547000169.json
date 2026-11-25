@@ -1,0 +1,179 @@
+{
+ "uid": "flickr30k_3547000169",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Three men are sitting inside of a store while the green neon lights flash on them from outside .",
+  "Three men sitting behind a window ringed with green neon lights .",
+  "Three men sit down in a building illuminated with green light .",
+  "Three men seated looking through glass accented by green light",
+  "Three men sit at the counter in a restaurant ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "126538",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "126541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a store",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "126542",
+   "types": [
+    "other"
+   ],
+   "phrase": "the green neon lights",
+   "start": 46,
+   "end": 67
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "them",
+   "start": 77,
+   "end": 81
+  },
+  {
+   "entity_id": "126545",
+   "types": [
+    "scene"
+   ],
+   "phrase": "outside",
+   "start": 87,
+   "end": 94
+  },
+  {
+   "entity_id": "126538",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "126540",
+   "types": [
+    "other"
+   ],
+   "phrase": "a window",
+   "start": 25,
+   "end": 33
+  },
+  {
+   "entity_id": "126542",
+   "types": [
+    "other"
+   ],
+   "phrase": "green neon lights",
+   "start": 46,
+   "end": 63
+  },
+  {
+   "entity_id": "126538",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "126540",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a building",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "126542",
+   "types": [
+    "other"
+   ],
+   "phrase": "green light",
+   "start": 50,
+   "end": 61
+  },
+  {
+   "entity_id": "126538",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "126544",
+   "types": [
+    "other"
+   ],
+   "phrase": "glass",
+   "start": 33,
+   "end": 38
+  },
+  {
+   "entity_id": "126542",
+   "types": [
+    "other"
+   ],
+   "phrase": "green light",
+   "start": 51,
+   "end": 62
+  },
+  {
+   "entity_id": "126538",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "126539",
+   "types": [
+    "other"
+   ],
+   "phrase": "the counter",
+   "start": 17,
+   "end": 28
+  },
+  {
+   "entity_id": "126541",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a restaurant",
+   "start": 32,
+   "end": 44
+  }
+ ],
+ "scene_places": []
+}

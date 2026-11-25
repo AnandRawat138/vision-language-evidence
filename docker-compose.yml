@@ -1,0 +1,18 @@
+# Not executed during this study. Services: review API (CPU) and an optional vLLM server (Linux + NVIDIA GPU).
+services:
+  api:
+    build: .
+    ports: ["8008:8008"]
+    volumes:
+      - ./results:/app/results
+      - ./data/images:/app/data/images:ro
+  vllm:
+    profiles: ["gpu"]
+    image: vllm/vllm-openai:v0.8.5
+    command: ["--model", "Qwen/Qwen2.5-VL-3B-Instruct", "--max-model-len", "8192",
+              "--limit-mm-per-prompt", "image=4"]
+    ports: ["8000:8000"]
+    deploy:
+      resources:
+        reservations:
+          devices: [{driver: nvidia, count: 1, capabilities: [gpu]}]

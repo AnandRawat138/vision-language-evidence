@@ -1,0 +1,256 @@
+{
+ "uid": "coco_000000411530",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "skis",
+  "snowboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 14,
+  "snowboard": 1,
+  "skis": 5,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    518.47,
+    287.23,
+    54.28,
+    131.6
+   ],
+   "area": 4293.5185
+  },
+  {
+   "category": "person",
+   "bbox": [
+    555.72,
+    292.06,
+    41.65,
+    99.69
+   ],
+   "area": 2441.8253
+  },
+  {
+   "category": "person",
+   "bbox": [
+    482.08,
+    290.58,
+    19.82,
+    51.73
+   ],
+   "area": 563.3013500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    495.73,
+    289.14,
+    10.39,
+    15.4
+   ],
+   "area": 79.84385000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    370.88,
+    293.12,
+    43.52,
+    60.71
+   ],
+   "area": 1188.2535000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    368.31,
+    290.81,
+    13.27,
+    43.93
+   ],
+   "area": 336.45335
+  },
+  {
+   "category": "person",
+   "bbox": [
+    334.08,
+    293.87,
+    11.63,
+    44.42
+   ],
+   "area": 328.2078999999997
+  },
+  {
+   "category": "snowboard",
+   "bbox": [
+    0.0,
+    289.3,
+    46.65,
+    96.21
+   ],
+   "area": 1560.2893000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.15,
+    278.36,
+    25.71,
+    145.94
+   ],
+   "area": 701.8278499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    426.45,
+    292.17,
+    80.74,
+    162.06
+   ],
+   "area": 6379.917399999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    627.06,
+    283.55,
+    12.94,
+    86.52
+   ],
+   "area": 805.7893500000013
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    390.9,
+    435.36,
+    118.51,
+    33.65
+   ],
+   "area": 692.05015
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    343.86,
+    306.51,
+    4.24,
+    31.1
+   ],
+   "area": 38.462450000000295
+  },
+  {
+   "category": "person",
+   "bbox": [
+    425.04,
+    295.63,
+    16.83,
+    61.59
+   ],
+   "area": 569.0724999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    181.22,
+    212.97,
+    4.49,
+    21.83
+   ],
+   "area": 65.40440000000015
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    385.93,
+    300.1,
+    19.97,
+    18.87
+   ],
+   "area": 209.31620000000007
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    584.69,
+    299.18,
+    15.12,
+    10.59
+   ],
+   "area": 91.87034999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    505.98,
+    295.87,
+    21.77,
+    80.52
+   ],
+   "area": 785.8562499999992
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    523.26,
+    402.64,
+    40.16,
+    23.34
+   ],
+   "area": 227.30009999999828
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    555.84,
+    390.37,
+    42.11,
+    14.03
+   ],
+   "area": 242.7930999999998
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    381.4,
+    348.24,
+    24.58,
+    5.39
+   ],
+   "area": 30.57975000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    400,
+    291,
+    209,
+    183
+   ],
+   "area": 1364
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A crowd of people standing on snow covered ground.",
+  "some skiers are in a line for the chair lift",
+  "Skiers wait to take a lift up a snowy hill.",
+  "Many skiers are waiting to ride a chair lift.",
+  "A LOT OF PEOPLE ARE SKIING ON THE MOUNTAIN"
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

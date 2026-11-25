@@ -1,0 +1,84 @@
+{
+ "uid": "coco_000000182805",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "handbag",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 2,
+  "umbrella": 1,
+  "person": 1,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    279.33,
+    132.44,
+    93.79,
+    212.62
+   ],
+   "area": 10152.457400000005
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    325.29,
+    185.33,
+    237.31,
+    170.31
+   ],
+   "area": 27998.9527
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    306.04,
+    0.0,
+    333.96,
+    119.31
+   ],
+   "area": 19669.418250000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    95.46,
+    0.0,
+    327.64,
+    352.72
+   ],
+   "area": 64737.949350000024
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    44.61,
+    91.01,
+    189.33,
+    268.99
+   ],
+   "area": 4511.063850000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman and a dog sitting on the ground.",
+  "A woman holding an umbrella sitting on a blanket next to two dogs.",
+  "A woman is playing with her dogs under an umbrella.",
+  "Woman and adoring dog under an umbrella in the sun.",
+  "A photo of a woman sitting with two dogs."
+ ],
+ "scene_places": []
+}

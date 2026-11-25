@@ -1,0 +1,34 @@
+{
+ "uid": "vg_2354149",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shorts": [
+   "black",
+   "white"
+  ],
+  "shirt": [
+   "blue",
+   "orange"
+  ],
+  "shoes": [
+   "blue",
+   "gray",
+   "red"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

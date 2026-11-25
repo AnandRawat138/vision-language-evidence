@@ -1,0 +1,102 @@
+{
+ "uid": "coco_000000230983",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 5,
+  "person": 1,
+  "skateboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    406.61,
+    210.73,
+    23.37,
+    64.08
+   ],
+   "area": 917.6109000000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    395.07,
+    209.87,
+    32.28,
+    54.52
+   ],
+   "area": 595.8703499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    148.58,
+    146.86,
+    140.94,
+    174.6
+   ],
+   "area": 9911.705749999997
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    162.99,
+    312.01,
+    57.31,
+    80.06
+   ],
+   "area": 2108.1471500000007
+  },
+  {
+   "category": "car",
+   "bbox": [
+    419.64,
+    239.1,
+    10.28,
+    56.67
+   ],
+   "area": 356.0660500000016
+  },
+  {
+   "category": "car",
+   "bbox": [
+    386.75,
+    212.46,
+    18.11,
+    38.82
+   ],
+   "area": 197.2875000000006
+  },
+  {
+   "category": "car",
+   "bbox": [
+    383.31,
+    214.15,
+    6.31,
+    22.19
+   ],
+   "area": 94.00344999999984
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person is doing a trick over a trash can.",
+  "A man flying through the air while riding a skateboard.",
+  "a man wearing a hat does a trick on  a skateboard",
+  "A man in black shirt doing a trick on a skateboard.",
+  "The boy jumps with a skateboard over the garbage can."
+ ],
+ "scene_places": []
+}

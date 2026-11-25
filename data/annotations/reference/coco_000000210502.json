@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000210502",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    0.0,
+    31.28,
+    639.64,
+    413.12
+   ],
+   "area": 247666.39390000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Part of train car with a door to the rear connected to the car behind it",
+  "A train with a striped door waiting on a train track.",
+  "this the outside of a train with a slanted striped door.",
+  "A train on the tracks has a black and white striped door.",
+  "The side of a passenger rail train with a stripped door."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

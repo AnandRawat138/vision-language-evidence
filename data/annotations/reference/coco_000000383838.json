@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000383838",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "remote": 1,
+  "chair": 1,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "remote",
+   "bbox": [
+    277.93,
+    422.37,
+    84.31,
+    80.46
+   ],
+   "area": 2506.85625
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    521.24,
+    465.93,
+    31.64,
+    119.63
+   ],
+   "area": 2459.4693499999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    8.77,
+    427.52,
+    579.23
+   ],
+   "area": 173656.54690000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    359.6,
+    287.84,
+    186.4,
+    300.16
+   ],
+   "area": 31119.144350000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman that is looking at a white remote.",
+  "A woman in a red shirt is looking at her phone.",
+  "A woman holding a Nintendo Wii game controller near a man.",
+  "A woman in a red top inspect the remote control panel's features.",
+  "A woman is playing with a video game controller."
+ ],
+ "scene_places": []
+}

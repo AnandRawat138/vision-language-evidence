@@ -1,0 +1,135 @@
+{
+ "uid": "vqa_000000530265",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "cake",
+  "cell phone",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 1,
+  "cake": 1,
+  "bowl": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    305.81,
+    405.66,
+    51.57,
+    25.23
+   ],
+   "area": 446.30759999999924
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.44,
+    1.0,
+    375.37,
+    627.05
+   ],
+   "area": 122556.45555000001
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    263.38,
+    545.9,
+    172.55,
+    94.1
+   ],
+   "area": 11974.38040000001
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    227.78,
+    418.04,
+    82.45,
+    56.49
+   ],
+   "area": 3022.5373
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man standing in a kitchen preparing food.",
+  "a man standing in a kitchen taking a picture of a cake",
+  "A man taking a picture of a cake on his phone.",
+  "A man using a cellphone to take a picture of a cake.",
+  "A man in grey shirt taking a photograph of a cake."
+ ],
+ "scene_places": [
+  "kitchen"
+ ],
+ "vqa": [
+  {
+   "question_id": 530265000,
+   "question": "What color is the man's shirt?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "gray",
+   "answers": [
+    "gray",
+    "blue",
+    "gray",
+    "gray",
+    "gray",
+    "gray",
+    "gray",
+    "gray",
+    "gray",
+    "gray"
+   ]
+  },
+  {
+   "question_id": 530265001,
+   "question": "What is the man taking a picture of?",
+   "answer_type": "other",
+   "question_type": "what is the man",
+   "multiple_choice_answer": "cake",
+   "answers": [
+    "cake",
+    "cake",
+    "cake",
+    "cake",
+    "cake",
+    "cake",
+    "cake",
+    "cake",
+    "cake",
+    "cake"
+   ]
+  },
+  {
+   "question_id": 530265002,
+   "question": "Is this the man's home?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

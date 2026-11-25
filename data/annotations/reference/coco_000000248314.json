@@ -1,0 +1,120 @@
+{
+ "uid": "coco_000000248314",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "chair",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 2,
+  "spoon": 1,
+  "bowl": 1,
+  "laptop": 1,
+  "mouse": 1,
+  "bottle": 1,
+  "keyboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    447.64,
+    1.08,
+    189.84,
+    325.75
+   ],
+   "area": 19325.350650000004
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    297.88,
+    245.56,
+    90.35,
+    64.76
+   ],
+   "area": 1136.1824000000013
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    229.92,
+    298.02,
+    104.24,
+    84.97
+   ],
+   "area": 6621.826050000001
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    0.0,
+    8.27,
+    358.04,
+    320.36
+   ],
+   "area": 57545.5307
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    224.36,
+    385.08,
+    114.12,
+    78.76
+   ],
+   "area": 6020.762849999998
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    367.72,
+    0.0,
+    39.82,
+    83.81
+   ],
+   "area": 2768.2946
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    117.57,
+    127.28,
+    195.24,
+    159.64
+   ],
+   "area": 14157.27165
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    538.33,
+    362.29,
+    101.67,
+    117.54
+   ],
+   "area": 9789.863999999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A plate of food placed next to a computer.",
+  "There is a plate full of food in front of the laptop.",
+  "An office desk with computer equipment, calculator, and work papers holds an employee's working lunch of soup, rice, and vegetables.",
+  "Portioned lunch in front of laptop in nice workspace.",
+  "desktop picture with laptop and food container full of food"
+ ],
+ "scene_places": []
+}

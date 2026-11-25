@@ -1,0 +1,222 @@
+{
+ "uid": "flickr30k_1196746186",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [],
+  "shoes": [
+   "green"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman in a jacket walks on the beach in someone 's footprints while holding her shoes in her hands .",
+  "A person is walking along the beach , making footprints while holding their shoes .",
+  "A child hold green shoes is walking in the sand by the water .",
+  "A woman carrying shoes is walking barefoot on the beach .",
+  "A woman walks in the sand as she carries her shoes ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "5043",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "5044",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a jacket",
+   "start": 11,
+   "end": 19
+  },
+  {
+   "entity_id": "5045",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 29,
+   "end": 38
+  },
+  {
+   "entity_id": "5046",
+   "types": [
+    "other"
+   ],
+   "phrase": "someone 's footprints",
+   "start": 42,
+   "end": 63
+  },
+  {
+   "entity_id": "5047",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "her shoes",
+   "start": 78,
+   "end": 87
+  },
+  {
+   "entity_id": "5048",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her hands",
+   "start": 91,
+   "end": 100
+  },
+  {
+   "entity_id": "5043",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "5045",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 26,
+   "end": 35
+  },
+  {
+   "entity_id": "5046",
+   "types": [
+    "other"
+   ],
+   "phrase": "footprints",
+   "start": 45,
+   "end": 55
+  },
+  {
+   "entity_id": "5047",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "their shoes",
+   "start": 70,
+   "end": 81
+  },
+  {
+   "entity_id": "5043",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "5047",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "green shoes",
+   "start": 13,
+   "end": 24
+  },
+  {
+   "entity_id": "5045",
+   "types": [
+    "other"
+   ],
+   "phrase": "the sand",
+   "start": 39,
+   "end": 47
+  },
+  {
+   "entity_id": "5050",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 51,
+   "end": 60
+  },
+  {
+   "entity_id": "5043",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "5047",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "shoes",
+   "start": 17,
+   "end": 22
+  },
+  {
+   "entity_id": "5045",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 46,
+   "end": 55
+  },
+  {
+   "entity_id": "5043",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "5045",
+   "types": [
+    "other"
+   ],
+   "phrase": "the sand",
+   "start": 17,
+   "end": 25
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "she",
+   "start": 29,
+   "end": 32
+  },
+  {
+   "entity_id": "5047",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "her shoes",
+   "start": 41,
+   "end": 50
+  }
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

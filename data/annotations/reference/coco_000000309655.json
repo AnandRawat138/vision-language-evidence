@@ -1,0 +1,224 @@
+{
+ "uid": "coco_000000309655",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skis",
+  "snowboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 13,
+  "skis": 5,
+  "snowboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    241.62,
+    203.87,
+    116.49,
+    268.58
+   ],
+   "area": 22371.024549999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    236.47,
+    216.29,
+    19.43,
+    65.68
+   ],
+   "area": 738.1053000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    389.92,
+    224.59,
+    42.73,
+    68.08
+   ],
+   "area": 1263.3122
+  },
+  {
+   "category": "person",
+   "bbox": [
+    133.9,
+    231.42,
+    25.32,
+    43.98
+   ],
+   "area": 481.94924999999984
+  },
+  {
+   "category": "person",
+   "bbox": [
+    358.39,
+    225.66,
+    19.55,
+    56.85
+   ],
+   "area": 708.0429499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    221.78,
+    233.13,
+    17.53,
+    43.83
+   ],
+   "area": 484.9449999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    252.57,
+    219.36,
+    16.73,
+    52.66
+   ],
+   "area": 514.6700999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    372.96,
+    232.37,
+    19.32,
+    46.64
+   ],
+   "area": 459.48789999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    89.66,
+    238.17,
+    22.56,
+    45.32
+   ],
+   "area": 494.48855000000043
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.54,
+    222.89,
+    5.33,
+    49.36
+   ],
+   "area": 149.06499999999994
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    396.39,
+    289.72,
+    43.05,
+    3.81
+   ],
+   "area": 34.55679999999966
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    89.58,
+    280.85,
+    19.93,
+    1.96
+   ],
+   "area": 14.181349999999671
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    364.88,
+    277.41,
+    11.03,
+    5.04
+   ],
+   "area": 14.024749999999948
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    0.0,
+    283.24,
+    56.24,
+    4.2
+   ],
+   "area": 64.23599999999958
+  },
+  {
+   "category": "person",
+   "bbox": [
+    25.43,
+    217.98,
+    20.05,
+    67.31
+   ],
+   "area": 701.0792999999999
+  },
+  {
+   "category": "snowboard",
+   "bbox": [
+    5.74,
+    282.32,
+    52.2,
+    6.14
+   ],
+   "area": 69.31369999999951
+  },
+  {
+   "category": "person",
+   "bbox": [
+    66.69,
+    222.12,
+    28.18,
+    56.81
+   ],
+   "area": 945.2067999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    3.66,
+    213.32,
+    29.47,
+    85.52
+   ],
+   "area": 1708.2155499999997
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    389.65,
+    284.77,
+    12.87,
+    4.81
+   ],
+   "area": 15.274500000000236
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman is posing for a picture on the snowy mountain.",
+  "A woman smiling with glasses on standing in the snow with two poles.",
+  "A woman on skis in front of people on a slope.",
+  "A woman in a black jacket with skis on a slope.",
+  "A woman stands on skis on a snowy hill."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

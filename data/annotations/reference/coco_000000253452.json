@@ -1,0 +1,192 @@
+{
+ "uid": "coco_000000253452",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cake",
+  "carrot",
+  "cup",
+  "dining table",
+  "donut",
+  "fork",
+  "knife",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cup": 1,
+  "fork": 1,
+  "cake": 1,
+  "knife": 2,
+  "spoon": 1,
+  "carrot": 2,
+  "donut": 6,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cup",
+   "bbox": [
+    444.19,
+    150.3,
+    195.81,
+    212.52
+   ],
+   "area": 33550.275400000006
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    8.62,
+    78.5,
+    42.12,
+    115.83
+   ],
+   "area": 2601.6545
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    73.71,
+    22.98,
+    169.45,
+    97.64
+   ],
+   "area": 11368.073600000003
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    24.12,
+    94.33,
+    38.54,
+    82.16
+   ],
+   "area": 848.3756999999999
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    0.47,
+    72.74,
+    30.42,
+    75.42
+   ],
+   "area": 1004.1763500000003
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    142.47,
+    148.71,
+    170.36,
+    72.75
+   ],
+   "area": 2692.0551500000006
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    102.94,
+    191.63,
+    20.91,
+    17.81
+   ],
+   "area": 248.9337000000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    457.4,
+    78.34,
+    124.42,
+    93.07
+   ],
+   "area": 8324.717550000003
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    458.48,
+    51.78,
+    83.25,
+    51.8
+   ],
+   "area": 1955.91445
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    323.48,
+    77.27,
+    107.76,
+    83.99
+   ],
+   "area": 3167.495
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    363.35,
+    30.19,
+    106.13,
+    54.02
+   ],
+   "area": 4473.100249999999
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    494.58,
+    64.06,
+    122.62,
+    73.7
+   ],
+   "area": 3181.314100000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    371.64,
+    73.77,
+    100.95,
+    76.55
+   ],
+   "area": 5848.23115
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    100.96,
+    0.0,
+    30.52,
+    21.93
+   ],
+   "area": 333.60499999999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    0.0,
+    640.0,
+    426.0
+   ],
+   "area": 272506.7588
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white plate topped with food next to a plate of onion rings.",
+  "Plates of food with onion rings and cheesecake and a cup of cocoa on a table",
+  "Several plates of food and a cup of coffee on a table.",
+  "A hearty fish dinner, with a side of onion rings and coffee.",
+  "A plate with creamy chicken and vegetables, a side of onion rings, a cup of coffee and a slice of cheesecake."
+ ],
+ "scene_places": []
+}

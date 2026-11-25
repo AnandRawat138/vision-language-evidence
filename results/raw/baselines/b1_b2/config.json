@@ -1,0 +1,28 @@
+{
+ "blip": {
+  "model": "Salesforce/blip-image-captioning-base",
+  "decoding": "beam=3, max_new_tokens=40",
+  "fp16": true,
+  "batch": 16,
+  "wall_s": 62.129972900031134
+ },
+ "clip": {
+  "model": "openai/clip-vit-base-patch32",
+  "prompt": "a photo of a {}.",
+  "wall_s": 9.378579500014894
+ },
+ "environment": {
+  "python": "3.12.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "git_commit": "b6056d883fd76824619ad9965697e1e3b82bcc29",
+  "utc": "2026-11-22T07:54:03+00:00",
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_total_mb": 6144,
+  "ram_total_mb": 15773,
+  "cpu_count_logical": 16
+ },
+ "n_images": 1000
+}

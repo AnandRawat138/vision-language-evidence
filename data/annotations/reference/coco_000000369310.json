@@ -1,0 +1,124 @@
+{
+ "uid": "coco_000000369310",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "dining table",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "remote": 2,
+  "chair": 5,
+  "dining table": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "remote",
+   "bbox": [
+    189.5,
+    263.29,
+    63.61,
+    92.24
+   ],
+   "area": 1352.52565
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    276.62,
+    86.03,
+    78.45,
+    69.97
+   ],
+   "area": 3657.795099999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    187.85,
+    70.41,
+    28.79,
+    86.38
+   ],
+   "area": 769.1192000000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    345.01,
+    59.46,
+    39.09,
+    151.05
+   ],
+   "area": 2605.461600000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    341.26,
+    66.0,
+    11.46,
+    34.85
+   ],
+   "area": 204.96155000000027
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    212.91,
+    102.57,
+    162.42,
+    111.06
+   ],
+   "area": 4381.003400000001
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    174.21,
+    303.37,
+    29.2,
+    26.74
+   ],
+   "area": 459.12244999999984
+  },
+  {
+   "category": "person",
+   "bbox": [
+    26.6,
+    0.0,
+    217.76,
+    600.1
+   ],
+   "area": 61564.44960000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    211.53,
+    68.33,
+    17.06,
+    39.81
+   ],
+   "area": 390.2610500000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A toddler boy is on a white pad playing a video game.",
+  "A boy in helmet playing a game with a Nintendo Wii controller.",
+  "A boy wearing a helmet is playing video games.",
+  "The young child is playing a video game.",
+  "boy wearing a helmet while playing a video game"
+ ],
+ "scene_places": []
+}

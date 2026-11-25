@@ -1,0 +1,182 @@
+{
+ "uid": "coco_000000571598",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "remote",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 2,
+  "person": 10,
+  "remote": 3
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    60.89,
+    316.37,
+    48.39,
+    163.63
+   ],
+   "area": 4995.242399999999
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    514.37,
+    290.29,
+    45.94,
+    189.71
+   ],
+   "area": 5232.425949999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    175.82,
+    94.92,
+    287.9,
+    385.08
+   ],
+   "area": 72875.82215
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.36,
+    107.38,
+    204.48,
+    372.62
+   ],
+   "area": 54585.320400000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    456.16,
+    120.0,
+    183.84,
+    352.14
+   ],
+   "area": 49022.9323
+  },
+  {
+   "category": "person",
+   "bbox": [
+    444.93,
+    261.92,
+    24.11,
+    28.49
+   ],
+   "area": 456.30865000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    162.84,
+    252.74,
+    58.72,
+    53.02
+   ],
+   "area": 845.0328499999997
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    571.26,
+    348.98,
+    43.9,
+    72.96
+   ],
+   "area": 1767.4989499999997
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    93.43,
+    448.1,
+    48.17,
+    31.9
+   ],
+   "area": 1017.3838999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    9.13,
+    267.56,
+    7.65,
+    12.1
+   ],
+   "area": 46.798850000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    111.38,
+    284.59,
+    70.09,
+    56.52
+   ],
+   "area": 1921.9435500000002
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    351.06,
+    371.07,
+    47.58,
+    51.24
+   ],
+   "area": 1230.7495500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    476.23,
+    267.32,
+    17.24,
+    11.82
+   ],
+   "area": 125.13100000000014
+  },
+  {
+   "category": "person",
+   "bbox": [
+    465.6,
+    270.37,
+    13.87,
+    13.56
+   ],
+   "area": 139.40184999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    136.81,
+    269.63,
+    12.2,
+    27.01
+   ],
+   "area": 244.3479999999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "three men smiling holding a wii controller in their hands",
+  "Three men each holding something and posing for a picture.",
+  "A group of three men standing next to each other.",
+  "Three men holding WiiMotes at a trade show.",
+  "Those look like remote or game controls in their hands."
+ ],
+ "scene_places": []
+}

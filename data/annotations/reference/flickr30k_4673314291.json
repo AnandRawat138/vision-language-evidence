@@ -1,0 +1,134 @@
+{
+ "uid": "flickr30k_4673314291",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Three individuals sit on short metal posts outside of a building .",
+  "These people can find a resting place in the most unusual forms .",
+  "Two women and a man are sitting on metal bollards .",
+  "Three people are sitting and waiting .",
+  "Bystanders rest on nearby poles ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "189139",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three individuals",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "189146",
+   "types": [
+    "scene"
+   ],
+   "phrase": "short metal posts",
+   "start": 25,
+   "end": 42
+  },
+  {
+   "entity_id": "189142",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a building",
+   "start": 54,
+   "end": 64
+  },
+  {
+   "entity_id": "189139",
+   "types": [
+    "people"
+   ],
+   "phrase": "These people",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "189144",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a resting place",
+   "start": 22,
+   "end": 37
+  },
+  {
+   "entity_id": "189145",
+   "types": [
+    "other"
+   ],
+   "phrase": "the most unusual forms",
+   "start": 41,
+   "end": 63
+  },
+  {
+   "entity_id": "189141",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "189143",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 14,
+   "end": 19
+  },
+  {
+   "entity_id": "189140",
+   "types": [
+    "other"
+   ],
+   "phrase": "metal bollards",
+   "start": 35,
+   "end": 49
+  },
+  {
+   "entity_id": "189139",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three people",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "189139",
+   "types": [
+    "people"
+   ],
+   "phrase": "Bystanders",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "189140",
+   "types": [
+    "other"
+   ],
+   "phrase": "nearby poles",
+   "start": 19,
+   "end": 31
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,202 @@
+{
+ "uid": "coco_000000156071",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "person": 14,
+  "sheep": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    305.77,
+    76.16,
+    161.54,
+    46.22
+   ],
+   "area": 4294.526150000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    446.87,
+    74.21,
+    81.16,
+    46.77
+   ],
+   "area": 1974.3927000000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    7.55,
+    202.66,
+    127.28,
+    215.73
+   ],
+   "area": 11293.18375
+  },
+  {
+   "category": "person",
+   "bbox": [
+    461.66,
+    131.6,
+    62.56,
+    131.59
+   ],
+   "area": 4299.535499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    419.6,
+    85.21,
+    39.91,
+    98.16
+   ],
+   "area": 1473.5973499999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    139.15,
+    51.78,
+    131.59
+   ],
+   "area": 4768.553049999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    227.55,
+    101.84,
+    72.08,
+    149.16
+   ],
+   "area": 3039.7169
+  },
+  {
+   "category": "person",
+   "bbox": [
+    505.52,
+    96.35,
+    59.85,
+    168.94
+   ],
+   "area": 3499.972999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    214.71,
+    45.07,
+    28.88,
+    26.72
+   ],
+   "area": 469.50859999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    340.57,
+    111.8,
+    69.21,
+    129.42
+   ],
+   "area": 4569.792549999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    564.5,
+    80.48,
+    50.24,
+    186.86
+   ],
+   "area": 4163.570100000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    602.84,
+    95.98,
+    37.16,
+    126.01
+   ],
+   "area": 1760.9962000000005
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    341.47,
+    229.92,
+    62.42,
+    75.41
+   ],
+   "area": 2232.376200000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    388.34,
+    78.72,
+    25.88,
+    36.73
+   ],
+   "area": 485.29970000000037
+  },
+  {
+   "category": "person",
+   "bbox": [
+    273.95,
+    99.64,
+    40.03,
+    67.54
+   ],
+   "area": 1373.6766
+  },
+  {
+   "category": "person",
+   "bbox": [
+    281.25,
+    77.65,
+    29.2,
+    29.2
+   ],
+   "area": 418.009
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0,
+    0,
+    639,
+    462
+   ],
+   "area": 67490
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people standing around at a rodeo.",
+  "A rodeo area with men in cowboy hats, rodeo clowns and an audience in the stands.",
+  "A contestant has caught a sheep during a rodeo event.",
+  "We are looking through the bars of a fence into a rodeo arena.",
+  "A young child mutton busting at a rodeo event"
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,523 @@
+{
+ "uid": "vqa_000000277089",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bicycle",
+  "boat",
+  "car",
+  "kite",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 2,
+  "car": 2,
+  "bench": 2,
+  "kite": 1,
+  "person": 14,
+  "boat": 3,
+  "bicycle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    36.09,
+    342.08,
+    67.03,
+    70.54
+   ],
+   "area": 1009.3892000000008
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    55.03,
+    354.33,
+    77.08,
+    66.66
+   ],
+   "area": 1639.4264499999992
+  },
+  {
+   "category": "car",
+   "bbox": [
+    334.77,
+    418.42,
+    148.48,
+    60.72
+   ],
+   "area": 6967.53065
+  },
+  {
+   "category": "car",
+   "bbox": [
+    607.28,
+    413.69,
+    32.72,
+    29.46
+   ],
+   "area": 757.9754000000003
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    295.87,
+    426.83,
+    42.66,
+    18.48
+   ],
+   "area": 446.3613500000008
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    473.91,
+    422.63,
+    20.92,
+    14.29
+   ],
+   "area": 210.98964999999967
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    55.73,
+    71.03,
+    22.51,
+    28.75
+   ],
+   "area": 204.78789999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    97.61,
+    423.09,
+    23.51,
+    43.73
+   ],
+   "area": 799.7195999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    174.15,
+    417.14,
+    7.17,
+    18.88
+   ],
+   "area": 92.9926499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    214.83,
+    417.0,
+    5.77,
+    16.0
+   ],
+   "area": 62.47605000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    389.89,
+    412.29,
+    9.78,
+    7.52
+   ],
+   "area": 39.78835000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    293.28,
+    414.32,
+    20.25,
+    30.46
+   ],
+   "area": 307.8757000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    309.39,
+    416.77,
+    21.89,
+    28.02
+   ],
+   "area": 147.07630000000023
+  },
+  {
+   "category": "person",
+   "bbox": [
+    495.03,
+    410.57,
+    11.56,
+    27.75
+   ],
+   "area": 162.16764999999987
+  },
+  {
+   "category": "person",
+   "bbox": [
+    205.06,
+    422.85,
+    4.34,
+    5.32
+   ],
+   "area": 16.802400000000045
+  },
+  {
+   "category": "person",
+   "bbox": [
+    156.09,
+    423.7,
+    5.19,
+    10.21
+   ],
+   "area": 32.297900000000126
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    23.69,
+    384.86,
+    13.62,
+    6.58
+   ],
+   "area": 75.55164999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    219.94,
+    417.27,
+    8.1,
+    18.97
+   ],
+   "area": 87.16400000000014
+  },
+  {
+   "category": "person",
+   "bbox": [
+    267.85,
+    424.61,
+    3.85,
+    5.33
+   ],
+   "area": 13.077799999999838
+  },
+  {
+   "category": "person",
+   "bbox": [
+    166.8,
+    417.23,
+    7.28,
+    20.9
+   ],
+   "area": 103.3935999999999
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    496.17,
+    426.55,
+    12.27,
+    12.58
+   ],
+   "area": 122.15119999999995
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    118.28,
+    386.59,
+    11.24,
+    9.77
+   ],
+   "area": 75.2390500000002
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    177.23,
+    396.84,
+    4.31,
+    2.51
+   ],
+   "area": 6.659950000000029
+  },
+  {
+   "category": "person",
+   "bbox": [
+    194.24,
+    422.56,
+    7.2,
+    10.8
+   ],
+   "area": 28.831999999999894
+  },
+  {
+   "category": "person",
+   "bbox": [
+    196,
+    401,
+    440,
+    42
+   ],
+   "area": 1781
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a street sign on a pole on a street",
+  "A large tree situated next to a large body of water.",
+  "A car driving down a street next to a naked tree.",
+  "An interesting fruit tree bare of leaves stands in front of a lake near an apartment building.",
+  "The view of a shoreline with a long grass park."
+ ],
+ "scene_places": [
+  "street",
+  "water"
+ ],
+ "vqa": [
+  {
+   "question_id": 277089000,
+   "question": "What causes the sky to be blue?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "atmosphere",
+   "answers": [
+    "water",
+    "molecules of air",
+    "atmosphere",
+    "no clouds",
+    "weather",
+    "no clouds",
+    "atmosphere",
+    "air particles",
+    "science",
+    "atmosphere"
+   ]
+  },
+  {
+   "question_id": 277089001,
+   "question": "What type of trees are shown?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "oak",
+   "answers": [
+    "birch",
+    "tall",
+    "oak",
+    "maple",
+    "bare trees",
+    "brown",
+    "willow",
+    "birch",
+    "oak",
+    "maple"
+   ]
+  },
+  {
+   "question_id": 277089002,
+   "question": "Is it a cloudy day?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 277089003,
+   "question": "What kind of sign is this?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "pedestrian",
+   "answers": [
+    "walk",
+    "crosswalk",
+    "crosswalk",
+    "pedestrian",
+    "crosswalk",
+    "pedestrian",
+    "crosswalk",
+    "pedestrian",
+    "pedestrian",
+    "pedestrian walking"
+   ]
+  },
+  {
+   "question_id": 277089004,
+   "question": "How many  street signs are on the pole?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "1",
+    "0",
+    "3",
+    "2",
+    "2",
+    "2",
+    "2",
+    "1",
+    "2"
+   ]
+  },
+  {
+   "question_id": 277089005,
+   "question": "What does the sign mean?",
+   "answer_type": "other",
+   "question_type": "what does the",
+   "multiple_choice_answer": "pedestrian crossing",
+   "answers": [
+    "walk",
+    "pedestrians",
+    "pedestrian crossing",
+    "pedestrian",
+    "crossing",
+    "pedestrian crossing",
+    "crosswalk",
+    "people walking",
+    "pedestrian crossing",
+    "pedestrian crossing"
+   ]
+  },
+  {
+   "question_id": 277089006,
+   "question": "What does the white sign in on the far left have on it?",
+   "answer_type": "other",
+   "question_type": "what does the",
+   "multiple_choice_answer": "person",
+   "answers": [
+    "man walking",
+    "person",
+    "walking",
+    "person walking",
+    "silhouette",
+    "person",
+    "walking sign",
+    "person",
+    "no",
+    "man"
+   ]
+  },
+  {
+   "question_id": 277089007,
+   "question": "What is that body of water?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "lake",
+   "answers": [
+    "lake",
+    "lake",
+    "lake",
+    "ocean",
+    "lake",
+    "lake",
+    "lake",
+    "lake",
+    "lake",
+    "ocean"
+   ]
+  },
+  {
+   "question_id": 277089008,
+   "question": "Does this scene take place in autumn?",
+   "answer_type": "yes/no",
+   "question_type": "does this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "probably",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 277089009,
+   "question": "Are there leaves on the front tree?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 277089010,
+   "question": "How many tents are in view?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "0",
+   "answers": [
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "question_id": 277089011,
+   "question": "What is the tall building used for?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "hotel",
+   "answers": [
+    "meetings",
+    "hotel",
+    "offices",
+    "living",
+    "housing",
+    "commercial purposes",
+    "hotel",
+    "8 stories",
+    "apartment",
+    "housing"
+   ]
+  }
+ ]
+}

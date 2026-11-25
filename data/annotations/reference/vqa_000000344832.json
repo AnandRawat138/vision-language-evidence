@@ -1,0 +1,213 @@
+{
+ "uid": "vqa_000000344832",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "baseball glove",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 9,
+  "baseball bat": 1,
+  "baseball glove": 1,
+  "sports ball": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    94.7,
+    132.61,
+    179.66,
+    391.98
+   ],
+   "area": 31848.6962
+  },
+  {
+   "category": "person",
+   "bbox": [
+    96.53,
+    173.31,
+    32.68,
+    128.85
+   ],
+   "area": 1854.6361499999998
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    48.19,
+    148.57,
+    107.56,
+    112.11
+   ],
+   "area": 1093.6000999999994
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    1.68,
+    337.24,
+    59.35,
+    74.19
+   ],
+   "area": 2455.38495
+  },
+  {
+   "category": "person",
+   "bbox": [
+    4.66,
+    141.18,
+    30.56,
+    38.41
+   ],
+   "area": 723.1125999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    235.33,
+    187.99,
+    29.01,
+    102.76
+   ],
+   "area": 1412.4169500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    375.63,
+    172.97,
+    38.83,
+    116.72
+   ],
+   "area": 2694.1786
+  },
+  {
+   "category": "person",
+   "bbox": [
+    23.92,
+    183.73,
+    52.51,
+    130.61
+   ],
+   "area": 3865.2117499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    66.44,
+    175.22,
+    37.63,
+    134.11
+   ],
+   "area": 3180.222599999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    113.98,
+    159.76,
+    45.63,
+    143.17
+   ],
+   "area": 1581.3186000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    352.48,
+    20.84,
+    50.1
+   ],
+   "area": 678.9640499999999
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    7.54,
+    353.8,
+    17.24,
+    22.59
+   ],
+   "area": 171.2037999999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a little boy that is standing at home plate",
+  "A young man batting in a baseball game.",
+  "A batter waiting to hit the ball while turned away from the pitcher.",
+  "A boy at home plate getting ready to bat.",
+  "A child holding a baseball bat over his shoulder."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 344832000,
+   "question": "What is cast?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "shadow",
+   "answers": [
+    "sun",
+    "shadow",
+    "baseball player",
+    "shadow of boy",
+    "shadow",
+    "sunny",
+    "shadow",
+    "shadow",
+    "shadow",
+    "ball"
+   ]
+  },
+  {
+   "question_id": 344832001,
+   "question": "What team does this guy play for?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "mets",
+   "answers": [
+    "unknown",
+    "mets",
+    "home team",
+    "home team",
+    "green",
+    "little league",
+    "unsure",
+    "mets",
+    "marlins",
+    "mariners"
+   ]
+  },
+  {
+   "question_id": 344832002,
+   "question": "Is this person ready for the ball?",
+   "answer_type": "yes/no",
+   "question_type": "is this person",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes"
+   ]
+  }
+ ]
+}

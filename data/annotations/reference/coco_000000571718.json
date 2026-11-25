@@ -1,0 +1,374 @@
+{
+ "uid": "coco_000000571718",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "chair",
+  "dining table",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "banana": 14,
+  "chair": 13,
+  "dining table": 5
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    413.51,
+    4.21,
+    211.09,
+    415.43
+   ],
+   "area": 45698.399600000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    219.91,
+    11.87,
+    85.33,
+    60.9
+   ],
+   "area": 2470.9005
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    0.0,
+    265.32,
+    54.05,
+    21.6
+   ],
+   "area": 636.5473000000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    0.0,
+    234.73,
+    111.65,
+    53.0
+   ],
+   "area": 2801.609450000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    224.93,
+    159.79,
+    69.95,
+    70.34
+   ],
+   "area": 2233.552600000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    66.27,
+    253.71,
+    80.28,
+    47.74
+   ],
+   "area": 2668.8785500000004
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    295.55,
+    223.47,
+    27.0,
+    50.0
+   ],
+   "area": 506.39410000000044
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    262.89,
+    149.1,
+    79.1,
+    29.17
+   ],
+   "area": 813.6635500000008
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    197.83,
+    177.68,
+    46.68,
+    51.64
+   ],
+   "area": 1372.0433999999993
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    249.79,
+    229.67,
+    77.45,
+    73.91
+   ],
+   "area": 2351.863899999999
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    109.31,
+    204.56,
+    71.28,
+    81.83
+   ],
+   "area": 3246.9887999999996
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    204.92,
+    239.35,
+    61.05,
+    61.04
+   ],
+   "area": 2790.9154999999996
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    257.89,
+    168.13,
+    41.38,
+    41.38
+   ],
+   "area": 929.4983
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    33.63,
+    52.36,
+    57.61,
+    147.51
+   ],
+   "area": 5111.125349999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    33.58,
+    71.01,
+    161.21
+   ],
+   "area": 5108.247749999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    214.94,
+    61.41,
+    56.61,
+    52.78
+   ],
+   "area": 1940.7748500000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    346.48,
+    63.17,
+    42.36,
+    73.74
+   ],
+   "area": 1675.6951999999987
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    179.44,
+    48.94,
+    46.05,
+    58.53
+   ],
+   "area": 2085.9892500000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    381.56,
+    74.05,
+    44.44,
+    44.66
+   ],
+   "area": 1357.8948000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    450.09,
+    64.37,
+    47.14,
+    17.01
+   ],
+   "area": 506.52610000000027
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    296.51,
+    41.09,
+    38.86,
+    35.27
+   ],
+   "area": 917.2410000000004
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    182.93,
+    18.03,
+    44.54,
+    44.72
+   ],
+   "area": 1116.9937999999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    45.86,
+    22.0,
+    41.33,
+    37.75
+   ],
+   "area": 1129.1406000000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    127.18,
+    26.12,
+    44.37,
+    37.48
+   ],
+   "area": 830.8150000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    268.6,
+    61.13,
+    47.7,
+    36.67
+   ],
+   "area": 1056.1743999999992
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    16.38,
+    199.02,
+    89.97,
+    50.61
+   ],
+   "area": 3266.1936499999997
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    84.05,
+    85.38,
+    99.13,
+    17.36
+   ],
+   "area": 899.6071999999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    492.23,
+    105.31,
+    39.32,
+    48.47
+   ],
+   "area": 994.3739500000007
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    585.19,
+    212.59,
+    54.73,
+    171.5
+   ],
+   "area": 5725.721049999998
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    337.75,
+    255.95,
+    56.76,
+    38.76
+   ],
+   "area": 1496.4148500000006
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    310.27,
+    75.75,
+    45.11,
+    33.99
+   ],
+   "area": 1047.7717000000005
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    263.4,
+    89.69,
+    88.47,
+    31.94
+   ],
+   "area": 1236.3260499999994
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    424.37,
+    79.29,
+    73.84,
+    87.61
+   ],
+   "area": 2194.4096499999996
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    126,
+    139,
+    350,
+    215
+   ],
+   "area": 45451
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man standing in front of a fruit stand containing several bunches of bananas.",
+  "A man looks at a cart full of bananas.",
+  "A photograph where the only color is coming from the bananas on a stand.",
+  "Bananas being sold and a man looking at them.",
+  "A man with graying hair looks down at a stand full of yellow bananas."
+ ],
+ "scene_places": []
+}

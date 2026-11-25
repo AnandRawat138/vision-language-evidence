@@ -1,0 +1,229 @@
+{
+ "uid": "vqa_000000465566",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "person",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 2,
+  "person": 3,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    115.69,
+    175.33,
+    248.51,
+    274.96
+   ],
+   "area": 57204.849050000004
+  },
+  {
+   "category": "train",
+   "bbox": [
+    273.87,
+    127.57,
+    206.13,
+    234.95
+   ],
+   "area": 25468.988549999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    144.13,
+    130.29,
+    352.22
+   ],
+   "area": 26544.201399999994
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    78.52,
+    189.12,
+    10.46,
+    15.02
+   ],
+   "area": 99.64715000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.08,
+    173.34,
+    19.85,
+    45.99
+   ],
+   "area": 543.8554500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    21.0,
+    166.25,
+    13.06,
+    30.47
+   ],
+   "area": 292.30215
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A red train leaving a train station with man watching.",
+  "a train sits parked as a man takes a picture",
+  "A man standing along the tracks with a red train leaving.",
+  "VIEW OF A RED TRAIN GOING AWAY FROM YOU",
+  "A red train traveling down train tracks next to another train."
+ ],
+ "scene_places": [
+  "station"
+ ],
+ "vqa": [
+  {
+   "question_id": 465566000,
+   "question": "What color is the main body of both trains?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "red",
+   "answers": [
+    "red",
+    "red",
+    "red",
+    "red",
+    "red",
+    "red and white",
+    "red",
+    "red",
+    "red",
+    "red"
+   ]
+  },
+  {
+   "question_id": 465566001,
+   "question": "Is the train leaving?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 465566002,
+   "question": "Can one see snow?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 465566003,
+   "question": "What color is the train?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "red",
+   "answers": [
+    "red",
+    "red",
+    "red",
+    "red",
+    "red",
+    "red",
+    "red",
+    "red",
+    "red white and blue",
+    "red"
+   ]
+  },
+  {
+   "question_id": 465566004,
+   "question": "Where are the trains going?",
+   "answer_type": "other",
+   "question_type": "where are the",
+   "multiple_choice_answer": "away",
+   "answers": [
+    "away",
+    "away",
+    "chicago",
+    "downtown",
+    "station",
+    "london",
+    "next station",
+    "station",
+    "other town",
+    "east"
+   ]
+  },
+  {
+   "question_id": 465566005,
+   "question": "Did the man cross the yellow line?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 465566006,
+   "question": "Is the walkway perpendicular to the train?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

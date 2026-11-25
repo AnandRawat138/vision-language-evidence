@@ -1,0 +1,105 @@
+{
+ "uid": "coco_000000124277",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "train",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "train": 2,
+  "truck": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    431.74,
+    182.86,
+    16.62,
+    13.52
+   ],
+   "area": 194.28939999999983
+  },
+  {
+   "category": "train",
+   "bbox": [
+    299.41,
+    134.1,
+    311.3,
+    258.34
+   ],
+   "area": 16543.100400000007
+  },
+  {
+   "category": "car",
+   "bbox": [
+    506.38,
+    300.61,
+    22.81,
+    12.51
+   ],
+   "area": 179.34800000000018
+  },
+  {
+   "category": "train",
+   "bbox": [
+    266.06,
+    14.89,
+    34.66,
+    49.4
+   ],
+   "area": 1006.4024499999997
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    431.56,
+    182.52,
+    16.93,
+    15.79
+   ],
+   "area": 219.6043000000003
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    591.95,
+    299.88,
+    17.42,
+    19.19
+   ],
+   "area": 260.90409999999906
+  },
+  {
+   "category": "car",
+   "bbox": [
+    592.19,
+    300.9,
+    17.04,
+    18.88
+   ],
+   "area": 249.44034999999872
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A train that is going through a city.",
+  "A train riding along a group of train tracks.",
+  "A train turns on the tracks in a different direction.",
+  "A train that is going over a bridge overlooking the city.",
+  "An elevated subway train in a major city on a sunny day."
+ ],
+ "scene_places": [
+  "station",
+  "street"
+ ]
+}

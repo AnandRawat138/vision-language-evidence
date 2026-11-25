@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000094326",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bench": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bench",
+   "bbox": [
+    15.73,
+    222.47,
+    267.42,
+    160.68
+   ],
+   "area": 11350.3892
+  },
+  {
+   "category": "person",
+   "bbox": [
+    38.12,
+    131.91,
+    170.4,
+    301.57
+   ],
+   "area": 12833.117250000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white statue holding open a newspaper while sitting on a bench.",
+  "A person reading a paper on a park bench",
+  "The statue on the bench is reading a large newspaper.",
+  "A statue of a man reading on a park bench.",
+  "A sculpture of a man reading a newspaper sitting at a bench."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

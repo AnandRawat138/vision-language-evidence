@@ -1,0 +1,19 @@
+﻿{
+    "authors":  [
+                    "Yuan, Jiayi",
+                    "Li, Hao",
+                    "Ding, Xinheng",
+                    "Xie, Wenya",
+                    "Li, Yu-Jhe",
+                    "Zhao, Wentian",
+                    "Wan, Kun",
+                    "Shi, Jing",
+                    "Hu, Xia",
+                    "Liu, Zirui"
+                ],
+    "venue":  "Advances in Neural Information Processing Systems 38",
+    "year":  2025,
+    "volume":  null,
+    "page":  "188045-188077",
+    "title":  "Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference"
+}

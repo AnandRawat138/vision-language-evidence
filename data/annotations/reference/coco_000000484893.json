@@ -1,0 +1,100 @@
+{
+ "uid": "coco_000000484893",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sheep": 5,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "sheep",
+   "bbox": [
+    249.97,
+    118.53,
+    182.64,
+    187.25
+   ],
+   "area": 14494.94745
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    202.44,
+    2.54,
+    143.29,
+    150.68
+   ],
+   "area": 12312.286750000001
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    597.0,
+    144.75,
+    42.24,
+    176.34
+   ],
+   "area": 5671.277800000005
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    591.82,
+    15.23,
+    47.67,
+    110.57
+   ],
+   "area": 3792.0148999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.92,
+    107.56,
+    370.3,
+    315.47
+   ],
+   "area": 60956.33115000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    270.87,
+    240.51,
+    255.45,
+    182.19
+   ],
+   "area": 32267.32905
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    362.43,
+    1.0,
+    183.79,
+    139.93
+   ],
+   "area": 11029.841749999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of kids petting sheep inside of a corral",
+  "little kids in a barn petting a sheep in a stall",
+  "Several sheep are in a pen as some kids stand next to it while one boy has his hand on one of the sheep's head.",
+  "Two children petting sheep in a wooden pen with straw bedding.",
+  "Children reach over a short barrier to pet small sheep."
+ ],
+ "scene_places": []
+}

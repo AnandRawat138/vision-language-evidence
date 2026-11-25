@@ -1,0 +1,94 @@
+{
+ "uid": "coco_000000461751",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "car",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 1,
+  "motorcycle": 1,
+  "person": 3,
+  "backpack": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    3.84,
+    31.97,
+    636.16,
+    350.35
+   ],
+   "area": 119984.00740000003
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    1.28,
+    202.03,
+    638.72,
+    366.97
+   ],
+   "area": 53150.592599999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    47.97,
+    112.06,
+    291.83,
+    365.12
+   ],
+   "area": 49906.3325
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    1.24,
+    193.21,
+    166.41,
+    178.1
+   ],
+   "area": 11231.126150000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    268.52,
+    94.62,
+    207.14,
+    124.03
+   ],
+   "area": 12840.769599999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    464.34,
+    120.29,
+    175.66,
+    448.71
+   ],
+   "area": 48168.33635000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The man is riding his motorcycle while smoking a cigarette.",
+  "A man sitting on a motorcycle smoking a cigarette.",
+  "A man on a motorcycle driving beside a van.",
+  "A man is riding a motorcycle on a city street.",
+  "The man on the motorcycle pulled up beside the car."
+ ],
+ "scene_places": []
+}

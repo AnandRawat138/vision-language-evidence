@@ -1,0 +1,201 @@
+{
+ "uid": "flickr30k_7796487260",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shoes": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman performing a dance move in an empty swimming pool with nike shoes on her feet .",
+  "Beautiful woman in black doing a low twist like a 1980 's breakdancer .",
+  "A young woman does an acrobatic move on one hand , in an empty pool .",
+  "Girl performs gymnastic move in a drained pool .",
+  "A woman standing on one hand in an empty pool ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "275324",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "275325",
+   "types": [
+    "other"
+   ],
+   "phrase": "a dance move",
+   "start": 19,
+   "end": 31
+  },
+  {
+   "entity_id": "275326",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an empty swimming pool",
+   "start": 35,
+   "end": 57
+  },
+  {
+   "entity_id": "275331",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "nike shoes",
+   "start": 63,
+   "end": 73
+  },
+  {
+   "entity_id": "275331",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her feet",
+   "start": 77,
+   "end": 85
+  },
+  {
+   "entity_id": "275324",
+   "types": [
+    "people"
+   ],
+   "phrase": "Beautiful woman",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "275329",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black",
+   "start": 19,
+   "end": 24
+  },
+  {
+   "entity_id": "275325",
+   "types": [
+    "other"
+   ],
+   "phrase": "a low twist",
+   "start": 31,
+   "end": 42
+  },
+  {
+   "entity_id": "275328",
+   "types": [
+    "people"
+   ],
+   "phrase": "a 1980 's breakdancer",
+   "start": 48,
+   "end": 69
+  },
+  {
+   "entity_id": "275324",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "275325",
+   "types": [
+    "other"
+   ],
+   "phrase": "an acrobatic move",
+   "start": 19,
+   "end": 36
+  },
+  {
+   "entity_id": "275327",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "one hand",
+   "start": 40,
+   "end": 48
+  },
+  {
+   "entity_id": "275326",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an empty pool",
+   "start": 54,
+   "end": 67
+  },
+  {
+   "entity_id": "275324",
+   "types": [
+    "people"
+   ],
+   "phrase": "Girl",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "275324",
+   "types": [
+    "other"
+   ],
+   "phrase": "gymnastic move",
+   "start": 14,
+   "end": 28
+  },
+  {
+   "entity_id": "275326",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a drained pool",
+   "start": 32,
+   "end": 46
+  },
+  {
+   "entity_id": "275324",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "275327",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "one hand",
+   "start": 20,
+   "end": 28
+  },
+  {
+   "entity_id": "275326",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an empty pool",
+   "start": 32,
+   "end": 45
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

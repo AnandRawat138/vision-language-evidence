@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000446207",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    108.49,
+    282.43,
+    392.61,
+    187.3
+   ],
+   "area": 65212.089149999985
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A digital SLR camera next to a smart phone camera",
+  "An expensive camera sitting next to a smart phone.",
+  "A camera is placed next to a cellular phone.",
+  "A cell phone sits next to a black camera.",
+  "A Sony camera and a cell phone are on a table."
+ ],
+ "scene_places": []
+}

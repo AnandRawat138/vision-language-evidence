@@ -1,0 +1,40 @@
+{
+ "uid": "vg_2372473",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "car",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "black",
+   "gray",
+   "red"
+  ],
+  "hat": [
+   "black",
+   "green",
+   "red"
+  ],
+  "shoes": [
+   "brown"
+  ],
+  "pants": [
+   "black"
+  ]
+ },
+ "accessories": [
+  "scarf"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

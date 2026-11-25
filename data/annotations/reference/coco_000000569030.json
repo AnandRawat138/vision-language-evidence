@@ -1,0 +1,284 @@
+{
+ "uid": "coco_000000569030",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bench",
+  "car",
+  "fire hydrant",
+  "handbag",
+  "person",
+  "traffic light",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "fire hydrant": 1,
+  "person": 12,
+  "bench": 2,
+  "backpack": 1,
+  "traffic light": 3,
+  "truck": 2,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    426.26,
+    117.6,
+    51.69,
+    37.33
+   ],
+   "area": 1238.19405
+  },
+  {
+   "category": "fire hydrant",
+   "bbox": [
+    283.78,
+    178.82,
+    68.96,
+    142.31
+   ],
+   "area": 4889.810400000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    30.27,
+    59.66,
+    84.08,
+    75.67
+   ],
+   "area": 4183.695500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    330.91,
+    100.35,
+    15.21,
+    40.66
+   ],
+   "area": 378.5034499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    259.47,
+    96.74,
+    12.45,
+    48.21
+   ],
+   "area": 355.41380000000083
+  },
+  {
+   "category": "person",
+   "bbox": [
+    377.06,
+    96.25,
+    17.59,
+    50.31
+   ],
+   "area": 591.2573499999987
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    0.0,
+    165.17,
+    172.75,
+    158.43
+   ],
+   "area": 12754.241750000003
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    12.1,
+    133.3,
+    140.89,
+    32.51
+   ],
+   "area": 4186.54185
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    72.85,
+    96.92,
+    41.44,
+    37.83
+   ],
+   "area": 990.2634499999998
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    233.99,
+    51.81,
+    10.29,
+    14.58
+   ],
+   "area": 122.63999999999999
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    211.32,
+    14.35,
+    14.54,
+    18.07
+   ],
+   "area": 201.87850000000037
+  },
+  {
+   "category": "person",
+   "bbox": [
+    246.86,
+    94.62,
+    16.76,
+    47.42
+   ],
+   "area": 467.6167000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    296.91,
+    104.75,
+    8.64,
+    41.02
+   ],
+   "area": 265.46675000000045
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    0.62,
+    70.31,
+    116.27,
+    67.49
+   ],
+   "area": 3435.0589999999997
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    458.55,
+    114.39,
+    41.45,
+    119.61
+   ],
+   "area": 3248.565749999998
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    298.56,
+    36.67,
+    13.0,
+    34.23
+   ],
+   "area": 364.01154999999983
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    299.33,
+    110.82,
+    8.45,
+    8.79
+   ],
+   "area": 35.847999999999885
+  },
+  {
+   "category": "person",
+   "bbox": [
+    333.75,
+    93.49,
+    4.77,
+    12.11
+   ],
+   "area": 33.14909999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    356.02,
+    99.39,
+    10.22,
+    35.06
+   ],
+   "area": 243.95380000000029
+  },
+  {
+   "category": "person",
+   "bbox": [
+    471.86,
+    93.09,
+    14.83,
+    22.19
+   ],
+   "area": 205.75480000000042
+  },
+  {
+   "category": "person",
+   "bbox": [
+    216.05,
+    101.44,
+    15.22,
+    36.29
+   ],
+   "area": 246.8475000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    240.39,
+    99.92,
+    9.64,
+    20.08
+   ],
+   "area": 139.9288499999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    116.17,
+    109.65,
+    36.76,
+    17.64
+   ],
+   "area": 352.4463
+  },
+  {
+   "category": "person",
+   "bbox": [
+    282.14,
+    104.01,
+    13.55,
+    40.95
+   ],
+   "area": 366.5260500000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman is standing at a crosswalk at a traffic intersection.",
+  "Girl sitting on a bench next to a fire hydrant that is being used.",
+  "A city crosswalk has a leaky fire hydrant on the street.",
+  "a hose hooked up to a fire hydrant on a busy street",
+  "A fire hydrant in a city has a hose attached."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

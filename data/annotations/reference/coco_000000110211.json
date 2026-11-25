@@ -1,0 +1,78 @@
+{
+ "uid": "coco_000000110211",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 5
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    1.55,
+    132.1,
+    175.87,
+    194.47
+   ],
+   "area": 15216.041450000006
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    160.44,
+    132.61,
+    157.1,
+    134.18
+   ],
+   "area": 8169.009899999998
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    61.39,
+    149.39,
+    54.16,
+    34.41
+   ],
+   "area": 974.7857500000001
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    532.25,
+    179.66,
+    51.32,
+    68.75
+   ],
+   "area": 1596.9227500000006
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    543.33,
+    160.11,
+    81.1,
+    93.89
+   ],
+   "area": 3548.359000000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Zebras and rhinos out in the wild on a sunny day",
+  "A herd of zebra walking across a grass covered field.",
+  "Zebras with feral hogs in a wild habitat.",
+  "A large open area of land that has several zebra of different sizes and warthogs near them.",
+  "Zebras share a grassland with wild pigs in Africa."
+ ],
+ "scene_places": []
+}

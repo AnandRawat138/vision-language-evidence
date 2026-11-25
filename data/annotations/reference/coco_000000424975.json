@@ -1,0 +1,75 @@
+{
+ "uid": "coco_000000424975",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "stop sign"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "car": 1,
+  "stop sign": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    286.73,
+    300.78,
+    28.43,
+    71.65
+   ],
+   "area": 1477.6253000000008
+  },
+  {
+   "category": "car",
+   "bbox": [
+    545.05,
+    312.79,
+    29.27,
+    22.32
+   ],
+   "area": 389.8279500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    242.09,
+    304.15,
+    35.69,
+    92.49
+   ],
+   "area": 1989.5614500000013
+  },
+  {
+   "category": "stop sign",
+   "bbox": [
+    166.04,
+    209.34,
+    36.16,
+    47.38
+   ],
+   "area": 1365.2037500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A store covered in graffiti on a street corner.",
+  "A graffiti covered building with a woman walking past it.",
+  "a building with so many arts on it",
+  "A store on the corner of the street is covered i graffiti.",
+  "A building that has graffiti on it on the side and the front."
+ ],
+ "scene_places": [
+  "store",
+  "street"
+ ]
+}

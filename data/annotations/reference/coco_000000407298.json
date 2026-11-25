@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000407298",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "person": 1,
+  "baseball glove": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    369.14,
+    315.56,
+    88.58,
+    157.27
+   ],
+   "area": 9989.728900000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    0.0,
+    385.08,
+    480.0
+   ],
+   "area": 141022.57095
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    298.12,
+    119.25,
+    283.05,
+    360.53
+   ],
+   "area": 92792.44945
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A kid with a glove and a ball.",
+  "A young ball player poses with his baseball glove.",
+  "a boy with a baseball glove and ball",
+  "A happy little boy holding a baseball with a baseball glove.",
+  "A young boy wearing a catchers mitt holding a ball."
+ ],
+ "scene_places": []
+}

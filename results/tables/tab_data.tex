@@ -1,0 +1,18 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Benchmark composition (1,000 images after de-duplication). Per-image means of reference labels derived from original annotations; $^*$exhaustive over the 80 COCO classes. MP: mean megapixels.}
+\label{tab:data}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrrrl}
+\toprule
+Source & Images (dev/test) & Obj./img & Garm./img & Acc.+carr./img & Scene ref. & MP & Reference \\
+\midrule
+COCO 2017 val & 500 (150/350) & 3.15 & 0.00 & 0.00 & 0.48 & 0.27 & objects$^*$, captions \\
+VQA v2 val & 100 (30/70) & 2.85 & 0.00 & 0.00 & 0.38 & 0.28 & objects$^*$, captions, QA \\
+Visual Genome 1.2 & 250 (75/175) & 3.32 & 2.43 & 0.90 & 0.00 & 0.21 & objects, garments+colour \\
+Flickr30K (Entities test) & 150 (45/105) & 1.57 & 0.93 & 0.14 & 0.37 & 0.18 & phrases, garments+colour \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

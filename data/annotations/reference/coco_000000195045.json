@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000195045",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bench": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bench",
+   "bbox": [
+    422.82,
+    295.17,
+    50.52,
+    61.44
+   ],
+   "area": 1663.5683500000014
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    0.0,
+    268.64,
+    42.94,
+    30.61
+   ],
+   "area": 755.3201000000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A park filled with green grass and a tall leaf filled tree.",
+  "a bench under a tree in a park",
+  "An empty field with older structure in the background.",
+  "A picture of a little house and some grass.",
+  "A storage building located near a town park."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

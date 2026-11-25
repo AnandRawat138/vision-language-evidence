@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000006894",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "elephant",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "elephant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    293.39,
+    20.49,
+    346.61,
+    459.51
+   ],
+   "area": 97618.01770000001
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    0.0,
+    86.29,
+    638.56,
+    388.32
+   ],
+   "area": 131594.76034999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man getting a kiss on the neck from an elephant's trunk",
+  "A man being kiss by a baby elephant with it's trunk.",
+  "A man throws his head back as an elephant touches his face with its trunk.",
+  "An elephant using his truck to cuddle with a man.",
+  "A man is playing with an elephant in a field."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,179 @@
+{
+ "uid": "vqa_000000147586",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "dining table",
+  "donut"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cup": 1,
+  "donut": 3,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cup",
+   "bbox": [
+    347.54,
+    194.35,
+    203.92,
+    169.46
+   ],
+   "area": 24503.723849999995
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    111.31,
+    117.07,
+    167.92,
+    177.51
+   ],
+   "area": 22117.713750000006
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    221.66,
+    84.44,
+    139.13,
+    129.54
+   ],
+   "area": 11288.93535
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    101.71,
+    25.91,
+    144.89,
+    144.89
+   ],
+   "area": 11963.954650000001
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    1.05,
+    1.75,
+    638.4,
+    420.69
+   ],
+   "area": 265352.4748
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A pile of donuts sits beside a cup of coffee.",
+  "A plate of glazed doughnuts sit on a small saucer.",
+  "White frosted donuts on white plate with cappuccino in brown cup and saucer, on brown table top.",
+  "Several doughnuts are on a plate next to a cup of coffee.",
+  "A wooden table topped with a white plate of donuts and a cup of coffee."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 147586000,
+   "question": "How many donuts are there?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "4",
+   "answers": [
+    "3",
+    "3",
+    "4",
+    "4",
+    "3",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "question_id": 147586001,
+   "question": "What type of wood is the table?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "oak",
+   "answers": [
+    "pine",
+    "brown wood",
+    "red",
+    "oak",
+    "oak",
+    "cedar",
+    "oak",
+    "oak",
+    "maple",
+    "cherry"
+   ]
+  },
+  {
+   "question_id": 147586002,
+   "question": "How many donuts are in the photo?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "4",
+   "answers": [
+    "4",
+    "3",
+    "4",
+    "3",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "question_id": 147586003,
+   "question": "Is there an oven rack?",
+   "answer_type": "yes/no",
+   "question_type": "is there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 147586004,
+   "question": "During which time of the day would a person typically consume the foods here?",
+   "answer_type": "other",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "morning",
+   "answers": [
+    "breakfast",
+    "morning",
+    "morning",
+    "breakfast",
+    "morning",
+    "day time",
+    "breakfast",
+    "breakfast",
+    "morning",
+    "morning"
+   ]
+  }
+ ]
+}

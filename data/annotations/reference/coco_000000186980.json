@@ -1,0 +1,188 @@
+{
+ "uid": "coco_000000186980",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "chair",
+  "dining table",
+  "knife",
+  "microwave",
+  "oven",
+  "refrigerator",
+  "sink",
+  "spoon",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 2,
+  "dining table": 1,
+  "refrigerator": 1,
+  "bowl": 2,
+  "oven": 1,
+  "sink": 2,
+  "wine glass": 1,
+  "knife": 2,
+  "spoon": 1,
+  "microwave": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    45.42,
+    287.66,
+    196.82,
+    344.08
+   ],
+   "area": 40114.03805000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    233.23,
+    262.85,
+    124.95,
+    256.83
+   ],
+   "area": 8773.193050000002
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    15.02,
+    305.88,
+    398.13,
+    323.0
+   ],
+   "area": 45586.01945
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    17.18,
+    144.81,
+    140.31,
+    217.63
+   ],
+   "area": 20042.159450000003
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    162.59,
+    342.69,
+    43.37,
+    24.81
+   ],
+   "area": 846.8919000000002
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    272.29,
+    315.0,
+    33.08,
+    17.26
+   ],
+   "area": 424.95919999999967
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    430.6,
+    260.51,
+    26.4,
+    192.23
+   ],
+   "area": 3880.271199999998
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    195.97,
+    249.39,
+    75.96,
+    12.55
+   ],
+   "area": 586.0033999999999
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    285.26,
+    251.26,
+    50.16,
+    16.0
+   ],
+   "area": 570.7529999999998
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    224.0,
+    306.71,
+    19.04,
+    59.69
+   ],
+   "area": 707.7266500000002
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    197.21,
+    367.12,
+    37.88,
+    16.87
+   ],
+   "area": 220.05820000000034
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    218.32,
+    366.2,
+    30.68,
+    19.15
+   ],
+   "area": 136.24890000000008
+  },
+  {
+   "category": "microwave",
+   "bbox": [
+    406.54,
+    212.98,
+    50.46,
+    52.08
+   ],
+   "area": 2449.8311999999996
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    296.47,
+    327.55,
+    46.9,
+    19.43
+   ],
+   "area": 175.84029999999873
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A wooden table with two chairs next to a sink.",
+  "A table and chairs in a small kitchen.",
+  "a wooden dinette table and two chairs with place settings",
+  "A very pretty kitchen with a small wooden dining table.",
+  "A table sitting in a kitchen area with a fridge"
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "uid": "flickr30k_2949337912",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A surfer rides out the green and white waves .",
+  "A surfer is riding on a breaking wave .",
+  "A man surfing on a big green wave .",
+  "A person is surfing a big wave .",
+  "A surfer rides a green wave ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "83490",
+   "types": [
+    "people"
+   ],
+   "phrase": "A surfer",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "83491",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the green and white waves",
+   "start": 19,
+   "end": 44
+  },
+  {
+   "entity_id": "83490",
+   "types": [
+    "people"
+   ],
+   "phrase": "A surfer",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "83491",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a breaking wave",
+   "start": 22,
+   "end": 37
+  },
+  {
+   "entity_id": "83490",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "83491",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a big green wave",
+   "start": 17,
+   "end": 33
+  },
+  {
+   "entity_id": "83490",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "83491",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a big wave",
+   "start": 20,
+   "end": 30
+  },
+  {
+   "entity_id": "83490",
+   "types": [
+    "people"
+   ],
+   "phrase": "A surfer",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "83491",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a green wave",
+   "start": 15,
+   "end": 27
+  }
+ ],
+ "scene_places": []
+}

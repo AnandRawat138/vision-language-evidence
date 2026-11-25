@@ -1,0 +1,47 @@
+{
+ "uid": "vg_2315676",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird",
+  "car",
+  "cell phone",
+  "chair",
+  "person",
+  "tie",
+  "train",
+  "truck"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "suit": [],
+  "shoes": [
+   "black"
+  ],
+  "jacket": [
+   "black"
+  ],
+  "pants": [
+   "beige",
+   "brown",
+   "gray"
+  ],
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [
+  "belt",
+  "glasses",
+  "tie"
+ ],
+ "carried": [
+  "phone"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

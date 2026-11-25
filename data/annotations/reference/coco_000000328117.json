@@ -1,0 +1,138 @@
+{
+ "uid": "coco_000000328117",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "donut"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "donut": 11
+ },
+ "object_boxes": [
+  {
+   "category": "donut",
+   "bbox": [
+    316.07,
+    327.74,
+    71.03,
+    68.93
+   ],
+   "area": 3698.8346500000007
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    244.5,
+    300.81,
+    75.26,
+    58.7
+   ],
+   "area": 3364.0523500000018
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    85.3,
+    293.48,
+    80.2,
+    70.11
+   ],
+   "area": 3730.1461499999987
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    172.72,
+    454.8,
+    88.55,
+    100.77
+   ],
+   "area": 6657.81425
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    329.61,
+    452.82,
+    101.88,
+    97.84
+   ],
+   "area": 7542.000599999998
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    242.68,
+    495.9,
+    103.32,
+    88.09
+   ],
+   "area": 7156.182300000001
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    238.88,
+    426.43,
+    83.8,
+    73.8
+   ],
+   "area": 4766.455500000002
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    239.04,
+    361.52,
+    94.79,
+    72.36
+   ],
+   "area": 4401.2113
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    181.78,
+    277.56,
+    70.67,
+    49.09
+   ],
+   "area": 2633.532399999999
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    120.75,
+    285.77,
+    61.62,
+    49.01
+   ],
+   "area": 1489.3201000000004
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    147.76,
+    394.17,
+    83.47,
+    86.1
+   ],
+   "area": 4002.5127000000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A metal tray filled with fried donuts and metal tongs.",
+  "A container of Indian fried pastries and tongs",
+  "Donuts in a staging area with a pair of tongs near them.",
+  "THERE ARE FRIED DOUGHNUTS IN A PAN TO BUY",
+  "A bunch of doughnuts in a silver pan with serving tongs."
+ ],
+ "scene_places": []
+}

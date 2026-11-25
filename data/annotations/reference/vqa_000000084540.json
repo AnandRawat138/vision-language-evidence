@@ -1,0 +1,223 @@
+{
+ "uid": "vqa_000000084540",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bicycle",
+  "bottle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 2,
+  "person": 3,
+  "backpack": 2,
+  "bottle": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    376.82,
+    266.78,
+    230.25,
+    168.48
+   ],
+   "area": 17004.83305
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    203.05,
+    209.41,
+    110.57,
+    72.63
+   ],
+   "area": 3884.617250000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    430.27,
+    175.68,
+    142.7,
+    241.08
+   ],
+   "area": 11350.033
+  },
+  {
+   "category": "person",
+   "bbox": [
+    234.41,
+    162.41,
+    65.48,
+    112.64
+   ],
+   "area": 2534.88615
+  },
+  {
+   "category": "person",
+   "bbox": [
+    153.49,
+    164.34,
+    36.18,
+    57.63
+   ],
+   "area": 679.3330999999997
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    264.81,
+    171.45,
+    29.79,
+    20.66
+   ],
+   "area": 330.25960000000094
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    551.19,
+    220.04,
+    56.09,
+    64.72
+   ],
+   "area": 2342.2380500000017
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    251.09,
+    234.11,
+    13.23,
+    15.83
+   ],
+   "area": 83.19759999999977
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    482.99,
+    333.65,
+    34.49,
+    29.99
+   ],
+   "area": 350.8791000000014
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two people on bicycles riding next to a building.",
+  "Two people on bikes crossing an intersection.",
+  "A couple of people with backpacks riding bicycles down a road.",
+  "two people riding bicycles and a man walking on the sidewalk",
+  "Some people riding bikes down a wide empty street."
+ ],
+ "scene_places": [
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 84540000,
+   "question": "Is it safe to carry an umbrella and ride a bike?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 84540001,
+   "question": "Is one bicycle rider ahead of the other?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 84540002,
+   "question": "What hand is the person using to guide their bike?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "both",
+   "answers": [
+    "both hands",
+    "both hands",
+    "right",
+    "both",
+    "both",
+    "both",
+    "both",
+    "both hands",
+    "both",
+    "right"
+   ]
+  },
+  {
+   "question_id": 84540003,
+   "question": "Are the bikers riding at the same speed?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 84540004,
+   "question": "What are on the bikers' heads?",
+   "answer_type": "other",
+   "question_type": "what are",
+   "multiple_choice_answer": "helmets",
+   "answers": [
+    "helmets",
+    "helmets",
+    "helmets",
+    "helmet",
+    "helmets",
+    "helmets",
+    "helmets",
+    "helmets",
+    "helmets",
+    "helmets"
+   ]
+  }
+ ]
+}

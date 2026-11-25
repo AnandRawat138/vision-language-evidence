@@ -1,0 +1,222 @@
+{
+ "uid": "flickr30k_6901412",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young bearded man in a casual black shirt sits at the cluttered dining table of a restaurant while holding a pair of tongs before his tongue .",
+  "a guy , with a lot of drinks in front of him , trying to be brave , what ever he is trying to do .",
+  "A man with a beard is sitting with drinks in front of him holding a pair of tongs .",
+  "A man with a beard holds a pair of tongs at a restaurant table .",
+  "A man licking a small pair of ice tongs ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "260856",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young bearded man",
+   "start": 0,
+   "end": 19
+  },
+  {
+   "entity_id": "260862",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a casual black shirt",
+   "start": 23,
+   "end": 43
+  },
+  {
+   "entity_id": "260860",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the cluttered dining table of a restaurant",
+   "start": 52,
+   "end": 94
+  },
+  {
+   "entity_id": "260859",
+   "types": [
+    "other"
+   ],
+   "phrase": "a pair of tongs",
+   "start": 109,
+   "end": 124
+  },
+  {
+   "entity_id": "260861",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his tongue",
+   "start": 132,
+   "end": 142
+  },
+  {
+   "entity_id": "260856",
+   "types": [
+    "people"
+   ],
+   "phrase": "a guy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "260858",
+   "types": [
+    "other"
+   ],
+   "phrase": "a lot of drinks",
+   "start": 13,
+   "end": 28
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 41,
+   "end": 44
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "what",
+   "start": 68,
+   "end": 72
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "he",
+   "start": 78,
+   "end": 80
+  },
+  {
+   "entity_id": "260856",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "260857",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a beard",
+   "start": 11,
+   "end": 18
+  },
+  {
+   "entity_id": "260858",
+   "types": [
+    "other"
+   ],
+   "phrase": "drinks",
+   "start": 35,
+   "end": 41
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 54,
+   "end": 57
+  },
+  {
+   "entity_id": "260859",
+   "types": [
+    "other"
+   ],
+   "phrase": "a pair of tongs",
+   "start": 66,
+   "end": 81
+  },
+  {
+   "entity_id": "260856",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "260857",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a beard",
+   "start": 11,
+   "end": 18
+  },
+  {
+   "entity_id": "260859",
+   "types": [
+    "other"
+   ],
+   "phrase": "a pair of tongs",
+   "start": 25,
+   "end": 40
+  },
+  {
+   "entity_id": "260860",
+   "types": [
+    "other"
+   ],
+   "phrase": "a restaurant table",
+   "start": 44,
+   "end": 62
+  },
+  {
+   "entity_id": "260856",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "260859",
+   "types": [
+    "other"
+   ],
+   "phrase": "a small pair of ice tongs",
+   "start": 14,
+   "end": 39
+  }
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

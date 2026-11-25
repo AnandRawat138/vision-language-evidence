@@ -1,0 +1,98 @@
+{
+ "uid": "coco_000000368900",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bird",
+  "chair",
+  "refrigerator",
+  "tv",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "refrigerator": 1,
+  "bird": 1,
+  "umbrella": 1,
+  "backpack": 1,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    465.19,
+    225.78,
+    166.91,
+    146.17
+   ],
+   "area": 22939.919350000004
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    332.55,
+    120.93,
+    100.01,
+    93.43
+   ],
+   "area": 5438.902100000001
+  },
+  {
+   "category": "bird",
+   "bbox": [
+    248.11,
+    116.28,
+    38.54,
+    45.0
+   ],
+   "area": 934.4309500000003
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    180.94,
+    199.86,
+    15.08,
+    32.29
+   ],
+   "area": 249.35660000000007
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    128.19,
+    266.65,
+    37.11,
+    60.54
+   ],
+   "area": 1631.3629500000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    355.23,
+    287.54,
+    98.87,
+    185.7
+   ],
+   "area": 7296.266800000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cluttered room filled with a tv and a kitchen.",
+  "a room with a television set  a stool and some pictures",
+  "A small apartment has many belongings in it",
+  "The front room of an apartment with the basics.",
+  "A TV sits in a room with many other things."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000459634",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 2,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    315.12,
+    327.01,
+    324.88,
+    203.9
+   ],
+   "area": 55328.608550000004
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    94.22,
+    300.25,
+    14.32,
+    22.52
+   ],
+   "area": 213.78730000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    93.37,
+    296.14,
+    14.83,
+    22.7
+   ],
+   "area": 76.63705000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "People are riding on motorcycles on a scenic road.",
+  "A motor bike going down a city road.",
+  "The motorcycle riders travel on the mountain highway.",
+  "A back end of a vehicle with a metal rack and an antennae.",
+  "The view of a motorcycle going down a road."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

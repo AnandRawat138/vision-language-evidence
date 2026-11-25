@@ -1,0 +1,124 @@
+{
+ "uid": "coco_000000509131",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "apple",
+  "banana",
+  "orange",
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 1,
+  "banana": 4,
+  "apple": 3,
+  "orange": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    2.87,
+    9.39,
+    243.53,
+    394.44
+   ],
+   "area": 39979.73090000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    385.25,
+    149.78,
+    39.66,
+    130.16
+   ],
+   "area": 3716.01455
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    421.0,
+    167.0,
+    33.0,
+    118.0
+   ],
+   "area": 2521.0
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    426.0,
+    147.69,
+    55.0,
+    109.0
+   ],
+   "area": 2287.5
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    279.78,
+    315.94,
+    74.8,
+    67.01
+   ],
+   "area": 3752.4401000000003
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    229.0,
+    306.0,
+    61.0,
+    69.0
+   ],
+   "area": 3232.0
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    326.93,
+    289.39,
+    74.96,
+    74.7
+   ],
+   "area": 3378.7316500000006
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    371.52,
+    160.45,
+    25.78,
+    106.97
+   ],
+   "area": 1025.5769000000014
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    164.48,
+    338.9,
+    264.94,
+    77.27
+   ],
+   "area": 12738.935700000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bunch of mini bananas are hanging above a bowl of apples and oranges.",
+  "Apples and oranges and a tree with bananas in front of potted plants.",
+  "a group of bananas are resting on a stand",
+  "The over ripe bananas are hanging from a stand.",
+  "A table topped with apples, oranges and bananas."
+ ],
+ "scene_places": []
+}

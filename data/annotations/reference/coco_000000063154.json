@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000063154",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "surfboard": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "surfboard",
+   "bbox": [
+    243.87,
+    195.28,
+    106.12,
+    29.75
+   ],
+   "area": 1399.7396499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    252.3,
+    137.12,
+    138.04,
+    79.44
+   ],
+   "area": 2630.11935
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A surfer is riding a wave in light blue water.",
+  "A surfer paddling on a board to go catch a wave.",
+  "A surfer paddles over a wave in clear blue water.",
+  "A man laying flat on a surfboard paddling through the water",
+  "a person lying on a surfboard in the ocean."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

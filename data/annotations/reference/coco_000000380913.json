@@ -1,0 +1,172 @@
+{
+ "uid": "coco_000000380913",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 5,
+  "person": 6,
+  "handbag": 3
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    166.3,
+    253.18,
+    21.31,
+    9.31
+   ],
+   "area": 142.4056000000001
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    66.16,
+    208.25,
+    18.64,
+    17.29
+   ],
+   "area": 159.8465
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    440.86,
+    297.84,
+    42.87,
+    17.32
+   ],
+   "area": 359.7053500000007
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    291.66,
+    198.62,
+    305.49,
+    90.41
+   ],
+   "area": 198.80364999999904
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    291.74,
+    200.08,
+    3.34,
+    7.04
+   ],
+   "area": 14.232699999999909
+  },
+  {
+   "category": "person",
+   "bbox": [
+    256.8,
+    168.38,
+    118.3,
+    252.95
+   ],
+   "area": 21398.5318
+  },
+  {
+   "category": "person",
+   "bbox": [
+    376.06,
+    158.4,
+    159.66,
+    261.61
+   ],
+   "area": 28712.599950000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    116.38,
+    168.31,
+    144.27,
+    253.92
+   ],
+   "area": 21580.221849999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.71,
+    151.05,
+    159.98,
+    276.66
+   ],
+   "area": 22171.89335
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.4,
+    148.16,
+    43.33,
+    189.89
+   ],
+   "area": 4552.533200000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    521.29,
+    191.24,
+    118.71,
+    232.75
+   ],
+   "area": 14739.890500000001
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    265.02,
+    306.89,
+    93.53,
+    31.37
+   ],
+   "area": 2257.8502499999995
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    117.76,
+    279.59,
+    132.4,
+    58.23
+   ],
+   "area": 4110.97165
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    522.26,
+    304.17,
+    105.79,
+    40.39
+   ],
+   "area": 3596.1196999999966
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "SIX PEOPLE ON A BUS, WITH FIVE OF THEM ON THEIR ELECTRONICS",
+  "A group of people using their telephones on a subway car.",
+  "a close up of people sitting on a public transit train",
+  "Five people sitting on a subway checking their phones",
+  "A group of friends riding a subway while using cell phones."
+ ],
+ "scene_places": []
+}

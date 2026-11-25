@@ -1,0 +1,334 @@
+{
+ "uid": "vqa_000000185559",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cake",
+  "cell phone",
+  "cup",
+  "dining table",
+  "knife",
+  "person",
+  "potted plant",
+  "tie",
+  "vase",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 1,
+  "cell phone": 1,
+  "cup": 1,
+  "knife": 1,
+  "cake": 1,
+  "person": 10,
+  "tie": 3,
+  "potted plant": 1,
+  "wine glass": 1,
+  "vase": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    56.26,
+    296.64,
+    319.5,
+    130.36
+   ],
+   "area": 22243.463349999998
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    66.99,
+    13.13,
+    14.89,
+    21.83
+   ],
+   "area": 257.227
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    202.09,
+    88.73,
+    17.99,
+    24.11
+   ],
+   "area": 124.93069999999993
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    242.07,
+    341.47,
+    26.88,
+    13.44
+   ],
+   "area": 141.757350000001
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    135.04,
+    284.05,
+    108.25,
+    98.75
+   ],
+   "area": 8113.46175
+  },
+  {
+   "category": "person",
+   "bbox": [
+    262.21,
+    4.81,
+    360.85,
+    422.19
+   ],
+   "area": 64238.21289999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    146.81,
+    12.47,
+    103.63,
+    291.71
+   ],
+   "area": 16853.019749999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    150.94,
+    0.0,
+    156.47,
+    319.74
+   ],
+   "area": 17386.125100000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    47.98,
+    21.11,
+    124.74,
+    297.46
+   ],
+   "area": 20377.315099999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    503.52,
+    19.88,
+    113.32,
+    235.7
+   ],
+   "area": 11557.626950000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.35,
+    61.1,
+    93.56,
+    262.25
+   ],
+   "area": 10211.840100000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    255.24,
+    4.8,
+    181.36,
+    422.2
+   ],
+   "area": 38315.3603
+  },
+  {
+   "category": "person",
+   "bbox": [
+    41.73,
+    58.76,
+    16.72,
+    52.91
+   ],
+   "area": 586.0095500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    582.63,
+    31.77,
+    57.37,
+    193.45
+   ],
+   "area": 6427.583500000007
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    531.32,
+    70.94,
+    16.54,
+    85.15
+   ],
+   "area": 834.7440999999994
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    258.08,
+    46.69,
+    12.36,
+    41.81
+   ],
+   "area": 273.3094500000003
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    1.02,
+    224.04,
+    109.43,
+    187.89
+   ],
+   "area": 13299.985600000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    454.22,
+    31.97,
+    49.61,
+    73.85
+   ],
+   "area": 1344.3608000000004
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    355.77,
+    112.89,
+    30.91,
+    66.09
+   ],
+   "area": 779.4835000000007
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    274.09,
+    101.04,
+    14.14,
+    42.01
+   ],
+   "area": 145.86415
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    0.0,
+    322.75,
+    112.02,
+    104.25
+   ],
+   "area": 6744.298150000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bride and groom are cutting their wedding cake.",
+  "A bride and groom cut the cake on their wedding day.",
+  "A bride and groom cutting their cake while guests look on.",
+  "A bride and groom cutting their wedding cake.",
+  "A newly married couple cutting a cake together."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 185559000,
+   "question": "Which function is this?",
+   "answer_type": "other",
+   "question_type": "which",
+   "multiple_choice_answer": "wedding",
+   "answers": [
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "wedding",
+    "cutting cake",
+    "wedding",
+    "wedding"
+   ]
+  },
+  {
+   "question_id": 185559001,
+   "question": "What color is the bride's hair?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "black",
+   "answers": [
+    "black and blue",
+    "black",
+    "black and blue",
+    "black and blue",
+    "black",
+    "black",
+    "black and blue",
+    "black",
+    "black",
+    "black purple and blue"
+   ]
+  },
+  {
+   "question_id": 185559002,
+   "question": "What color are the stars on the cake?",
+   "answer_type": "other",
+   "question_type": "what color are the",
+   "multiple_choice_answer": "purple",
+   "answers": [
+    "purple",
+    "blue",
+    "purple",
+    "purple",
+    "blue",
+    "purple",
+    "purple",
+    "purple",
+    "purple",
+    "purple"
+   ]
+  },
+  {
+   "question_id": 185559003,
+   "question": "Is the wedding cake small?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000569700",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "potted plant",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "vase": 1,
+  "potted plant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "vase",
+   "bbox": [
+    197.7,
+    226.69,
+    82.0,
+    109.58
+   ],
+   "area": 8460.610299999998
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    7.03,
+    23.95,
+    428.99,
+    314.18
+   ],
+   "area": 61335.41915
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a green vase with some flowers and greenery",
+  "A vase sitting next to a mirror filled with flowers",
+  "This is a still life, slightly blurry, with a tea kettle and a floral arrangement.",
+  "A vase with roses and carnations in it by a mirror.",
+  "Flowers sit in a vase beside a tea pot."
+ ],
+ "scene_places": []
+}

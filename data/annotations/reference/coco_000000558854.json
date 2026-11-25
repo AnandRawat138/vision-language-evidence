@@ -1,0 +1,108 @@
+{
+ "uid": "coco_000000558854",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "cup",
+  "dining table",
+  "person",
+  "sandwich",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 1,
+  "person": 1,
+  "cup": 1,
+  "spoon": 1,
+  "bowl": 1,
+  "sandwich": 2
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    10.59,
+    500.0,
+    362.65
+   ],
+   "area": 164720.71600000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    105.34,
+    1.74,
+    260.39,
+    42.98
+   ],
+   "area": 7025.099399999998
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    356.46,
+    11.8,
+    133.99,
+    188.76
+   ],
+   "area": 17778.807750000004
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    1.39,
+    138.11,
+    79.45,
+    52.53
+   ],
+   "area": 1147.0994999999998
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    5.91,
+    143.16,
+    225.51,
+    168.92
+   ],
+   "area": 27915.794000000005
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    218.2,
+    19.44,
+    91.57,
+    69.58
+   ],
+   "area": 4662.6064499999975
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    233.56,
+    188.66,
+    171.22,
+    138.65
+   ],
+   "area": 18691.03445
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A table with sandwiches, chili, french fries, and a drink.",
+  "A variety of food on a table with a few drinks.",
+  "A table with food and a drink on it",
+  "A table topped with a sandwich, chili beans and a container of fries.",
+  "One person is eating chilli and a grilled cheese and the other is having a sandwich and fries."
+ ],
+ "scene_places": []
+}

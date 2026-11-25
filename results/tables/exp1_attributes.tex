@@ -1,0 +1,20 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Clothing, accessory and scene extraction on the test split. Clothing/accessory references come from Visual Genome and Flickr30K Entities ($n=280$ images) and are not exhaustive, so precision is a lower bound. Scene hit rate: predicted place among places named by $\geq2$ human captions.}
+\label{tab:exp1_attributes}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lcccccc}
+\toprule
+Method & Cloth. P & Cloth. R & Cloth. F1 & Colour acc. (n) & Access. F1 & Scene hit \\
+\midrule
+B1 BLIP caption & 0.750 [0.571, 0.909] & 0.033 [0.019, 0.049] & 0.063 [0.037, 0.092] & -- (0) & 0.073 & 0.661 \\
+B2 CLIP zero-shot & 0.187 [0.168, 0.206] & 0.570 [0.520, 0.622] & 0.281 [0.257, 0.305] & -- (0) & 0.134 & 0.000 \\
+B3 VLM free-form caption & 0.662 [0.597, 0.727] & 0.292 [0.251, 0.335] & 0.406 [0.358, 0.451] & -- (0) & 0.355 & 0.795 \\
+B5 structured VLM (no selection) & 0.541 [0.487, 0.596] & 0.412 [0.376, 0.450] & 0.468 [0.429, 0.506] & 0.828 (174) & 0.434 & 0.754 \\
+B6 framework (struct + calibrated selection) & 0.547 [0.494, 0.602] & 0.393 [0.356, 0.433] & 0.458 [0.418, 0.497] & 0.826 (167) & 0.434 & 0.754 \\
+B6-HP framework, high-precision mode & 0.547 [0.494, 0.602] & 0.393 [0.356, 0.433] & 0.458 [0.418, 0.497] & 0.826 (167) & 0.434 & 0.754 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

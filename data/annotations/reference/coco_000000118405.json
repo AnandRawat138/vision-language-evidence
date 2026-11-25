@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000118405",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bowl": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bowl",
+   "bbox": [
+    290.14,
+    352.37,
+    21.48,
+    18.54
+   ],
+   "area": 321.19600000000037
+  },
+  {
+   "category": "person",
+   "bbox": [
+    547.83,
+    360.53,
+    24.94,
+    66.86
+   ],
+   "area": 846.3438999999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A blue and white street sign that reads \"Othello.\"",
+  "A sign that is in front of a business.",
+  "a street sign on a metal pole next to a street.",
+  "Othello sign in front of a restaurant on a street.",
+  "a sign showing a place beside the road"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

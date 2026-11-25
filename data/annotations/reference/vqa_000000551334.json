@@ -1,0 +1,165 @@
+{
+ "uid": "vqa_000000551334",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "cup",
+  "person",
+  "remote",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 2,
+  "chair": 2,
+  "person": 1,
+  "cup": 1,
+  "remote": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    396.94,
+    101.39,
+    187.69,
+    152.09
+   ],
+   "area": 22377.331899999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.48,
+    210.37,
+    92.28,
+    63.97
+   ],
+   "area": 4359.103049999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    221.19,
+    219.24,
+    37.07,
+    32.48
+   ],
+   "area": 675.2670499999998
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    1.72,
+    73.98,
+    267.51,
+    174.36
+   ],
+   "area": 38047.0955
+  },
+  {
+   "category": "person",
+   "bbox": [
+    222.97,
+    124.27,
+    125.36,
+    132.4
+   ],
+   "area": 8545.718600000004
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    290.5,
+    243.13,
+    29.47,
+    13.59
+   ],
+   "area": 363.80890000000056
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    346.97,
+    246.62,
+    51.92,
+    8.6
+   ],
+   "area": 214.09114999999983
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "the person is sitting at a desk  with a television behind him",
+  "A person sitting at a table in a room.",
+  "A man who is sitting at a table.",
+  "A man in a news room sits in front of a camera.",
+  "A man sitting a desk in front of a TV."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 551334000,
+   "question": "What color is the carpet?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "gray",
+    "blue",
+    "teal",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue"
+   ]
+  },
+  {
+   "question_id": 551334001,
+   "question": "What is the man doing with his hand?",
+   "answer_type": "other",
+   "question_type": "what is the man",
+   "multiple_choice_answer": "waving",
+   "answers": [
+    "peace sign",
+    "talking",
+    "waving",
+    "saluting",
+    "swatting bug",
+    "moving it",
+    "tv station",
+    "gesturing",
+    "gesturing",
+    "waving"
+   ]
+  },
+  {
+   "question_id": 551334002,
+   "question": "What kind of a show is this man doing?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "news",
+   "answers": [
+    "talk show",
+    "news",
+    "news",
+    "morning",
+    "news",
+    "talk show",
+    "tv",
+    "news",
+    "tv",
+    "technology"
+   ]
+  }
+ ]
+}

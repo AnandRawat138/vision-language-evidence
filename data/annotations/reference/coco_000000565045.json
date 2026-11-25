@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000565045",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "orange": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    259.42,
+    356.67,
+    73.58,
+    141.83
+   ],
+   "area": 6647.197349999998
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    265.17,
+    436.99,
+    20.32,
+    23.44
+   ],
+   "area": 373.7967
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Blue bathroom with two white towels hanging by the shower.",
+  "A shower stall with bath robes hanging on the wall.",
+  "Two towels are hanging on the wall beside a shower door.",
+  "A child next to a standing shower in a blue bathroom.",
+  "A shower in a person's bathroom in their home."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

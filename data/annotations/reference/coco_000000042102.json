@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000042102",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "handbag",
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "handbag": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    123.36,
+    119.0,
+    13.06,
+    142.22
+   ],
+   "area": 1026.898149999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    10.59,
+    376.39,
+    50.35,
+    187.76
+   ],
+   "area": 5315.2519
+  },
+  {
+   "category": "person",
+   "bbox": [
+    20.13,
+    6.66,
+    220.17,
+    621.83
+   ],
+   "area": 70895.23215000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A young man is dressed in a school skirt outfit.",
+  "The man in the picture is wearing a stylish kilt.",
+  "A young man that is wearing a nice suite coat with a skirt and a purse.",
+  "a man dressed as a woman stands on a red carpet",
+  "A man wearing a skirt and stockings like a woman."
+ ],
+ "scene_places": []
+}

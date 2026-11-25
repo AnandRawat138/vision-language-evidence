@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000474854",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana",
+  "chair",
+  "dining table",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 1,
+  "dining table": 1,
+  "person": 1,
+  "banana": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    38.37,
+    338.7,
+    41.12,
+    143.89
+   ],
+   "area": 1835.1838000000014
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    3.01,
+    537.7,
+    418.64,
+    94.87
+   ],
+   "area": 33503.787850000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    15.86,
+    124.68,
+    351.71,
+    443.97
+   ],
+   "area": 92616.39310000003
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    193.9,
+    280.5,
+    83.51,
+    159.35
+   ],
+   "area": 4961.35125
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person eating a banana sitting at a table",
+  "A man sitting down with his mouth full holding a partially eaten banana.",
+  "a man sitting in a chair and eating a donut outside near some shrubbery.",
+  "A man eating a banana and smiling at the camera",
+  "A boy is sitting and eating a banana while smiling."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,199 @@
+{
+ "uid": "flickr30k_81125088",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "truck"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shoes": [],
+  "shirt": [
+   "red"
+  ],
+  "pants": [],
+  "suit": [
+   "red"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A very young child dressed entirely in red squats in the back of a truck with a good amount of debris in it .",
+  "A kid wearing a red outfit and sandals in the bed of a dirty pickup truck .",
+  "A child wearing red shirt and pants is kneeling in the back of a vehicle .",
+  "A little black boy in a red suit picking at trash .",
+  "A little boy smiles while playing in the dirt ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "279175",
+   "types": [
+    "people"
+   ],
+   "phrase": "A very young child",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "279179",
+   "types": [
+    "other"
+   ],
+   "phrase": "red squats",
+   "start": 39,
+   "end": 49
+  },
+  {
+   "entity_id": "279180",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "the back of a truck",
+   "start": 53,
+   "end": 72
+  },
+  {
+   "entity_id": "279178",
+   "types": [
+    "other"
+   ],
+   "phrase": "a good amount of debris",
+   "start": 78,
+   "end": 101
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 105,
+   "end": 107
+  },
+  {
+   "entity_id": "279175",
+   "types": [
+    "people"
+   ],
+   "phrase": "A kid",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "279179",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red outfit",
+   "start": 14,
+   "end": 26
+  },
+  {
+   "entity_id": "279184",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sandals",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "entity_id": "279177",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "the bed of a dirty pickup truck",
+   "start": 42,
+   "end": 73
+  },
+  {
+   "entity_id": "279175",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "279182",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red shirt",
+   "start": 16,
+   "end": 25
+  },
+  {
+   "entity_id": "279181",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "pants",
+   "start": 30,
+   "end": 35
+  },
+  {
+   "entity_id": "279180",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "the back of a vehicle",
+   "start": 51,
+   "end": 72
+  },
+  {
+   "entity_id": "279175",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little black boy",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "279179",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a red suit",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "279176",
+   "types": [
+    "other"
+   ],
+   "phrase": "trash",
+   "start": 44,
+   "end": 49
+  },
+  {
+   "entity_id": "279175",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "279185",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the dirt",
+   "start": 37,
+   "end": 45
+  }
+ ],
+ "scene_places": []
+}

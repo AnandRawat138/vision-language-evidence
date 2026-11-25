@@ -1,0 +1,194 @@
+{
+ "uid": "flickr30k_4812155149",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "gray"
+  ],
+  "pants": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young man in a gray and white shirt and jeans is balancing while walking on the side of a grassy area on a street .",
+  "Three young youths outside sitting on a cement bench very distant from each other .",
+  "Two people are sitting around a tree and one man is posing by the tree .",
+  "A guy in jeans jumping and doing a trick in front of a building .",
+  "Man walks on edge of planter ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "205715",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "205724",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray and white shirt",
+   "start": 15,
+   "end": 37
+  },
+  {
+   "entity_id": "205720",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "jeans",
+   "start": 42,
+   "end": 47
+  },
+  {
+   "entity_id": "205728",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the side of a grassy area",
+   "start": 78,
+   "end": 103
+  },
+  {
+   "entity_id": "205725",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street",
+   "start": 107,
+   "end": 115
+  },
+  {
+   "entity_id": "205716",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three young youths",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "205723",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cement bench",
+   "start": 38,
+   "end": 52
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "each other",
+   "start": 71,
+   "end": 81
+  },
+  {
+   "entity_id": "205716",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "205726",
+   "types": [
+    "other"
+   ],
+   "phrase": "a tree",
+   "start": 30,
+   "end": 36
+  },
+  {
+   "entity_id": "205715",
+   "types": [
+    "people"
+   ],
+   "phrase": "one man",
+   "start": 41,
+   "end": 48
+  },
+  {
+   "entity_id": "205726",
+   "types": [
+    "other"
+   ],
+   "phrase": "the tree",
+   "start": 62,
+   "end": 70
+  },
+  {
+   "entity_id": "205715",
+   "types": [
+    "people"
+   ],
+   "phrase": "A guy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "205720",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "jeans",
+   "start": 9,
+   "end": 14
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 33,
+   "end": 40
+  },
+  {
+   "entity_id": "205722",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a building",
+   "start": 53,
+   "end": 63
+  },
+  {
+   "entity_id": "205715",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "205719",
+   "types": [
+    "other"
+   ],
+   "phrase": "edge of planter",
+   "start": 13,
+   "end": 28
+  }
+ ],
+ "scene_places": []
+}

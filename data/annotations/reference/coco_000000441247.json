@@ -1,0 +1,296 @@
+{
+ "uid": "coco_000000441247",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "banana",
+  "bottle",
+  "chair",
+  "clock",
+  "couch",
+  "dining table",
+  "handbag",
+  "microwave",
+  "orange",
+  "oven",
+  "person",
+  "refrigerator",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 4,
+  "couch": 2,
+  "person": 2,
+  "dining table": 2,
+  "refrigerator": 1,
+  "clock": 1,
+  "microwave": 1,
+  "orange": 2,
+  "vase": 3,
+  "backpack": 1,
+  "handbag": 1,
+  "oven": 2,
+  "bottle": 1,
+  "banana": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    221.7,
+    220.73,
+    79.65,
+    127.0
+   ],
+   "area": 5890.582150000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    290.65,
+    202.01,
+    53.58,
+    125.34
+   ],
+   "area": 2056.4459500000007
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    25.64,
+    283.66,
+    198.72,
+    134.62
+   ],
+   "area": 19001.758950000003
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    526.12,
+    189.66,
+    113.88,
+    228.87
+   ],
+   "area": 17141.205699999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    245.86,
+    163.37,
+    45.09,
+    67.19
+   ],
+   "area": 1766.3076
+  },
+  {
+   "category": "person",
+   "bbox": [
+    335.58,
+    184.59,
+    52.12,
+    83.75
+   ],
+   "area": 2604.12075
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    54.83,
+    222.6,
+    254.32,
+    121.51
+   ],
+   "area": 7979.081449999999
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    387.65,
+    122.06,
+    46.07,
+    147.99
+   ],
+   "area": 2524.546450000002
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    34.99,
+    150.6,
+    19.35,
+    27.12
+   ],
+   "area": 408.74925000000013
+  },
+  {
+   "category": "microwave",
+   "bbox": [
+    128.69,
+    179.65,
+    34.73,
+    33.59
+   ],
+   "area": 796.97505
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    155.47,
+    228.98,
+    6.76,
+    6.56
+   ],
+   "area": 33.95844999999994
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    162.63,
+    231.62,
+    4.5,
+    2.82
+   ],
+   "area": 11.333250000000014
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    82.32,
+    157.78,
+    13.05,
+    17.89
+   ],
+   "area": 141.17915000000005
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    92.11,
+    201.76,
+    11.96,
+    17.52
+   ],
+   "area": 118.94070000000005
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    88.7,
+    184.52,
+    8.24,
+    13.17
+   ],
+   "area": 71.58254999999997
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    468.38,
+    353.31,
+    93.29,
+    68.59
+   ],
+   "area": 4527.327249999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    444.31,
+    231.43,
+    53.18,
+    44.78
+   ],
+   "area": 1728.1643999999992
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    529.15,
+    186.2,
+    110.85,
+    237.8
+   ],
+   "area": 18201.040950000006
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    21.89,
+    284.14,
+    202.44,
+    139.86
+   ],
+   "area": 19652.46369999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    366.66,
+    71.81,
+    56.97
+   ],
+   "area": 2443.2255500000015
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    332.26,
+    205.65,
+    28.59,
+    55.45
+   ],
+   "area": 901.33195
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    130.42,
+    180.76,
+    29.72,
+    33.52
+   ],
+   "area": 686.7220500000003
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    287.18,
+    205.93,
+    13.98,
+    23.94
+   ],
+   "area": 214.89435
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    109.98,
+    247.56,
+    12.84,
+    14.02
+   ],
+   "area": 103.38959999999992
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman standing in a kitchen next to a table.",
+  "The woman is working at the kitchen counter.",
+  "A couple is preparing food in their white kitchen",
+  "a woman in a blue dress some black chairs and another person looking in an oven",
+  "Man and woman in the kitchen of a white house."
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "uid": "coco_000000490515",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "snowboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "backpack": 1,
+  "snowboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    190.34,
+    117.02,
+    321.19,
+    187.95
+   ],
+   "area": 15610.303149999994
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    225.08,
+    145.23,
+    47.99,
+    73.39
+   ],
+   "area": 1721.2017999999994
+  },
+  {
+   "category": "snowboard",
+   "bbox": [
+    488.44,
+    216.85,
+    23.0,
+    90.5
+   ],
+   "area": 737.8750000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person riding a snow board falling to the ground",
+  "A man is falling on his back while snowboarding.",
+  "Snow boarder sliding down the hill after falling in the snow",
+  "The skier falls down into the snow while skiing.",
+  "A man riding a snowboard on a snow covered slope."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

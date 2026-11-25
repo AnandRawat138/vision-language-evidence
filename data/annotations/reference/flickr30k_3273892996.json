@@ -1,0 +1,206 @@
+{
+ "uid": "flickr30k_3273892996",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two men are handing an item from one to the other over large piles of freshly picked vegetables while the older of the two men speaks to a third man who is facing them .",
+  "Three men stand together with two pairs of scales beside large heaps of fresh vegetables .",
+  "Men are standing around produce at an open market .",
+  "A man sells tropical fruit to two other men .",
+  "Two indians people trading their goods ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "106119",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "106122",
+   "types": [
+    "other"
+   ],
+   "phrase": "an item",
+   "start": 20,
+   "end": 27
+  },
+  {
+   "entity_id": "106124",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 33,
+   "end": 36
+  },
+  {
+   "entity_id": "106119",
+   "types": [
+    "other"
+   ],
+   "phrase": "the other",
+   "start": 40,
+   "end": 49
+  },
+  {
+   "entity_id": "106120",
+   "types": [
+    "other"
+   ],
+   "phrase": "large piles of freshly picked vegetables",
+   "start": 55,
+   "end": 95
+  },
+  {
+   "entity_id": "106119",
+   "types": [
+    "people"
+   ],
+   "phrase": "the older of the two men",
+   "start": 102,
+   "end": 126
+  },
+  {
+   "entity_id": "106123",
+   "types": [
+    "people"
+   ],
+   "phrase": "a third man",
+   "start": 137,
+   "end": 148
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "who",
+   "start": 149,
+   "end": 152
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "them",
+   "start": 163,
+   "end": 167
+  },
+  {
+   "entity_id": "106118",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "106127",
+   "types": [
+    "other"
+   ],
+   "phrase": "two pairs of scales",
+   "start": 30,
+   "end": 49
+  },
+  {
+   "entity_id": "106120",
+   "types": [
+    "other"
+   ],
+   "phrase": "large heaps of fresh vegetables",
+   "start": 57,
+   "end": 88
+  },
+  {
+   "entity_id": "106118",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "106120",
+   "types": [
+    "other"
+   ],
+   "phrase": "produce",
+   "start": 24,
+   "end": 31
+  },
+  {
+   "entity_id": "106128",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an open market",
+   "start": 35,
+   "end": 49
+  },
+  {
+   "entity_id": "106121",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "106120",
+   "types": [
+    "other"
+   ],
+   "phrase": "tropical fruit",
+   "start": 12,
+   "end": 26
+  },
+  {
+   "entity_id": "106126",
+   "types": [
+    "people"
+   ],
+   "phrase": "two other men",
+   "start": 30,
+   "end": 43
+  },
+  {
+   "entity_id": "106119",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two indians people",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "106120",
+   "types": [
+    "other"
+   ],
+   "phrase": "their goods",
+   "start": 27,
+   "end": 38
+  }
+ ],
+ "scene_places": []
+}

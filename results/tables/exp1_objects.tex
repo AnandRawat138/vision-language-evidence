@@ -1,0 +1,20 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Object extraction on the test split (COCO and VQA~v2 images, exhaustive COCO-80 references; $n=420$ images). 95\% bootstrap CIs in brackets.}
+\label{tab:exp1_objects}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lccccc}
+\toprule
+Method & Precision & Recall & Micro-F1 & Macro-F1 & CHAIR$_i$ \\
+\midrule
+B1 BLIP caption & 0.911 [0.889, 0.932] & 0.401 [0.375, 0.429] & 0.557 [0.530, 0.585] & 0.445 & 0.089 [0.068, 0.111] \\
+B2 CLIP zero-shot & 0.424 [0.385, 0.465] & 0.381 [0.353, 0.412] & 0.401 [0.378, 0.425] & 0.407 & 0.576 [0.535, 0.615] \\
+B3 VLM free-form caption & 0.875 [0.852, 0.897] & 0.566 [0.537, 0.596] & 0.687 [0.664, 0.710] & 0.646 & 0.125 [0.103, 0.148] \\
+B5 structured VLM (no selection) & 0.911 [0.888, 0.932] & 0.398 [0.374, 0.422] & 0.554 [0.529, 0.578] & 0.646 & 0.089 [0.068, 0.112] \\
+B6 framework (struct + calibrated selection) & 0.915 [0.893, 0.937] & 0.397 [0.374, 0.421] & 0.554 [0.529, 0.578] & 0.645 & 0.085 [0.063, 0.107] \\
+B6-HP framework, high-precision mode & 0.916 [0.894, 0.938] & 0.394 [0.370, 0.418] & 0.551 [0.526, 0.576] & 0.643 & 0.084 [0.062, 0.106] \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

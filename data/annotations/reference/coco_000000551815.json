@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000551815",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "cat"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 2,
+  "bed": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    256.0,
+    128.0,
+    384.0,
+    224.0
+   ],
+   "area": 51492.370549999985
+  },
+  {
+   "category": "cat",
+   "bbox": [
+    20.98,
+    115.84,
+    618.68,
+    364.16
+   ],
+   "area": 102345.1563
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    0.47,
+    150.05,
+    138.17,
+    329.95
+   ],
+   "area": 31399.024649999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An orange cat laying on a white and brown cat in a bed.",
+  "Two cats lay together on a blanket.",
+  "Two cats rest on each other to take a nap.",
+  "Two cats cuddle next to each other on a flowery blanket.",
+  "A white and gray cat and an orange tabby cat snuggle on a blanket."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,128 @@
+{
+ "uid": "vqa_000000329011",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    0.0,
+    55.16,
+    417.1,
+    418.07
+   ],
+   "area": 135605.38795000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    32.26,
+    0.56,
+    607.74,
+    474.01
+   ],
+   "area": 71527.92935
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A dog being washed in a tub, with a sad look on its face.",
+  "A person washing a dog in a bathtub.",
+  "A dog is getting a bath in a tub.",
+  "a sad looking dog getting a bath in a sink",
+  "A wet dog being giving a bath by it's owners."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 329011000,
+   "question": "Is this dog's face a solid color?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 329011001,
+   "question": "Where is the dog?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "bathtub",
+   "answers": [
+    "bathtub",
+    "tub",
+    "in bath",
+    "bathtub",
+    "bathtub",
+    "in tub",
+    "in bath",
+    "bathtub",
+    "bathtub",
+    "in bathtub"
+   ]
+  },
+  {
+   "question_id": 329011002,
+   "question": "Did this dog have a bath?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 329011003,
+   "question": "How many fingers can you see?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "4",
+   "answers": [
+    "3",
+    "4",
+    "4",
+    "5",
+    "5",
+    "4",
+    "4",
+    "4",
+    "5",
+    "4"
+   ]
+  }
+ ]
+}

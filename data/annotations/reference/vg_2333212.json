@@ -1,0 +1,29 @@
+{
+ "uid": "vg_2333212",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "blue"
+  ],
+  "shorts": [
+   "green"
+  ],
+  "shoes": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

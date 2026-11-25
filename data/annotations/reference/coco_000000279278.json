@@ -1,0 +1,270 @@
+{
+ "uid": "coco_000000279278",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "cup",
+  "dog",
+  "handbag",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 7,
+  "bicycle": 11,
+  "skateboard": 1,
+  "cup": 1,
+  "handbag": 2
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    506.13,
+    157.73,
+    72.8,
+    81.47
+   ],
+   "area": 3278.3082000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    157.49,
+    1.45,
+    132.37,
+    288.9
+   ],
+   "area": 20885.644749999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    344.69,
+    0.0,
+    136.17,
+    321.43
+   ],
+   "area": 24112.561599999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    235.75,
+    1.45,
+    78.67,
+    244.48
+   ],
+   "area": 10938.4769
+  },
+  {
+   "category": "person",
+   "bbox": [
+    140.12,
+    12.57,
+    45.11,
+    190.99
+   ],
+   "area": 4380.2069
+  },
+  {
+   "category": "person",
+   "bbox": [
+    564.58,
+    17.19,
+    75.42,
+    405.76
+   ],
+   "area": 13859.117700000004
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    463.66,
+    58.45,
+    61.1,
+    92.85
+   ],
+   "area": 3053.1863
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    108.94,
+    35.91,
+    39.52,
+    118.58
+   ],
+   "area": 1502.6996000000004
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    1.78,
+    81.08,
+    45.13,
+    79.46
+   ],
+   "area": 2198.1219499999997
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    0.0,
+    89.62,
+    16.82,
+    81.14
+   ],
+   "area": 709.8044499999997
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    0.0,
+    10.82,
+    107.41,
+    89.68
+   ],
+   "area": 4502.234900000001
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    262.19,
+    173.16,
+    113.92,
+    117.68
+   ],
+   "area": 3596.293599999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    531.52,
+    0.18,
+    56.16,
+    64.67
+   ],
+   "area": 3087.5564999999992
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    455.67,
+    64.31,
+    24.75,
+    58.75
+   ],
+   "area": 1009.4327500000003
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    282.99,
+    56.37,
+    26.17,
+    69.64
+   ],
+   "area": 532.0159500000016
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    483.11,
+    23.67,
+    120.78,
+    121.75
+   ],
+   "area": 6072.291849999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    288.1,
+    0.45,
+    61.75,
+    182.44
+   ],
+   "area": 5940.529600000001
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    334.76,
+    48.96,
+    30.44,
+    108.75
+   ],
+   "area": 1550.1815999999985
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    502.41,
+    25.0,
+    137.33,
+    124.67
+   ],
+   "area": 5396.948599999999
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    1.01,
+    258.41,
+    278.6,
+    164.53
+   ],
+   "area": 13635.464850000002
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    116.51,
+    40.42,
+    31.94,
+    54.05
+   ],
+   "area": 918.2420499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    90.02,
+    0.0,
+    46.08,
+    80.5
+   ],
+   "area": 1044.9440000000002
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    15,
+    5,
+    113,
+    152
+   ],
+   "area": 8042
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person riding a skate board on a city street",
+  "People standing on the street by parked bicycles with a skateboard",
+  "Man in a crowd of people with a skateboard.",
+  "Three people stand on the street talking next to a dog.",
+  "The man is riding his skateboard down the street."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "uid": "coco_000000571893",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "clock",
+  "oven",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "book": 14,
+  "vase": 2,
+  "oven": 1,
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "book",
+   "bbox": [
+    333.2,
+    150.97,
+    12.94,
+    82.84
+   ],
+   "area": 931.2802999999989
+  },
+  {
+   "category": "book",
+   "bbox": [
+    412.58,
+    167.73,
+    40.48,
+    67.48
+   ],
+   "area": 742.2212000000018
+  },
+  {
+   "category": "book",
+   "bbox": [
+    310.23,
+    154.13,
+    15.88,
+    80.7
+   ],
+   "area": 1064.5698000000011
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    441.13,
+    187.01,
+    34.03,
+    50.69
+   ],
+   "area": 1313.0650500000008
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    465.29,
+    185.07,
+    15.47,
+    40.49
+   ],
+   "area": 218.9403000000006
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    2.89,
+    124.31,
+    319.31,
+    160.62
+   ],
+   "area": 20920.061749999997
+  },
+  {
+   "category": "book",
+   "bbox": [
+    401.34,
+    160.88,
+    26.75,
+    75.35
+   ],
+   "area": 637.0244999999994
+  },
+  {
+   "category": "book",
+   "bbox": [
+    394.1,
+    161.15,
+    25.48,
+    75.52
+   ],
+   "area": 599.469299999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    378.36,
+    155.86,
+    29.83,
+    79.54
+   ],
+   "area": 1294.6616500000002
+  },
+  {
+   "category": "book",
+   "bbox": [
+    325.3,
+    153.83,
+    8.18,
+    80.98
+   ],
+   "area": 587.3515999999983
+  },
+  {
+   "category": "book",
+   "bbox": [
+    344.35,
+    151.96,
+    21.32,
+    83.13
+   ],
+   "area": 1579.7118500000004
+  },
+  {
+   "category": "book",
+   "bbox": [
+    278.52,
+    124.6,
+    12.6,
+    108.73
+   ],
+   "area": 1150.7807000000016
+  },
+  {
+   "category": "book",
+   "bbox": [
+    291.52,
+    133.3,
+    12.14,
+    100.06
+   ],
+   "area": 928.4384000000015
+  },
+  {
+   "category": "book",
+   "bbox": [
+    299.64,
+    141.28,
+    28.92,
+    94.02
+   ],
+   "area": 1102.3177999999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    361.95,
+    159.41,
+    25.81,
+    76.24
+   ],
+   "area": 1355.6911999999995
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    0.0,
+    141.2,
+    15.92,
+    15.5
+   ],
+   "area": 149.7750000000001
+  },
+  {
+   "category": "book",
+   "bbox": [
+    297.6,
+    284.97,
+    12.09,
+    89.4
+   ],
+   "area": 1004.2309999999982
+  },
+  {
+   "category": "book",
+   "bbox": [
+    270,
+    167,
+    177,
+    225
+   ],
+   "area": 10572
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A kitchen with a teapot on the stove and books on a shelf.",
+  "A book filled windowsill in between a kitchen and dining room.",
+  "A kitchen countertop and some books on a shelf.",
+  "A stove and some books in a kitchen.",
+  "It is all  kinds of books on the book selves."
+ ],
+ "scene_places": [
+  "kitchen"
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "uid": "vqa_000000098194",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "dog"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 2,
+  "car": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    208.52,
+    194.37,
+    160.65,
+    141.35
+   ],
+   "area": 12501.345449999995
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    483.11,
+    206.63,
+    92.67,
+    132.49
+   ],
+   "area": 7447.387899999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    36.17,
+    44.9,
+    534.5,
+    281.32
+   ],
+   "area": 85622.69865
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two black and white dogs in front of an abandoned truck in a wooden area.",
+  "A couple of dogs standing outside of a wrecked car.",
+  "two dogs near a heap of junk with trees in the background",
+  "Two dogs in the show looking at a junked car.",
+  "Two dogs standing in front of debris in the snow."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 98194000,
+   "question": "What is the dog standing on?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "snow",
+   "answers": [
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow",
+    "snow"
+   ]
+  },
+  {
+   "question_id": 98194001,
+   "question": "How many dogs are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 98194002,
+   "question": "Is this dog protecting junk?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

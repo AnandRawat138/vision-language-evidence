@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000237316",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sink",
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sink": 1,
+  "toilet": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sink",
+   "bbox": [
+    166.67,
+    243.81,
+    95.72,
+    45.04
+   ],
+   "area": 3283.6051499999994
+  },
+  {
+   "category": "toilet",
+   "bbox": [
+    62.66,
+    260.22,
+    100.16,
+    220.18
+   ],
+   "area": 14087.481849999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The tiny white bathroom has a toilet and pedestal sink.",
+  "A small bathroom still has all of the necessary amenities.",
+  "The lid is up on a toilet viewed through the open door of a bathroom.",
+  "A bathroom that has a window by the toilet and sink.",
+  "A white small bathroom showing the toilet bowl and sink with beige tiles."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

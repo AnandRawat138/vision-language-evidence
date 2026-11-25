@@ -1,0 +1,179 @@
+{
+ "uid": "flickr30k_1016887272",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Several climbers in a row are climbing the rock while the man in red watches and holds the line .",
+  "Seven climbers are ascending a rock face whilst another man stands holding the rope .",
+  "A group of people are rock climbing on a rock climbing wall .",
+  "A group of people climbing a rock while one man belays",
+  "A collage of one person climbing a cliff ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "547",
+   "types": [
+    "people"
+   ],
+   "phrase": "Several climbers",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "554",
+   "types": [
+    "other"
+   ],
+   "phrase": "a row",
+   "start": 20,
+   "end": 25
+  },
+  {
+   "entity_id": "548",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rock",
+   "start": 39,
+   "end": 47
+  },
+  {
+   "entity_id": "549",
+   "types": [
+    "people"
+   ],
+   "phrase": "the man",
+   "start": 54,
+   "end": 61
+  },
+  {
+   "entity_id": "550",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red",
+   "start": 65,
+   "end": 68
+  },
+  {
+   "entity_id": "551",
+   "types": [
+    "other"
+   ],
+   "phrase": "the line",
+   "start": 87,
+   "end": 95
+  },
+  {
+   "entity_id": "547",
+   "types": [
+    "people"
+   ],
+   "phrase": "Seven climbers",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "548",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a rock face",
+   "start": 29,
+   "end": 40
+  },
+  {
+   "entity_id": "549",
+   "types": [
+    "people"
+   ],
+   "phrase": "another man",
+   "start": 48,
+   "end": 59
+  },
+  {
+   "entity_id": "551",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rope",
+   "start": 75,
+   "end": 83
+  },
+  {
+   "entity_id": "547",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "548",
+   "types": [
+    "other"
+   ],
+   "phrase": "a rock climbing wall",
+   "start": 39,
+   "end": 59
+  },
+  {
+   "entity_id": "547",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "548",
+   "types": [
+    "other"
+   ],
+   "phrase": "a rock",
+   "start": 27,
+   "end": 33
+  },
+  {
+   "entity_id": "549",
+   "types": [
+    "people"
+   ],
+   "phrase": "one man",
+   "start": 40,
+   "end": 47
+  },
+  {
+   "entity_id": "547",
+   "types": [
+    "people"
+   ],
+   "phrase": "A collage of one person",
+   "start": 0,
+   "end": 23
+  },
+  {
+   "entity_id": "548",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a cliff",
+   "start": 33,
+   "end": 40
+  }
+ ],
+ "scene_places": []
+}

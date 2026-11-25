@@ -1,0 +1,386 @@
+{
+ "uid": "coco_000000458325",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "skateboard",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "traffic light": 8,
+  "person": 12,
+  "skateboard": 1,
+  "car": 14
+ },
+ "object_boxes": [
+  {
+   "category": "traffic light",
+   "bbox": [
+    342.37,
+    62.26,
+    10.93,
+    26.46
+   ],
+   "area": 237.4781499999998
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    152.26,
+    69.15,
+    11.52,
+    24.37
+   ],
+   "area": 237.85925000000023
+  },
+  {
+   "category": "person",
+   "bbox": [
+    296.28,
+    154.73,
+    73.58,
+    199.54
+   ],
+   "area": 7185.532499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    271.92,
+    180.76,
+    27.23,
+    56.23
+   ],
+   "area": 615.1408000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    203.98,
+    178.63,
+    26.27,
+    60.79
+   ],
+   "area": 609.5271500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    258.02,
+    182.84,
+    15.09,
+    54.91
+   ],
+   "area": 508.2916499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    237.67,
+    185.38,
+    20.72,
+    45.29
+   ],
+   "area": 318.92045000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    481.1,
+    183.21,
+    9.65,
+    8.79
+   ],
+   "area": 65.27445000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    414.61,
+    184.3,
+    11.58,
+    13.12
+   ],
+   "area": 78.20760000000001
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    309.84,
+    328.86,
+    28.7,
+    20.55
+   ],
+   "area": 371.90770000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    271.7,
+    200.61,
+    17.99,
+    35.18
+   ],
+   "area": 148.07534999999967
+  },
+  {
+   "category": "person",
+   "bbox": [
+    585.55,
+    174.63,
+    28.72,
+    26.54
+   ],
+   "area": 389.88234999999946
+  },
+  {
+   "category": "car",
+   "bbox": [
+    550.48,
+    205.43,
+    89.52,
+    185.07
+   ],
+   "area": 11152.381549999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    485.02,
+    197.77,
+    154.91,
+    145.81
+   ],
+   "area": 10324.835650000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    208.38,
+    71.65,
+    214.96
+   ],
+   "area": 10291.38365
+  },
+  {
+   "category": "car",
+   "bbox": [
+    448.22,
+    183.68,
+    136.37,
+    127.3
+   ],
+   "area": 5809.0190999999995
+  },
+  {
+   "category": "car",
+   "bbox": [
+    424.21,
+    192.83,
+    60.98,
+    96.06
+   ],
+   "area": 2315.5613000000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    379.21,
+    198.45,
+    43.78,
+    67.13
+   ],
+   "area": 1845.0822500000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    165.97,
+    189.95,
+    166.38
+   ],
+   "area": 14074.191300000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    4.02,
+    211.99,
+    130.61,
+    182.86
+   ],
+   "area": 12360.696999999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    408.48,
+    189.1,
+    72.24,
+    85.52
+   ],
+   "area": 1808.4418499999992
+  },
+  {
+   "category": "car",
+   "bbox": [
+    356.73,
+    196.32,
+    67.8,
+    60.3
+   ],
+   "area": 1319.3272000000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    120.25,
+    163.86,
+    46.95,
+    48.93
+   ],
+   "area": 394.0105999999993
+  },
+  {
+   "category": "car",
+   "bbox": [
+    352.65,
+    184.64,
+    68.83,
+    26.53
+   ],
+   "area": 758.7238500000007
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    249.64,
+    164.51,
+    4.19,
+    6.19
+   ],
+   "area": 21.559900000000027
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    162.12,
+    69.41,
+    11.35,
+    23.95
+   ],
+   "area": 180.65889999999987
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    242.07,
+    177.42,
+    1.83,
+    4.33
+   ],
+   "area": 6.0032500000000395
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    288.3,
+    142.42,
+    4.0,
+    10.52
+   ],
+   "area": 34.45370000000026
+  },
+  {
+   "category": "person",
+   "bbox": [
+    434.61,
+    177.66,
+    10.67,
+    12.23
+   ],
+   "area": 91.23924999999991
+  },
+  {
+   "category": "car",
+   "bbox": [
+    149.43,
+    180.39,
+    43.43,
+    79.41
+   ],
+   "area": 814.5247000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    220.76,
+    180.89,
+    9.08,
+    24.22
+   ],
+   "area": 141.55045000000018
+  },
+  {
+   "category": "person",
+   "bbox": [
+    221.48,
+    191.71,
+    14.64,
+    41.31
+   ],
+   "area": 294.9743000000001
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    249.62,
+    166.09,
+    4.52,
+    9.26
+   ],
+   "area": 32.95289999999994
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    356.64,
+    63.4,
+    13.33,
+    24.75
+   ],
+   "area": 254.92855000000048
+  },
+  {
+   "category": "car",
+   "bbox": [
+    163,
+    171,
+    196,
+    77
+   ],
+   "area": 4537
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person on a skateboard rides down the road.",
+  "A man on his skateboard is riding between the parked cars.",
+  "A man in blue shirt on skateboard next to cars.",
+  "A man riding a skateboard down a street next to parked cars.",
+  "A person on a skateboard on a street."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

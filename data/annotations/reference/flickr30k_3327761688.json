@@ -1,0 +1,194 @@
+{
+ "uid": "flickr30k_3327761688",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "yellow"
+  ],
+  "pants": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "An expensive car is parked in what looks like a car-wash with a man standing at the open passenger door side .",
+  "Man in yellow shirt and jeans watching his BMW coming out of a car wash .",
+  "Man in yellow shirt waiting for his car to be washed .",
+  "A driver parks his BMW in the garage .",
+  "A man is standing next to a BMW ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "109678",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "An expensive car",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "what",
+   "start": 30,
+   "end": 34
+  },
+  {
+   "entity_id": "109680",
+   "types": [
+    "other"
+   ],
+   "phrase": "a car-wash",
+   "start": 46,
+   "end": 56
+  },
+  {
+   "entity_id": "109673",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 62,
+   "end": 67
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the open passenger door side",
+   "start": 80,
+   "end": 108
+  },
+  {
+   "entity_id": "109674",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "109681",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "yellow shirt",
+   "start": 7,
+   "end": 19
+  },
+  {
+   "entity_id": "109675",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "jeans",
+   "start": 24,
+   "end": 29
+  },
+  {
+   "entity_id": "109678",
+   "types": [
+    "other"
+   ],
+   "phrase": "his BMW",
+   "start": 39,
+   "end": 46
+  },
+  {
+   "entity_id": "109680",
+   "types": [
+    "other"
+   ],
+   "phrase": "a car wash",
+   "start": 61,
+   "end": 71
+  },
+  {
+   "entity_id": "109674",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "109681",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "yellow shirt",
+   "start": 7,
+   "end": 19
+  },
+  {
+   "entity_id": "109678",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "his car",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "109673",
+   "types": [
+    "people"
+   ],
+   "phrase": "A driver",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "109678",
+   "types": [
+    "other"
+   ],
+   "phrase": "his BMW",
+   "start": 15,
+   "end": 22
+  },
+  {
+   "entity_id": "109677",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the garage",
+   "start": 26,
+   "end": 36
+  },
+  {
+   "entity_id": "109673",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "109678",
+   "types": [
+    "other"
+   ],
+   "phrase": "a BMW",
+   "start": 26,
+   "end": 31
+  }
+ ],
+ "scene_places": []
+}

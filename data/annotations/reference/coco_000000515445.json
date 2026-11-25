@@ -1,0 +1,103 @@
+{
+ "uid": "coco_000000515445",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 5,
+  "surfboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    247.75,
+    375.57,
+    23.82,
+    60.98
+   ],
+   "area": 604.8690999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    482.24,
+    380.96,
+    27.55,
+    51.43
+   ],
+   "area": 538.9274499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    520.95,
+    372.45,
+    29.25,
+    61.5
+   ],
+   "area": 797.7177999999998
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    510.91,
+    372.77,
+    16.77,
+    58.67
+   ],
+   "area": 737.5418999999991
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    238.93,
+    391.01,
+    27.87,
+    20.96
+   ],
+   "area": 341.4619500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    549.78,
+    373.26,
+    19.55,
+    61.79
+   ],
+   "area": 684.5978999999988
+  },
+  {
+   "category": "person",
+   "bbox": [
+    408.58,
+    301.09,
+    11.5,
+    8.35
+   ],
+   "area": 47.002899999999954
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people walking on top of a beach.",
+  "The people have surfboards and are on the beach.",
+  "Surboarders are in the water and waiting on the shore.",
+  "Surfers stand with surfboards on a beach for the early morning sunrise.",
+  "Beach full of surfers inside and outside of the water."
+ ],
+ "scene_places": [
+  "beach",
+  "water"
+ ]
+}

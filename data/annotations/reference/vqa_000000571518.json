@@ -1,0 +1,275 @@
+{
+ "uid": "vqa_000000571518",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "banana"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "banana": 15
+ },
+ "object_boxes": [
+  {
+   "category": "banana",
+   "bbox": [
+    228.57,
+    278.15,
+    178.79,
+    186.37
+   ],
+   "area": 21035.37675
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    96.38,
+    124.2,
+    113.96,
+    118.96
+   ],
+   "area": 8808.391099999999
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    42.04,
+    238.69,
+    130.35,
+    130.36
+   ],
+   "area": 6404.747999999999
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    122.83,
+    381.37,
+    109.29,
+    68.25
+   ],
+   "area": 3011.128750000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    223.07,
+    250.31,
+    82.3,
+    91.37
+   ],
+   "area": 3454.00105
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    370.67,
+    280.12,
+    197.25,
+    173.43
+   ],
+   "area": 21789.568799999997
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    279.45,
+    155.03,
+    82.51,
+    159.69
+   ],
+   "area": 8132.141349999999
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    361.97,
+    172.73,
+    113.84,
+    153.24
+   ],
+   "area": 12052.346899999997
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    467.01,
+    159.8,
+    129.18,
+    147.79
+   ],
+   "area": 14744.092400000001
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    238.86,
+    100.36,
+    95.52,
+    100.03
+   ],
+   "area": 5121.7036499999995
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    42.58,
+    285.44,
+    117.11,
+    178.32
+   ],
+   "area": 13640.457800000002
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    160.18,
+    72.28,
+    96.64,
+    108.56
+   ],
+   "area": 6531.111999999999
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    351.96,
+    115.15,
+    112.0,
+    122.79
+   ],
+   "area": 4793.582050000002
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    316.34,
+    60.01,
+    78.7,
+    123.05
+   ],
+   "area": 3087.6386500000012
+  },
+  {
+   "category": "banana",
+   "bbox": [
+    42,
+    37,
+    560,
+    446
+   ],
+   "area": 107470
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "All of the bunches of bananas are yellow and ripe.",
+  "A table filled with bunches on yellow and green bananas.",
+  "There are bunches of bananas grouped together with stickers on each.",
+  "Several bunches of bananas with a white vignette and border.",
+  "A framed picture of a bunch of bananas."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 571518000,
+   "question": "What fruit is shown?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "bananas",
+   "answers": [
+    "bananas",
+    "banana",
+    "bananas",
+    "banana",
+    "banana",
+    "bananas",
+    "banana",
+    "bananas",
+    "bananas",
+    "bananas"
+   ]
+  },
+  {
+   "question_id": 571518001,
+   "question": "Where are the bananas?",
+   "answer_type": "other",
+   "question_type": "where are the",
+   "multiple_choice_answer": "market",
+   "answers": [
+    "counter",
+    "display",
+    "crate",
+    "store",
+    "market",
+    "stacked",
+    "market",
+    "picture frame",
+    "indoors",
+    "on table"
+   ]
+  },
+  {
+   "question_id": 571518002,
+   "question": "Are these eating like this?",
+   "answer_type": "yes/no",
+   "question_type": "are these",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 571518003,
+   "question": "Are all the bananas ripe?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 571518004,
+   "question": "Do all the bananas have stickers on them?",
+   "answer_type": "yes/no",
+   "question_type": "do",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

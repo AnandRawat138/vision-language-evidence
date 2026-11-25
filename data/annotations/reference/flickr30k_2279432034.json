@@ -1,0 +1,215 @@
+{
+ "uid": "flickr30k_2279432034",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Men and women of various ages sit playing instruments in an orchestra while a similar group stand in the background as a choir .",
+  "A male conductor wearing all black leading a orchestra and choir on a brown stage playing and singing a musical number .",
+  "A choir and an orchestra performing a musical piece in some kind of theater hall .",
+  "a string instrument band and chorus singers rehearsing .",
+  "An orchestra plays in an ornate hall ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "38650",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "38651",
+   "types": [
+    "other"
+   ],
+   "phrase": "women of various ages",
+   "start": 8,
+   "end": 29
+  },
+  {
+   "entity_id": "38652",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "instruments",
+   "start": 42,
+   "end": 53
+  },
+  {
+   "entity_id": "38653",
+   "types": [
+    "people"
+   ],
+   "phrase": "an orchestra",
+   "start": 57,
+   "end": 69
+  },
+  {
+   "entity_id": "38654",
+   "types": [
+    "people"
+   ],
+   "phrase": "a similar group",
+   "start": 76,
+   "end": 91
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 101,
+   "end": 115
+  },
+  {
+   "entity_id": "38655",
+   "types": [
+    "people"
+   ],
+   "phrase": "a choir",
+   "start": 119,
+   "end": 126
+  },
+  {
+   "entity_id": "38656",
+   "types": [
+    "people"
+   ],
+   "phrase": "A male conductor",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "38657",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "all black",
+   "start": 25,
+   "end": 34
+  },
+  {
+   "entity_id": "38653",
+   "types": [
+    "people"
+   ],
+   "phrase": "a orchestra",
+   "start": 43,
+   "end": 54
+  },
+  {
+   "entity_id": "38658",
+   "types": [
+    "people"
+   ],
+   "phrase": "choir",
+   "start": 59,
+   "end": 64
+  },
+  {
+   "entity_id": "38659",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a brown stage",
+   "start": 68,
+   "end": 81
+  },
+  {
+   "entity_id": "38664",
+   "types": [
+    "other"
+   ],
+   "phrase": "a musical number",
+   "start": 102,
+   "end": 118
+  },
+  {
+   "entity_id": "38655",
+   "types": [
+    "people"
+   ],
+   "phrase": "A choir",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "38653",
+   "types": [
+    "people"
+   ],
+   "phrase": "an orchestra",
+   "start": 12,
+   "end": 24
+  },
+  {
+   "entity_id": "38664",
+   "types": [
+    "other"
+   ],
+   "phrase": "a musical piece",
+   "start": 36,
+   "end": 51
+  },
+  {
+   "entity_id": "38662",
+   "types": [
+    "other"
+   ],
+   "phrase": "some kind of theater hall",
+   "start": 55,
+   "end": 80
+  },
+  {
+   "entity_id": "38660",
+   "types": [
+    "people"
+   ],
+   "phrase": "a string instrument band",
+   "start": 0,
+   "end": 24
+  },
+  {
+   "entity_id": "38661",
+   "types": [
+    "people"
+   ],
+   "phrase": "chorus singers",
+   "start": 29,
+   "end": 43
+  },
+  {
+   "entity_id": "38660",
+   "types": [
+    "people"
+   ],
+   "phrase": "An orchestra",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "38662",
+   "types": [
+    "other"
+   ],
+   "phrase": "an ornate hall",
+   "start": 22,
+   "end": 36
+  }
+ ],
+ "scene_places": []
+}

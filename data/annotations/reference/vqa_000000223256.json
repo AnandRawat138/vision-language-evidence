@@ -1,0 +1,131 @@
+{
+ "uid": "vqa_000000223256",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 1,
+  "tie": 1,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    0.0,
+    288.65,
+    406.79,
+    303.14
+   ],
+   "area": 23869.079550000002
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    221.15,
+    163.69,
+    50.52,
+    202.96
+   ],
+   "area": 5199.579250000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.55,
+    72.07,
+    317.45,
+    505.95
+   ],
+   "area": 63503.78190000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    186.18,
+    259.32,
+    445.51
+   ],
+   "area": 61709.818450000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "This couple is making a funny face while sitting on a couch",
+  "These two kids make monkey faces for the camera",
+  "The two boys are in monkey-like postures in the teen's room.",
+  "Two young children posing and  making faces at the camera",
+  "a couple of kids are hunching down smiling"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 223256000,
+   "question": "What does the sign say?",
+   "answer_type": "other",
+   "question_type": "what does the",
+   "multiple_choice_answer": "live hard drive easy",
+   "answers": [
+    "live hard drive fast",
+    "live hard drive safe",
+    "live hard drive east",
+    "live hard drive harder",
+    "live hard drive easy",
+    "karting",
+    "live hard drive easy",
+    "live hard drive free",
+    "live hard drive easy",
+    "live hard drive east"
+   ]
+  },
+  {
+   "question_id": 223256001,
+   "question": "Who is wearing a tie?",
+   "answer_type": "other",
+   "question_type": "who is",
+   "multiple_choice_answer": "boy",
+   "answers": [
+    "man with glasses",
+    "boy",
+    "boy",
+    "kid on right",
+    "boy",
+    "blonde male",
+    "boy on right",
+    "man",
+    "boy on right",
+    "boy on right"
+   ]
+  },
+  {
+   "question_id": 223256002,
+   "question": "What are these people doing?",
+   "answer_type": "other",
+   "question_type": "what are",
+   "multiple_choice_answer": "posing",
+   "answers": [
+    "making faces",
+    "posing",
+    "playing",
+    "imitating apes",
+    "posing for picture",
+    "playing",
+    "making funny faces",
+    "acting silly",
+    "posing",
+    "posing"
+   ]
+  }
+ ]
+}

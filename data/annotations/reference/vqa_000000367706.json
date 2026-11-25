@@ -1,0 +1,246 @@
+{
+ "uid": "vqa_000000367706",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "donut",
+  "person",
+  "tie",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "car": 4,
+  "person": 4,
+  "donut": 1,
+  "traffic light": 3
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    278.36,
+    288.21,
+    20.88,
+    98.04
+   ],
+   "area": 1171.5202500000023
+  },
+  {
+   "category": "car",
+   "bbox": [
+    551.5,
+    297.23,
+    36.77,
+    14.32
+   ],
+   "area": 314.98484999999926
+  },
+  {
+   "category": "person",
+   "bbox": [
+    124.74,
+    220.54,
+    125.7,
+    202.46
+   ],
+   "area": 18496.7085
+  },
+  {
+   "category": "person",
+   "bbox": [
+    244.55,
+    233.18,
+    92.66,
+    188.18
+   ],
+   "area": 13076.0114
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    223.58,
+    4.8,
+    245.64,
+    231.25
+   ],
+   "area": 45371.223150000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    333.93,
+    248.47,
+    88.84,
+    178.53
+   ],
+   "area": 11667.565349999997
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    600.03,
+    240.17,
+    7.52,
+    15.52
+   ],
+   "area": 73.93774999999923
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    494.42,
+    215.41,
+    9.0,
+    15.35
+   ],
+   "area": 121.03199999999974
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    538.0,
+    217.68,
+    13.87,
+    19.21
+   ],
+   "area": 214.26515000000023
+  },
+  {
+   "category": "car",
+   "bbox": [
+    421.98,
+    298.4,
+    208.98,
+    99.46
+   ],
+   "area": 15030.33945
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    315.16,
+    140.09,
+    110.89
+   ],
+   "area": 12879.60825
+  },
+  {
+   "category": "car",
+   "bbox": [
+    573.61,
+    305.16,
+    62.74,
+    55.62
+   ],
+   "area": 1152.4097500000012
+  },
+  {
+   "category": "person",
+   "bbox": [
+    629.42,
+    277.88,
+    10.51,
+    89.5
+   ],
+   "area": 533.7100499999992
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two men and a woman standing in a parking lot by a doughnut shop.",
+  "Three people are standing outside of Randy's Donuts.",
+  "Three people standing in a parking lot outside of a donut shop that has a large donut on the top of the building.",
+  "Three people are standing outside of Randy's Donuts which is a huge sign of a donut.",
+  "Three people standing outside in front of a doughnut shop"
+ ],
+ "scene_places": [
+  "store"
+ ],
+ "vqa": [
+  {
+   "question_id": 367706000,
+   "question": "What type of food do they sell at this shop?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "donuts",
+   "answers": [
+    "donuts",
+    "donuts",
+    "donuts",
+    "donuts",
+    "doughnuts",
+    "donuts",
+    "donut",
+    "donuts",
+    "donuts",
+    "donuts"
+   ]
+  },
+  {
+   "question_id": 367706001,
+   "question": "How many people are standing at the front of the store?",
+   "answer_type": "number",
+   "question_type": "how many people are",
+   "multiple_choice_answer": "3",
+   "answers": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "question_id": 367706002,
+   "question": "What color is the sky?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "gray",
+   "answers": [
+    "gray",
+    "white",
+    "gray",
+    "gray",
+    "blue",
+    "white",
+    "white",
+    "white",
+    "gray",
+    "gray"
+   ]
+  },
+  {
+   "question_id": 367706003,
+   "question": "Whose donut shop is this?",
+   "answer_type": "other",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "randy's",
+   "answers": [
+    "randy",
+    "randy's",
+    "randy's",
+    "randy's",
+    "randy's",
+    "randy's",
+    "randy's",
+    "randy's",
+    "randy's",
+    "randy's"
+   ]
+  }
+ ]
+}

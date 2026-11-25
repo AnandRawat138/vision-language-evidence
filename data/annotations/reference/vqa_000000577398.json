@@ -1,0 +1,112 @@
+{
+ "uid": "vqa_000000577398",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    45.79,
+    125.43,
+    367.34,
+    206.07
+   ],
+   "area": 36334.14074999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    183.53,
+    92.1,
+    132.67,
+    200.98
+   ],
+   "area": 12500.872950000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man on a motor bike driving down the road.",
+  "A man riding a motorcycle down a road in the mountains",
+  "A motorcycle rider rides by the blue mountains.",
+  "A man with a helmet riding on a motorcycle.",
+  "a middle-aged man rides his motorcycle on a mountainous road"
+ ],
+ "scene_places": [
+  "snow/mountain",
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 577398000,
+   "question": "Do you need a license to operate the vehicle in the photo?",
+   "answer_type": "yes/no",
+   "question_type": "do you",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 577398001,
+   "question": "Is he wearing a full face helmet?",
+   "answer_type": "yes/no",
+   "question_type": "is he",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 577398002,
+   "question": "How many riders are on the motorcycle?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  }
+ ]
+}

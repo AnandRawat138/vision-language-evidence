@@ -1,0 +1,152 @@
+{
+ "uid": "vqa_000000564366",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "potted plant",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 2,
+  "skateboard": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    267.32,
+    250.75,
+    26.45,
+    51.96
+   ],
+   "area": 467.20099999999974
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    55.98,
+    255.26,
+    11.09,
+    32.57
+   ],
+   "area": 231.48620000000003
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    146.93,
+    446.7,
+    168.39,
+    41.32
+   ],
+   "area": 2480.078700000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    6.67,
+    114.34,
+    276.33,
+    350.15
+   ],
+   "area": 31039.896449999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A boy riding a skateboard next to a low grind rail.",
+  "A young skateboarder is preparing to do a trick on a ramp.",
+  "A person rides a skateboard on a city street.",
+  "A boy stands on a skateboard across the street from a house.",
+  "A boys skateboarding is about to slide on a pole."
+ ],
+ "scene_places": [
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 564366000,
+   "question": "Is the boy skateboarding on the rail?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 564366001,
+   "question": "Is the boy wearing a coat?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 564366002,
+   "question": "Has the skateboarder jumped?",
+   "answer_type": "yes/no",
+   "question_type": "has",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 564366003,
+   "question": "Is the rail dangerous?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "little"
+   ]
+  }
+ ]
+}

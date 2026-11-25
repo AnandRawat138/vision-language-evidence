@@ -1,0 +1,129 @@
+{
+ "uid": "vqa_000000012268",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "handbag"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 3,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    126.83,
+    0.0,
+    36.24,
+    55.23
+   ],
+   "area": 1496.5004499999998
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    76.38,
+    1.99,
+    60.09,
+    47.9
+   ],
+   "area": 2466.89665
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    0.0,
+    0.31,
+    14.42,
+    104.66
+   ],
+   "area": 981.5756999999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    29.15,
+    29.15,
+    427.46,
+    289.5
+   ],
+   "area": 95008.08365000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A purse is sitting on top of a cutting board.",
+  "A gold purse shaped like a bus sitting on a kitchen counter",
+  "A gold colored purse designed like a bus.",
+  "A purse is in the shape of a bus and is gold with flowers and rainbows on it.",
+  "there is a small gold bus purse on the counter"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 12268000,
+   "question": "Is the gold bus a cake?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "bus",
+    "no",
+    "no",
+    "no",
+    "maybe",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 12268001,
+   "question": "Are the drawings on the side of the gold bus the style that a boy or a girl might draw?",
+   "answer_type": "other",
+   "question_type": "are the",
+   "multiple_choice_answer": "girl",
+   "answers": [
+    "girl",
+    "girl",
+    "yes",
+    "yes",
+    "girl",
+    "girl",
+    "gold flowers",
+    "girl",
+    "girl",
+    "girl"
+   ]
+  },
+  {
+   "question_id": 12268002,
+   "question": "What color is the toy bus?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "gold",
+   "answers": [
+    "gold",
+    "gold",
+    "gold",
+    "gold",
+    "gold",
+    "gold",
+    "brown",
+    "gold",
+    "gold",
+    "gold"
+   ]
+  }
+ ]
+}

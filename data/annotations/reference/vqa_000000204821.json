@@ -1,0 +1,110 @@
+{
+ "uid": "vqa_000000204821",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 2
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    228.72,
+    45.3,
+    321.08,
+    431.68
+   ],
+   "area": 92397.96975
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    23.73,
+    25.89,
+    211.42,
+    377.53
+   ],
+   "area": 48242.8662
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Zebras eating hay at a fenced wildlife habitat.",
+  "Two zebras walking in between rocks at a zoo.",
+  "Pair of zebras walking past rocks in zoo enclosure.",
+  "Two zebras walking among heavy boulders and grass.",
+  "Two zebras that are standing in the grass."
+ ],
+ "scene_places": [
+  "farm/rural",
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 204821000,
+   "question": "What is on both sides of the zebras?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "rocks",
+   "answers": [
+    "rocks",
+    "stripes",
+    "stripes",
+    "rocks",
+    "stripes",
+    "rocks",
+    "rock",
+    "horns",
+    "rocks",
+    "fencing"
+   ]
+  },
+  {
+   "question_id": 204821001,
+   "question": "Are the zebras wild?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 204821002,
+   "question": "How many animals can be seen?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  }
+ ]
+}

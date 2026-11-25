@@ -1,0 +1,162 @@
+{
+ "uid": "flickr30k_427736337",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman and a man talk over a desk in a purple room .",
+  "A man and a woman talk to each other across a desk .",
+  "Two people talk while sitting by a desk .",
+  "A man and woman speak in an apartment .",
+  "Two people sitting at a table ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "161364",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "161363",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 12,
+   "end": 17
+  },
+  {
+   "entity_id": "161366",
+   "types": [
+    "other"
+   ],
+   "phrase": "a desk",
+   "start": 28,
+   "end": 34
+  },
+  {
+   "entity_id": "161368",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a purple room",
+   "start": 38,
+   "end": 51
+  },
+  {
+   "entity_id": "161363",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "161364",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 10,
+   "end": 17
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "each other",
+   "start": 26,
+   "end": 36
+  },
+  {
+   "entity_id": "161366",
+   "types": [
+    "other"
+   ],
+   "phrase": "a desk",
+   "start": 44,
+   "end": 50
+  },
+  {
+   "entity_id": "161365",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "161366",
+   "types": [
+    "other"
+   ],
+   "phrase": "a desk",
+   "start": 33,
+   "end": 39
+  },
+  {
+   "entity_id": "161363",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "161364",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 10,
+   "end": 15
+  },
+  {
+   "entity_id": "161367",
+   "types": [
+    "other"
+   ],
+   "phrase": "an apartment",
+   "start": 25,
+   "end": 37
+  },
+  {
+   "entity_id": "161365",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "161366",
+   "types": [
+    "other"
+   ],
+   "phrase": "a table",
+   "start": 22,
+   "end": 29
+  }
+ ],
+ "scene_places": []
+}

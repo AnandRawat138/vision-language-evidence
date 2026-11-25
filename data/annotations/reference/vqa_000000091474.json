@@ -1,0 +1,278 @@
+{
+ "uid": "vqa_000000091474",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 2
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    133.05,
+    158.42,
+    286.21,
+    248.87
+   ],
+   "area": 37280.8813
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    132.39,
+    166.45,
+    333.87,
+    236.24
+   ],
+   "area": 11253.557600000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two zebras walking together with trees in the background.",
+  "Two zebras walk through the green grass together.",
+  "Two zebras are walking in front of some trees.",
+  "Two zebra standing next to each other in a purple flower filled forest.",
+  "Two zebra walk very near each other next to the woods."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 91474000,
+   "question": "Are the animals fighting?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 91474001,
+   "question": "Are the zebras male?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "idk",
+    "no",
+    "no",
+    "yes",
+    "1",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 91474002,
+   "question": "What color are the plants?",
+   "answer_type": "other",
+   "question_type": "what color are the",
+   "multiple_choice_answer": "green",
+   "answers": [
+    "dark blue",
+    "green",
+    "purple",
+    "purple",
+    "purple",
+    "green",
+    "green",
+    "purple",
+    "green",
+    "green"
+   ]
+  },
+  {
+   "question_id": 91474003,
+   "question": "Is this the zebra's natural habitat?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 91474004,
+   "question": "Are all the zebra's facing the same direction?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 91474005,
+   "question": "Is the zebra eating?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 91474006,
+   "question": "What purple flowering plant is in the background?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "wisteria",
+   "answers": [
+    "wisteria",
+    "wisteria",
+    "unsure",
+    "lilac",
+    "willow",
+    "wisteria",
+    "mulberry",
+    "hyacinth",
+    "iris",
+    "lilacs"
+   ]
+  },
+  {
+   "question_id": 91474007,
+   "question": "How many animals are here?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 91474008,
+   "question": "Are they in a zoo?",
+   "answer_type": "yes/no",
+   "question_type": "are they",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "no",
+    "there are two zebras but there is no indication that it's zoo",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 91474009,
+   "question": "Are these zebras posing for the photographer?",
+   "answer_type": "yes/no",
+   "question_type": "are these",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 91474010,
+   "question": "How many zebras are standing under a tree?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 91474011,
+   "question": "Are both animals going the same way?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

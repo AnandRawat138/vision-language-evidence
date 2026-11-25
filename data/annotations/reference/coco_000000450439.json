@@ -1,0 +1,48 @@
+{
+ "uid": "coco_000000450439",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "kite"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "kite": 2
+ },
+ "object_boxes": [
+  {
+   "category": "kite",
+   "bbox": [
+    260.12,
+    20.01,
+    220.66,
+    170.08
+   ],
+   "area": 22312.345099999995
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    18.17,
+    155.82,
+    137.1,
+    60.01
+   ],
+   "area": 3505.4291499999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a patriotic kite flying through the clear blue sky.",
+  "A red, white, and blue kite sails through the blue sky.",
+  "The kite is red, white, and blue and is flying.",
+  "Two red, white and blue kites flying in the sky.",
+  "A red, white and blue kit flying among the sky."
+ ],
+ "scene_places": []
+}

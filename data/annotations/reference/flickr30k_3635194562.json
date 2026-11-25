@@ -1,0 +1,172 @@
+{
+ "uid": "flickr30k_3635194562",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "white"
+  ],
+  "hat": [
+   "white"
+  ],
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A child dressed in a white coat paints an image on the paper laying on the table .",
+  "The little girl with the white hat and white shirt is painting .",
+  "A small child wearing a white hat reaches for a paintbrush .",
+  "A child paints with different colors using brushes .",
+  "A small child fingerpaints"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "132991",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "132993",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white coat",
+   "start": 19,
+   "end": 31
+  },
+  {
+   "entity_id": "132995",
+   "types": [
+    "other"
+   ],
+   "phrase": "an image",
+   "start": 39,
+   "end": 47
+  },
+  {
+   "entity_id": "132996",
+   "types": [
+    "other"
+   ],
+   "phrase": "the paper",
+   "start": 51,
+   "end": 60
+  },
+  {
+   "entity_id": "132996",
+   "types": [
+    "other"
+   ],
+   "phrase": "the table",
+   "start": 71,
+   "end": 80
+  },
+  {
+   "entity_id": "132991",
+   "types": [
+    "people"
+   ],
+   "phrase": "The little girl",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "132994",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the white hat",
+   "start": 21,
+   "end": 34
+  },
+  {
+   "entity_id": "132993",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white shirt",
+   "start": 39,
+   "end": 50
+  },
+  {
+   "entity_id": "132991",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small child",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "132994",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white hat",
+   "start": 22,
+   "end": 33
+  },
+  {
+   "entity_id": "132992",
+   "types": [
+    "other"
+   ],
+   "phrase": "a paintbrush",
+   "start": 46,
+   "end": 58
+  },
+  {
+   "entity_id": "132991",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "132998",
+   "types": [
+    "other"
+   ],
+   "phrase": "different colors",
+   "start": 20,
+   "end": 36
+  },
+  {
+   "entity_id": "132992",
+   "types": [
+    "other"
+   ],
+   "phrase": "brushes",
+   "start": 43,
+   "end": 50
+  },
+  {
+   "entity_id": "132991",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small child",
+   "start": 0,
+   "end": 13
+  }
+ ],
+ "scene_places": []
+}

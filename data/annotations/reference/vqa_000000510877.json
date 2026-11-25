@@ -1,0 +1,128 @@
+{
+ "uid": "vqa_000000510877",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 2
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    1.38,
+    30.06,
+    489.33,
+    595.77
+   ],
+   "area": 153788.78005
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    44.72,
+    301.4,
+    121.39,
+    128.28
+   ],
+   "area": 5339.49575
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two horses grazing in a field with trees in the background",
+  "A white horse standing on a lush green field.",
+  "A white horse grazing in the grass",
+  "A gray horse grazing in a field on a sunny day.",
+  "A close up shot of a horse grazing in a small field."
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 510877000,
+   "question": "Is the horse grazing?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 510877001,
+   "question": "What is this animal?",
+   "answer_type": "other",
+   "question_type": "what is this",
+   "multiple_choice_answer": "horse",
+   "answers": [
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse"
+   ]
+  },
+  {
+   "question_id": 510877002,
+   "question": "What kind of animal is this?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "horse",
+   "answers": [
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse",
+    "horse"
+   ]
+  },
+  {
+   "question_id": 510877003,
+   "question": "What color is the horse?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "white",
+    "gray",
+    "gray"
+   ]
+  }
+ ]
+}

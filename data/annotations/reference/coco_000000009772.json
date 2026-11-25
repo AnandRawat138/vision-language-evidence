@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000009772",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sink",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "person": 1,
+  "sink": 2
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    426.66,
+    91.19,
+    89.88,
+    95.56
+   ],
+   "area": 6369.429449999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    275.58,
+    230.99,
+    57.63,
+    125.42
+   ],
+   "area": 4336.881650000002
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    322.91,
+    378.26,
+    85.5,
+    19.06
+   ],
+   "area": 1181.5615500000015
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    173.64,
+    379.73,
+    81.74,
+    16.42
+   ],
+   "area": 980.7034499999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person is taking a picture of a hotel bathroom.",
+  "A beautiful bathroom and a guy is in bathroom.",
+  "a bathroom with a sink and television in it",
+  "A person takes a picture in a hotel bathroom.",
+  "A view of a bathroom in what appears to be a hotel."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000126110",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "truck": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    105.06,
+    52.22,
+    56.14,
+    132.36
+   ],
+   "area": 4707.882799999999
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    0.54,
+    0.54,
+    318.74,
+    236.76
+   ],
+   "area": 63733.15455
+  },
+  {
+   "category": "person",
+   "bbox": [
+    261.62,
+    104.32,
+    28.65,
+    87.57
+   ],
+   "area": 983.4085499999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The dog is perched on the seat of the car looking out the window",
+  "Dog sitting inside the cab of a yellow truck.",
+  "A dog is looking out the window of a yellow truck.",
+  "A dog driving a yellow big rig truck next to a man.",
+  "A dog sits on a seat in a truck."
+ ],
+ "scene_places": []
+}

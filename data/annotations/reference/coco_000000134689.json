@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000134689",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 1
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    38.83,
+    76.22,
+    335.1,
+    501.94
+   ],
+   "area": 46474.62509999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "there is a very tall giraffe standing in the wild",
+  "A giraffe is standing by some brush in a field.",
+  "A giraffe standing in a dirt field near a tree.",
+  "A single giraffe standing in a brushy area looking at the photographer",
+  "A giraffe standing in dry dead brush on the savannah."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

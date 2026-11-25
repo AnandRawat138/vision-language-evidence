@@ -1,0 +1,150 @@
+{
+ "uid": "coco_000000375763",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sheep": 12
+ },
+ "object_boxes": [
+  {
+   "category": "sheep",
+   "bbox": [
+    232.76,
+    217.16,
+    81.46,
+    127.22
+   ],
+   "area": 6493.661999999998
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    406.88,
+    173.18,
+    71.15,
+    126.33
+   ],
+   "area": 5107.164099999998
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    288.33,
+    193.62,
+    78.8,
+    111.22
+   ],
+   "area": 4832.853449999999
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    122.53,
+    196.73,
+    71.72,
+    105.41
+   ],
+   "area": 4477.620400000002
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    40.55,
+    197.98,
+    84.04,
+    106.55
+   ],
+   "area": 5717.8235
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    63.59,
+    186.26,
+    78.06,
+    96.95
+   ],
+   "area": 2160.016099999998
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    270.84,
+    179.42,
+    56.11,
+    43.59
+   ],
+   "area": 1080.5825000000007
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    468.09,
+    184.44,
+    73.02,
+    119.19
+   ],
+   "area": 5503.802249999999
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    184.64,
+    191.18,
+    70.87,
+    109.23
+   ],
+   "area": 3520.3928
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    220.76,
+    184.95,
+    57.01,
+    29.93
+   ],
+   "area": 780.2238499999996
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    347.8,
+    178.63,
+    76.86,
+    103.29
+   ],
+   "area": 4180.0521
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    161.15,
+    182.81,
+    43.58,
+    28.02
+   ],
+   "area": 588.5657500000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A very cute flock of sheep in a grassy field.",
+  "THERE ARE A LOT OF SHEEPS WALKING THE FIELD",
+  "a large group black faced sheep with one or two white faced sheep",
+  "A flock of sheep is crossing a grassy field with trees behind them.",
+  "The herd of sheep is standing on the grass."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

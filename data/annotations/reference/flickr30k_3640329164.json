@@ -1,0 +1,158 @@
+{
+ "uid": "flickr30k_3640329164",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "uniform": [
+   "black",
+   "green"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "a surfer is riding the waves whilst another surfer sits on his board waiting .",
+  "A surfer wearing a black and green wetsuit riding a wave .",
+  "A surfer in a green striped wetsuit rides a wave .",
+  "A surfboarder catches the waves .",
+  "The surfer is riding the wave ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "133521",
+   "types": [
+    "people"
+   ],
+   "phrase": "a surfer",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "133524",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the waves",
+   "start": 19,
+   "end": 28
+  },
+  {
+   "entity_id": "133521",
+   "types": [
+    "people"
+   ],
+   "phrase": "another surfer",
+   "start": 36,
+   "end": 50
+  },
+  {
+   "entity_id": "133527",
+   "types": [
+    "other"
+   ],
+   "phrase": "his board",
+   "start": 59,
+   "end": 68
+  },
+  {
+   "entity_id": "133521",
+   "types": [
+    "people"
+   ],
+   "phrase": "A surfer",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "133523",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black and green wetsuit",
+   "start": 17,
+   "end": 42
+  },
+  {
+   "entity_id": "133525",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a wave",
+   "start": 50,
+   "end": 56
+  },
+  {
+   "entity_id": "133521",
+   "types": [
+    "people"
+   ],
+   "phrase": "A surfer",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "133523",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a green striped wetsuit",
+   "start": 12,
+   "end": 35
+  },
+  {
+   "entity_id": "133524",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a wave",
+   "start": 42,
+   "end": 48
+  },
+  {
+   "entity_id": "133522",
+   "types": [
+    "people"
+   ],
+   "phrase": "A surfboarder",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "133525",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the waves",
+   "start": 22,
+   "end": 31
+  },
+  {
+   "entity_id": "133522",
+   "types": [
+    "people"
+   ],
+   "phrase": "The surfer",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "133524",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the wave",
+   "start": 21,
+   "end": 29
+  }
+ ],
+ "scene_places": []
+}

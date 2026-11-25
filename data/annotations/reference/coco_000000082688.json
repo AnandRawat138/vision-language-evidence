@@ -1,0 +1,92 @@
+{
+ "uid": "coco_000000082688",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "remote": 2,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    102.66,
+    503.12,
+    325.34
+   ],
+   "area": 75533.32889999995
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    544.62,
+    311.04,
+    63.47,
+    25.01
+   ],
+   "area": 1055.0533500000008
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    428.05,
+    388.48,
+    26.3,
+    27.13
+   ],
+   "area": 252.57505000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    292.39,
+    51.64,
+    122.14,
+    201.98
+   ],
+   "area": 6686.860349999995
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    302.95,
+    378.21,
+    22.87,
+    45.74
+   ],
+   "area": 640.8523500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    309.2,
+    29.87,
+    315.38,
+    398.13
+   ],
+   "area": 61093.36454999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Some people are enjoying themselves playing game.",
+  "Video games are fun for people of all ages!",
+  "Two old people in motion while playing a Wii.",
+  "An elderly man and woman playing on a nintendo wii.",
+  "Two elderly people are playing an interactive video game."
+ ],
+ "scene_places": []
+}

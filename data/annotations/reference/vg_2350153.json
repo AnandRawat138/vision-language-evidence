@@ -1,0 +1,35 @@
+{
+ "uid": "vg_2350153",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "fire hydrant",
+  "handbag",
+  "hot dog",
+  "orange",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "black",
+   "gray"
+  ],
+  "shorts": [],
+  "shirt": []
+ },
+ "accessories": [
+  "glasses",
+  "watch"
+ ],
+ "carried": [
+  "bag"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

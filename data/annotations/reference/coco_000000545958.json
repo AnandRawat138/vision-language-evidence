@@ -1,0 +1,41 @@
+{
+ "uid": "coco_000000545958",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cow"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cow": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cow",
+   "bbox": [
+    380.25,
+    261.37,
+    191.66,
+    134.67
+   ],
+   "area": 13137.193449999992
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cow standing outside of a white building with a blue entrance.",
+  "A cow stands on a sidewalk outside a building.",
+  "A cow standing next to a white wall and bright blue door.",
+  "A cow is standing in the street by a door.",
+  "The cow is positioned next to the wall.",
+  "A cow stands if front of a white wall."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

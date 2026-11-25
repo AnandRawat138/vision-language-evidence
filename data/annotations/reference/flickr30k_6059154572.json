@@ -1,0 +1,216 @@
+{
+ "uid": "flickr30k_6059154572",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "blue"
+  ],
+  "shorts": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A teenage male goes urban surfing in a small body of water with a modified surfboard for a crowd of people with lush trees in the background .",
+  "Surfer wearing blue long-sleeve shirt with black and white shorts , causing a splash jumping with their surfboard .",
+  "Guy jumping off a surfboard at some kind of event .",
+  "A skimboarder performs a trick in the water .",
+  "A teenage is on a surfboard ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "247245",
+   "types": [
+    "people"
+   ],
+   "phrase": "A teenage male",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "247253",
+   "types": [
+    "other"
+   ],
+   "phrase": "urban surfing",
+   "start": 20,
+   "end": 33
+  },
+  {
+   "entity_id": "247246",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a small body of water",
+   "start": 37,
+   "end": 58
+  },
+  {
+   "entity_id": "247244",
+   "types": [
+    "other"
+   ],
+   "phrase": "a modified surfboard",
+   "start": 64,
+   "end": 84
+  },
+  {
+   "entity_id": "247248",
+   "types": [
+    "people"
+   ],
+   "phrase": "a crowd of people",
+   "start": 89,
+   "end": 106
+  },
+  {
+   "entity_id": "247251",
+   "types": [
+    "other"
+   ],
+   "phrase": "lush trees",
+   "start": 112,
+   "end": 122
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 126,
+   "end": 140
+  },
+  {
+   "entity_id": "247245",
+   "types": [
+    "people"
+   ],
+   "phrase": "Surfer",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "247254",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue long-sleeve shirt",
+   "start": 15,
+   "end": 37
+  },
+  {
+   "entity_id": "247255",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black and white shorts",
+   "start": 43,
+   "end": 65
+  },
+  {
+   "entity_id": "247249",
+   "types": [
+    "other"
+   ],
+   "phrase": "a splash",
+   "start": 76,
+   "end": 84
+  },
+  {
+   "entity_id": "247244",
+   "types": [
+    "other"
+   ],
+   "phrase": "their surfboard",
+   "start": 98,
+   "end": 113
+  },
+  {
+   "entity_id": "247245",
+   "types": [
+    "people"
+   ],
+   "phrase": "Guy",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "247244",
+   "types": [
+    "other"
+   ],
+   "phrase": "a surfboard",
+   "start": 16,
+   "end": 27
+  },
+  {
+   "entity_id": "247252",
+   "types": [
+    "scene"
+   ],
+   "phrase": "some kind of event",
+   "start": 31,
+   "end": 49
+  },
+  {
+   "entity_id": "247244",
+   "types": [
+    "other"
+   ],
+   "phrase": "A skimboarder",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 23,
+   "end": 30
+  },
+  {
+   "entity_id": "247246",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 34,
+   "end": 43
+  },
+  {
+   "entity_id": "247245",
+   "types": [
+    "people"
+   ],
+   "phrase": "A teenage",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "247244",
+   "types": [
+    "other"
+   ],
+   "phrase": "a surfboard",
+   "start": 16,
+   "end": 27
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

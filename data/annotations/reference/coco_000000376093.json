@@ -1,0 +1,164 @@
+{
+ "uid": "coco_000000376093",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "dining table",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 5,
+  "cup": 4,
+  "pizza": 3,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    67.04,
+    113.97,
+    199.78,
+    231.96
+   ],
+   "area": 21659.284750000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    224.86,
+    125.41,
+    156.76,
+    225.94
+   ],
+   "area": 19083.1008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    188.02,
+    92.35,
+    180.41
+   ],
+   "area": 10111.18505
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    313.98,
+    229.53,
+    20.6,
+    27.69
+   ],
+   "area": 336.69505000000004
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    354.76,
+    360.49,
+    26.22,
+    56.52
+   ],
+   "area": 1257.7654500000006
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    66.34,
+    324.71,
+    123.48,
+    111.74
+   ],
+   "area": 9466.537100000003
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    158.7,
+    316.49,
+    57.34,
+    29.73
+   ],
+   "area": 438.02885000000015
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    0.12,
+    352.61,
+    28.5,
+    91.38
+   ],
+   "area": 1767.1545999999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    278.01,
+    348.06,
+    173.35,
+    91.68
+   ],
+   "area": 8314.122850000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    409.9,
+    101.58,
+    177.03,
+    369.51
+   ],
+   "area": 36284.02239999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    170.25,
+    344.75,
+    140.69,
+    128.87
+   ],
+   "area": 14441.949850000003
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    420.31,
+    228.24,
+    23.99,
+    31.78
+   ],
+   "area": 267.6104999999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    297.59,
+    347.61,
+    24.42,
+    41.24
+   ],
+   "area": 651.7148000000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The teen group is serving pizza and drinks to the younger children.",
+  "A group of young people eat pizzas and drink from pitchers.",
+  "A group of young people holding a pizza party.",
+  "Two men and woman opening boxes of pizza in a room.",
+  "A group of people are getting some food and drinks together."
+ ],
+ "scene_places": []
+}

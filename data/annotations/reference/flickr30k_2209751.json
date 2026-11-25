@@ -1,0 +1,135 @@
+{
+ "uid": "flickr30k_2209751",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Men standing around a car with a lamp behind them .",
+  "A movie with a car is being filmed on the street .",
+  "A car being prepared for a photo shoot .",
+  "Four men standing near a yellow car .",
+  "Interior of yellow car is filmed ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "34293",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "34291",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a car",
+   "start": 20,
+   "end": 25
+  },
+  {
+   "entity_id": "34294",
+   "types": [
+    "other"
+   ],
+   "phrase": "a lamp",
+   "start": 31,
+   "end": 37
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "them",
+   "start": 45,
+   "end": 49
+  },
+  {
+   "entity_id": "34292",
+   "types": [
+    "other"
+   ],
+   "phrase": "A movie",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "34291",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a car",
+   "start": 13,
+   "end": 18
+  },
+  {
+   "entity_id": "34295",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 38,
+   "end": 48
+  },
+  {
+   "entity_id": "34291",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "A car",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "34292",
+   "types": [
+    "other"
+   ],
+   "phrase": "a photo shoot",
+   "start": 25,
+   "end": 38
+  },
+  {
+   "entity_id": "34293",
+   "types": [
+    "people"
+   ],
+   "phrase": "Four men",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "34291",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a yellow car",
+   "start": 23,
+   "end": 35
+  },
+  {
+   "entity_id": "34291",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "Interior of yellow car",
+   "start": 0,
+   "end": 22
+  }
+ ],
+ "scene_places": []
+}

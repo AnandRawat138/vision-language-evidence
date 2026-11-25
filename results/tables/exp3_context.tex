@@ -1,0 +1,23 @@
+\begin{table}[!t]
+\centering
+\footnotesize
+\caption{Multi-image consolidation on 90 test groups (four cropped/degraded captures of one scene; COCO-80 objects of the full image as reference). Single-view values are averaged over views; inter-view Jaccard measures agreement between the four independent outputs. 95\% bootstrap CIs. $^\dagger$Threshold sweep on the test groups, reported for transparency and not used for tuning.}
+\label{tab:exp3}
+\begin{adjustbox}{max width=\columnwidth}
+\begin{tabular}{lccc}
+\toprule
+Condition & Group F1 & Hallucination rate & Inter-view Jaccard \\
+\midrule
+Independent, single view (mean of 4) & 0.549 [0.507, 0.593] & 0.050 [0.031, 0.072] & 0.630 [0.573, 0.689] \\
+Aggregation, dev-tuned $\theta=0.00$ (= union) & 0.686 [0.642, 0.729] & 0.108 [0.069, 0.149] & -- \\
+Contextual 4-image prompt (C3) & 0.497 [0.438, 0.556] & 0.020 [0.000, 0.050] & -- \\
+C3 verified by aggregation ($\theta=0.00$) & 0.497 [0.438, 0.556] & 0.020 [0.000, 0.050] & -- \\
+\midrule
+Aggregation $\theta=0.25$, quality-weighted$^\dagger$ & 0.640 & 0.043 & -- \\
+Aggregation $\theta=0.50$, quality-weighted$^\dagger$ & 0.508 & 0.006 & -- \\
+Aggregation $\theta=0.25$, unweighted$^\dagger$ & 0.604 & 0.020 & -- \\
+Aggregation $\theta=0.50$, unweighted$^\dagger$ & 0.500 & 0.006 & -- \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table}

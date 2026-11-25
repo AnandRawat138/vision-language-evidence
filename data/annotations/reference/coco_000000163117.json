@@ -1,0 +1,306 @@
+{
+ "uid": "coco_000000163117",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "handbag",
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "kite": 12,
+  "handbag": 2,
+  "person": 12,
+  "backpack": 1
+ },
+ "object_boxes": [
+  {
+   "category": "kite",
+   "bbox": [
+    91.7,
+    111.08,
+    12.18,
+    13.83
+   ],
+   "area": 87.75454999999995
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    22.95,
+    148.61,
+    16.45,
+    18.28
+   ],
+   "area": 162.2922499999999
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    45.06,
+    197.43,
+    18.52,
+    22.99
+   ],
+   "area": 231.81224999999992
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    180.86,
+    178.29,
+    14.63,
+    17.92
+   ],
+   "area": 149.79555000000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    68.69,
+    16.89,
+    21.4,
+    32.66
+   ],
+   "area": 361.5361000000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    151.89,
+    167.74,
+    7.44,
+    10.38
+   ],
+   "area": 55.91830000000003
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    163.22,
+    93.91,
+    13.62,
+    16.6
+   ],
+   "area": 104.5356500000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    123.82,
+    181.41,
+    11.79,
+    14.33
+   ],
+   "area": 101.5648000000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    183.08,
+    141.55,
+    10.11,
+    13.77
+   ],
+   "area": 68.38985000000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    221.04,
+    191.45,
+    8.01,
+    10.96
+   ],
+   "area": 54.41300000000007
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    156.56,
+    302.07,
+    79.51,
+    61.7
+   ],
+   "area": 983.8450000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    219.1,
+    200.94,
+    155.06,
+    292.13
+   ],
+   "area": 34181.79200000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    149.44,
+    230.34,
+    84.27,
+    264.04
+   ],
+   "area": 17243.031049999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    129.54,
+    258.34,
+    46.38,
+    238.07
+   ],
+   "area": 4721.4576499999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    87.74,
+    270.93,
+    43.95,
+    163.33
+   ],
+   "area": 3995.346850000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    56.05,
+    258.87,
+    12.91,
+    47.75
+   ],
+   "area": 475.4635499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    37.94,
+    265.79,
+    11.87,
+    36.82
+   ],
+   "area": 339.88830000000024
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.16,
+    273.48,
+    20.7,
+    81.01
+   ],
+   "area": 1195.1009999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    114.99,
+    275.38,
+    26.19,
+    44.07
+   ],
+   "area": 442.78649999999976
+  },
+  {
+   "category": "person",
+   "bbox": [
+    91.99,
+    261.47,
+    10.22,
+    14.48
+   ],
+   "area": 76.98024999999977
+  },
+  {
+   "category": "person",
+   "bbox": [
+    227.87,
+    276.24,
+    32.82,
+    37.55
+   ],
+   "area": 325.5019500000001
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    246.61,
+    278.88,
+    116.12,
+    159.27
+   ],
+   "area": 4276.955700000004
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    267.48,
+    137.93,
+    12.92,
+    10.67
+   ],
+   "area": 64.27314999999984
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    214.65,
+    204.52,
+    7.6,
+    8.01
+   ],
+   "area": 31.96239999999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    72.96,
+    269.93,
+    12.38,
+    36.6
+   ],
+   "area": 261.28359999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    16.32,
+    259.61,
+    12.17,
+    42.17
+   ],
+   "area": 326.1447999999998
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    116.44,
+    328.29,
+    16.71,
+    38.83
+   ],
+   "area": 347.02894999999967
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large group of people in a field with kites.",
+  "Large crowd gathered to watch decorative a fleet of decorative kites.",
+  "A group of people are flying kites on a crowded field.",
+  "The people are flying the kites in the sky.",
+  "A crowd of people standing on a field flying kites."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

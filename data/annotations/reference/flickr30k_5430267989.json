@@ -1,0 +1,126 @@
+{
+ "uid": "flickr30k_5430267989",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A lady rides her pony in a victory lap after competing in an English riding competition .",
+  "This woman is riding a beautiful and well groomed horse .",
+  "A young lady equestrian riding a brown and white horse .",
+  "A woman is riding a brown and white horse .",
+  "A young girl rides horseback ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "236384",
+   "types": [
+    "people"
+   ],
+   "phrase": "A lady",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "236385",
+   "types": [
+    "animals"
+   ],
+   "phrase": "her pony",
+   "start": 13,
+   "end": 21
+  },
+  {
+   "entity_id": "236386",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a victory lap",
+   "start": 25,
+   "end": 38
+  },
+  {
+   "entity_id": "236387",
+   "types": [
+    "other"
+   ],
+   "phrase": "an English riding competition",
+   "start": 58,
+   "end": 87
+  },
+  {
+   "entity_id": "236384",
+   "types": [
+    "people"
+   ],
+   "phrase": "This woman",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "236385",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a beautiful and well groomed horse",
+   "start": 21,
+   "end": 55
+  },
+  {
+   "entity_id": "236384",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young lady equestrian",
+   "start": 0,
+   "end": 23
+  },
+  {
+   "entity_id": "236385",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a brown and white horse",
+   "start": 31,
+   "end": 54
+  },
+  {
+   "entity_id": "236384",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "236385",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a brown and white horse",
+   "start": 18,
+   "end": 41
+  },
+  {
+   "entity_id": "236384",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young girl",
+   "start": 0,
+   "end": 12
+  }
+ ],
+ "scene_places": []
+}

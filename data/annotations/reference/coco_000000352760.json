@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000352760",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "skis": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    142.38,
+    80.54,
+    235.87,
+    348.04
+   ],
+   "area": 32743.2019
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    64.8,
+    152.52,
+    345.46,
+    385.17
+   ],
+   "area": 14170.642450000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding skis while flying through the air.",
+  "A man performing a trick in the air with a pair of skis.",
+  "A skier in mid air after a jump",
+  "A skier attempts a jump hon his skis.",
+  "An athlete is that in the air during a snow ski long jump."
+ ],
+ "scene_places": []
+}

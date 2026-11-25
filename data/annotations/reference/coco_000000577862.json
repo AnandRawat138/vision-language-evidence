@@ -1,0 +1,48 @@
+{
+ "uid": "coco_000000577862",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 2
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    173.45,
+    21.86,
+    370.47,
+    402.14
+   ],
+   "area": 55239.507949999985
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    419.24,
+    42.88,
+    179.12,
+    366.83
+   ],
+   "area": 25392.656049999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A giraffe examining the back of another giraffe.",
+  "Two giraffes standing next to each other in a holding pen.",
+  "Two giraffe standing next to each other in a field.",
+  "The two giraffes are standing next to each other outside.",
+  "A giraffe and a baby giraffe standing in an enclosure."
+ ],
+ "scene_places": []
+}

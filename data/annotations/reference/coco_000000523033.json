@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000523033",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "surfboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    564.84,
+    190.06,
+    24.39,
+    16.35
+   ],
+   "area": 159.0938000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    287.7,
+    175.94,
+    15.05,
+    10.86
+   ],
+   "area": 59.43805000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    31.63,
+    160.05,
+    12.51,
+    16.35
+   ],
+   "area": 136.02774999999988
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    290.48,
+    186.3,
+    14.75,
+    5.15
+   ],
+   "area": 51.48744999999996
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    578.23,
+    202.02,
+    10.12,
+    3.92
+   ],
+   "area": 15.025900000000055
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people riding waves in the ocean.",
+  "A group of surfers in an ocean on their surfboards.",
+  "A group of people that are inside of the water.",
+  "A few people are riding a wave on a surfboard.",
+  "A picture of a wave at the ocean."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

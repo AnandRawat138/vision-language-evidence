@@ -1,0 +1,160 @@
+{
+ "uid": "flickr30k_23473996",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [],
+  "vest": [
+   "orange"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "The workers are wearing reflective jackets for working at night .",
+  "Five men in orange vests work on repairing a street at night .",
+  "A group of men standing by a road block .",
+  "Construction in the city at night .",
+  "Orange cones and traffic workers ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "43285",
+   "types": [
+    "people"
+   ],
+   "phrase": "The workers",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "43286",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "reflective jackets",
+   "start": 24,
+   "end": 42
+  },
+  {
+   "entity_id": "43290",
+   "types": [
+    "scene"
+   ],
+   "phrase": "night",
+   "start": 58,
+   "end": 63
+  },
+  {
+   "entity_id": "43287",
+   "types": [
+    "people"
+   ],
+   "phrase": "Five men",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "43286",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "orange vests",
+   "start": 12,
+   "end": 24
+  },
+  {
+   "entity_id": "43288",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street",
+   "start": 43,
+   "end": 51
+  },
+  {
+   "entity_id": "43290",
+   "types": [
+    "scene"
+   ],
+   "phrase": "night",
+   "start": 55,
+   "end": 60
+  },
+  {
+   "entity_id": "43285",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of men",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "43291",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a road block",
+   "start": 27,
+   "end": 39
+  },
+  {
+   "entity_id": "43293",
+   "types": [
+    "other"
+   ],
+   "phrase": "Construction",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "43292",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the city",
+   "start": 16,
+   "end": 24
+  },
+  {
+   "entity_id": "43290",
+   "types": [
+    "scene"
+   ],
+   "phrase": "night",
+   "start": 28,
+   "end": 33
+  },
+  {
+   "entity_id": "43289",
+   "types": [
+    "other"
+   ],
+   "phrase": "Orange cones",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "43287",
+   "types": [
+    "people"
+   ],
+   "phrase": "traffic workers",
+   "start": 17,
+   "end": 32
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "uid": "vqa_000000557357",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "broccoli"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "broccoli": 14
+ },
+ "object_boxes": [
+  {
+   "category": "broccoli",
+   "bbox": [
+    152.28,
+    200.85,
+    150.84,
+    122.05
+   ],
+   "area": 12871.959850000001
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    367.12,
+    239.2,
+    96.3,
+    142.26
+   ],
+   "area": 9078.596500000005
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    42.92,
+    59.86,
+    116.33,
+    126.49
+   ],
+   "area": 8981.920800000002
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    310.03,
+    46.98,
+    87.98,
+    85.13
+   ],
+   "area": 5107.35415
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    394.16,
+    23.72,
+    108.43,
+    88.09
+   ],
+   "area": 5954.327599999999
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    1.13,
+    205.55,
+    90.35,
+    99.39
+   ],
+   "area": 5542.2956
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    12.42,
+    285.82,
+    94.87,
+    111.81
+   ],
+   "area": 5710.388599999998
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    505.92,
+    182.65,
+    119.43,
+    123.94
+   ],
+   "area": 6688.360949999993
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    116.27,
+    132.78,
+    89.49,
+    85.27
+   ],
+   "area": 5134.3062999999975
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    511.4,
+    307.87,
+    92.01,
+    72.53
+   ],
+   "area": 3223.5866000000005
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    94.28,
+    319.33,
+    88.95,
+    85.52
+   ],
+   "area": 5157.542050000001
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    457.85,
+    105.84,
+    88.78,
+    107.0
+   ],
+   "area": 6456.294449999998
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    202.22,
+    132.98,
+    80.34,
+    67.31
+   ],
+   "area": 3029.5324
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    595,
+    196,
+    44,
+    158
+   ],
+   "area": 3421
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "some veggies and other foods are mixed together",
+  "A roasting pan with roasted broccoli, brussel sprouts and mushrooms on it.",
+  "some broccoly and brussel sprouts sitting on a piece of tin foil",
+  "Looking down at roasted broccoli, Brussel sprouts, and walnuts",
+  "Brussell sprouts and broccoli that are on tin foil."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 557357000,
+   "question": "Do these vegetables have a sweet and sour sauce?",
+   "answer_type": "yes/no",
+   "question_type": "do",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "maybe",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "maybe"
+   ]
+  },
+  {
+   "question_id": 557357001,
+   "question": "Is there broccoli?",
+   "answer_type": "yes/no",
+   "question_type": "is there",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 557357002,
+   "question": "Are they on wax paper?",
+   "answer_type": "yes/no",
+   "question_type": "are they",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

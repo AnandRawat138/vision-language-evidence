@@ -1,0 +1,108 @@
+{
+ "uid": "coco_000000313454",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "chair",
+  "person",
+  "potted plant",
+  "tie",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "person": 1,
+  "wine glass": 1,
+  "chair": 1,
+  "potted plant": 1,
+  "bottle": 2
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    88.44,
+    147.58,
+    21.04,
+    79.4
+   ],
+   "area": 665.8074500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    10.46,
+    75.86,
+    129.05,
+    307.78
+   ],
+   "area": 19839.26655
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    324.56,
+    277.85,
+    17.4,
+    37.77
+   ],
+   "area": 432.2679999999994
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    262.37,
+    254.23,
+    49.97,
+    57.5
+   ],
+   "area": 2226.559400000001
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    138.09,
+    123.16,
+    167.39,
+    136.33
+   ],
+   "area": 8486.509850000002
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    307.7,
+    265.24,
+    15.33,
+    48.25
+   ],
+   "area": 543.4140000000001
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    387.61,
+    266.63,
+    13.61,
+    42.07
+   ],
+   "area": 362.4355999999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man standing at a podium at a USINDO luncheon",
+  "A man at a podium speaking at an event.",
+  "A man in a suit is talking to a group",
+  "a man speaking at a podium during an event",
+  "A man is speaking at a panel in front of a crowd."
+ ],
+ "scene_places": []
+}

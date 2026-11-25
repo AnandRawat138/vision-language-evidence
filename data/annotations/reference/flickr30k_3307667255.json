@@ -1,0 +1,143 @@
+{
+ "uid": "flickr30k_3307667255",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "There are a lot of people in front of a tan building with colorful squares hanging from the top .",
+  "A lot of people are gathered around a mosque-like building .",
+  "Busy marketplace in an Arabian country .",
+  "A large group is shown in the street .",
+  "A crowd scene in front of mosque ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "There",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "108270",
+   "types": [
+    "people"
+   ],
+   "phrase": "a lot of people",
+   "start": 10,
+   "end": 25
+  },
+  {
+   "entity_id": "108272",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a tan building",
+   "start": 38,
+   "end": 52
+  },
+  {
+   "entity_id": "108276",
+   "types": [
+    "other"
+   ],
+   "phrase": "colorful squares",
+   "start": 58,
+   "end": 74
+  },
+  {
+   "entity_id": "108278",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the top",
+   "start": 88,
+   "end": 95
+  },
+  {
+   "entity_id": "108271",
+   "types": [
+    "people"
+   ],
+   "phrase": "A lot of people",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "108272",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a mosque-like building",
+   "start": 36,
+   "end": 58
+  },
+  {
+   "entity_id": "108273",
+   "types": [
+    "other"
+   ],
+   "phrase": "Busy marketplace",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "108274",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an Arabian country",
+   "start": 20,
+   "end": 38
+  },
+  {
+   "entity_id": "108271",
+   "types": [
+    "people"
+   ],
+   "phrase": "A large group",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "108275",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 26,
+   "end": 36
+  },
+  {
+   "entity_id": "108270",
+   "types": [
+    "scene"
+   ],
+   "phrase": "A crowd scene",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "108272",
+   "types": [
+    "scene"
+   ],
+   "phrase": "mosque",
+   "start": 26,
+   "end": 32
+  }
+ ],
+ "scene_places": []
+}

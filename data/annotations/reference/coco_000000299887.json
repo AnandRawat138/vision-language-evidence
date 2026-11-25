@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000299887",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "motorcycle",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 1,
+  "person": 2,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    5.41,
+    130.27,
+    314.59,
+    344.87
+   ],
+   "area": 75359.64530000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    210.89,
+    106.31,
+    233.39,
+    372.25
+   ],
+   "area": 44840.50395
+  },
+  {
+   "category": "person",
+   "bbox": [
+    370.31,
+    122.12,
+    148.44,
+    357.88
+   ],
+   "area": 33899.64874999999
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    0.0,
+    179.64,
+    47.46,
+    35.01
+   ],
+   "area": 904.0066000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man and a woman are posing next to a red motorcycle.",
+  "A man and woman beside a red motorcycle.",
+  "a man and a woman are standing beside a red motorcycle",
+  "Man and woman sitting on the back of a motorcycle.",
+  "A man and a woman posing in front of a motorcycle."
+ ],
+ "scene_places": []
+}

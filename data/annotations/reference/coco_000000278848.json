@@ -1,0 +1,134 @@
+{
+ "uid": "coco_000000278848",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "bus": 1,
+  "person": 4,
+  "umbrella": 3
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    404.13,
+    343.04,
+    34.1,
+    34.46
+   ],
+   "area": 864.4206999999992
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    70.47,
+    43.51,
+    317.84,
+    258.87
+   ],
+   "area": 51401.0536
+  },
+  {
+   "category": "person",
+   "bbox": [
+    83.0,
+    381.67,
+    107.29,
+    258.06
+   ],
+   "area": 17147.678099999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    168.99,
+    360.6,
+    69.36,
+    272.79
+   ],
+   "area": 12158.375649999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    357.23,
+    393.36,
+    81.95,
+    212.11
+   ],
+   "area": 8188.965900000002
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    102.19,
+    273.75,
+    172.8,
+    53.01
+   ],
+   "area": 5887.057350000001
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    254.48,
+    332.14,
+    165.89,
+    103.92
+   ],
+   "area": 12272.837050000006
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    281.72,
+    290.61,
+    149.53,
+    51.62
+   ],
+   "area": 4212.7957000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    297.71,
+    428.58,
+    63.28,
+    188.41
+   ],
+   "area": 6997.431800000009
+  },
+  {
+   "category": "car",
+   "bbox": [
+    436.65,
+    352.76,
+    42.38,
+    41.52
+   ],
+   "area": 1503.2630000000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people standing outside of a bus.",
+  "People are standing in the rain alongside a bus.",
+  "a black and white picture of people walking in the rain under an umbrella",
+  "People are waiting for the bus with umbrellas.",
+  "A bunch of people standing together with some umbrellas."
+ ],
+ "scene_places": []
+}

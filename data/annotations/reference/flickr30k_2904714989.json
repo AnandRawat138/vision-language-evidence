@@ -1,0 +1,167 @@
+{
+ "uid": "flickr30k_2904714989",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [
+  "camera"
+ ],
+ "attr_available": true,
+ "captions": [
+  "A group of people holds tennis rackets , and pose together near a tennis net .",
+  "A group of young tennis players is posing on the court with their coach .",
+  "A tennis team holding rackets and posing for the picture .",
+  "Several men on a tennis court posing for camera .",
+  "Tennis players all standing around a court ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "80382",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "80383",
+   "types": [
+    "other"
+   ],
+   "phrase": "tennis rackets",
+   "start": 24,
+   "end": 38
+  },
+  {
+   "entity_id": "80384",
+   "types": [
+    "other"
+   ],
+   "phrase": "a tennis net",
+   "start": 64,
+   "end": 76
+  },
+  {
+   "entity_id": "80385",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of young tennis players",
+   "start": 0,
+   "end": 31
+  },
+  {
+   "entity_id": "80388",
+   "types": [
+    "other"
+   ],
+   "phrase": "the court",
+   "start": 45,
+   "end": 54
+  },
+  {
+   "entity_id": "80386",
+   "types": [
+    "people"
+   ],
+   "phrase": "their coach",
+   "start": 60,
+   "end": 71
+  },
+  {
+   "entity_id": "80382",
+   "types": [
+    "people"
+   ],
+   "phrase": "A tennis team",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "80383",
+   "types": [
+    "other"
+   ],
+   "phrase": "rackets",
+   "start": 22,
+   "end": 29
+  },
+  {
+   "entity_id": "80389",
+   "types": [
+    "other"
+   ],
+   "phrase": "the picture",
+   "start": 45,
+   "end": 56
+  },
+  {
+   "entity_id": "80382",
+   "types": [
+    "people"
+   ],
+   "phrase": "Several men",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "80387",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a tennis court",
+   "start": 15,
+   "end": 29
+  },
+  {
+   "entity_id": "80390",
+   "types": [
+    "other"
+   ],
+   "phrase": "camera",
+   "start": 41,
+   "end": 47
+  },
+  {
+   "entity_id": "80382",
+   "types": [
+    "people"
+   ],
+   "phrase": "Tennis players",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "80382",
+   "types": [
+    "people"
+   ],
+   "phrase": "all",
+   "start": 15,
+   "end": 18
+  },
+  {
+   "entity_id": "80388",
+   "types": [
+    "other"
+   ],
+   "phrase": "a court",
+   "start": 35,
+   "end": 42
+  }
+ ],
+ "scene_places": [
+  "sports field"
+ ]
+}

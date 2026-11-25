@@ -1,0 +1,84 @@
+{
+ "uid": "coco_000000432085",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "mouse",
+  "person",
+  "sandwich"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "mouse": 1,
+  "sandwich": 2,
+  "bottle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    198.88,
+    4.92,
+    301.12,
+    364.88
+   ],
+   "area": 48745.04039999999
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    18.35,
+    215.43,
+    64.19,
+    37.16
+   ],
+   "area": 1566.5542999999998
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    205.29,
+    178.86,
+    88.77,
+    56.85
+   ],
+   "area": 3948.6363000000006
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    112.99,
+    103.69,
+    47.9,
+    112.95
+   ],
+   "area": 4611.55975
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    155.46,
+    177.32,
+    87.03,
+    55.72
+   ],
+   "area": 2400.11485
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man leaning his mouth down to a plate that has a sandwich on it and a blue water bottle behind it.",
+  "Without using hands, a man tries to bite a pair of sandwiches.",
+  "A man eating a sandwich off of a white plate.",
+  "A smiling guy sticking his face near a big sandwich.",
+  "A man taking a bite of a sandwich without using his hands"
+ ],
+ "scene_places": []
+}

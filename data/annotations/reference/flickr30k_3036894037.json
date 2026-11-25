@@ -1,0 +1,208 @@
+{
+ "uid": "flickr30k_3036894037",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two uniformed police officers are holding large guns , while an older man sits on the stairs , holding his hat and looking on .",
+  "Two commandos with gun by a staircase and an old man holding a hat is sitting on the stairs .",
+  "Two armed police officers are patrolling the streets .",
+  "A man sits on the steps next to two men with rifles .",
+  "An older man sits next to two armed guards on steps ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "89185",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two uniformed police officers",
+   "start": 0,
+   "end": 29
+  },
+  {
+   "entity_id": "89187",
+   "types": [
+    "other"
+   ],
+   "phrase": "large guns",
+   "start": 42,
+   "end": 52
+  },
+  {
+   "entity_id": "89184",
+   "types": [
+    "people"
+   ],
+   "phrase": "an older man",
+   "start": 61,
+   "end": 73
+  },
+  {
+   "entity_id": "89188",
+   "types": [
+    "other"
+   ],
+   "phrase": "the stairs",
+   "start": 82,
+   "end": 92
+  },
+  {
+   "entity_id": "89186",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "his hat",
+   "start": 103,
+   "end": 110
+  },
+  {
+   "entity_id": "89189",
+   "types": [
+    "other"
+   ],
+   "phrase": "Two commandos",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "89187",
+   "types": [
+    "other"
+   ],
+   "phrase": "gun",
+   "start": 19,
+   "end": 22
+  },
+  {
+   "entity_id": "89188",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a staircase",
+   "start": 26,
+   "end": 37
+  },
+  {
+   "entity_id": "89184",
+   "types": [
+    "people"
+   ],
+   "phrase": "an old man",
+   "start": 42,
+   "end": 52
+  },
+  {
+   "entity_id": "89186",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a hat",
+   "start": 61,
+   "end": 66
+  },
+  {
+   "entity_id": "89188",
+   "types": [
+    "other"
+   ],
+   "phrase": "the stairs",
+   "start": 81,
+   "end": 91
+  },
+  {
+   "entity_id": "89185",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two armed police officers",
+   "start": 0,
+   "end": 25
+  },
+  {
+   "entity_id": "89192",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the streets",
+   "start": 41,
+   "end": 52
+  },
+  {
+   "entity_id": "89184",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "89188",
+   "types": [
+    "other"
+   ],
+   "phrase": "the steps",
+   "start": 14,
+   "end": 23
+  },
+  {
+   "entity_id": "89185",
+   "types": [
+    "people"
+   ],
+   "phrase": "two men",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "89191",
+   "types": [
+    "other"
+   ],
+   "phrase": "rifles",
+   "start": 45,
+   "end": 51
+  },
+  {
+   "entity_id": "89184",
+   "types": [
+    "people"
+   ],
+   "phrase": "An older man",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "89185",
+   "types": [
+    "people"
+   ],
+   "phrase": "two armed guards",
+   "start": 26,
+   "end": 42
+  },
+  {
+   "entity_id": "89188",
+   "types": [
+    "other"
+   ],
+   "phrase": "steps",
+   "start": 46,
+   "end": 51
+  }
+ ],
+ "scene_places": []
+}

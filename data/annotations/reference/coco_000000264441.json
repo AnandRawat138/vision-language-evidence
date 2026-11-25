@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000264441",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cat",
+  "chair"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    16.13,
+    198.92,
+    355.91,
+    219.36
+   ],
+   "area": 46824.30480000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    1.07,
+    5.31,
+    373.39,
+    487.13
+   ],
+   "area": 111417.46215000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cat laying on top of a black office chair.",
+  "Cat covering it's head as it sleeps in the computer chair",
+  "A happy cat curls its paws under its face while it naps on a chair.",
+  "A cat is lying down in a chair.",
+  "A cat is sleeping in a chair with its leg curled around its head."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,84 @@
+{
+ "uid": "coco_000000499313",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "dining table",
+  "pizza",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "pizza": 1,
+  "cup": 2,
+  "dining table": 1,
+  "wine glass": 1
+ },
+ "object_boxes": [
+  {
+   "category": "pizza",
+   "bbox": [
+    44.04,
+    35.45,
+    548.89,
+    361.99
+   ],
+   "area": 147771.9232
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    506.91,
+    0.73,
+    68.17,
+    18.82
+   ],
+   "area": 912.65135
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    4.43,
+    0.0,
+    635.57,
+    468.0
+   ],
+   "area": 55879.901249999995
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    522.4,
+    1.08,
+    117.6,
+    103.22
+   ],
+   "area": 7926.681099999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    397.09,
+    1.87,
+    104.56,
+    70.95
+   ],
+   "area": 5777.920699999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A deep dish and thick crusted pizza with toppings.",
+  "A herb topped pizza lying on a plate.",
+  "A white plate topped with a pizza cut into 6 slices.",
+  "A pizza with cheese and spinach on a plate.",
+  "A pizza on tray cut into six slices."
+ ],
+ "scene_places": []
+}

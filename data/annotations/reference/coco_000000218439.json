@@ -1,0 +1,168 @@
+{
+ "uid": "coco_000000218439",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "cell phone",
+  "cup",
+  "person",
+  "toothbrush",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "person": 7,
+  "bed": 2,
+  "cell phone": 1,
+  "toothbrush": 1,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    0.0,
+    310.65,
+    54.65,
+    117.93
+   ],
+   "area": 5756.35145
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    192.72,
+    453.03,
+    441.53
+   ],
+   "area": 86975.11954999997
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    0.0,
+    405.71,
+    162.52,
+    175.46
+   ],
+   "area": 10372.242449999998
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    99.24,
+    358.11,
+    380.76,
+    281.89
+   ],
+   "area": 14094.46650000001
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    344.29,
+    412.46,
+    39.17,
+    21.03
+   ],
+   "area": 546.0282000000002
+  },
+  {
+   "category": "toothbrush",
+   "bbox": [
+    284.04,
+    309.44,
+    63.34,
+    16.21
+   ],
+   "area": 124.44294999999966
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    372.12,
+    438.0,
+    70.18,
+    106.31
+   ],
+   "area": 6826.449149999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    245.68,
+    265.9,
+    20.75,
+    27.26
+   ],
+   "area": 333.59085000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    216.7,
+    276.22,
+    10.12,
+    15.52
+   ],
+   "area": 92.32609999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    414.73,
+    243.28,
+    16.79,
+    25.68
+   ],
+   "area": 285.9447000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    422.84,
+    236.58,
+    21.48,
+    24.42
+   ],
+   "area": 276.5621500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    437.3,
+    229.85,
+    22.69,
+    25.47
+   ],
+   "area": 302.3619500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    446.01,
+    180.15,
+    27.69,
+    33.65
+   ],
+   "area": 490.3089999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man laying on his bed looking at a phone and brushing his teeth",
+  "This guy is looking at his cell phone while brushing his teeth.",
+  "A man using a toothbrush in his room on bed",
+  "A kid on a bed with dozens of photos on the wall behind him.",
+  "Man brushing his teeth and looking at his phone."
+ ],
+ "scene_places": []
+}

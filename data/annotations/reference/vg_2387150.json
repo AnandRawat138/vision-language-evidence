@@ -1,0 +1,40 @@
+{
+ "uid": "vg_2387150",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "gray",
+   "white"
+  ],
+  "shoes": [
+   "black",
+   "orange"
+  ],
+  "hat": [
+   "red",
+   "white"
+  ],
+  "uniform": [],
+  "pants": [
+   "green",
+   "white"
+  ]
+ },
+ "accessories": [
+  "belt"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

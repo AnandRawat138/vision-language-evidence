@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000229747",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 1
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    172.02,
+    191.99,
+    249.44,
+    152.71
+   ],
+   "area": 10729.757999999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A photo of an outside with various things in the scene.",
+  "A airplane that is flying in the sky.",
+  "a large plane is flying in the sky",
+  "An air plane flies in a dark grey sky",
+  "a large jet airplane flying in the sky"
+ ],
+ "scene_places": []
+}

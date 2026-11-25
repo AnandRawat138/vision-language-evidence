@@ -1,0 +1,126 @@
+{
+ "uid": "coco_000000474167",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "dining table",
+  "handbag",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 1,
+  "person": 3,
+  "pizza": 2,
+  "dining table": 2,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    110.67,
+    14.31,
+    78.19,
+    229.51
+   ],
+   "area": 13460.84845
+  },
+  {
+   "category": "person",
+   "bbox": [
+    84.85,
+    2.97,
+    261.76,
+    171.15
+   ],
+   "area": 22939.120300000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    395.6,
+    12.3,
+    21.05,
+    61.39
+   ],
+   "area": 949.6668999999979
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    1.43,
+    260.29,
+    394.28,
+    212.85
+   ],
+   "area": 50745.26734999999
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    220.04,
+    140.5,
+    155.33,
+    51.78
+   ],
+   "area": 4603.233699999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    333.34,
+    0.69,
+    25.88,
+    43.36
+   ],
+   "area": 555.2649999999998
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    3.33,
+    166.67,
+    116.67,
+    121.66
+   ],
+   "area": 10402.788849999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    190.0,
+    171.67,
+    237.0,
+    86.66
+   ],
+   "area": 7366.75555
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    351.56,
+    0.06,
+    20.53,
+    30.55
+   ],
+   "area": 335.1125000000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woven basket with slices of pizza in it",
+  "People are eating pizza and drinking soda at a table.",
+  "SLICES OF PIZZA IN BASKETS ON A TABLE OUTSIDE",
+  "two plates of pizza and a drink on a wooden table",
+  "A couple of slices of pizza sitting on white paper."
+ ],
+ "scene_places": []
+}

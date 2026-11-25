@@ -1,0 +1,170 @@
+{
+ "uid": "flickr30k_4944644486",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A crowd of people looking towards a person in a gorilla costume inside a building .",
+  "A group of people travel through a line along side a gorilla statue .",
+  "A crowd waits to interact with some people in an indoor location .",
+  "There is a group of people looking at a life sized gorilla .",
+  "A group of people are lined up inside waiting ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "221634",
+   "types": [
+    "people"
+   ],
+   "phrase": "A crowd of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "221639",
+   "types": [
+    "people"
+   ],
+   "phrase": "a person",
+   "start": 34,
+   "end": 42
+  },
+  {
+   "entity_id": "221642",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gorilla costume",
+   "start": 46,
+   "end": 63
+  },
+  {
+   "entity_id": "221643",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a building",
+   "start": 71,
+   "end": 81
+  },
+  {
+   "entity_id": "221634",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "221637",
+   "types": [
+    "other"
+   ],
+   "phrase": "a line",
+   "start": 33,
+   "end": 39
+  },
+  {
+   "entity_id": "221635",
+   "types": [
+    "other"
+   ],
+   "phrase": "a gorilla statue",
+   "start": 51,
+   "end": 67
+  },
+  {
+   "entity_id": "221634",
+   "types": [
+    "people"
+   ],
+   "phrase": "A crowd",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "221640",
+   "types": [
+    "people"
+   ],
+   "phrase": "some people",
+   "start": 31,
+   "end": 42
+  },
+  {
+   "entity_id": "221638",
+   "types": [
+    "other"
+   ],
+   "phrase": "an indoor location",
+   "start": 46,
+   "end": 64
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "There",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "221634",
+   "types": [
+    "people"
+   ],
+   "phrase": "a group of people",
+   "start": 9,
+   "end": 26
+  },
+  {
+   "entity_id": "221636",
+   "types": [
+    "other"
+   ],
+   "phrase": "a life",
+   "start": 38,
+   "end": 44
+  },
+  {
+   "entity_id": "221644",
+   "types": [
+    "animals"
+   ],
+   "phrase": "gorilla",
+   "start": 51,
+   "end": 58
+  },
+  {
+   "entity_id": "221634",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "221641",
+   "types": [
+    "other"
+   ],
+   "phrase": "waiting",
+   "start": 38,
+   "end": 45
+  }
+ ],
+ "scene_places": []
+}

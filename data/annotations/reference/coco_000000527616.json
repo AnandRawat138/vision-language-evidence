@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000527616",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "person",
+  "tie",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "person": 1,
+  "tie": 1,
+  "couch": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    206.2,
+    14.49,
+    207.32,
+    181.68
+   ],
+   "area": 35433.165649999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    256.55,
+    52.91,
+    122.93,
+    117.59
+   ],
+   "area": 7895.991550000001
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    296.96,
+    103.48,
+    27.53,
+    62.42
+   ],
+   "area": 747.5489000000009
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    230.51,
+    112.5,
+    52.64,
+    50.17
+   ],
+   "area": 1773.3955000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A television screen in an open space at a political function.",
+  "A television set with a politician on the screen.",
+  "A picture of someone in the TV on the wall.",
+  "A room that houses several pieces of campaign memorabilia.",
+  "A television is in a wall and on"
+ ],
+ "scene_places": []
+}

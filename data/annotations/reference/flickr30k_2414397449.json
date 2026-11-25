@@ -1,0 +1,163 @@
+{
+ "uid": "flickr30k_2414397449",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A little white and black dog is leaping over a big brown dog 's head in a field of green grass .",
+  "A small white dogs leaps over the back of a larger dog to chase his toy .",
+  "White and black dog jumping over red-haired dog in grass .",
+  "A small dog lands on a big dog trying to get a disc .",
+  "Two dogs are playing in a field of tall grass ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "47720",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A little white and black dog",
+   "start": 0,
+   "end": 28
+  },
+  {
+   "entity_id": "47721",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a big brown dog 's head",
+   "start": 45,
+   "end": 68
+  },
+  {
+   "entity_id": "47722",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field of green grass",
+   "start": 72,
+   "end": 94
+  },
+  {
+   "entity_id": "47723",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "A small white",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "47724",
+   "types": [
+    "animals"
+   ],
+   "phrase": "the back of a larger dog",
+   "start": 30,
+   "end": 54
+  },
+  {
+   "entity_id": "47728",
+   "types": [
+    "other"
+   ],
+   "phrase": "his toy",
+   "start": 64,
+   "end": 71
+  },
+  {
+   "entity_id": "47725",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "White",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "47720",
+   "types": [
+    "animals"
+   ],
+   "phrase": "black dog",
+   "start": 10,
+   "end": 19
+  },
+  {
+   "entity_id": "47724",
+   "types": [
+    "animals"
+   ],
+   "phrase": "red-haired dog",
+   "start": 33,
+   "end": 47
+  },
+  {
+   "entity_id": "47722",
+   "types": [
+    "scene"
+   ],
+   "phrase": "grass",
+   "start": 51,
+   "end": 56
+  },
+  {
+   "entity_id": "47720",
+   "types": [
+    "animals"
+   ],
+   "phrase": "A small dog",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "47720",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a big dog",
+   "start": 21,
+   "end": 30
+  },
+  {
+   "entity_id": "47726",
+   "types": [
+    "other"
+   ],
+   "phrase": "a disc",
+   "start": 45,
+   "end": 51
+  },
+  {
+   "entity_id": "47727",
+   "types": [
+    "animals"
+   ],
+   "phrase": "Two dogs",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "47722",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field of tall grass",
+   "start": 24,
+   "end": 45
+  }
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

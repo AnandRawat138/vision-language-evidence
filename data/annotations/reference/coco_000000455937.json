@@ -1,0 +1,190 @@
+{
+ "uid": "coco_000000455937",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "clock",
+  "couch",
+  "cup",
+  "handbag",
+  "laptop",
+  "person",
+  "remote",
+  "suitcase",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "couch": 2,
+  "person": 1,
+  "laptop": 1,
+  "book": 2,
+  "suitcase": 1,
+  "cup": 1,
+  "chair": 2,
+  "remote": 1,
+  "clock": 1,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    331.48,
+    102.19,
+    136.68,
+    103.32
+   ],
+   "area": 12256.134549999999
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    342.71,
+    287.83,
+    242.58,
+    186.84
+   ],
+   "area": 39171.855650000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    119.73,
+    148.85,
+    134.83,
+    208.18
+   ],
+   "area": 14119.9261
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    102.34,
+    176.38,
+    49.02,
+    39.14
+   ],
+   "area": 1388.3840000000005
+  },
+  {
+   "category": "book",
+   "bbox": [
+    222.06,
+    191.57,
+    74.75,
+    50.12
+   ],
+   "area": 2821.754049999999
+  },
+  {
+   "category": "book",
+   "bbox": [
+    491.81,
+    237.42,
+    48.32,
+    38.66
+   ],
+   "area": 1527.8509499999996
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    79.13,
+    315.94,
+    85.08,
+    85.84
+   ],
+   "area": 5222.285199999998
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    63.78,
+    204.23,
+    13.5,
+    21.63
+   ],
+   "area": 260.9353000000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    333.37,
+    276.4,
+    250.25,
+    203.6
+   ],
+   "area": 43330.37814999999
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    30.2,
+    215.73,
+    99.24,
+    58.25
+   ],
+   "area": 3920.36835
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    244.79,
+    227.45,
+    6.55,
+    6.05
+   ],
+   "area": 20.942350000000005
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    599.19,
+    9.3,
+    20.23,
+    27.78
+   ],
+   "area": 410.1669499999995
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    58.24,
+    316.13,
+    125.98,
+    108.8
+   ],
+   "area": 7340.8598999999995
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    200.86,
+    180.58,
+    168.07
+   ],
+   "area": 11830.38475
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man sits on a chair and plays video games.",
+  "A person that is playing a video game.",
+  "A person watching TV in a living room with lamps.",
+  "The man is in his living room playing a video game.",
+  "A man sitting on a chair playing a video game."
+ ],
+ "scene_places": [
+  "living room"
+ ]
+}

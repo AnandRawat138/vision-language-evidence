@@ -1,0 +1,152 @@
+{
+ "uid": "flickr30k_6420396169",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A small blond boy enjoys a lollipop while getting his hair styled in a salon .",
+  "A young boy getting his hair styled is eating candy .",
+  "A boy gets his haircut while enjoying a lollipop .",
+  "A blond boy getting his hair done .",
+  "A blond boy is getting a haircut ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "254107",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small blond boy",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "254109",
+   "types": [
+    "other"
+   ],
+   "phrase": "a lollipop",
+   "start": 25,
+   "end": 35
+  },
+  {
+   "entity_id": "254110",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hair",
+   "start": 50,
+   "end": 58
+  },
+  {
+   "entity_id": "254111",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a salon",
+   "start": 69,
+   "end": 76
+  },
+  {
+   "entity_id": "254107",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "254108",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hair",
+   "start": 20,
+   "end": 28
+  },
+  {
+   "entity_id": "254109",
+   "types": [
+    "other"
+   ],
+   "phrase": "candy",
+   "start": 46,
+   "end": 51
+  },
+  {
+   "entity_id": "254107",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "254108",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his haircut",
+   "start": 11,
+   "end": 22
+  },
+  {
+   "entity_id": "254109",
+   "types": [
+    "other"
+   ],
+   "phrase": "a lollipop",
+   "start": 38,
+   "end": 48
+  },
+  {
+   "entity_id": "254107",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "254110",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hair",
+   "start": 20,
+   "end": 28
+  },
+  {
+   "entity_id": "254107",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "254108",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a haircut",
+   "start": 23,
+   "end": 32
+  }
+ ],
+ "scene_places": []
+}

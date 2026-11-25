@@ -1,0 +1,156 @@
+{
+ "uid": "coco_000000344029",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "bus": 2,
+  "person": 6,
+  "tie": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    27.44,
+    226.65,
+    20.03,
+    40.31
+   ],
+   "area": 365.56304999999986
+  },
+  {
+   "category": "car",
+   "bbox": [
+    1.35,
+    223.67,
+    38.62,
+    47.31
+   ],
+   "area": 1369.5109
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    91.95,
+    112.22,
+    503.09,
+    291.83
+   ],
+   "area": 119550.3044
+  },
+  {
+   "category": "person",
+   "bbox": [
+    188.37,
+    241.83,
+    22.08,
+    25.81
+   ],
+   "area": 355.63535
+  },
+  {
+   "category": "person",
+   "bbox": [
+    212.59,
+    243.9,
+    15.05,
+    13.73
+   ],
+   "area": 167.80604999999983
+  },
+  {
+   "category": "person",
+   "bbox": [
+    257.94,
+    220.43,
+    38.64,
+    52.1
+   ],
+   "area": 1431.1944499999993
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    376.08,
+    227.09,
+    5.41,
+    22.98
+   ],
+   "area": 62.947599999999525
+  },
+  {
+   "category": "person",
+   "bbox": [
+    183.29,
+    231.76,
+    11.79,
+    22.33
+   ],
+   "area": 175.88240000000025
+  },
+  {
+   "category": "car",
+   "bbox": [
+    40.56,
+    228.86,
+    27.92,
+    35.64
+   ],
+   "area": 656.6972999999998
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    39.65,
+    214.22,
+    56.16,
+    34.37
+   ],
+   "area": 1267.6096000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    241.29,
+    250.29,
+    10.64,
+    17.06
+   ],
+   "area": 140.10440000000048
+  },
+  {
+   "category": "person",
+   "bbox": [
+    345.35,
+    199.73,
+    70.16,
+    65.9
+   ],
+   "area": 1146.8516999999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bus that is driving down the road.",
+  "A city bus is driving through the town",
+  "no image again there are a lot of these lately",
+  "A city bus is driving down the road next to buildings.",
+  "A black passenger bus navigating paved city streets."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

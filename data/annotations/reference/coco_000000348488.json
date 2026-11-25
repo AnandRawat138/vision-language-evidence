@@ -1,0 +1,80 @@
+{
+ "uid": "coco_000000348488",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 4,
+  "vase": 1
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    36.13,
+    104.09,
+    334.45,
+    280.77
+   ],
+   "area": 30392.824000000008
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    263.79,
+    83.28,
+    156.21,
+    304.13
+   ],
+   "area": 15978.354799999992
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    184.45,
+    88.45,
+    369.98,
+    373.21
+   ],
+   "area": 26244.267750000006
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    443.49,
+    97.82,
+    142.82,
+    195.44
+   ],
+   "area": 12022.800949999993
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    4.31,
+    0.0,
+    605.13,
+    463.82
+   ],
+   "area": 251449.29080000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A Egyptian painting with 4 black horses on it",
+  "Four black horses being driven across the sky on this ancient vase.",
+  "A decorative vase with several black horses and a rider.",
+  "A vase with a painting of a man riding a horse drawn carriage.",
+  "A brown vase has four black horses on it."
+ ],
+ "scene_places": []
+}

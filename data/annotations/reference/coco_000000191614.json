@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000191614",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 2,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    73.07,
+    310.37,
+    154.97,
+    169.85
+   ],
+   "area": 15488.518000000002
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    295.47,
+    302.83,
+    130.16,
+    101.21
+   ],
+   "area": 4432.028899999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    347.77,
+    289.95,
+    33.8,
+    66.87
+   ],
+   "area": 894.4915499999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A horse standing in a lush green grass field.",
+  "A person riding a horse in a horse park while another horse wonders in nearby grass.",
+  "A rider is riding a horse at a race track.",
+  "One horse being ridden by a person and another horse are in a training area.",
+  "Person riding a horse while another horse stands in a field."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000245026",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cake",
+  "cup",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "cup": 1,
+  "cake": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    178.58,
+    32.95,
+    246.37,
+    274.07
+   ],
+   "area": 37241.44040000001
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    522.21,
+    343.08,
+    63.49,
+    77.92
+   ],
+   "area": 4183.9679
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    191.42,
+    270.62,
+    239.28,
+    134.96
+   ],
+   "area": 28407.669799999996
+  },
+  {
+   "category": "book",
+   "bbox": [
+    517.19,
+    357.06,
+    113.94,
+    42.22
+   ],
+   "area": 1600.8773500000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "an image of a woman holding a cake",
+  "A woman wearing glasses poses behind her birthday cake.",
+  "A woman in glasses sitting behind a sheet cake.",
+  "A woman holding up a cake for her birthday",
+  "A woman in glasses holding up a cake with frosting."
+ ],
+ "scene_places": []
+}

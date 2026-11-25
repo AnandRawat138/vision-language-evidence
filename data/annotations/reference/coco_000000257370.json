@@ -1,0 +1,94 @@
+{
+ "uid": "coco_000000257370",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "potted plant",
+  "remote",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 1,
+  "person": 2,
+  "remote": 2,
+  "potted plant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    273.98,
+    158.56,
+    340.85,
+    316.05
+   ],
+   "area": 57642.07160000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    494.05,
+    55.68,
+    145.95,
+    419.46
+   ],
+   "area": 28033.086800000005
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    581.21,
+    58.94,
+    58.79,
+    23.43
+   ],
+   "area": 263.0156999999992
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    504.94,
+    14.96,
+    78.54,
+    122.18
+   ],
+   "area": 3550.2801999999992
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    113.66,
+    175.06,
+    16.35,
+    50.44
+   ],
+   "area": 214.99500000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    50.98,
+    181.55,
+    422.8
+   ],
+   "area": 51761.3833
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "two people are playing a baseball video game",
+  "Two people playing a game on a TV.",
+  "Two kids are playing baseball in Wii Sports",
+  "Two young men playing a game on the Nintendo Wii.",
+  "Two people playing a video game on a television."
+ ],
+ "scene_places": []
+}

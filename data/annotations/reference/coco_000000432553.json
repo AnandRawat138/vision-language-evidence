@@ -1,0 +1,84 @@
+{
+ "uid": "coco_000000432553",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bicycle",
+  "dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 2,
+  "bicycle": 1,
+  "person": 1,
+  "bench": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    0.35,
+    197.05,
+    216.92,
+    275.77
+   ],
+   "area": 36292.30345000001
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    1.29,
+    213.68,
+    108.39,
+    247.74
+   ],
+   "area": 6415.757349999999
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    79.66,
+    78.28,
+    67.29,
+    155.2
+   ],
+   "area": 4193.931099999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    203.24,
+    2.16,
+    183.07,
+    517.48
+   ],
+   "area": 39697.17660000001
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    247.69,
+    0.0,
+    176.21,
+    292.57
+   ],
+   "area": 35091.55774999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of dogs viewing something as a person sits in a chair.",
+  "A person sitting on a seat on a bus next to brown dogs.",
+  "A bike, two dogs and a man sitting on public transportation.",
+  "The view of two dogs inside a bus.",
+  "Two dogs in the aisle of a bus next to a bicycle."
+ ],
+ "scene_places": []
+}

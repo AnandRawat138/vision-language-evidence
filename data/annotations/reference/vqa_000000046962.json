@@ -1,0 +1,231 @@
+{
+ "uid": "vqa_000000046962",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sheep": 14
+ },
+ "object_boxes": [
+  {
+   "category": "sheep",
+   "bbox": [
+    364.69,
+    228.71,
+    165.85,
+    172.27
+   ],
+   "area": 15898.126900000003
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    99.68,
+    172.72,
+    66.2,
+    57.3
+   ],
+   "area": 2456.67295
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    97.71,
+    139.52,
+    41.7,
+    37.11
+   ],
+   "area": 1090.5286
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    346.47,
+    118.13,
+    27.01,
+    29.7
+   ],
+   "area": 571.4414999999995
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    282.16,
+    126.84,
+    12.05,
+    10.33
+   ],
+   "area": 67.66194999999992
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    245.32,
+    133.17,
+    17.38,
+    11.31
+   ],
+   "area": 122.39024999999997
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    496.82,
+    130.39,
+    40.23,
+    33.83
+   ],
+   "area": 880.2899499999992
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    507.31,
+    122.87,
+    34.64,
+    19.22
+   ],
+   "area": 314.5147999999999
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    371.15,
+    118.76,
+    17.24,
+    25.3
+   ],
+   "area": 283.6742999999999
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    435.24,
+    96.31,
+    28.68,
+    22.03
+   ],
+   "area": 393.00079999999986
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    492.74,
+    90.26,
+    23.64,
+    20.35
+   ],
+   "area": 348.1933000000005
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    506.24,
+    88.09,
+    16.48,
+    13.27
+   ],
+   "area": 126.28969999999983
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    370.88,
+    106.73,
+    10.21,
+    10.1
+   ],
+   "area": 71.95734999999986
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    1,
+    94,
+    428,
+    82
+   ],
+   "area": 2151
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Several sheep are standing beside a road while one walks on it.",
+  "some brown and white sheep a road dirt and some water",
+  "A lot of lambs walking around a beach.",
+  "A group of sheep gather on the side of the road.",
+  "A herd of sheep on a beach next to a body of water and on the road."
+ ],
+ "scene_places": [
+  "beach",
+  "street",
+  "water"
+ ],
+ "vqa": [
+  {
+   "question_id": 46962000,
+   "question": "What type of animal is located in this image?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "sheep",
+   "answers": [
+    "mountain goat",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep"
+   ]
+  },
+  {
+   "question_id": 46962001,
+   "question": "Is there a body of water near?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 46962002,
+   "question": "Is one of the sheep on the road?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

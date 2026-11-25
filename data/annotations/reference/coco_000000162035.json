@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000162035",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "teddy bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "teddy bear": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    57.3,
+    0.84,
+    145.79,
+    326.97
+   ],
+   "area": 28458.701600000004
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    368.26,
+    149.02,
+    88.48,
+    201.4
+   ],
+   "area": 8749.702099999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    400.76,
+    0.19,
+    57.97,
+    17.48
+   ],
+   "area": 366.6979500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    252.56,
+    0.09,
+    53.55,
+    46.58
+   ],
+   "area": 1043.2628500000012
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    256.89,
+    5.69,
+    88.84,
+    137.62
+   ],
+   "area": 6484.8866
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A sign with teddy bears on it is advertising a tea room.",
+  "A fold out sign sitting on a rainy sidewalk.",
+  "A sign on a sidewalk has a teddy bear on it.",
+  "a sign with teddy bears and some people walking on a wet street",
+  "A person walking down a street past a teddy bear sign."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

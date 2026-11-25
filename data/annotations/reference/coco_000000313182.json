@@ -1,0 +1,176 @@
+{
+ "uid": "coco_000000313182",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bus": 1,
+  "person": 9,
+  "handbag": 2,
+  "car": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bus",
+   "bbox": [
+    180.08,
+    128.63,
+    393.51,
+    259.16
+   ],
+   "area": 76214.87294999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    251.15,
+    57.53,
+    145.1
+   ],
+   "area": 4430.402950000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    426.03,
+    212.78,
+    13.07,
+    41.92
+   ],
+   "area": 268.1354
+  },
+  {
+   "category": "person",
+   "bbox": [
+    412.49,
+    234.65,
+    18.16,
+    19.45
+   ],
+   "area": 268.42869999999976
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    49.49,
+    277.74,
+    26.54,
+    36.08
+   ],
+   "area": 475.52284999999995
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    17.41,
+    278.9,
+    32.25,
+    64.49
+   ],
+   "area": 758.9739500000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    564.78,
+    229.54,
+    30.11,
+    12.99
+   ],
+   "area": 266.3748999999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    564.86,
+    245.29,
+    14.04,
+    20.92
+   ],
+   "area": 236.6022
+  },
+  {
+   "category": "person",
+   "bbox": [
+    361.61,
+    210.71,
+    25.5,
+    42.98
+   ],
+   "area": 532.6831999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    3.89,
+    241.21,
+    37.01,
+    44.27
+   ],
+   "area": 481.0022499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    302.96,
+    221.84,
+    5.73,
+    13.02
+   ],
+   "area": 54.717050000000036
+  },
+  {
+   "category": "person",
+   "bbox": [
+    5.09,
+    240.46,
+    37.12,
+    45.02
+   ],
+   "area": 517.9113999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    42.61,
+    240.93,
+    33.43,
+    98.09
+   ],
+   "area": 1523.3210000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    248.27,
+    227.92,
+    12.13,
+    22.89
+   ],
+   "area": 67.5361999999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A purple and white bus driving down a street.",
+  "A purple and white city bus pulling up to the curb",
+  "A purple and white bus in a parking lot.",
+  "A purple bus with a person on the side driving around a curb.",
+  "A bus sits diagonal from the curb next to a building and people."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

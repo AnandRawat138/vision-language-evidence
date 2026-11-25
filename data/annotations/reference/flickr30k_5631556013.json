@@ -1,0 +1,219 @@
+{
+ "uid": "flickr30k_5631556013",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shorts": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "skinny dark complected boy , jumping into a vast of water with his nose held so water does n't rush in .",
+  "Boy wearing rust colored shorts in mid leap into water while holding his nose .",
+  "A young man wearing only shorts is jumping from the pier into the water .",
+  "One young boy holding his breath and jumping in the lake on a warm day .",
+  "A young boy is holding his breath while he jumps into water ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "240045",
+   "types": [
+    "people"
+   ],
+   "phrase": "skinny dark complected boy",
+   "start": 0,
+   "end": 26
+  },
+  {
+   "entity_id": "240046",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a vast of water",
+   "start": 42,
+   "end": 57
+  },
+  {
+   "entity_id": "240049",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his nose",
+   "start": 63,
+   "end": 71
+  },
+  {
+   "entity_id": "240046",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 80,
+   "end": 85
+  },
+  {
+   "entity_id": "240045",
+   "types": [
+    "people"
+   ],
+   "phrase": "Boy",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "240050",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "rust colored shorts",
+   "start": 12,
+   "end": 31
+  },
+  {
+   "entity_id": "240053",
+   "types": [
+    "other"
+   ],
+   "phrase": "mid leap",
+   "start": 35,
+   "end": 43
+  },
+  {
+   "entity_id": "240046",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 49,
+   "end": 54
+  },
+  {
+   "entity_id": "240049",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his nose",
+   "start": 69,
+   "end": 77
+  },
+  {
+   "entity_id": "240045",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "240050",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "only shorts",
+   "start": 20,
+   "end": 31
+  },
+  {
+   "entity_id": "240051",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the pier",
+   "start": 48,
+   "end": 56
+  },
+  {
+   "entity_id": "240046",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 62,
+   "end": 71
+  },
+  {
+   "entity_id": "240045",
+   "types": [
+    "people"
+   ],
+   "phrase": "One young boy",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "240048",
+   "types": [
+    "other"
+   ],
+   "phrase": "his breath",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "240046",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the lake",
+   "start": 48,
+   "end": 56
+  },
+  {
+   "entity_id": "240052",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a warm day",
+   "start": 60,
+   "end": 70
+  },
+  {
+   "entity_id": "240045",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "240048",
+   "types": [
+    "other"
+   ],
+   "phrase": "his breath",
+   "start": 23,
+   "end": 33
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "he",
+   "start": 40,
+   "end": 42
+  },
+  {
+   "entity_id": "240046",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 54,
+   "end": 59
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

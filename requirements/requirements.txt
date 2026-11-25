@@ -1,0 +1,20 @@
+# Core (install torch/torchvision from the CUDA index first, see README)
+transformers==4.57.3
+accelerate==1.12.0
+bitsandbytes==0.50.2
+pydantic==2.12.5
+pyyaml
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+opencv-python-headless
+pillow
+psutil
+nvidia-ml-py
+fastapi
+uvicorn
+httpx
+pytest
+remotezip

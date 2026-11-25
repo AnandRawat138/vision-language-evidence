@@ -1,0 +1,183 @@
+{
+ "uid": "flickr30k_6774537791",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "yellow"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A skier midair during what appears to be a daring flip on a sunny ski slope .",
+  "A skier in a yellow and green shirt doing a flip in the air .",
+  "a skier is in the middle of performing a midair trick .",
+  "A skier does a jump in front of an empty chair lift .",
+  "This is a skier getting some nice jumps in ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "257797",
+   "types": [
+    "scene"
+   ],
+   "phrase": "A skier midair",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "what",
+   "start": 22,
+   "end": 26
+  },
+  {
+   "entity_id": "257795",
+   "types": [
+    "other"
+   ],
+   "phrase": "a daring flip",
+   "start": 41,
+   "end": 54
+  },
+  {
+   "entity_id": "257801",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sunny ski slope",
+   "start": 58,
+   "end": 75
+  },
+  {
+   "entity_id": "257794",
+   "types": [
+    "people"
+   ],
+   "phrase": "A skier",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "257803",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a yellow and green shirt",
+   "start": 11,
+   "end": 35
+  },
+  {
+   "entity_id": "257795",
+   "types": [
+    "other"
+   ],
+   "phrase": "a flip",
+   "start": 42,
+   "end": 48
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 52,
+   "end": 59
+  },
+  {
+   "entity_id": "257794",
+   "types": [
+    "people"
+   ],
+   "phrase": "a skier",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "257796",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle",
+   "start": 14,
+   "end": 24
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a midair trick",
+   "start": 39,
+   "end": 53
+  },
+  {
+   "entity_id": "257794",
+   "types": [
+    "people"
+   ],
+   "phrase": "A skier",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a jump",
+   "start": 13,
+   "end": 19
+  },
+  {
+   "entity_id": "257800",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an empty chair lift",
+   "start": 32,
+   "end": 51
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "This",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "257794",
+   "types": [
+    "people"
+   ],
+   "phrase": "a skier",
+   "start": 8,
+   "end": 15
+  },
+  {
+   "entity_id": "257802",
+   "types": [
+    "other"
+   ],
+   "phrase": "some nice",
+   "start": 24,
+   "end": 33
+  }
+ ],
+ "scene_places": []
+}

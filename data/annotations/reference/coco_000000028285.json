@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000028285",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    306.11,
+    205.56,
+    23.93,
+    24.15
+   ],
+   "area": 431.3873500000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white clock tower at the top of a tiled building.",
+  "A small white tower off of a tiled roof.",
+  "A large white and blue clock tower sitting over a roof.",
+  "The view of a top of a buildings spire showing a small clock on it.",
+  "a white steeple near the roof of a neighboring building."
+ ],
+ "scene_places": []
+}

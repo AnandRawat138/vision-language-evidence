@@ -1,0 +1,156 @@
+{
+ "uid": "flickr30k_4719086173",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "suit": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Firefighters walk down a street with a red tape strung across the area .",
+  "A group of firemen move about in a restricted area .",
+  "Firefighters in black suits walking in Chicago .",
+  "Firemen walk on a street next to a building .",
+  "A group of firemen leaving a fire scene ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "195005",
+   "types": [
+    "people"
+   ],
+   "phrase": "Firefighters",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "195007",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street",
+   "start": 23,
+   "end": 31
+  },
+  {
+   "entity_id": "195010",
+   "types": [
+    "other"
+   ],
+   "phrase": "a red tape",
+   "start": 37,
+   "end": 47
+  },
+  {
+   "entity_id": "195006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the area",
+   "start": 62,
+   "end": 70
+  },
+  {
+   "entity_id": "195005",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of firemen",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "195006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a restricted area",
+   "start": 33,
+   "end": 50
+  },
+  {
+   "entity_id": "195005",
+   "types": [
+    "people"
+   ],
+   "phrase": "Firefighters",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "195011",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black suits",
+   "start": 16,
+   "end": 27
+  },
+  {
+   "entity_id": "195008",
+   "types": [
+    "other"
+   ],
+   "phrase": "Chicago",
+   "start": 39,
+   "end": 46
+  },
+  {
+   "entity_id": "195005",
+   "types": [
+    "people"
+   ],
+   "phrase": "Firemen",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "195007",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street",
+   "start": 16,
+   "end": 24
+  },
+  {
+   "entity_id": "195009",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a building",
+   "start": 33,
+   "end": 43
+  },
+  {
+   "entity_id": "195005",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of firemen",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "195006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a fire scene",
+   "start": 27,
+   "end": 39
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

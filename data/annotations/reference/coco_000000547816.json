@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000547816",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "sink",
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 2,
+  "toilet": 1,
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    88.26,
+    409.12,
+    11.52,
+    34.06
+   ],
+   "area": 343.0645
+  },
+  {
+   "category": "toilet",
+   "bbox": [
+    98.58,
+    497.98,
+    84.85,
+    134.4
+   ],
+   "area": 8138.380949999997
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    77.43,
+    410.7,
+    12.66,
+    35.37
+   ],
+   "area": 254.23274999999973
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    0.0,
+    518.65,
+    11.64,
+    53.19
+   ],
+   "area": 259.8404000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A view of a bathroom with the shower curtain open.",
+  "Small white bathroom with a black-and-white shower curtain.",
+  "A bathroom has a shower, sink, and toilet in it.",
+  "a tub and toilet in a small bathroom",
+  "A residential bathroom with sink, tub, and toilet setting in it."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "uid": "coco_000000143572",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 14,
+  "tennis racket": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    230.37,
+    170.04,
+    182.49,
+    253.66
+   ],
+   "area": 12101.621650000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    405.14,
+    140.37,
+    27.6,
+    47.07
+   ],
+   "area": 725.1092
+  },
+  {
+   "category": "person",
+   "bbox": [
+    237.12,
+    137.66,
+    24.18,
+    26.92
+   ],
+   "area": 294.4684500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    202.86,
+    136.58,
+    22.01,
+    34.75
+   ],
+   "area": 364.0703499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    480.93,
+    219.99,
+    30.92,
+    24.9
+   ],
+   "area": 387.7438499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    181.62,
+    150.11,
+    27.84,
+    54.75
+   ],
+   "area": 929.5695500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    174.1,
+    130.03,
+    25.71,
+    35.91
+   ],
+   "area": 460.32905
+  },
+  {
+   "category": "person",
+   "bbox": [
+    237.93,
+    151.78,
+    26.65,
+    60.11
+   ],
+   "area": 1092.796349999999
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    150.0,
+    199.66,
+    98.49,
+    50.31
+   ],
+   "area": 1896.1289500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    118.74,
+    142.06,
+    30.15,
+    53.43
+   ],
+   "area": 728.70505
+  },
+  {
+   "category": "person",
+   "bbox": [
+    153.81,
+    277.13,
+    52.02,
+    34.11
+   ],
+   "area": 860.11935
+  },
+  {
+   "category": "person",
+   "bbox": [
+    426.16,
+    151.18,
+    34.48,
+    59.03
+   ],
+   "area": 814.8364999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    427.16,
+    36.58,
+    21.5,
+    30.39
+   ],
+   "area": 331.0674500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    559.46,
+    50.66,
+    26.43,
+    36.34
+   ],
+   "area": 622.2930000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    55,
+    146,
+    535,
+    232
+   ],
+   "area": 5676
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a tennis player swings his tennis racket",
+  "A Tenn player that is returning a tennis ball back to his opponent.",
+  "A man holding a tennis racquet on top of a tennis court.",
+  "a man swinging his tennis racket to he can hit a ball",
+  "A man holding a tennis racket in his hand while on the tennis court"
+ ],
+ "scene_places": [
+  "sports field"
+ ]
+}

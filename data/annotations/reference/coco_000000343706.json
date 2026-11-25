@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000343706",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    179.21,
+    313.78,
+    131.1,
+    85.61
+   ],
+   "area": 5981.046
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    2.3,
+    640.0,
+    487.09
+   ],
+   "area": 266844.89134999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman holding her cell phone tucked in a wool cover.",
+  "A cell phone fits snugly in a crocheted phone case.",
+  "A woman has crocheted case for her iPhone.",
+  "A woman's hand holding a crocheted iPhone cover.",
+  "It is winter, and this young woman wearing her cold weaterh coat also has her Smartphone in a handknitted sleeve."
+ ],
+ "scene_places": []
+}

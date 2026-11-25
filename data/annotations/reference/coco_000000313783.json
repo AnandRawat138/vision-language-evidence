@@ -1,0 +1,100 @@
+{
+ "uid": "coco_000000313783",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "carrot",
+  "fork"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "fork": 1,
+  "carrot": 6
+ },
+ "object_boxes": [
+  {
+   "category": "fork",
+   "bbox": [
+    362.36,
+    3.37,
+    137.64,
+    206.46
+   ],
+   "area": 6025.908
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    26.01,
+    100.74,
+    59.73,
+    54.76
+   ],
+   "area": 1756.9557000000002
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    1.05,
+    145.5,
+    48.28,
+    75.49
+   ],
+   "area": 2794.4449499999996
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    6.19,
+    81.81,
+    54.84,
+    34.49
+   ],
+   "area": 1306.6212499999997
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    0.84,
+    26.47,
+    65.29,
+    125.91
+   ],
+   "area": 4359.323399999999
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    80.28,
+    80.99,
+    63.1,
+    65.07
+   ],
+   "area": 3033.44355
+  },
+  {
+   "category": "carrot",
+   "bbox": [
+    37.94,
+    135.88,
+    62.65,
+    49.41
+   ],
+   "area": 2113.7750500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A plate of food featuring burger patties, potatoes and carrots.",
+  "Two sausage patties, carrots and potatoes on a plate with a fork.",
+  "The meal on the dish is ready to be eaten.",
+  "Bunless burgers are a healthy option when paired with vegetables.",
+  "Two burgers sit on a plate next to carrots and potatoes."
+ ],
+ "scene_places": []
+}

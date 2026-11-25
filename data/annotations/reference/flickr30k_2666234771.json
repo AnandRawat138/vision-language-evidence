@@ -1,0 +1,206 @@
+{
+ "uid": "flickr30k_2666234771",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "pants": [
+   "black"
+  ],
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man wearing black pants and a white long-sleeved shirt appears to be dancing in the middle of a street .",
+  "A man dances with flags in the street in front of a group of onlookers .",
+  "A man in old costume leaps across an English street besides a Peugeot .",
+  "A man jumping in the middle of the street with flags attached to him .",
+  "Man performing a dance in the street ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "65003",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "65010",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black pants",
+   "start": 14,
+   "end": 25
+  },
+  {
+   "entity_id": "65009",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white long-sleeved shirt",
+   "start": 30,
+   "end": 56
+  },
+  {
+   "entity_id": "65006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of a street",
+   "start": 82,
+   "end": 104
+  },
+  {
+   "entity_id": "65003",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "65011",
+   "types": [
+    "other"
+   ],
+   "phrase": "flags",
+   "start": 18,
+   "end": 23
+  },
+  {
+   "entity_id": "65006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 27,
+   "end": 37
+  },
+  {
+   "entity_id": "65008",
+   "types": [
+    "people"
+   ],
+   "phrase": "a group of onlookers",
+   "start": 50,
+   "end": 70
+  },
+  {
+   "entity_id": "65003",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "65012",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "old costume",
+   "start": 9,
+   "end": 20
+  },
+  {
+   "entity_id": "65006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an English street",
+   "start": 34,
+   "end": 51
+  },
+  {
+   "entity_id": "65013",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a Peugeot",
+   "start": 60,
+   "end": 69
+  },
+  {
+   "entity_id": "65003",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "65006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of the street",
+   "start": 17,
+   "end": 41
+  },
+  {
+   "entity_id": "65004",
+   "types": [
+    "other"
+   ],
+   "phrase": "flags",
+   "start": 47,
+   "end": 52
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 65,
+   "end": 68
+  },
+  {
+   "entity_id": "65003",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "65005",
+   "types": [
+    "other"
+   ],
+   "phrase": "a dance",
+   "start": 15,
+   "end": 22
+  },
+  {
+   "entity_id": "65006",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 26,
+   "end": 36
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

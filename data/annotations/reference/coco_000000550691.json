@@ -1,0 +1,116 @@
+{
+ "uid": "coco_000000550691",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "bus": 2,
+  "person": 2,
+  "tie": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    116.23,
+    285.85,
+    85.03,
+    71.03
+   ],
+   "area": 4398.860449999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    443.24,
+    285.77,
+    23.46,
+    16.72
+   ],
+   "area": 283.99359999999933
+  },
+  {
+   "category": "car",
+   "bbox": [
+    447.61,
+    282.01,
+    14.25,
+    3.56
+   ],
+   "area": 43.57994999999991
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    192.0,
+    59.33,
+    250.25,
+    351.64
+   ],
+   "area": 79432.42945000001
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    5.39,
+    216.81,
+    161.8,
+    108.94
+   ],
+   "area": 13923.867999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    490.99,
+    277.5,
+    9.59,
+    23.7
+   ],
+   "area": 157.58669999999967
+  },
+  {
+   "category": "person",
+   "bbox": [
+    248.16,
+    251.0,
+    41.37,
+    34.41
+   ],
+   "area": 687.0972
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    264.18,
+    271.77,
+    2.9,
+    10.92
+   ],
+   "area": 23.053750000000115
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A red double decker bus on a street.",
+  "A double decker bus is going down a street.",
+  "a passangers bus moving on the opposite side with the car",
+  "double-decker buses in the street in residential area",
+  "A red double decker bus headed to Victoria is parked on the side of the street."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

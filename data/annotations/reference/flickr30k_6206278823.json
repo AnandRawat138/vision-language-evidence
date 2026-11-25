@@ -1,0 +1,172 @@
+{
+ "uid": "flickr30k_6206278823",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "red"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A goalie in the hockey game is in a stance while watching what is happening during the game .",
+  "The Whatcom Warrior 's Goalie is focused on the puck , in front of the goal post .",
+  "A hockey goalie stands in front of the net at the ready .",
+  "Hockey goalie in red jersey ready to block a shot .",
+  "a goalie getting ready to defend the net"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "250042",
+   "types": [
+    "people"
+   ],
+   "phrase": "A goalie",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "250046",
+   "types": [
+    "other"
+   ],
+   "phrase": "the hockey game",
+   "start": 12,
+   "end": 27
+  },
+  {
+   "entity_id": "250042",
+   "types": [
+    "other"
+   ],
+   "phrase": "a stance",
+   "start": 34,
+   "end": 42
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "what",
+   "start": 58,
+   "end": 62
+  },
+  {
+   "entity_id": "250045",
+   "types": [
+    "other"
+   ],
+   "phrase": "the game",
+   "start": 83,
+   "end": 91
+  },
+  {
+   "entity_id": "250042",
+   "types": [
+    "people"
+   ],
+   "phrase": "The Whatcom Warrior 's Goalie",
+   "start": 0,
+   "end": 29
+  },
+  {
+   "entity_id": "250050",
+   "types": [
+    "other"
+   ],
+   "phrase": "the puck",
+   "start": 44,
+   "end": 52
+  },
+  {
+   "entity_id": "250043",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the goal post",
+   "start": 67,
+   "end": 80
+  },
+  {
+   "entity_id": "250042",
+   "types": [
+    "people"
+   ],
+   "phrase": "A hockey goalie",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "250043",
+   "types": [
+    "other"
+   ],
+   "phrase": "the net",
+   "start": 35,
+   "end": 42
+  },
+  {
+   "entity_id": "250048",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ready",
+   "start": 46,
+   "end": 55
+  },
+  {
+   "entity_id": "250042",
+   "types": [
+    "people"
+   ],
+   "phrase": "Hockey goalie",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "250052",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red jersey",
+   "start": 17,
+   "end": 27
+  },
+  {
+   "entity_id": "250049",
+   "types": [
+    "other"
+   ],
+   "phrase": "a shot",
+   "start": 43,
+   "end": 49
+  },
+  {
+   "entity_id": "250042",
+   "types": [
+    "people"
+   ],
+   "phrase": "a goalie",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "250043",
+   "types": [
+    "other"
+   ],
+   "phrase": "the net",
+   "start": 33,
+   "end": 40
+  }
+ ],
+ "scene_places": []
+}

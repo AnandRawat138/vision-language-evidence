@@ -1,0 +1,199 @@
+{
+ "uid": "flickr30k_2741990005",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A high jumper goes at his craft , leaping over the pole as a bright sky of blue and occasional white clouds pass overhead .",
+  "There is a man or woman attempting the high jump on a mostly clear day , it looks like they are about to clear the pole .",
+  "A woman jumping over a bar during the day .",
+  "An Olympic jumper crossing the rope .",
+  "A man vaults over a high bar ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "69744",
+   "types": [
+    "people"
+   ],
+   "phrase": "A high jumper",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "69750",
+   "types": [
+    "other"
+   ],
+   "phrase": "his craft",
+   "start": 22,
+   "end": 31
+  },
+  {
+   "entity_id": "69745",
+   "types": [
+    "other"
+   ],
+   "phrase": "the pole",
+   "start": 47,
+   "end": 55
+  },
+  {
+   "entity_id": "69747",
+   "types": [
+    "other"
+   ],
+   "phrase": "a bright sky of blue and occasional white clouds",
+   "start": 59,
+   "end": 107
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "There",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "69744",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 9,
+   "end": 14
+  },
+  {
+   "entity_id": "69744",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 18,
+   "end": 23
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the high jump",
+   "start": 35,
+   "end": 48
+  },
+  {
+   "entity_id": "69746",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a mostly clear day",
+   "start": 52,
+   "end": 70
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 73,
+   "end": 75
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "they",
+   "start": 87,
+   "end": 91
+  },
+  {
+   "entity_id": "69745",
+   "types": [
+    "other"
+   ],
+   "phrase": "the pole",
+   "start": 111,
+   "end": 119
+  },
+  {
+   "entity_id": "69744",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "69745",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a bar",
+   "start": 21,
+   "end": 26
+  },
+  {
+   "entity_id": "69746",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the day",
+   "start": 34,
+   "end": 41
+  },
+  {
+   "entity_id": "69744",
+   "types": [
+    "people"
+   ],
+   "phrase": "An Olympic jumper",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "69745",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rope",
+   "start": 27,
+   "end": 35
+  },
+  {
+   "entity_id": "69744",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "69745",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a high bar",
+   "start": 18,
+   "end": 28
+  }
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

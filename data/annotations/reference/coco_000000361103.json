@@ -1,0 +1,312 @@
+{
+ "uid": "coco_000000361103",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bicycle",
+  "cell phone",
+  "handbag",
+  "person",
+  "potted plant",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 2,
+  "traffic light": 4,
+  "backpack": 1,
+  "person": 14,
+  "handbag": 3,
+  "potted plant": 2,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    326.67,
+    275.76,
+    17.41,
+    46.96
+   ],
+   "area": 419.0600500000002
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    535.79,
+    268.86,
+    25.84,
+    63.03
+   ],
+   "area": 727.29825
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    491.92,
+    123.87,
+    35.11,
+    103.5
+   ],
+   "area": 3193.6639499999987
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    0.0,
+    65.25,
+    165.04,
+    339.68
+   ],
+   "area": 44636.80430000001
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    609.39,
+    151.16,
+    11.55,
+    30.79
+   ],
+   "area": 315.3882500000004
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    519.19,
+    356.67,
+    25.88,
+    57.5
+   ],
+   "area": 921.9060999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    273.05,
+    297.91,
+    57.88,
+    121.86
+   ],
+   "area": 3711.7164000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    496.09,
+    306.1,
+    40.3,
+    115.14
+   ],
+   "area": 2835.6774499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    545.41,
+    223.77,
+    18.31,
+    49.85
+   ],
+   "area": 502.01174999999967
+  },
+  {
+   "category": "person",
+   "bbox": [
+    597.91,
+    204.39,
+    15.55,
+    41.41
+   ],
+   "area": 404.02905000000084
+  },
+  {
+   "category": "person",
+   "bbox": [
+    497.34,
+    237.81,
+    21.99,
+    77.81
+   ],
+   "area": 920.1658500000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    527.3,
+    219.08,
+    17.89,
+    70.87
+   ],
+   "area": 831.6659000000019
+  },
+  {
+   "category": "person",
+   "bbox": [
+    314.41,
+    241.97,
+    34.4,
+    84.74
+   ],
+   "area": 1402.2789999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    579.97,
+    198.46,
+    18.89,
+    47.02
+   ],
+   "area": 552.3671999999987
+  },
+  {
+   "category": "person",
+   "bbox": [
+    364.55,
+    212.59,
+    16.29,
+    46.12
+   ],
+   "area": 272.8205500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    615.66,
+    198.18,
+    13.64,
+    34.0
+   ],
+   "area": 265.36685000000017
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    174.46,
+    219.52,
+    89.64,
+    193.74
+   ],
+   "area": 14113.640799999997
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    519.59,
+    338.19,
+    24.76,
+    76.29
+   ],
+   "area": 882.5091499999983
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    450.47,
+    172.71,
+    30.32,
+    92.59
+   ],
+   "area": 1817.9280000000012
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    308.08,
+    316.11,
+    1.92,
+    6.61
+   ],
+   "area": 8.822000000000086
+  },
+  {
+   "category": "person",
+   "bbox": [
+    472.99,
+    386.91,
+    33.78,
+    40.09
+   ],
+   "area": 964.2489000000008
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    570.39,
+    213.93,
+    7.16,
+    10.69
+   ],
+   "area": 16.82010000000011
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    555.59,
+    234.02,
+    10.6,
+    22.95
+   ],
+   "area": 44.167600000000256
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    472.73,
+    168.82,
+    23.32,
+    98.27
+   ],
+   "area": 1676.3228999999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    496.09,
+    289.47,
+    40.77,
+    62.11
+   ],
+   "area": 717.1940000000018
+  },
+  {
+   "category": "person",
+   "bbox": [
+    561.72,
+    220.9,
+    8.32,
+    31.19
+   ],
+   "area": 101.63914999999928
+  },
+  {
+   "category": "person",
+   "bbox": [
+    564,
+    179,
+    75,
+    72
+   ],
+   "area": 1611
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A city sidewalk with people walking up and down",
+  "There are pedestrians walking passed a traffic light.",
+  "a street corner with a traffic light  in front of a Carphone Warehouse store with lots of people on the sidewalk",
+  "A couple of traffic lights sitting on the side of a road.",
+  "People are walking along a sidewalk in a city."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

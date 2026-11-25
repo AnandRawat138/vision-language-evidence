@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000113867",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    327.85,
+    109.49,
+    45.7,
+    23.49
+   ],
+   "area": 817.1068999999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The tower of the building has a clock displayed on it.",
+  "A clock tower overlooking two shorter brick buildings",
+  "a large brick tower on a tall building",
+  "A very tall brick clock tower with a clock on it's side.",
+  "A picture of an open air zone that looks incredible."
+ ],
+ "scene_places": []
+}

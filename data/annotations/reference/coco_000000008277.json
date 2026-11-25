@@ -1,0 +1,162 @@
+{
+ "uid": "coco_000000008277",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "broccoli",
+  "fork"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "fork": 1,
+  "bowl": 2,
+  "broccoli": 10
+ },
+ "object_boxes": [
+  {
+   "category": "fork",
+   "bbox": [
+    386.96,
+    83.7,
+    225.04,
+    310.12
+   ],
+   "area": 11422.309149999997
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    19.25,
+    34.38,
+    445.59,
+    326.8
+   ],
+   "area": 94638.81814999998
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    0.0,
+    70.89,
+    612.0,
+    541.11
+   ],
+   "area": 200778.18960000004
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    270.93,
+    181.54,
+    92.14,
+    75.64
+   ],
+   "area": 4989.3664
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    121.1,
+    158.66,
+    96.87,
+    84.3
+   ],
+   "area": 3954.1802500000003
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    209.0,
+    162.79,
+    69.65,
+    108.03
+   ],
+   "area": 2725.3263499999994
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    268.18,
+    119.65,
+    52.26,
+    53.64
+   ],
+   "area": 1650.4091499999995
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    360.06,
+    211.07,
+    25.85,
+    53.73
+   ],
+   "area": 922.7837000000002
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    194.76,
+    254.29,
+    75.48,
+    62.16
+   ],
+   "area": 2826.401000000001
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    202.82,
+    82.63,
+    79.68,
+    84.95
+   ],
+   "area": 3951.0741000000007
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    290.91,
+    98.42,
+    62.41,
+    70.67
+   ],
+   "area": 1598.2936499999996
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    257.87,
+    226.79,
+    87.64,
+    70.88
+   ],
+   "area": 3270.1058000000007
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    278.18,
+    149.31,
+    101.71,
+    68.5
+   ],
+   "area": 2487.7933000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The meal consists of chopped chicken with cheese and brocolli.",
+  "A styrofoam plate with shredded chicken and a dish of broccoli with cheese sauce.",
+  "a close up of a plate of food on a carpeted floor",
+  "A plate of shredded chicken with a broccoli cheese sauce.",
+  "A white plate topped wti chicken and a cup of guacamole."
+ ],
+ "scene_places": []
+}

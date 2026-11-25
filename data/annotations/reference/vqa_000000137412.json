@@ -1,0 +1,215 @@
+{
+ "uid": "vqa_000000137412",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cat",
+  "cell phone",
+  "laptop",
+  "person",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "cell phone": 1,
+  "laptop": 1,
+  "tv": 1,
+  "person": 8
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    187.87,
+    167.23,
+    436.65,
+    275.61
+   ],
+   "area": 79384.9012
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    273.54,
+    87.14,
+    47.59,
+    112.27
+   ],
+   "area": 3424.8875999999977
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    3.24,
+    152.43,
+    353.52,
+    326.49
+   ],
+   "area": 94389.44955
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    338.7,
+    7.62,
+    301.3,
+    228.68
+   ],
+   "area": 56181.43119999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    111.38,
+    202.05,
+    17.14,
+    14.34
+   ],
+   "area": 118.419
+  },
+  {
+   "category": "person",
+   "bbox": [
+    135.85,
+    198.67,
+    8.22,
+    8.22
+   ],
+   "area": 43.903
+  },
+  {
+   "category": "person",
+   "bbox": [
+    144.66,
+    197.38,
+    8.01,
+    14.15
+   ],
+   "area": 79.73754999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    167.1,
+    196.56,
+    8.12,
+    12.14
+   ],
+   "area": 63.65475000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    108.34,
+    175.48,
+    7.97,
+    11.1
+   ],
+   "area": 53.16554999999991
+  },
+  {
+   "category": "person",
+   "bbox": [
+    81.81,
+    175.78,
+    14.49,
+    18.24
+   ],
+   "area": 173.45925
+  },
+  {
+   "category": "person",
+   "bbox": [
+    84.07,
+    209.09,
+    8.64,
+    14.91
+   ],
+   "area": 88.37165000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    90.09,
+    237.33,
+    10.94,
+    12.34
+   ],
+   "area": 79.80089999999988
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A cat is laying in front of a laptop and a monitor.",
+  "A black-and-white tuxedo cat sleeping next to an open laptop computer.",
+  "A black and white car laying on a desk by a laptop computer.",
+  "A cat curled up sleeping on a desk beside a laptop",
+  "Cat on desk sleeping with head on laptop computer."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 137412000,
+   "question": "Is the cat using the laptop as a pillow?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "what is animal?",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 137412001,
+   "question": "How many screens?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "yes",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 137412002,
+   "question": "Is that cat sleeping?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

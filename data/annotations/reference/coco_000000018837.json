@@ -1,0 +1,114 @@
+{
+ "uid": "coco_000000018837",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 1,
+  "person": 6,
+  "car": 1
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    24.81,
+    74.43,
+    581.39,
+    399.1
+   ],
+   "area": 172087.161
+  },
+  {
+   "category": "person",
+   "bbox": [
+    327.57,
+    14.59,
+    139.46,
+    143.79
+   ],
+   "area": 5614.067099999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    294.3,
+    21.62,
+    48.17,
+    101.51
+   ],
+   "area": 2987.8379
+  },
+  {
+   "category": "person",
+   "bbox": [
+    371.98,
+    286.74,
+    82.55,
+    193.26
+   ],
+   "area": 7237.5148500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    17.07,
+    235.11,
+    17.62,
+    27.66
+   ],
+   "area": 355.6931499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    304.66,
+    193.68,
+    23.48,
+    47.29
+   ],
+   "area": 672.3748999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    115.32,
+    172.01,
+    48.63,
+    60.72
+   ],
+   "area": 2118.3906999999995
+  },
+  {
+   "category": "car",
+   "bbox": [
+    591.1,
+    254.64,
+    33.4,
+    47.03
+   ],
+   "area": 911.3174999999992
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A green utility truck is parked on a street while a man climbs inside.",
+  "some people sitting on top of a green truck as another man tries to get in it",
+  "A large truck on a city street with two works sitting on top and one worker climbing in through door.",
+  "a man is sitting on top of a green truck",
+  "a truck with an open door and two people sitting on top"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

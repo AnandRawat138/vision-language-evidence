@@ -1,0 +1,181 @@
+{
+ "uid": "flickr30k_2378356400",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman in a checked coat is taking a photograph of a little girl sitting on a fake tiger .",
+  "A little girl on a bouncey playground animal sits while a woman takes her picture .",
+  "The lady takes a picture of the little girl on the ride .",
+  "A woman stands next to a child who is riding on a toy .",
+  "A woman and a child ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "45145",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "45151",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a checked coat",
+   "start": 11,
+   "end": 25
+  },
+  {
+   "entity_id": "45146",
+   "types": [
+    "people"
+   ],
+   "phrase": "a photograph of a little girl",
+   "start": 36,
+   "end": 65
+  },
+  {
+   "entity_id": "45147",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a fake tiger",
+   "start": 77,
+   "end": 89
+  },
+  {
+   "entity_id": "45146",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little girl",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "45147",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a bouncey playground animal",
+   "start": 17,
+   "end": 44
+  },
+  {
+   "entity_id": "45145",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 56,
+   "end": 63
+  },
+  {
+   "entity_id": "45150",
+   "types": [
+    "other"
+   ],
+   "phrase": "her picture",
+   "start": 70,
+   "end": 81
+  },
+  {
+   "entity_id": "45145",
+   "types": [
+    "people"
+   ],
+   "phrase": "The lady",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "45146",
+   "types": [
+    "people"
+   ],
+   "phrase": "a picture of the little girl",
+   "start": 15,
+   "end": 43
+  },
+  {
+   "entity_id": "45148",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ride",
+   "start": 47,
+   "end": 55
+  },
+  {
+   "entity_id": "45145",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "45146",
+   "types": [
+    "people"
+   ],
+   "phrase": "a child",
+   "start": 23,
+   "end": 30
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "who",
+   "start": 31,
+   "end": 34
+  },
+  {
+   "entity_id": "45148",
+   "types": [
+    "other"
+   ],
+   "phrase": "a toy",
+   "start": 48,
+   "end": 53
+  },
+  {
+   "entity_id": "45145",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "45146",
+   "types": [
+    "people"
+   ],
+   "phrase": "a child",
+   "start": 12,
+   "end": 19
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,144 @@
+{
+ "uid": "coco_000000085376",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "motorcycle",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 7,
+  "motorcycle": 1,
+  "person": 1,
+  "truck": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    166.17,
+    331.72,
+    100.29,
+    54.06
+   ],
+   "area": 2968.8242999999993
+  },
+  {
+   "category": "car",
+   "bbox": [
+    38.16,
+    320.95,
+    155.06,
+    54.63
+   ],
+   "area": 4233.941650000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    2.88,
+    370.82,
+    87.73,
+    90.6
+   ],
+   "area": 5238.317750000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    134.2,
+    319.12,
+    68.33,
+    23.92
+   ],
+   "area": 751.6790499999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    206.24,
+    323.91,
+    73.1,
+    11.15
+   ],
+   "area": 565.0849499999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    13.78,
+    307.2,
+    57.31,
+    20.11
+   ],
+   "area": 745.7063999999999
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    14.38,
+    413.18,
+    331.47,
+    212.28
+   ],
+   "area": 34435.10739999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    307.37,
+    18.48,
+    58.06
+   ],
+   "area": 800.7452999999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    244.22,
+    332.03,
+    35.54,
+    14.67
+   ],
+   "area": 297.75124999999963
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    423.28,
+    319.8,
+    56.72,
+    95.96
+   ],
+   "area": 3476.016500000002
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    241.04,
+    315.84,
+    201.14,
+    116.37
+   ],
+   "area": 16980.70455
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A single green motorcycle Ina full parking lot",
+  "A green motorcycle is in a large parking lot.",
+  "two green and black motorcycles parked and some cars",
+  "A green sports motorcycle parked by a pole in a car lot.",
+  "A motorcycle sits in a parking lot with other cars."
+ ],
+ "scene_places": []
+}

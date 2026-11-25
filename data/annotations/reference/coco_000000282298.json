@@ -1,0 +1,226 @@
+{
+ "uid": "coco_000000282298",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "clock",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 2,
+  "backpack": 2,
+  "handbag": 1,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    472.34,
+    43.75,
+    105.15,
+    98.37
+   ],
+   "area": 9834.021200000001
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    351.8,
+    293.19,
+    20.87,
+    41.57
+   ],
+   "area": 471.1195499999991
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    90.33,
+    328.7,
+    24.6,
+    40.04
+   ],
+   "area": 546.1433000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    178.74,
+    259.92,
+    59.78,
+    218.7
+   ],
+   "area": 7464.57965
+  },
+  {
+   "category": "person",
+   "bbox": [
+    252.91,
+    272.39,
+    53.58,
+    169.4
+   ],
+   "area": 5148.0736000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    302.01,
+    271.34,
+    26.79,
+    71.26
+   ],
+   "area": 904.5252000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    404.16,
+    278.23,
+    27.74,
+    71.19
+   ],
+   "area": 784.1094500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    449.91,
+    273.19,
+    45.2,
+    119.31
+   ],
+   "area": 2921.1926999999982
+  },
+  {
+   "category": "person",
+   "bbox": [
+    525.3,
+    277.21,
+    46.39,
+    136.8
+   ],
+   "area": 3573.0440000000026
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    337.02,
+    287.61,
+    7.98,
+    25.68
+   ],
+   "area": 168.2126500000002
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    451.08,
+    53.64,
+    9.6,
+    109.04
+   ],
+   "area": 657.3352500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    342.3,
+    266.38,
+    21.57,
+    93.54
+   ],
+   "area": 644.4173499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.0,
+    268.76,
+    62.22,
+    155.1
+   ],
+   "area": 5977.948249999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    217.26,
+    263.0,
+    45.33,
+    146.28
+   ],
+   "area": 3353.1852999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    98.59,
+    272.28,
+    52.68,
+    162.42
+   ],
+   "area": 4876.981799999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    41.95,
+    268.27,
+    30.99,
+    57.46
+   ],
+   "area": 867.5212000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    363.08,
+    267.5,
+    68.9,
+    199.6
+   ],
+   "area": 7801.832149999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    354.74,
+    273.8,
+    21.93,
+    125.28
+   ],
+   "area": 1381.3698
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1,
+    253,
+    638,
+    226
+   ],
+   "area": 36145
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people milling about inside a large space in the winter.",
+  "A group of people walking across an airport.",
+  "Many people at a convention inside of a large building",
+  "People walking and loitering around a train station clock and ticket machines",
+  "a large crowd of people walking through town near a large clock display with a christmas tree in the background"
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

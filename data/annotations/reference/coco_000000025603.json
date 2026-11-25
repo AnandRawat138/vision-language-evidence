@@ -1,0 +1,270 @@
+{
+ "uid": "coco_000000025603",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "cup",
+  "dining table",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 11,
+  "dining table": 4,
+  "person": 4,
+  "cup": 2,
+  "pizza": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    256.14,
+    235.7,
+    161.44,
+    71.03
+   ],
+   "area": 8676.317850000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    115.12,
+    174.21,
+    92.7,
+    111.99
+   ],
+   "area": 3958.6534499999993
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    184.47,
+    185.36,
+    121.42,
+    108.27
+   ],
+   "area": 8210.9827
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    135.17,
+    157.67,
+    17.39,
+    12.1
+   ],
+   "area": 160.99410000000017
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    4.31,
+    274.88,
+    633.17,
+    199.55
+   ],
+   "area": 93257.16145
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    430.68,
+    105.1,
+    65.6,
+    28.19
+   ],
+   "area": 725.3263000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    322.87,
+    109.78,
+    317.13,
+    304.57
+   ],
+   "area": 48079.58709999997
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    308.88,
+    315.28,
+    89.33,
+    156.06
+   ],
+   "area": 11107.637900000002
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    35.44,
+    402.79,
+    125.63,
+    77.21
+   ],
+   "area": 7529.091549999999
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    38.74,
+    337.94,
+    196.96,
+    114.08
+   ],
+   "area": 9366.764500000001
+  },
+  {
+   "category": "book",
+   "bbox": [
+    467.74,
+    365.17,
+    171.96,
+    114.83
+   ],
+   "area": 14156.380099999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    243.09,
+    151.93,
+    77.3,
+    35.64
+   ],
+   "area": 1603.0077499999993
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    401.0,
+    151.08,
+    42.17,
+    132.23
+   ],
+   "area": 3292.116099999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    369.12,
+    140.2,
+    39.69,
+    99.99
+   ],
+   "area": 2270.022049999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    114.57,
+    160.99,
+    18.93,
+    8.17
+   ],
+   "area": 91.33389999999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    456.78,
+    112.74,
+    30.43,
+    36.88
+   ],
+   "area": 480.11455000000115
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    516.28,
+    86.85,
+    14.89,
+    21.46
+   ],
+   "area": 227.82174999999913
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    153.35,
+    173.3,
+    223.17,
+    103.48
+   ],
+   "area": 5356.191199999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    436.36,
+    144.62,
+    23.69,
+    24.94
+   ],
+   "area": 299.30805
+  },
+  {
+   "category": "person",
+   "bbox": [
+    520.86,
+    54.09,
+    45.13,
+    50.68
+   ],
+   "area": 1255.857149999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    489.86,
+    62.45,
+    23.56,
+    30.74
+   ],
+   "area": 457.73649999999975
+  },
+  {
+   "category": "person",
+   "bbox": [
+    574.99,
+    28.54,
+    64.87,
+    186.95
+   ],
+   "area": 5945.2217
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    38.97,
+    168.01,
+    66.86,
+    113.53
+   ],
+   "area": 4584.69975
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A girl with some food and drink at a table.",
+  "A YOUNG GIRL EATING PIZZA DRESSED AS A EGYPTION",
+  "A girl sitting around a table in a restaurant eating a pizza.",
+  "A young girl eating pizza in a restaurant.",
+  "A girl in a Cleopatra outfit eating pizza at a table."
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

@@ -1,0 +1,168 @@
+{
+ "uid": "flickr30k_269440642",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "red"
+  ],
+  "skirt": [
+   "red"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Four women dressed in red shirts are doing the hula dance while several people in the background watch .",
+  "Two women in red skirts dancing for an audience .",
+  "ladies dancing on a field while people watch .",
+  "Women in white and red dance as group .",
+  "Chinese traditional dancing ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "66514",
+   "types": [
+    "people"
+   ],
+   "phrase": "Four women",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "66515",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red shirts",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "66521",
+   "types": [
+    "other"
+   ],
+   "phrase": "the hula dance",
+   "start": 43,
+   "end": 57
+  },
+  {
+   "entity_id": "66516",
+   "types": [
+    "people"
+   ],
+   "phrase": "several people",
+   "start": 64,
+   "end": 78
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 82,
+   "end": 96
+  },
+  {
+   "entity_id": "66517",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two women",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "66515",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red skirts",
+   "start": 13,
+   "end": 23
+  },
+  {
+   "entity_id": "66518",
+   "types": [
+    "people"
+   ],
+   "phrase": "an audience",
+   "start": 36,
+   "end": 47
+  },
+  {
+   "entity_id": "66514",
+   "types": [
+    "people"
+   ],
+   "phrase": "ladies",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "66522",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field",
+   "start": 18,
+   "end": 25
+  },
+  {
+   "entity_id": "66518",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 32,
+   "end": 38
+  },
+  {
+   "entity_id": "66514",
+   "types": [
+    "people"
+   ],
+   "phrase": "Women",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "66519",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white and red",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "66517",
+   "types": [
+    "people"
+   ],
+   "phrase": "group",
+   "start": 32,
+   "end": 37
+  },
+  {
+   "entity_id": "66520",
+   "types": [
+    "other"
+   ],
+   "phrase": "Chinese",
+   "start": 0,
+   "end": 7
+  }
+ ],
+ "scene_places": []
+}

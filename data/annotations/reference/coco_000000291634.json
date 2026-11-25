@@ -1,0 +1,204 @@
+{
+ "uid": "coco_000000291634",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 1,
+  "motorcycle": 6,
+  "person": 10
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    40.0,
+    311.03,
+    368.28,
+    260.69
+   ],
+   "area": 39890.297049999994
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    57.85,
+    243.61,
+    353.59,
+    221.15
+   ],
+   "area": 34651.2481
+  },
+  {
+   "category": "person",
+   "bbox": [
+    349.51,
+    189.48,
+    35.68,
+    93.9
+   ],
+   "area": 1820.8374500000023
+  },
+  {
+   "category": "person",
+   "bbox": [
+    285.08,
+    192.33,
+    19.41,
+    97.06
+   ],
+   "area": 813.1400000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    217.68,
+    197.03,
+    18.59,
+    55.33
+   ],
+   "area": 632.8360999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    9.24,
+    193.17,
+    24.78,
+    84.25
+   ],
+   "area": 1309.1850000000009
+  },
+  {
+   "category": "person",
+   "bbox": [
+    314.94,
+    194.28,
+    25.54,
+    93.47
+   ],
+   "area": 1368.0704999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    162.61,
+    202.45,
+    18.88,
+    35.77
+   ],
+   "area": 424.6245000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    134.25,
+    200.51,
+    7.13,
+    28.18
+   ],
+   "area": 118.27814999999994
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    17.0,
+    224.07,
+    151.41,
+    160.32
+   ],
+   "area": 10935.24635
+  },
+  {
+   "category": "person",
+   "bbox": [
+    205.04,
+    196.06,
+    15.54,
+    52.4
+   ],
+   "area": 324.50495
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    194.82,
+    14.92,
+    89.78
+   ],
+   "area": 838.0560500000003
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    15.27,
+    218.0,
+    167.09,
+    132.73
+   ],
+   "area": 3654.4015499999996
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    18.95,
+    265.31,
+    23.2,
+    44.21
+   ],
+   "area": 344.67925
+  },
+  {
+   "category": "person",
+   "bbox": [
+    139.07,
+    199.89,
+    8.69,
+    30.82
+   ],
+   "area": 174.88469999999995
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    28.01,
+    212.7,
+    21.07,
+    44.53
+   ],
+   "area": 511.80670000000003
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    32.83,
+    239.25,
+    21.0,
+    25.31
+   ],
+   "area": 160.28185000000016
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "One bicycle is parked next to many motorcycles.",
+  "A row of motorcycles next to a bicycle.",
+  "A group of bikes and motorcycles parked on a city street.",
+  "Bicycles and scooters lined up along the sidewalk in a quaint town.",
+  "Bicycles lined up on the side of the road."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

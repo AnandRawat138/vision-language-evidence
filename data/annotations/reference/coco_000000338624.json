@@ -1,0 +1,220 @@
+{
+ "uid": "coco_000000338624",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "chair",
+  "dog",
+  "orange",
+  "person",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "chair": 9,
+  "car": 3,
+  "person": 3,
+  "traffic light": 1,
+  "orange": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    162.58,
+    153.51,
+    42.62,
+    80.76
+   ],
+   "area": 1753.9733499999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    525.68,
+    136.26,
+    112.26,
+    171.09
+   ],
+   "area": 10978.549750000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    494.71,
+    147.07,
+    78.77,
+    140.7
+   ],
+   "area": 3416.6327500000034
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    422.0,
+    140.08,
+    81.44,
+    124.67
+   ],
+   "area": 4028.0549499999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    299.26,
+    119.8,
+    23.34,
+    48.06
+   ],
+   "area": 645.3679500000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    28.85,
+    84.45,
+    22.51,
+    22.61
+   ],
+   "area": 282.21074999999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    6.56,
+    87.16,
+    16.94,
+    12.58
+   ],
+   "area": 153.61100000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    224.0,
+    28.65,
+    75.7,
+    197.09
+   ],
+   "area": 7435.198499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    118.02,
+    80.71,
+    13.0,
+    38.98
+   ],
+   "area": 300.05880000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    100.48,
+    84.43,
+    14.64,
+    33.68
+   ],
+   "area": 315.96884999999986
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    82.1,
+    23.56,
+    11.15,
+    24.86
+   ],
+   "area": 207.80859999999996
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    290.38,
+    168.13,
+    9.51,
+    11.73
+   ],
+   "area": 79.74419999999989
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    395.4,
+    139.59,
+    75.87,
+    105.07
+   ],
+   "area": 1886.4228499999988
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    373.09,
+    133.71,
+    73.87,
+    103.8
+   ],
+   "area": 2140.11455
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    461.35,
+    144.57,
+    74.67,
+    121.15
+   ],
+   "area": 3898.5758999999975
+  },
+  {
+   "category": "car",
+   "bbox": [
+    24.22,
+    89.08,
+    6.11,
+    13.02
+   ],
+   "area": 45.6931
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    305.42,
+    130.1,
+    54.51,
+    79.08
+   ],
+   "area": 1840.0139000000004
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    306.13,
+    127.2,
+    43.65,
+    45.87
+   ],
+   "area": 315.46689999999967
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a man is walking his dog through the city",
+  "A man walks his dog down the sidewalk.",
+  "A man is walking a dog on a sidewalk.",
+  "A man walking his dog down a sidewalk.",
+  "A man walks a dog past rows of chairs outside a store."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

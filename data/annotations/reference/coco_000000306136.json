@@ -1,0 +1,102 @@
+{
+ "uid": "coco_000000306136",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "bus",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 1,
+  "bus": 1,
+  "person": 5
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    35.94,
+    443.46,
+    49.76,
+    120.26
+   ],
+   "area": 4307.5781
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    100.67,
+    323.96,
+    326.48,
+    289.07
+   ],
+   "area": 80488.47695000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    95.98,
+    429.34,
+    27.26,
+    37.58
+   ],
+   "area": 431.24675000000025
+  },
+  {
+   "category": "person",
+   "bbox": [
+    252.25,
+    397.71,
+    47.99,
+    53.04
+   ],
+   "area": 1688.6283499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    386.42,
+    406.07,
+    21.57,
+    45.3
+   ],
+   "area": 419.94339999999977
+  },
+  {
+   "category": "person",
+   "bbox": [
+    80.49,
+    443.18,
+    34.34,
+    98.36
+   ],
+   "area": 2099.26575
+  },
+  {
+   "category": "person",
+   "bbox": [
+    294.78,
+    379.95,
+    19.26,
+    68.36
+   ],
+   "area": 864.5000500000012
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bus stopped in front of a building with the Apple logo on it.",
+  "An \"Apple\" logo burns bright over a city bus.",
+  "an apple building and a white bus and people",
+  "A bus parked near an Apple sign during the night.",
+  "A bus parked outside and below an illuminated Apple sign."
+ ],
+ "scene_places": []
+}

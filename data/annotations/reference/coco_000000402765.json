@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000402765",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "remote": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "remote",
+   "bbox": [
+    62.36,
+    0.0,
+    398.6,
+    374.86
+   ],
+   "area": 129320.63125000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.84,
+    1.43,
+    499.16,
+    368.26
+   ],
+   "area": 47192.6854
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A Nintendo Wii controller in a person's hand.",
+  "An up close photo of the bottom of a Wii remote.",
+  "a closeup of buttons on a nintendo wiiremote",
+  "A white Wii component with two buttons and four lights.",
+  "The controller of a Wii system is pictured."
+ ],
+ "scene_places": []
+}

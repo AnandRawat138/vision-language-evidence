@@ -1,0 +1,126 @@
+{
+ "uid": "coco_000000274272",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "bus": 1,
+  "person": 4,
+  "traffic light": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    24.77,
+    383.23,
+    189.94,
+    92.9
+   ],
+   "area": 13702.943249999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    392.59,
+    83.04,
+    87.41
+   ],
+   "area": 4145.5305499999995
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    182.29,
+    199.55,
+    457.71,
+    280.45
+   ],
+   "area": 90214.94815
+  },
+  {
+   "category": "person",
+   "bbox": [
+    251.44,
+    349.69,
+    87.77,
+    57.74
+   ],
+   "area": 2103.07795
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    211.37,
+    190.03,
+    42.18,
+    46.66
+   ],
+   "area": 1329.6297499999991
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    566.56,
+    192.31,
+    38.46,
+    27.57
+   ],
+   "area": 1012.2594
+  },
+  {
+   "category": "person",
+   "bbox": [
+    151.58,
+    421.56,
+    22.45,
+    15.42
+   ],
+   "area": 198.6909499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    404.02,
+    349.54,
+    41.99,
+    94.17
+   ],
+   "area": 2640.821850000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    435.45,
+    293.1,
+    50.44,
+    127.77
+   ],
+   "area": 2865.8919000000014
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large bus driving down a city street.",
+  "A bus traveling on a road next to cars with building in background.",
+  "A bus driving in the middle of traffic.",
+  "a public transit bus with traffic lights",
+  "A large red bus driving in heavy traffic."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

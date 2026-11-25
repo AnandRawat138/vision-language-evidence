@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000571943",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "traffic light": 1
+ },
+ "object_boxes": [
+  {
+   "category": "traffic light",
+   "bbox": [
+    40.14,
+    114.6,
+    176.21,
+    220.54
+   ],
+   "area": 21809.622649999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a pole with a street light and signs next to a bare tree",
+  "Street signs and a traffic light on a pole beneath a tree.",
+  "A yellow traffic light hanging off the side of a pole.",
+  "A traffic light on a metal pole by a tree.",
+  "A picture of a street light and sign showing the street names."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

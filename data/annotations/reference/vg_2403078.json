@@ -1,0 +1,37 @@
+{
+ "uid": "vg_2403078",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "cup",
+  "dining table",
+  "handbag",
+  "laptop",
+  "person",
+  "tv"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "black"
+  ],
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [
+  "bag",
+  "cup",
+  "phone"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

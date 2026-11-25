@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000362434",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "teddy bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "book": 1,
+  "teddy bear": 1
+ },
+ "object_boxes": [
+  {
+   "category": "book",
+   "bbox": [
+    104.21,
+    86.65,
+    119.5,
+    87.32
+   ],
+   "area": 6683.2743500000015
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    179.09,
+    53.63,
+    232.0,
+    226.02
+   ],
+   "area": 32026.754150000008
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a box full of stuffed animals and other children items",
+  "A stuffed teddy bear sitting in a cardboard box.",
+  "A card board box with a brown teddy bear and items in it outside on a curb.",
+  "A cardboard box with a teddy bear in the street.",
+  "A teddy bear and nooks in a box on a door step."
+ ],
+ "scene_places": []
+}

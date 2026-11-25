@@ -1,0 +1,29 @@
+{
+ "uid": "vg_2399005",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "suit": [
+   "pink"
+  ],
+  "hat": [
+   "green"
+  ],
+  "shirt": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

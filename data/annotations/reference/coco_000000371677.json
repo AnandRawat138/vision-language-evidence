@@ -1,0 +1,128 @@
+{
+ "uid": "coco_000000371677",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "teddy bear",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 2,
+  "mouse": 2,
+  "keyboard": 2,
+  "teddy bear": 1,
+  "cup": 1,
+  "laptop": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    112.59,
+    79.01,
+    236.05,
+    153.09
+   ],
+   "area": 34407.31419999999
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    356.03,
+    78.84,
+    230.09,
+    153.72
+   ],
+   "area": 32657.03385
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    506.95,
+    368.68,
+    66.58,
+    54.88
+   ],
+   "area": 2789.4875499999994
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    146.64,
+    364.83,
+    47.47,
+    45.45
+   ],
+   "area": 1569.7072
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    349.48,
+    331.15,
+    144.54,
+    76.58
+   ],
+   "area": 5410.004150000003
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    212.05,
+    332.63,
+    135.21,
+    80.75
+   ],
+   "area": 4966.8762
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    291.94,
+    0.0,
+    79.71,
+    92.03
+   ],
+   "area": 4899.89575
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    305.93,
+    234.93,
+    110.7,
+    137.3
+   ],
+   "area": 10412.656549999998
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    0.0,
+    101.44,
+    200.37,
+    214.68
+   ],
+   "area": 24298.478900000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of computer monitors sitting on top of a wooden desk.",
+  "A computer desk has two monitors and other equipment on it.",
+  "Two computer screens that are sitting on a desk.",
+  "A desk with two computer monitors, two mice, a cup and a keyboard on it.",
+  "This computer set up has two monitors and an ergonomic keyboard."
+ ],
+ "scene_places": []
+}

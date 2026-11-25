@@ -1,0 +1,23 @@
+{
+ "policy": "sorted",
+ "n_requests": 846,
+ "n_ok": 846,
+ "n_failed": 0,
+ "n_timeout": 0,
+ "n_oom_events": 0,
+ "n_retries": 0,
+ "wall_time_s": 1327.536,
+ "throughput_img_s": 0.6373,
+ "latency_median_s": 594.7878424000228,
+ "latency_p95_s": 1300.148386499961,
+ "latency_p99_s": 1327.5051218000008,
+ "latency_mean_s": 619.9434837517915,
+ "mean_batch_size": 31.333333333333332,
+ "gpu_mem_peak_mb": 6093.4,
+ "gpu_util_mean": 94.4,
+ "cpu_pct_mean": 5.7,
+ "cpu_pct_peak": 13.3,
+ "ram_peak_mb": 3494.3,
+ "samples": 5299,
+ "torch_peak_alloc_mb": 3318.1
+}

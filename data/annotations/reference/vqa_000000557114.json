@@ -1,0 +1,97 @@
+{
+ "uid": "vqa_000000557114",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 1
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    229.8,
+    164.4,
+    279.19,
+    205.1
+   ],
+   "area": 24495.210550000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A zebra standing in the middle of a forest.",
+  "The zebra is standing near the leaves outside.",
+  "A young zebra standing in a shady spot by a fence.",
+  "a zebra standing next to a big tree",
+  "A zebra standing in front of a fence on a sunny day."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 557114000,
+   "question": "How many animals?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 557114001,
+   "question": "What kind of animal is shown?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "zebra",
+   "answers": [
+    "zebra",
+    "zebras",
+    "zebra",
+    "zebra",
+    "zebra",
+    "zebra",
+    "zebra",
+    "zebra",
+    "zebra",
+    "zebra"
+   ]
+  },
+  {
+   "question_id": 557114002,
+   "question": "Is this animal camouflaged?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

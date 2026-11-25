@@ -1,0 +1,99 @@
+{
+ "uid": "vqa_000000226244",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    0.0,
+    2.15,
+    640.0,
+    420.26
+   ],
+   "area": 267234.1744
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large clock tower towering over a city on top of a hill.",
+  "A city can be seen from a large clocktower window.",
+  "A large roman numeral clock is see through.",
+  "A view of a city from a clock tower.",
+  "A view of the city's skyline through a clock."
+ ],
+ "scene_places": [
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 226244000,
+   "question": "Where is the city?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "distance",
+   "answers": [
+    "london",
+    "rome",
+    "europe",
+    "on hill",
+    "india",
+    "distance",
+    "distance",
+    "in background of picture",
+    "london",
+    "background"
+   ]
+  },
+  {
+   "question_id": 226244001,
+   "question": "Is this a window?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 226244002,
+   "question": "What is in the background?",
+   "answer_type": "other",
+   "question_type": "what is in the",
+   "multiple_choice_answer": "city",
+   "answers": [
+    "city",
+    "city",
+    "city",
+    "cityscape",
+    "city",
+    "city",
+    "buildings",
+    "city",
+    "church",
+    "buildings"
+   ]
+  }
+ ]
+}

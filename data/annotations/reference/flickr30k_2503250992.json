@@ -1,0 +1,192 @@
+{
+ "uid": "flickr30k_2503250992",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man is sitting with his head facing down , while other people are looking in his direction .",
+  "A man appears to be cooking up some food for customers in the street .",
+  "A man wearing a white shirt is cooking food on a small grill .",
+  "Four men standing around a small grill preparing food .",
+  "A food vendor prepares snacks for waiting customers ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "53750",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "53758",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his head",
+   "start": 22,
+   "end": 30
+  },
+  {
+   "entity_id": "53751",
+   "types": [
+    "people"
+   ],
+   "phrase": "other people",
+   "start": 51,
+   "end": 63
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "his direction",
+   "start": 79,
+   "end": 92
+  },
+  {
+   "entity_id": "53750",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "53754",
+   "types": [
+    "other"
+   ],
+   "phrase": "some food",
+   "start": 31,
+   "end": 40
+  },
+  {
+   "entity_id": "53751",
+   "types": [
+    "people"
+   ],
+   "phrase": "customers",
+   "start": 45,
+   "end": 54
+  },
+  {
+   "entity_id": "53756",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 58,
+   "end": 68
+  },
+  {
+   "entity_id": "53750",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "53759",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 14,
+   "end": 27
+  },
+  {
+   "entity_id": "53753",
+   "types": [
+    "other"
+   ],
+   "phrase": "food",
+   "start": 39,
+   "end": 43
+  },
+  {
+   "entity_id": "53752",
+   "types": [
+    "other"
+   ],
+   "phrase": "a small grill",
+   "start": 47,
+   "end": 60
+  },
+  {
+   "entity_id": "53751",
+   "types": [
+    "people"
+   ],
+   "phrase": "Four men",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "53752",
+   "types": [
+    "other"
+   ],
+   "phrase": "a small grill",
+   "start": 25,
+   "end": 38
+  },
+  {
+   "entity_id": "53753",
+   "types": [
+    "other"
+   ],
+   "phrase": "food",
+   "start": 49,
+   "end": 53
+  },
+  {
+   "entity_id": "53750",
+   "types": [
+    "people"
+   ],
+   "phrase": "A food vendor",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "53754",
+   "types": [
+    "other"
+   ],
+   "phrase": "snacks",
+   "start": 23,
+   "end": 29
+  },
+  {
+   "entity_id": "53751",
+   "types": [
+    "people"
+   ],
+   "phrase": "customers",
+   "start": 42,
+   "end": 51
+  }
+ ],
+ "scene_places": []
+}

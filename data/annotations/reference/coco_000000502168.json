@@ -1,0 +1,172 @@
+{
+ "uid": "coco_000000502168",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "boat": 5,
+  "person": 9
+ },
+ "object_boxes": [
+  {
+   "category": "boat",
+   "bbox": [
+    405.51,
+    133.8,
+    234.49,
+    315.97
+   ],
+   "area": 68583.5003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    432.22,
+    232.01,
+    38.87,
+    102.73
+   ],
+   "area": 1993.7034499999988
+  },
+  {
+   "category": "person",
+   "bbox": [
+    438.01,
+    337.62,
+    85.18,
+    120.38
+   ],
+   "area": 4680.95865
+  },
+  {
+   "category": "person",
+   "bbox": [
+    514.16,
+    316.46,
+    50.75,
+    110.31
+   ],
+   "area": 3742.9165500000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    474.5,
+    256.34,
+    36.11,
+    94.9
+   ],
+   "area": 2367.9028000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    591.12,
+    123.36,
+    17.74,
+    44.92
+   ],
+   "area": 471.13570000000084
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    50.37,
+    78.54,
+    59.55,
+    27.31
+   ],
+   "area": 549.3774499999997
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    552.48,
+    60.18,
+    62.64,
+    49.29
+   ],
+   "area": 1315.223399999999
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    278.67,
+    132.07,
+    15.66,
+    11.18
+   ],
+   "area": 105.3649500000002
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    378.33,
+    85.37,
+    9.11,
+    16.25
+   ],
+   "area": 81.0113000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    288.65,
+    132.26,
+    2.47,
+    3.08
+   ],
+   "area": 4.653400000000028
+  },
+  {
+   "category": "person",
+   "bbox": [
+    285.53,
+    132.79,
+    2.8,
+    2.63
+   ],
+   "area": 4.389099999999968
+  },
+  {
+   "category": "person",
+   "bbox": [
+    558.3,
+    287.18,
+    54.14,
+    155.06
+   ],
+   "area": 5148.824950000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    281.32,
+    131.88,
+    3.86,
+    5.53
+   ],
+   "area": 13.04845
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a fleet of naval ships in the ocean",
+  "A group of men on aircraft carrier with other boats in the distance.",
+  "A large ship floating in the ocean next to other ships.",
+  "Several men on a boat looking over the side.",
+  "The men wear hardhats as they work on the aircraft carrier."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

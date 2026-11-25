@@ -1,0 +1,166 @@
+{
+ "uid": "coco_000000009891",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "car",
+  "person",
+  "suitcase",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "car": 4,
+  "person": 4,
+  "suitcase": 2,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    107.52,
+    137.49,
+    16.73,
+    50.8
+   ],
+   "area": 387.7946999999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    284.76,
+    79.89,
+    355.24,
+    220.05
+   ],
+   "area": 53672.15805
+  },
+  {
+   "category": "person",
+   "bbox": [
+    206.64,
+    92.56,
+    150.67,
+    323.94
+   ],
+   "area": 24188.784700000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    76.24,
+    105.34,
+    126.71,
+    181.48
+   ],
+   "area": 8984.1133
+  },
+  {
+   "category": "person",
+   "bbox": [
+    305.95,
+    112.73,
+    48.86,
+    42.64
+   ],
+   "area": 962.6279499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    438.24,
+    119.43,
+    37.79,
+    33.77
+   ],
+   "area": 629.49865
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    174.74,
+    244.85,
+    135.91,
+    160.72
+   ],
+   "area": 13687.817249999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    198.58,
+    129.69,
+    40.83,
+    59.19
+   ],
+   "area": 1600.9337999999993
+  },
+  {
+   "category": "car",
+   "bbox": [
+    158.79,
+    134.21,
+    50.2,
+    35.24
+   ],
+   "area": 869.3900499999999
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    411.1,
+    292.63,
+    80.75,
+    90.14
+   ],
+   "area": 5121.8052
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    414.93,
+    243.83,
+    77.64,
+    105.28
+   ],
+   "area": 4404.308999999999
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    339.77,
+    286.02,
+    57.64,
+    27.17
+   ],
+   "area": 1041.282200000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    230.9,
+    152.26,
+    12.92,
+    46.67
+   ],
+   "area": 360.15254999999985
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The man is loading luggage suitcases onto the cart in the parking lot.",
+  "A man who is lifting up a piece of luggage.",
+  "Group of men taking their suitcases out of a car.",
+  "Man unloading luggage onto an airport cart from a car.",
+  "Two men handling luggage in a parking structure."
+ ],
+ "scene_places": []
+}

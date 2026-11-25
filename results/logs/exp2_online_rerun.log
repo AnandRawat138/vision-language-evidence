@@ -1,0 +1,17 @@
+﻿.\.venv\Scripts\python.exe : `torch_dtype` is deprecated! Use `dtype` instead!
+At line:1 char:638
++ ... .jsonl.bak; .\.venv\Scripts\python.exe experiments/batching/run_exp2. ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (`torch_dtype` i...dtype` instead!:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+Loading checkpoint shards:  50%|█████     | 1/2 [00:07<00:07,  7.15s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  6.13s/it]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:12<00:00,  6.28s/it]
+2026-11-23 10:16:49,480 INFO vle.inference.hf_backend: loaded Qwen/Qwen2.5-VL-3B-Instruct (nf4) in 57.3s
+E:\Vision-Language Evidence\.venv\Lib\site-packages\bitsandbytes\backends\cuda\ops.py:957: UserWarning: inner 
+dimension (3420) is not aligned for fast kernel with blocksize=64, falling back to slower implementation.
+  warn(
+2026-11-23 10:24:51,238 INFO exp2: online_indep_0.1Hz_r0: 0.052 img/s p95=181.71s gpu=3253.0 ok=24 fail=0 oom=0

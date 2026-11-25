@@ -1,0 +1,124 @@
+{
+ "uid": "coco_000000489764",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "remote": 1,
+  "book": 6,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    105.48,
+    17.66,
+    534.52,
+    520.34
+   ],
+   "area": 164571.49044999998
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    45.27,
+    406.74,
+    140.46,
+    71.47
+   ],
+   "area": 4352.067999999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    118.46,
+    157.41,
+    8.35,
+    25.52
+   ],
+   "area": 165.64470000000014
+  },
+  {
+   "category": "book",
+   "bbox": [
+    120.47,
+    188.13,
+    6.61,
+    18.37
+   ],
+   "area": 77.34894999999989
+  },
+  {
+   "category": "book",
+   "bbox": [
+    104.55,
+    122.78,
+    10.61,
+    25.77
+   ],
+   "area": 219.03019999999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    116.33,
+    121.43,
+    18.52,
+    31.79
+   ],
+   "area": 432.7252999999998
+  },
+  {
+   "category": "book",
+   "bbox": [
+    112.18,
+    154.04,
+    8.47,
+    28.84
+   ],
+   "area": 179.56619999999995
+  },
+  {
+   "category": "book",
+   "bbox": [
+    94.11,
+    266.42,
+    10.33,
+    72.29
+   ],
+   "area": 636.4862499999995
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    255.24,
+    81.05,
+    144.01
+   ],
+   "area": 4051.037149999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman and a man playing a video game in the living room",
+  "A woman in a striped shirt playing a video game.",
+  "A woman playing a video game with the Nintendo Wii.",
+  "A woman holding a game controller with a man looking on.",
+  "Two people sitting down playing a video game"
+ ],
+ "scene_places": []
+}

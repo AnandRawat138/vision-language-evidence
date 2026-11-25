@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000015597",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "skateboard": 1,
+  "bicycle": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "skateboard",
+   "bbox": [
+    104.13,
+    319.75,
+    93.07,
+    64.34
+   ],
+   "area": 1544.6851499999987
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    311.28,
+    420.74,
+    114.64,
+    42.15
+   ],
+   "area": 1896.0828
+  },
+  {
+   "category": "person",
+   "bbox": [
+    8.7,
+    177.38,
+    194.97,
+    198.46
+   ],
+   "area": 10613.482650000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "shirtless skateboarder going down a ramp on clear day",
+  "a male shirtless skateboarder is doing a trick",
+  "A man riding a skateboard on top of a cement rail.",
+  "A man with a cowboy hat on doing a trick on a skateboard.",
+  "A skateboarder in cowboy hat just about to go down a ramp"
+ ],
+ "scene_places": []
+}

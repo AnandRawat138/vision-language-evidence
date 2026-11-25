@@ -1,0 +1,90 @@
+{
+ "uid": "coco_000000132408",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 3,
+  "person": 3
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    232.78,
+    237.52,
+    117.13,
+    243.7
+   ],
+   "area": 17211.786799999998
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    127.72,
+    256.15,
+    104.38,
+    221.71
+   ],
+   "area": 15984.553700000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    31.37,
+    296.42,
+    64.99,
+    143.23
+   ],
+   "area": 5076.794399999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    395.13,
+    304.72,
+    21.26,
+    57.54
+   ],
+   "area": 623.8388999999992
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    364.27,
+    308.93,
+    59.52,
+    44.72
+   ],
+   "area": 1131.7322499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    420.75,
+    320.89,
+    8.25,
+    65.73
+   ],
+   "area": 460.86565000000047
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two draft horses pulling plow, color, under cloudy skies with trees and other horses in background.",
+  "A farmer with draught horses uses a plow to furrow",
+  "Two large brown horses pulling a plow as a farmer guides them.",
+  "Two brown horses pull a plow, steered by a man behind.",
+  "A man is plowig a field with two large horses."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,16 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Observation structuring of human-written Flickr30K sentences (test split, 525 sentences) against Flickr30K Entities phrase annotations (span overlap). $^\dagger$Synthetic template suite (96 statements, labels by construction); upgrade = hedged/negated statement emitted as definite.}
+\label{tab:exp4}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lcccccccc}
+\toprule
+Structurer & Cloth. P & Cloth. R & Cloth. F1 & Class agr. & Colour agr. & Scene F1 & Cert. acc.$^\dagger$ & Upgrade$^\dagger$ \\
+\midrule
+rule-v1 & 0.977 & 0.709 & 0.822 [0.762, 0.875] & 1.000 & 0.964 & 0.609 & 1.000 & 0.000 \\
+llm-narrative-v1 & 0.568 & 0.747 & 0.645 [0.584, 0.700] & 0.979 & 1.000 & 0.566 & 0.938 & 0.042 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

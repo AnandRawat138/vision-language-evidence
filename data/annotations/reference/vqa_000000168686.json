@@ -1,0 +1,151 @@
+{
+ "uid": "vqa_000000168686",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "apple",
+  "broccoli",
+  "orange"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "orange": 4,
+  "broccoli": 1,
+  "apple": 1
+ },
+ "object_boxes": [
+  {
+   "category": "orange",
+   "bbox": [
+    368.26,
+    112.78,
+    111.02,
+    102.08
+   ],
+   "area": 6791.036499999999
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    511.17,
+    49.77,
+    112.63,
+    84.67
+   ],
+   "area": 6227.483
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    442.26,
+    49.63,
+    100.79,
+    87.08
+   ],
+   "area": 5220.081800000002
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    350.91,
+    15.89,
+    114.38,
+    113.21
+   ],
+   "area": 6295.282549999999
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    4.52,
+    2.26,
+    400.94,
+    224.75
+   ],
+   "area": 53811.02145
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    452.99,
+    109.04,
+    187.01,
+    149.37
+   ],
+   "area": 18952.340250000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A lot of food that are in some baskets.",
+  "Two baskets filled with blueberries sitting next to other fruit and vegetables.",
+  "The fruits and vegetables are neatly arranged on the white countertop.",
+  "There is much fruit gathered in one spot.",
+  "Fresh produce is arranged and displayed on a table."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 168686000,
+   "question": "Are blueberries supposed to have a white coating?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 168686001,
+   "question": "Are the oranges bagged?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 168686002,
+   "question": "How many different kinds of fruit?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "3",
+   "answers": [
+    "3",
+    "3",
+    "3",
+    "5",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ]
+}

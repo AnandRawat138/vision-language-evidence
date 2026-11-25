@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000308466",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sink",
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toilet": 1,
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toilet",
+   "bbox": [
+    181.21,
+    351.64,
+    157.49,
+    128.36
+   ],
+   "area": 10267.1711
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    52.78,
+    412.7,
+    180.05,
+    67.3
+   ],
+   "area": 5423.112000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bathroom containing a toilet, sink and bathtub with shower, with no accessories.",
+  "A picture of a white bathroom with a sink,toilet and bathtub.",
+  "A white bath tub sitting under a window in a bathroom.",
+  "A bathroom with a toilet, tub, mirror, window and a shower pole.",
+  "A bathroom with a sink, toilet, tub and shower head."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

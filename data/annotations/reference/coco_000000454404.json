@@ -1,0 +1,86 @@
+{
+ "uid": "coco_000000454404",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "cell phone",
+  "chair",
+  "person",
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 1,
+  "bench": 1,
+  "chair": 1,
+  "potted plant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    264.7,
+    182.11,
+    33.48,
+    26.75
+   ],
+   "area": 291.13064999999983
+  },
+  {
+   "category": "person",
+   "bbox": [
+    246.07,
+    25.79,
+    193.77,
+    436.28
+   ],
+   "area": 51535.790349999996
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    32.1,
+    188.82,
+    260.34,
+    334.04
+   ],
+   "area": 57584.10875000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    28.53,
+    189.01,
+    285.3,
+    317.4
+   ],
+   "area": 57912.905849999996
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    416.04,
+    4.82,
+    223.96,
+    513.85
+   ],
+   "area": 88255.3429
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman wearing a blue t-shirt while looking at her cell phone and sitting on a bench next to a bright pink wall.",
+  "A girl sits on the bench with one foot up.",
+  "A girls sits on a bench while looking at her phone.",
+  "A lady is sitting on a bench barefooted while using her phone.",
+  "Young girl sitting on a bench checking her cell phone."
+ ],
+ "scene_places": []
+}

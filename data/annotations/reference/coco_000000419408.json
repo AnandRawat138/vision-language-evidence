@@ -1,0 +1,156 @@
+{
+ "uid": "coco_000000419408",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "car",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 4,
+  "person": 2,
+  "bench": 4,
+  "skateboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    141.18,
+    193.7,
+    54.99,
+    27.62
+   ],
+   "area": 1208.5609999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    226.55,
+    111.53,
+    134.97,
+    165.82
+   ],
+   "area": 9998.676449999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    487.66,
+    166.18,
+    144.43,
+    143.97
+   ],
+   "area": 7036.592700000001
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    434.78,
+    224.62,
+    145.58,
+    109.9
+   ],
+   "area": 5973.042349999998
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    538.11,
+    203.69,
+    59.34,
+    20.76
+   ],
+   "area": 745.6357000000011
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    229.45,
+    257.17,
+    102.39,
+    32.63
+   ],
+   "area": 986.7277000000003
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    582.81,
+    301.93,
+    49.08,
+    18.62
+   ],
+   "area": 416.5406499999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    480.41,
+    190.79,
+    64.28,
+    25.67
+   ],
+   "area": 576.4654500000003
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    36.43,
+    215.55,
+    35.71,
+    13.86
+   ],
+   "area": 277.6098999999996
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    625.39,
+    208.34,
+    14.61,
+    66.7
+   ],
+   "area": 391.49034999999975
+  },
+  {
+   "category": "car",
+   "bbox": [
+    18.45,
+    187.93,
+    76.12,
+    26.5
+   ],
+   "area": 1396.3721500000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    351.47,
+    192.81,
+    21.23,
+    13.45
+   ],
+   "area": 147.71719999999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a skateboard over a rope.",
+  "A skateboarder is attempting a trick mid air.",
+  "two skateboarders and one is doing a trick",
+  "A boy is skateboarding on a pole at a park.",
+  "The skateboarder is jumping over the railing in a park."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "uid": "flickr30k_48614561",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "yellow"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two babies are sitting on the floor next to the table , and one baby is crying .",
+  "One toddler takes away the mouth piece of the other which makes him cry .",
+  "The baby in the yellow shirt cries while reaching out to another baby .",
+  "Two asian toddlers , one crying , playing with a pacifier .",
+  "A baby cries while another baby holds an object ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "212351",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two babies",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "212356",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the floor",
+   "start": 26,
+   "end": 35
+  },
+  {
+   "entity_id": "212354",
+   "types": [
+    "other"
+   ],
+   "phrase": "the table",
+   "start": 44,
+   "end": 53
+  },
+  {
+   "entity_id": "212349",
+   "types": [
+    "people"
+   ],
+   "phrase": "one baby",
+   "start": 60,
+   "end": 68
+  },
+  {
+   "entity_id": "212349",
+   "types": [
+    "people"
+   ],
+   "phrase": "One toddler",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the mouth piece of the other which",
+   "start": 23,
+   "end": 57
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 64,
+   "end": 67
+  },
+  {
+   "entity_id": "212349",
+   "types": [
+    "people"
+   ],
+   "phrase": "The baby",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "212357",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the yellow shirt",
+   "start": 12,
+   "end": 28
+  },
+  {
+   "entity_id": "212349",
+   "types": [
+    "people"
+   ],
+   "phrase": "another baby",
+   "start": 57,
+   "end": 69
+  },
+  {
+   "entity_id": "212351",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two asian toddlers",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "212355",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 21,
+   "end": 24
+  },
+  {
+   "entity_id": "212352",
+   "types": [
+    "other"
+   ],
+   "phrase": "a pacifier",
+   "start": 47,
+   "end": 57
+  },
+  {
+   "entity_id": "212349",
+   "types": [
+    "people"
+   ],
+   "phrase": "A baby",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "212349",
+   "types": [
+    "people"
+   ],
+   "phrase": "another baby",
+   "start": 19,
+   "end": 31
+  },
+  {
+   "entity_id": "212352",
+   "types": [
+    "other"
+   ],
+   "phrase": "an object",
+   "start": 38,
+   "end": 47
+  }
+ ],
+ "scene_places": []
+}

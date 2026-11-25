@@ -1,0 +1,109 @@
+{
+ "uid": "vqa_000000300082",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    87.98,
+    30.25,
+    351.54,
+    273.16
+   ],
+   "area": 43813.4495
+  },
+  {
+   "category": "person",
+   "bbox": [
+    221.75,
+    2.44,
+    264.6,
+    208.22
+   ],
+   "area": 23157.64805
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A small dog standing next to a person in blue jeans.",
+  "A dog with a hat on its buttocks next to a person.",
+  "a little white dog has a cowboy hat placed on his back end",
+  "A small white dog with a hat on his rear end.",
+  "A dog with a hat on it's butt sniffing someone's shoe."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 300082000,
+   "question": "Would this kind of hat be seen on Australians?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "cowboy",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 300082001,
+   "question": "Is the dog wearing the hat on his head?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 300082002,
+   "question": "Where is the hat located on the dogs body?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "butt",
+   "answers": [
+    "butt",
+    "on its butt",
+    "end",
+    "rear",
+    "rear",
+    "butt and tail",
+    "butt",
+    "butt",
+    "butt",
+    "butt"
+   ]
+  }
+ ]
+}

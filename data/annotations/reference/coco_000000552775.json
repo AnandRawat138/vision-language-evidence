@@ -1,0 +1,150 @@
+{
+ "uid": "coco_000000552775",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "knife",
+  "oven",
+  "person",
+  "refrigerator",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 4,
+  "spoon": 2,
+  "oven": 1,
+  "person": 1,
+  "bowl": 1,
+  "knife": 1,
+  "refrigerator": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    286.65,
+    96.17,
+    19.33,
+    27.98
+   ],
+   "area": 475.48160000000036
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    251.46,
+    93.75,
+    19.76,
+    29.02
+   ],
+   "area": 384.27450000000016
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    319.52,
+    190.2,
+    13.32,
+    26.83
+   ],
+   "area": 158.69384999999983
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    250.02,
+    177.18,
+    23.72,
+    51.82
+   ],
+   "area": 445.20914999999945
+  },
+  {
+   "category": "oven",
+   "bbox": [
+    41.57,
+    120.22,
+    331.46,
+    379.78
+   ],
+   "area": 104331.48739999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.87,
+    133.08,
+    94.02,
+    204.39
+   ],
+   "area": 14986.082449999996
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    241.99,
+    198.79,
+    98.12,
+    83.28
+   ],
+   "area": 6366.957500000003
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    140.33,
+    55.79,
+    29.2,
+    65.28
+   ],
+   "area": 1315.3372999999997
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    233.92,
+    92.74,
+    17.92,
+    25.94
+   ],
+   "area": 352.4547000000002
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    219.12,
+    251.22,
+    43.34,
+    31.52
+   ],
+   "area": 431.561600000001
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    0.0,
+    0.0,
+    138.6,
+    443.78
+   ],
+   "area": 27786.0695
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man pokes his head in front of an oven open to baking cookies.",
+  "The man is close to an oven full of cookies that are being prepared.",
+  "an image of man baking goods in the oven",
+  "a man standing by an oven while making some cookies",
+  "A man standing by an oven with the door open."
+ ],
+ "scene_places": []
+}

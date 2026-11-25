@@ -1,0 +1,115 @@
+{
+ "uid": "coco_000000276804",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 5,
+  "baseball bat": 1,
+  "baseball glove": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    296.9,
+    367.96,
+    18.75,
+    47.67
+   ],
+   "area": 514.5537499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    219.8,
+    474.31,
+    46.01,
+    111.34
+   ],
+   "area": 2237.0816999999993
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    228.37,
+    440.03,
+    28.76,
+    51.77
+   ],
+   "area": 182.13134999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    283.03,
+    473.36,
+    56.42,
+    138.07
+   ],
+   "area": 4376.8995499999955
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    178.01,
+    394.58,
+    10.24,
+    10.73
+   ],
+   "area": 69.99350000000004
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    306.23,
+    381.63,
+    5.72,
+    5.87
+   ],
+   "area": 19.98245000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    281.48,
+    520.09,
+    24.28,
+    79.07
+   ],
+   "area": 924.4931
+  },
+  {
+   "category": "person",
+   "bbox": [
+    151.42,
+    379.55,
+    36.37,
+    80.49
+   ],
+   "area": 1205.0434999999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A small lit baseball field at night with people playing baseball.",
+  "A person stands at the base ready to hit a ball.",
+  "A baseball player standing next to home base on a baseball field.",
+  "Baseball players engaged in a baseball game.",
+  "Players are in the middle of a Baseball game with Old Glory present in the background."
+ ],
+ "scene_places": [
+  "park",
+  "sports field"
+ ]
+}

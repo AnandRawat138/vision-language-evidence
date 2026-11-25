@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000367195",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "dog",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "couch": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    130.74,
+    64.46,
+    181.16,
+    125.15
+   ],
+   "area": 16130.995400000003
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    295.63,
+    4.07,
+    203.63,
+    158.7
+   ],
+   "area": 24141.045049999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    66.89,
+    90.9,
+    70.88
+   ],
+   "area": 3806.511400000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A dog laying down on a fluffy carpet",
+  "Floor eye view of a supine dog hoping for some attention.",
+  "A brown and white dog laying on a carpet under a table.",
+  "A Corgi dog resting on frizzy beige carpet",
+  "A picture of a dog laying under a table on the rug."
+ ],
+ "scene_places": []
+}

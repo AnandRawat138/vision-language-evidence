@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000387387",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bus": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bus",
+   "bbox": [
+    41.44,
+    211.76,
+    569.97,
+    167.05
+   ],
+   "area": 70228.58864999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A yellow bus that is sitting in the grass.",
+  "A large yellow bus parked in some grass.",
+  "A school bus, parked in a rural area.",
+  "A school bus sitting in some overgrown grass",
+  "A bus parked in the weeds on a sunny day"
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

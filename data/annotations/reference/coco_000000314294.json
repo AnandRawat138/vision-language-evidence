@@ -1,0 +1,48 @@
+{
+ "uid": "coco_000000314294",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "elephant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "elephant": 2
+ },
+ "object_boxes": [
+  {
+   "category": "elephant",
+   "bbox": [
+    294.47,
+    84.94,
+    190.92,
+    160.99
+   ],
+   "area": 21121.017249999994
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    387.85,
+    3.42,
+    28.03,
+    37.25
+   ],
+   "area": 667.5373999999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An elephant standing under the shade of a tree.",
+  "An elephant standing in the middle of a rocky environment.",
+  "An elephant is alone in a wooded enclosure.",
+  "An elephant standing in a shaded cleaning in a wooded area.",
+  "An elephant walks alone past some big rocks boulders in an open field"
+ ],
+ "scene_places": []
+}

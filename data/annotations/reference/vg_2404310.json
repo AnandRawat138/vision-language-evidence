@@ -1,0 +1,37 @@
+{
+ "uid": "vg_2404310",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "dining table",
+  "person",
+  "sandwich"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "green",
+   "red",
+   "yellow"
+  ],
+  "uniform": [
+   "red",
+   "yellow"
+  ],
+  "hat": [
+   "red"
+  ]
+ },
+ "accessories": [
+  "gloves",
+  "mask"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

@@ -1,0 +1,190 @@
+{
+ "uid": "flickr30k_4320494335",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man and woman stroll down a sidewalk pushing a baby carriage in a residential area .",
+  "These two parents are enjoying time out of their house with their new baby boy .",
+  "a couple strolling a baby down the street together .",
+  "A brown-haired woman is pushing a baby stroller .",
+  "Couple taking baby for a walk in a stroller ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "162933",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "162928",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 10,
+   "end": 15
+  },
+  {
+   "entity_id": "162932",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sidewalk",
+   "start": 28,
+   "end": 38
+  },
+  {
+   "entity_id": "162938",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a baby carriage",
+   "start": 47,
+   "end": 62
+  },
+  {
+   "entity_id": "162934",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a residential area",
+   "start": 66,
+   "end": 84
+  },
+  {
+   "entity_id": "162929",
+   "types": [
+    "people"
+   ],
+   "phrase": "These two parents",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "162937",
+   "types": [
+    "other"
+   ],
+   "phrase": "time",
+   "start": 31,
+   "end": 35
+  },
+  {
+   "entity_id": "162936",
+   "types": [
+    "scene"
+   ],
+   "phrase": "their house",
+   "start": 43,
+   "end": 54
+  },
+  {
+   "entity_id": "162930",
+   "types": [
+    "people"
+   ],
+   "phrase": "their new baby boy",
+   "start": 60,
+   "end": 78
+  },
+  {
+   "entity_id": "162929",
+   "types": [
+    "people"
+   ],
+   "phrase": "a couple",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "162930",
+   "types": [
+    "people"
+   ],
+   "phrase": "a baby",
+   "start": 19,
+   "end": 25
+  },
+  {
+   "entity_id": "162932",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 31,
+   "end": 41
+  },
+  {
+   "entity_id": "162928",
+   "types": [
+    "people"
+   ],
+   "phrase": "A brown-haired woman",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "162931",
+   "types": [
+    "other"
+   ],
+   "phrase": "a baby stroller",
+   "start": 32,
+   "end": 47
+  },
+  {
+   "entity_id": "162929",
+   "types": [
+    "people"
+   ],
+   "phrase": "Couple",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "162930",
+   "types": [
+    "people"
+   ],
+   "phrase": "baby",
+   "start": 14,
+   "end": 18
+  },
+  {
+   "entity_id": "162935",
+   "types": [
+    "other"
+   ],
+   "phrase": "a walk",
+   "start": 23,
+   "end": 29
+  },
+  {
+   "entity_id": "162931",
+   "types": [
+    "other"
+   ],
+   "phrase": "a stroller",
+   "start": 33,
+   "end": 43
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "uid": "coco_000000025393",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 2,
+  "person": 3,
+  "car": 4
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    430.38,
+    203.87,
+    22.65,
+    96.0
+   ],
+   "area": 1310.1337500000016
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    202.04,
+    139.47,
+    28.31,
+    119.08
+   ],
+   "area": 1349.66955
+  },
+  {
+   "category": "person",
+   "bbox": [
+    148.95,
+    73.51,
+    137.28,
+    401.06
+   ],
+   "area": 29891.466399999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    200.91,
+    45.53,
+    35.11
+   ],
+   "area": 1084.8717000000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    19.79,
+    198.03,
+    49.92,
+    42.21
+   ],
+   "area": 1292.1432
+  },
+  {
+   "category": "car",
+   "bbox": [
+    68.65,
+    199.54,
+    29.52,
+    35.58
+   ],
+   "area": 589.9693
+  },
+  {
+   "category": "car",
+   "bbox": [
+    96.54,
+    195.18,
+    28.71,
+    28.18
+   ],
+   "area": 578.1044
+  },
+  {
+   "category": "person",
+   "bbox": [
+    90.1,
+    184.16,
+    25.51,
+    60.94
+   ],
+   "area": 714.4890499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    371.2,
+    136.24,
+    123.7,
+    342.1
+   ],
+   "area": 24456.511149999984
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a couple of men in ties are outside",
+  "Two men wearing ties cross the street at night.",
+  "Two formally dressed guys are crossing the street.",
+  "Two men walking through a crosswalk at night.",
+  "Two men standing on the street wearing a suit and tie"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

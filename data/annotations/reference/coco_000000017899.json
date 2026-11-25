@@ -1,0 +1,154 @@
+{
+ "uid": "coco_000000017899",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird",
+  "cake",
+  "chair",
+  "couch",
+  "cup",
+  "dining table",
+  "hot dog",
+  "person",
+  "spoon"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 1,
+  "chair": 2,
+  "dining table": 1,
+  "person": 1,
+  "couch": 1,
+  "cup": 2,
+  "spoon": 1,
+  "cake": 1,
+  "hot dog": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    204.72,
+    584.58,
+    14.54,
+    39.44
+   ],
+   "area": 198.93215000000026
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    4.12,
+    318.08,
+    127.73,
+    122.23
+   ],
+   "area": 6017.466
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    125.06,
+    256.38,
+    68.78,
+    107.12
+   ],
+   "area": 2208.5101000000013
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    279.53,
+    480.0,
+    352.53
+   ],
+   "area": 136955.75629999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.44,
+    11.51,
+    243.05,
+    379.68
+   ],
+   "area": 54516.36135000001
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    356.56,
+    91.89,
+    121.55,
+    133.07
+   ],
+   "area": 8831.1007
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    413.43,
+    489.59,
+    66.57,
+    117.61
+   ],
+   "area": 6274.411050000001
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    122.71,
+    366.69,
+    50.72,
+    12.92
+   ],
+   "area": 281.81834999999967
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    326.99,
+    355.32,
+    27.2,
+    25.55
+   ],
+   "area": 471.87925000000064
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    417.55,
+    427.96,
+    62.45,
+    71.17
+   ],
+   "area": 3366.6167
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    249.4,
+    380.54,
+    54.25,
+    65.1
+   ],
+   "area": 2111.6567999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "an old woman is in front of some food on a table",
+  "A person at a table in a room with some food.",
+  "Woman working with large assortment of baked goods at kitchen table.",
+  "A woman prepares bread and pastries on a table.",
+  "An older woman preparing cookies and bread at a table."
+ ],
+ "scene_places": []
+}

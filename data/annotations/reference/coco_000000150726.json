@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000150726",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 2
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    150.04,
+    170.07,
+    257.74,
+    267.93
+   ],
+   "area": 21577.7522
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    56.09,
+    204.22,
+    211.42,
+    258.88
+   ],
+   "area": 15783.302800000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Pair of giraffes walking on grassy area in enclosure.",
+  "Two giraffes walking next to each other in a field.",
+  "Two giraffes are walking abreast on the grassy field.",
+  "Two giraffes walking next to each other.",
+  "A pair of giraffes walking in an area between a rock and a tree."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

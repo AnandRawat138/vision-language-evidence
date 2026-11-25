@@ -1,0 +1,150 @@
+{
+ "uid": "coco_000000214720",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cake",
+  "chair",
+  "couch",
+  "dining table",
+  "knife",
+  "person",
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 2,
+  "chair": 2,
+  "dining table": 1,
+  "person": 1,
+  "knife": 1,
+  "cake": 1,
+  "potted plant": 3
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    174.19,
+    115.05,
+    200.81,
+    110.76
+   ],
+   "area": 14720.18575
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    260.79,
+    222.61,
+    89.56,
+    86.32
+   ],
+   "area": 6395.595100000002
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    58.06,
+    142.83,
+    133.34,
+    77.42
+   ],
+   "area": 6444.9720499999985
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    1.18,
+    309.05,
+    373.82,
+    181.18
+   ],
+   "area": 62358.94335
+  },
+  {
+   "category": "person",
+   "bbox": [
+    20.34,
+    193.89,
+    289.08,
+    139.19
+   ],
+   "area": 20968.547
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    101.91,
+    366.78,
+    133.95,
+    36.95
+   ],
+   "area": 1064.972900000002
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    122.04,
+    321.66,
+    89.5,
+    60.16
+   ],
+   "area": 4310.319750000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    48.25,
+    221.29,
+    86.73,
+    51.17
+   ],
+   "area": 2228.077249999999
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    131.65,
+    24.8,
+    78.29,
+    132.12
+   ],
+   "area": 5211.9651
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    295.57,
+    5.4,
+    79.08,
+    133.49
+   ],
+   "area": 5042.517199999998
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    227.48,
+    35.32,
+    27.81,
+    34.76
+   ],
+   "area": 497.57754999999986
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man sitting at a table in front of a plate of food.",
+  "A man at home posing with a cake",
+  "A smiling guy sitting at a table with some food.",
+  "a person that is sitting down with a plate of food",
+  "a man is sitting in front of some food at a table"
+ ],
+ "scene_places": []
+}

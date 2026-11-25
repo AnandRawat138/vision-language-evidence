@@ -1,0 +1,100 @@
+{
+ "uid": "coco_000000060855",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "apple",
+  "orange"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "apple": 2,
+  "orange": 5
+ },
+ "object_boxes": [
+  {
+   "category": "apple",
+   "bbox": [
+    269.44,
+    61.96,
+    154.91,
+    161.48
+   ],
+   "area": 19454.62285
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    203.72,
+    187.76,
+    129.56,
+    136.13
+   ],
+   "area": 13996.711549999995
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    328.59,
+    199.97,
+    152.09,
+    159.6
+   ],
+   "area": 19217.0798
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    135.05,
+    106.25,
+    133.49,
+    125.98
+   ],
+   "area": 12632.777750000001
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    14.08,
+    96.7,
+    126.74,
+    132.37
+   ],
+   "area": 12258.521999999997
+  },
+  {
+   "category": "apple",
+   "bbox": [
+    24.26,
+    208.04,
+    177.04,
+    176.13
+   ],
+   "area": 23695.374350000006
+  },
+  {
+   "category": "orange",
+   "bbox": [
+    162.2,
+    11.59,
+    129.82,
+    112.37
+   ],
+   "area": 10518.035
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Five oranges with a red apple and a green apple.",
+  "Five oranges and two applies sitting on a white surface.",
+  "A bunch of fruit includes tangerines and apples.",
+  "Bunch of apples and oranges sitting on a white surface.",
+  "The two apples are surround by a bunch of oranges."
+ ],
+ "scene_places": []
+}

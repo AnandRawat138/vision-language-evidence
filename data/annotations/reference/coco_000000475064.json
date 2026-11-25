@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000475064",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "donut",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "donut": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    117.07,
+    303.22,
+    162.16,
+    123.78
+   ],
+   "area": 10627.264700000005
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    180.12,
+    291.15,
+    189.18,
+    83.66
+   ],
+   "area": 9046.105350000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    352.52,
+    354.72,
+    21.59,
+    72.28
+   ],
+   "area": 1116.5407000000023
+  },
+  {
+   "category": "person",
+   "bbox": [
+    384.64,
+    314.61,
+    24.88,
+    111.22
+   ],
+   "area": 1496.8010000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The front of a restaurant with someone holding up food",
+  "A person  holding a piece of food in front of a cafe.",
+  "A person is holding up a half eaten pastry.",
+  "A person holding a piece of food in front of a sign.",
+  "A person standing before a big sign holding up a pastry."
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

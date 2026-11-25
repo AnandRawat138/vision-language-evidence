@@ -1,0 +1,162 @@
+{
+ "uid": "flickr30k_1012150929",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "remote"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A little boy plays with a Nintendo GameCube controller inside a McDonald 's .",
+  "A young boy plays a video game in a McDonald 's restaurant .",
+  "A young boy plays with a GameCube kiosk at McDonald 's .",
+  "A little boy playing GameCube at a McDonald 's .",
+  "A little kid playing GameCube at McDonald 's ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "379",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "384",
+   "types": [
+    "people"
+   ],
+   "phrase": "a Nintendo GameCube controller",
+   "start": 24,
+   "end": 54
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "a McDonald",
+   "start": 62,
+   "end": 72
+  },
+  {
+   "entity_id": "379",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "a video game",
+   "start": 18,
+   "end": 30
+  },
+  {
+   "entity_id": "383",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a McDonald 's restaurant",
+   "start": 34,
+   "end": 58
+  },
+  {
+   "entity_id": "379",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a GameCube kiosk",
+   "start": 23,
+   "end": 39
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "McDonald",
+   "start": 43,
+   "end": 51
+  },
+  {
+   "entity_id": "379",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "GameCube",
+   "start": 21,
+   "end": 29
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "a McDonald",
+   "start": 33,
+   "end": 43
+  },
+  {
+   "entity_id": "379",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little kid",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "GameCube",
+   "start": 21,
+   "end": 29
+  },
+  {
+   "entity_id": "380",
+   "types": [
+    "other"
+   ],
+   "phrase": "McDonald",
+   "start": 33,
+   "end": 41
+  }
+ ],
+ "scene_places": []
+}

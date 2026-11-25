@@ -1,0 +1,208 @@
+{
+ "uid": "coco_000000512564",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person",
+  "traffic light",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 6,
+  "bus": 1,
+  "traffic light": 6,
+  "person": 3,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    254.65,
+    255.47,
+    22.99,
+    17.19
+   ],
+   "area": 325.0919500000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    197.76,
+    216.92,
+    16.9,
+    8.09
+   ],
+   "area": 101.31194999999995
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    380.68,
+    276.96,
+    71.03,
+    70.04
+   ],
+   "area": 4223.62405
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    148.07,
+    230.79,
+    30.91,
+    8.96
+   ],
+   "area": 227.16695000000016
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    166.29,
+    212.73,
+    4.98,
+    15.78
+   ],
+   "area": 58.37310000000018
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    405.7,
+    242.71,
+    9.35,
+    6.06
+   ],
+   "area": 45.969000000000094
+  },
+  {
+   "category": "car",
+   "bbox": [
+    237.31,
+    214.6,
+    8.57,
+    6.72
+   ],
+   "area": 39.57390000000006
+  },
+  {
+   "category": "car",
+   "bbox": [
+    266.77,
+    220.03,
+    12.1,
+    6.32
+   ],
+   "area": 51.15829999999989
+  },
+  {
+   "category": "car",
+   "bbox": [
+    234.93,
+    211.85,
+    6.5,
+    5.64
+   ],
+   "area": 23.951500000000024
+  },
+  {
+   "category": "person",
+   "bbox": [
+    123.44,
+    244.13,
+    5.91,
+    17.64
+   ],
+   "area": 67.11774999999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    96.58,
+    263.48,
+    6.38,
+    22.1
+   ],
+   "area": 74.92639999999979
+  },
+  {
+   "category": "person",
+   "bbox": [
+    412.45,
+    303.86,
+    7.95,
+    12.0
+   ],
+   "area": 58.28299999999987
+  },
+  {
+   "category": "car",
+   "bbox": [
+    123.13,
+    286.01,
+    37.41,
+    33.58
+   ],
+   "area": 973.8686500000002
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    262.1,
+    197.48,
+    6.64,
+    2.69
+   ],
+   "area": 14.823550000000035
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    293.9,
+    395.85,
+    7.94,
+    22.22
+   ],
+   "area": 160.80259999999964
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    119.72,
+    339.42,
+    56.93,
+    59.78
+   ],
+   "area": 2875.7025999999996
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    35.71,
+    289.34,
+    10.07,
+    19.66
+   ],
+   "area": 161.03540000000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Various vehicles are driving down a city street.",
+  "a couple of buses that are on a empty street",
+  "A city street lined with very tall buildings.",
+  "A two way street has minimal cars on it.",
+  "Buildings on both sides next to a street."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

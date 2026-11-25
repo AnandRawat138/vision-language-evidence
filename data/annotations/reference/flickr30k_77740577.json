@@ -1,0 +1,234 @@
+{
+ "uid": "flickr30k_77740577",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "red"
+  ],
+  "pants": [],
+  "sweater": [
+   "beige",
+   "pink"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman wearing a pale shirt and jeans is sitting on a couch next to a man in a maroon shirt .",
+  "A lady with long brown hair is wearing a tan sweater and is sitting on a couch with a man .",
+  "A man and woman rest on a sofa , with holiday wrapping paper beside their feet .",
+  "A woman in a pink sweater sitting on a couch .",
+  "woman sitting on couch with chocolate"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "274968",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "274971",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a pale shirt",
+   "start": 16,
+   "end": 28
+  },
+  {
+   "entity_id": "274976",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "jeans",
+   "start": 33,
+   "end": 38
+  },
+  {
+   "entity_id": "274970",
+   "types": [
+    "other"
+   ],
+   "phrase": "a couch",
+   "start": 53,
+   "end": 60
+  },
+  {
+   "entity_id": "274969",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 69,
+   "end": 74
+  },
+  {
+   "entity_id": "274972",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a maroon shirt",
+   "start": 78,
+   "end": 92
+  },
+  {
+   "entity_id": "274968",
+   "types": [
+    "people"
+   ],
+   "phrase": "A lady",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "274977",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "long brown hair",
+   "start": 12,
+   "end": 27
+  },
+  {
+   "entity_id": "274971",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a tan sweater",
+   "start": 39,
+   "end": 52
+  },
+  {
+   "entity_id": "274970",
+   "types": [
+    "other"
+   ],
+   "phrase": "a couch",
+   "start": 71,
+   "end": 78
+  },
+  {
+   "entity_id": "274969",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 84,
+   "end": 89
+  },
+  {
+   "entity_id": "274969",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "274968",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 10,
+   "end": 15
+  },
+  {
+   "entity_id": "274970",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sofa",
+   "start": 24,
+   "end": 30
+  },
+  {
+   "entity_id": "274975",
+   "types": [
+    "other"
+   ],
+   "phrase": "holiday wrapping paper",
+   "start": 38,
+   "end": 60
+  },
+  {
+   "entity_id": "274978",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "their feet",
+   "start": 68,
+   "end": 78
+  },
+  {
+   "entity_id": "274968",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "274971",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a pink sweater",
+   "start": 11,
+   "end": 25
+  },
+  {
+   "entity_id": "274970",
+   "types": [
+    "other"
+   ],
+   "phrase": "a couch",
+   "start": 37,
+   "end": 44
+  },
+  {
+   "entity_id": "274968",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "274970",
+   "types": [
+    "other"
+   ],
+   "phrase": "couch",
+   "start": 17,
+   "end": 22
+  },
+  {
+   "entity_id": "274974",
+   "types": [
+    "other"
+   ],
+   "phrase": "chocolate",
+   "start": 28,
+   "end": 37
+  }
+ ],
+ "scene_places": []
+}

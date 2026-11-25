@@ -1,0 +1,180 @@
+{
+ "uid": "flickr30k_1246863003",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "white"
+  ],
+  "uniform": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Three chefs , wearing white hats and black aprons , are preparing food in a crowded kitchen .",
+  "Three men work quickly preparing food in the kitchen of an upper-class Chinese restaurant .",
+  "Workers prepare the restaurant for hungry customers .",
+  "Three men are preparing food in a kitchen setting .",
+  "Three men are cooking in a large kitchen ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "6218",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three chefs",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "6223",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white hats",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "6224",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black aprons",
+   "start": 37,
+   "end": 49
+  },
+  {
+   "entity_id": "6221",
+   "types": [
+    "other"
+   ],
+   "phrase": "food",
+   "start": 66,
+   "end": 70
+  },
+  {
+   "entity_id": "6220",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a crowded kitchen",
+   "start": 74,
+   "end": 91
+  },
+  {
+   "entity_id": "6218",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "6221",
+   "types": [
+    "other"
+   ],
+   "phrase": "food",
+   "start": 33,
+   "end": 37
+  },
+  {
+   "entity_id": "6219",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the kitchen of an upper-class Chinese restaurant",
+   "start": 41,
+   "end": 89
+  },
+  {
+   "entity_id": "6218",
+   "types": [
+    "people"
+   ],
+   "phrase": "Workers",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "6219",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the restaurant",
+   "start": 16,
+   "end": 30
+  },
+  {
+   "entity_id": "6222",
+   "types": [
+    "people"
+   ],
+   "phrase": "hungry customers",
+   "start": 35,
+   "end": 51
+  },
+  {
+   "entity_id": "6218",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "6221",
+   "types": [
+    "other"
+   ],
+   "phrase": "food",
+   "start": 24,
+   "end": 28
+  },
+  {
+   "entity_id": "6220",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a kitchen",
+   "start": 32,
+   "end": 41
+  },
+  {
+   "entity_id": "6218",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three men",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "6220",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large kitchen",
+   "start": 25,
+   "end": 40
+  }
+ ],
+ "scene_places": [
+  "kitchen",
+  "restaurant"
+ ]
+}

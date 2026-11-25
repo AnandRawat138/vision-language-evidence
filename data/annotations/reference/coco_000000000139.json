@@ -1,0 +1,246 @@
+{
+ "uid": "coco_000000000139",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "clock",
+  "dining table",
+  "microwave",
+  "person",
+  "potted plant",
+  "refrigerator",
+  "tv",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 1,
+  "tv": 2,
+  "chair": 5,
+  "person": 2,
+  "microwave": 1,
+  "refrigerator": 1,
+  "book": 2,
+  "clock": 1,
+  "vase": 4,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    236.98,
+    142.51,
+    24.7,
+    69.5
+   ],
+   "area": 531.8071000000001
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    7.03,
+    167.76,
+    149.32,
+    94.87
+   ],
+   "area": 13244.657700000002
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    557.21,
+    209.19,
+    81.35,
+    78.73
+   ],
+   "area": 5833.117949999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    358.98,
+    218.05,
+    56.0,
+    102.83
+   ],
+   "area": 2245.34355
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    290.69,
+    218.0,
+    61.83,
+    98.48
+   ],
+   "area": 1833.7840000000017
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    413.2,
+    223.01,
+    30.17,
+    81.36
+   ],
+   "area": 1289.3734500000014
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    317.4,
+    219.24,
+    21.58,
+    11.59
+   ],
+   "area": 210.14820000000023
+  },
+  {
+   "category": "person",
+   "bbox": [
+    412.8,
+    157.61,
+    53.05,
+    138.01
+   ],
+   "area": 2913.1103999999987
+  },
+  {
+   "category": "person",
+   "bbox": [
+    384.43,
+    172.21,
+    15.12,
+    35.74
+   ],
+   "area": 435.1449499999997
+  },
+  {
+   "category": "microwave",
+   "bbox": [
+    512.22,
+    205.75,
+    14.74,
+    15.97
+   ],
+   "area": 217.71919999999997
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    493.1,
+    174.34,
+    20.29,
+    108.31
+   ],
+   "area": 2089.9747999999986
+  },
+  {
+   "category": "book",
+   "bbox": [
+    604.77,
+    305.89,
+    14.34,
+    45.71
+   ],
+   "area": 338.60884999999973
+  },
+  {
+   "category": "book",
+   "bbox": [
+    613.24,
+    308.24,
+    12.88,
+    46.44
+   ],
+   "area": 322.5935999999982
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    447.77,
+    121.12,
+    13.97,
+    21.88
+   ],
+   "area": 225.6642000000005
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    549.06,
+    309.43,
+    36.68,
+    89.67
+   ],
+   "area": 2171.6188500000007
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    350.76,
+    208.84,
+    11.37,
+    22.55
+   ],
+   "area": 178.18510000000012
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    412.25,
+    219.02,
+    9.63,
+    12.52
+   ],
+   "area": 90.98724999999988
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    241.24,
+    194.99,
+    14.22,
+    17.63
+   ],
+   "area": 189.56010000000012
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    336.79,
+    199.5,
+    9.73,
+    16.73
+   ],
+   "area": 120.23200000000004
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    321.21,
+    231.22,
+    125.56,
+    88.93
+   ],
+   "area": 2362.4897499999984
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman stands in the dining area at the table.",
+  "A room with chairs, a table, and a woman in it.",
+  "A woman standing in a kitchen by a window",
+  "A person standing at a table in a room.",
+  "A living area with a television and a table"
+ ],
+ "scene_places": []
+}

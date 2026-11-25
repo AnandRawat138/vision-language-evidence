@@ -1,0 +1,35 @@
+{
+ "uid": "vg_2366694",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cake",
+  "chair",
+  "dining table",
+  "handbag",
+  "knife",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "orange"
+  ],
+  "sweater": [
+   "brown"
+  ]
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [
+  "bag"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

@@ -1,0 +1,152 @@
+{
+ "uid": "flickr30k_2103080234",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A group of people at a festival are blowing bubbles and enjoying the attractions .",
+  "Bubbles float amongst a lively crowd gathered at an outdoor carnival .",
+  "People look onward at bubbles at an outdoor festival .",
+  "A crowd is enjoying an outdoor festival .",
+  "Hippies blow bubbles at a festival ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "29034",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "29036",
+   "types": [
+    "other"
+   ],
+   "phrase": "a festival",
+   "start": 21,
+   "end": 31
+  },
+  {
+   "entity_id": "29035",
+   "types": [
+    "other"
+   ],
+   "phrase": "bubbles",
+   "start": 44,
+   "end": 51
+  },
+  {
+   "entity_id": "29037",
+   "types": [
+    "other"
+   ],
+   "phrase": "the attractions",
+   "start": 65,
+   "end": 80
+  },
+  {
+   "entity_id": "29035",
+   "types": [
+    "other"
+   ],
+   "phrase": "Bubbles",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "29034",
+   "types": [
+    "people"
+   ],
+   "phrase": "a lively crowd",
+   "start": 22,
+   "end": 36
+  },
+  {
+   "entity_id": "29036",
+   "types": [
+    "other"
+   ],
+   "phrase": "an outdoor carnival",
+   "start": 49,
+   "end": 68
+  },
+  {
+   "entity_id": "29034",
+   "types": [
+    "people"
+   ],
+   "phrase": "People",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "29035",
+   "types": [
+    "other"
+   ],
+   "phrase": "bubbles",
+   "start": 22,
+   "end": 29
+  },
+  {
+   "entity_id": "29036",
+   "types": [
+    "other"
+   ],
+   "phrase": "an outdoor festival",
+   "start": 33,
+   "end": 52
+  },
+  {
+   "entity_id": "29034",
+   "types": [
+    "people"
+   ],
+   "phrase": "A crowd",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "29036",
+   "types": [
+    "other"
+   ],
+   "phrase": "an outdoor festival",
+   "start": 20,
+   "end": 39
+  },
+  {
+   "entity_id": "29035",
+   "types": [
+    "other"
+   ],
+   "phrase": "Hippies blow bubbles",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "29036",
+   "types": [
+    "other"
+   ],
+   "phrase": "a festival",
+   "start": 24,
+   "end": 34
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,155 @@
+{
+ "uid": "flickr30k_311619377",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A black-haired woman in a parka is looking at burning incense sticks .",
+  "A woman stands and watches incense burn with the smoke billowing .",
+  "A woman stands over a copper bowl holding many burning incense .",
+  "A woman looks at a plate filled with steam .",
+  "The woman is looking at a smoky exhibit ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "94674",
+   "types": [
+    "people"
+   ],
+   "phrase": "A black-haired woman",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "94679",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a parka",
+   "start": 24,
+   "end": 31
+  },
+  {
+   "entity_id": "94678",
+   "types": [
+    "other"
+   ],
+   "phrase": "incense sticks",
+   "start": 54,
+   "end": 68
+  },
+  {
+   "entity_id": "94674",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "94678",
+   "types": [
+    "other"
+   ],
+   "phrase": "incense",
+   "start": 27,
+   "end": 34
+  },
+  {
+   "entity_id": "94677",
+   "types": [
+    "other"
+   ],
+   "phrase": "the smoke",
+   "start": 45,
+   "end": 54
+  },
+  {
+   "entity_id": "94674",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "94675",
+   "types": [
+    "other"
+   ],
+   "phrase": "a copper bowl",
+   "start": 20,
+   "end": 33
+  },
+  {
+   "entity_id": "94678",
+   "types": [
+    "other"
+   ],
+   "phrase": "many burning incense",
+   "start": 42,
+   "end": 62
+  },
+  {
+   "entity_id": "94674",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "94675",
+   "types": [
+    "other"
+   ],
+   "phrase": "a plate",
+   "start": 17,
+   "end": 24
+  },
+  {
+   "entity_id": "94678",
+   "types": [
+    "other"
+   ],
+   "phrase": "steam",
+   "start": 37,
+   "end": 42
+  },
+  {
+   "entity_id": "94674",
+   "types": [
+    "people"
+   ],
+   "phrase": "The woman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "94676",
+   "types": [
+    "other"
+   ],
+   "phrase": "a smoky exhibit",
+   "start": 24,
+   "end": 39
+  }
+ ],
+ "scene_places": []
+}

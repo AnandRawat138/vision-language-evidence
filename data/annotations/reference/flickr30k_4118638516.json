@@ -1,0 +1,172 @@
+{
+ "uid": "flickr30k_4118638516",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man has a variety of decorative goods hanged up in what appears to be his storefront .",
+  "A man stands behind a small shop surrounded by bright flowers and decorations .",
+  "A man is selling leis and flower decorations on the street .",
+  "A middle eastern guy selling stuff street side .",
+  "A man selling flower arrangements ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "156225",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "156226",
+   "types": [
+    "other"
+   ],
+   "phrase": "a variety of decorative goods",
+   "start": 10,
+   "end": 39
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "what",
+   "start": 53,
+   "end": 57
+  },
+  {
+   "entity_id": "156229",
+   "types": [
+    "other"
+   ],
+   "phrase": "his storefront",
+   "start": 72,
+   "end": 86
+  },
+  {
+   "entity_id": "156225",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "156227",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a small shop",
+   "start": 20,
+   "end": 32
+  },
+  {
+   "entity_id": "156226",
+   "types": [
+    "other"
+   ],
+   "phrase": "bright flowers",
+   "start": 47,
+   "end": 61
+  },
+  {
+   "entity_id": "156226",
+   "types": [
+    "other"
+   ],
+   "phrase": "decorations",
+   "start": 66,
+   "end": 77
+  },
+  {
+   "entity_id": "156225",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "156230",
+   "types": [
+    "other"
+   ],
+   "phrase": "leis",
+   "start": 17,
+   "end": 21
+  },
+  {
+   "entity_id": "156226",
+   "types": [
+    "other"
+   ],
+   "phrase": "flower decorations",
+   "start": 26,
+   "end": 44
+  },
+  {
+   "entity_id": "156228",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 48,
+   "end": 58
+  },
+  {
+   "entity_id": "156225",
+   "types": [
+    "people"
+   ],
+   "phrase": "A middle eastern guy",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "stuff street side",
+   "start": 29,
+   "end": 46
+  },
+  {
+   "entity_id": "156225",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "156226",
+   "types": [
+    "other"
+   ],
+   "phrase": "flower arrangements",
+   "start": 14,
+   "end": 33
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

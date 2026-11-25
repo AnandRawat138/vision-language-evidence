@@ -1,0 +1,194 @@
+{
+ "uid": "coco_000000441543",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "cell phone",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 1,
+  "person": 13,
+  "backpack": 1,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    93.21,
+    64.88,
+    477.02,
+    317.1
+   ],
+   "area": 76272.89590000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    217.35,
+    283.46,
+    134.94,
+    115.01
+   ],
+   "area": 8589.680500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.91,
+    218.89,
+    155.76,
+    178.4
+   ],
+   "area": 22037.425000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    403.91,
+    351.38,
+    147.61,
+    46.19
+   ],
+   "area": 4801.717450000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    579.04,
+    251.73,
+    40.76,
+    131.32
+   ],
+   "area": 2498.16765
+  },
+  {
+   "category": "person",
+   "bbox": [
+    519.1,
+    343.45,
+    97.18,
+    58.26
+   ],
+   "area": 3718.4473499999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    510.8,
+    239.62,
+    82.24,
+    119.08
+   ],
+   "area": 5687.6821999999975
+  },
+  {
+   "category": "person",
+   "bbox": [
+    484.49,
+    235.41,
+    65.04,
+    100.43
+   ],
+   "area": 2802.751450000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    589.4,
+    236.29,
+    43.29,
+    84.14
+   ],
+   "area": 1926.1616000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    137.65,
+    269.87,
+    103.24,
+    128.6
+   ],
+   "area": 7936.355800000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    451.41,
+    296.1,
+    68.24,
+    73.6
+   ],
+   "area": 3382.557099999998
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    145.69,
+    308.08,
+    82.07,
+    94.92
+   ],
+   "area": 6239.29275
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    550.47,
+    273.05,
+    22.97,
+    19.86
+   ],
+   "area": 105.21240000000024
+  },
+  {
+   "category": "person",
+   "bbox": [
+    484.72,
+    231.12,
+    36.02,
+    39.45
+   ],
+   "area": 748.7647000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    398.6,
+    244.46,
+    69.63,
+    138.84
+   ],
+   "area": 5440.846500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    86.99,
+    237.77,
+    25.44,
+    24.06
+   ],
+   "area": 386.6734499999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people with one person holding up a huge different color umbrella.",
+  "A woman with a large umbrella in a busy square.",
+  "A beautiful red haired woman holding a colorful umbrella.",
+  "A woman holding a multiple colored umbrella in a crowd of people.",
+  "A group of people on a bust street area with one person holding a multicolored umbrella over head."
+ ],
+ "scene_places": []
+}

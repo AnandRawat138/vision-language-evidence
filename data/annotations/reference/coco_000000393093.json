@@ -1,0 +1,125 @@
+{
+ "uid": "coco_000000393093",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 7,
+  "train": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    282.56,
+    355.03,
+    75.76,
+    46.45
+   ],
+   "area": 2413.464650000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    367.4,
+    321.75,
+    54.82,
+    34.07
+   ],
+   "area": 1219.6907500000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    438.96,
+    290.68,
+    31.09,
+    25.31
+   ],
+   "area": 656.8035500000004
+  },
+  {
+   "category": "train",
+   "bbox": [
+    4.76,
+    146.73,
+    634.57,
+    74.32
+   ],
+   "area": 38704.67955000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    563.85,
+    361.66,
+    55.17,
+    62.34
+   ],
+   "area": 2293.6453499999984
+  },
+  {
+   "category": "car",
+   "bbox": [
+    464.07,
+    305.26,
+    30.8,
+    27.03
+   ],
+   "area": 439.54700000000037
+  },
+  {
+   "category": "car",
+   "bbox": [
+    465.14,
+    284.56,
+    22.91,
+    17.86
+   ],
+   "area": 313.48029999999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    401.34,
+    304.29,
+    37.79,
+    27.15
+   ],
+   "area": 762.5620999999995
+  },
+  {
+   "category": "car",
+   "bbox": [
+    474.59,
+    280.07,
+    23.73,
+    13.68
+   ],
+   "area": 174.13934999999987
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A silver and green train crossing over the tracks",
+  "A train passes on a bridge atop a street.",
+  "A large long train on a steel track.",
+  "The train is going over the busy urban bridge.",
+  "a green orange and silver train and some cars"
+ ],
+ "scene_places": [
+  "station",
+  "street"
+ ]
+}

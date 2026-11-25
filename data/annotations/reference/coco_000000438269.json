@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000438269",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    49.55,
+    287.66,
+    216.08,
+    306.92
+   ],
+   "area": 20257.1761
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "There is a bird standing in the sand.",
+  "A bird  that is sitting down on some water.",
+  "A long billed bird stands at the shore of a lake",
+  "A bird standing next to a large body of water.",
+  "A tall white bird standing on a lake in a swamp."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

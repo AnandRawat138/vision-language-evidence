@@ -1,0 +1,102 @@
+{
+ "uid": "coco_000000527215",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 5,
+  "kite": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    451.71,
+    207.97,
+    61.03,
+    189.46
+   ],
+   "area": 6244.566850000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    445.0,
+    281.48,
+    10.16,
+    23.07
+   ],
+   "area": 128.05859999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    553.15,
+    295.94,
+    6.14,
+    9.46
+   ],
+   "area": 38.09785000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    568.28,
+    292.63,
+    7.78,
+    13.65
+   ],
+   "area": 61.929400000000264
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    87.25,
+    38.82,
+    27.31,
+    37.66
+   ],
+   "area": 173.4284500000001
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    487.52,
+    69.35,
+    13.33,
+    6.27
+   ],
+   "area": 47.77495000000011
+  },
+  {
+   "category": "person",
+   "bbox": [
+    285.89,
+    277.37,
+    11.89,
+    27.88
+   ],
+   "area": 129.92505000000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man flying a kite on a beach with people standing around.",
+  "A person standing on a beach holding onto a kite string.",
+  "A man flying a kite while standing on a beach.",
+  "A man waves to people in the distance on a beach.",
+  "A blue tinted photograph of a man flying a kite on the beach."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

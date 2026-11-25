@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000047010",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cow",
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 3,
+  "cow": 1
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    302.78,
+    200.2,
+    104.83,
+    109.94
+   ],
+   "area": 3244.957349999999
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    427.92,
+    201.43,
+    89.75,
+    103.76
+   ],
+   "area": 2467.929099999998
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    75.51,
+    211.42,
+    143.46,
+    108.94
+   ],
+   "area": 4585.22825
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    541.93,
+    359.15,
+    42.83,
+    46.78
+   ],
+   "area": 1093.7911500000018
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A pond of water with three giraffe walking in the dirt.",
+  "three giraffes walking on a gravel ground near a body of water",
+  "A herd of giraffe walking along a dirt road.",
+  "Three giraffes with heads pointing ahead walk on a dirt path.",
+  "Giraffes walking near water surrounded by a forest."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

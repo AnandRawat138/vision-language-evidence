@@ -1,0 +1,172 @@
+{
+ "uid": "flickr30k_3523559027",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A formation on a big field with people wearing red , white and blue",
+  "The crowd stood in many different lines in the open field .",
+  "The group of people make single file lines on the field .",
+  "Marching bands in formation on a field .",
+  "Many people in formation on a field ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "124658",
+   "types": [
+    "other"
+   ],
+   "phrase": "A formation",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "124659",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a big field",
+   "start": 15,
+   "end": 26
+  },
+  {
+   "entity_id": "124657",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 32,
+   "end": 38
+  },
+  {
+   "entity_id": "124660",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red , white and blue",
+   "start": 47,
+   "end": 67
+  },
+  {
+   "entity_id": "124657",
+   "types": [
+    "people"
+   ],
+   "phrase": "The crowd",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "124658",
+   "types": [
+    "other"
+   ],
+   "phrase": "many different lines",
+   "start": 19,
+   "end": 39
+  },
+  {
+   "entity_id": "124659",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the open field",
+   "start": 43,
+   "end": 57
+  },
+  {
+   "entity_id": "124657",
+   "types": [
+    "people"
+   ],
+   "phrase": "The group of people",
+   "start": 0,
+   "end": 19
+  },
+  {
+   "entity_id": "124658",
+   "types": [
+    "other"
+   ],
+   "phrase": "single file lines",
+   "start": 25,
+   "end": 42
+  },
+  {
+   "entity_id": "124659",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the field",
+   "start": 46,
+   "end": 55
+  },
+  {
+   "entity_id": "124657",
+   "types": [
+    "people"
+   ],
+   "phrase": "Marching bands",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "124658",
+   "types": [
+    "other"
+   ],
+   "phrase": "formation",
+   "start": 18,
+   "end": 27
+  },
+  {
+   "entity_id": "124659",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "entity_id": "124657",
+   "types": [
+    "people"
+   ],
+   "phrase": "Many people",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "124658",
+   "types": [
+    "other"
+   ],
+   "phrase": "formation",
+   "start": 15,
+   "end": 24
+  },
+  {
+   "entity_id": "124659",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a field",
+   "start": 28,
+   "end": 35
+  }
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

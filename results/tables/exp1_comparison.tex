@@ -1,0 +1,20 @@
+\begin{table*}[!t]
+\centering
+\footnotesize
+\caption{Comparison with baselines on the test split (E1). Objects: COCO/VQA images with exhaustive COCO-80 references ($n=420$). Garments, accessories, carried objects: VG/Flickr30K images ($n=280$; references not exhaustive, so precision is a lower bound). Scene hit: predicted place among places named by $\geq2$ captions. Colour accuracy only for methods that output garment colours. 95\% bootstrap CIs are given in the text and in Online Resource~1. Per-image F1 compared with B6 by Wilcoxon signed-rank test, Holm-adjusted: $^{*}p<0.05$, $^{**}p<0.01$.}
+\label{tab:comparison}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lcccccccccccc}
+\toprule
+\multirow{2}{*}{Method} & \multicolumn{5}{c}{Objects (COCO/VQA)} & \multicolumn{4}{c}{Garments (VG/Flickr30K)} & Access. & Carried & Scene \\ \cmidrule(lr){2-6}\cmidrule(lr){7-10} & P & R & F1 & macro-F1 & CHAIR$_i\downarrow$ & P & R & F1 & colour & F1 & F1 & hit \\
+\midrule
+B1 BLIP-base caption & 0.911 & 0.401 & 0.557 & 0.445 & 0.089 & 0.750 & 0.033 & 0.063$^{**}$ & -- & 0.073 & 0.058 & 0.661 \\
+B2 CLIP ViT-B/32 zero-shot & 0.424 & 0.381 & 0.401$^{**}$ & 0.407 & 0.576 & 0.187 & 0.570 & 0.281$^{**}$ & -- & 0.134 & 0.194 & -- \\
+B3 Qwen2.5-VL caption & 0.875 & 0.566 & 0.687$^{**}$ & 0.646 & 0.125 & 0.662 & 0.292 & 0.406 & -- & 0.355 & 0.279 & 0.795 \\
+B5 Qwen2.5-VL structured & 0.911 & 0.398 & 0.554 & 0.646 & 0.089 & 0.541 & 0.412 & 0.468 & 0.828 & 0.434 & 0.313 & 0.754 \\
+B6 Framework (ours) & 0.915 & 0.397 & 0.554 & 0.645 & 0.085 & 0.547 & 0.393 & 0.458 & 0.826 & 0.434 & 0.313 & 0.754 \\
+B6-HP Framework, high-precision & 0.916 & 0.394 & 0.551 & 0.643 & 0.084 & 0.547 & 0.393 & 0.458 & 0.826 & 0.434 & 0.313 & 0.754 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

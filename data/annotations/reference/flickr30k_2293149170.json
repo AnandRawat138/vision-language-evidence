@@ -1,0 +1,179 @@
+{
+ "uid": "flickr30k_2293149170",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "mouse",
+  "person",
+  "teddy bear"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black"
+  ],
+  "pants": [
+   "beige"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A boy wearing a black shirt and khaki pants is laying down , and is surrounded by stuffed animals .",
+  "Child laying down in the midst of stuffed animals including Mickey Mouse and Tigger",
+  "A boy is lying down in midst of many soft toys , and spiderman quilt .",
+  "A child laying in the midst of stuffed toys and blankets .",
+  "A young boy lays in a bed of stuffed animals ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "39588",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "39594",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black shirt",
+   "start": 14,
+   "end": 27
+  },
+  {
+   "entity_id": "39595",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "khaki pants",
+   "start": 32,
+   "end": 43
+  },
+  {
+   "entity_id": "39589",
+   "types": [
+    "animals"
+   ],
+   "phrase": "stuffed animals",
+   "start": 82,
+   "end": 97
+  },
+  {
+   "entity_id": "39588",
+   "types": [
+    "people"
+   ],
+   "phrase": "Child",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "39589",
+   "types": [
+    "animals"
+   ],
+   "phrase": "the midst of stuffed animals",
+   "start": 21,
+   "end": 49
+  },
+  {
+   "entity_id": "39591",
+   "types": [
+    "animals"
+   ],
+   "phrase": "Mickey Mouse",
+   "start": 60,
+   "end": 72
+  },
+  {
+   "entity_id": "39592",
+   "types": [
+    "other"
+   ],
+   "phrase": "Tigger",
+   "start": 77,
+   "end": 83
+  },
+  {
+   "entity_id": "39588",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "39593",
+   "types": [
+    "other"
+   ],
+   "phrase": "many soft toys",
+   "start": 32,
+   "end": 46
+  },
+  {
+   "entity_id": "39590",
+   "types": [
+    "other"
+   ],
+   "phrase": "spiderman quilt",
+   "start": 53,
+   "end": 68
+  },
+  {
+   "entity_id": "39588",
+   "types": [
+    "people"
+   ],
+   "phrase": "A child",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "39589",
+   "types": [
+    "other"
+   ],
+   "phrase": "the midst of stuffed toys",
+   "start": 18,
+   "end": 43
+  },
+  {
+   "entity_id": "39590",
+   "types": [
+    "other"
+   ],
+   "phrase": "blankets",
+   "start": 48,
+   "end": 56
+  },
+  {
+   "entity_id": "39588",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "39589",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a bed of stuffed animals",
+   "start": 20,
+   "end": 44
+  }
+ ],
+ "scene_places": []
+}

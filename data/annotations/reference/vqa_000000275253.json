@@ -1,0 +1,107 @@
+{
+ "uid": "vqa_000000275253",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 2
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    46.55,
+    320.43,
+    116.36,
+    306.43
+   ],
+   "area": 11409.748799999998
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    94.71,
+    465.79,
+    112.29,
+    126.28
+   ],
+   "area": 8769.600750000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A pile of dirty clothing stacked on top of the floor.",
+  "there are many hats that are on this floor",
+  "A small dog is covered in numerous hats.",
+  "A black and white dog laying on carpet next to a white wall.",
+  "This dog is hiding under several hats while laying on the floor."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 275253000,
+   "question": "Is there  a animal on the floor?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "dog",
+    "cat",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 275253001,
+   "question": "What is on the floor?",
+   "answer_type": "other",
+   "question_type": "what is on the",
+   "multiple_choice_answer": "hats",
+   "answers": [
+    "clothes over dog",
+    "dog and hats",
+    "hats",
+    "clothes",
+    "dog",
+    "dog",
+    "dog under hats",
+    "hats on dog",
+    "dog and hats",
+    "hats"
+   ]
+  },
+  {
+   "question_id": 275253002,
+   "question": "Is the floor covering made of hardwood?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

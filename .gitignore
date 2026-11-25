@@ -1,0 +1,27 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/
+data/images/
+results/evidence.sqlite
+results/processed/cache/
+frontend/node_modules/
+frontend/dist/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.synctex.gz
+*.zip
+
+# manuscript sources and build outputs are not published in the code repository
+paper/
+deliverables/
+
+results/figures/fig6_test_cases.*
+results/figures/fig_review_interface.png
+.claude/

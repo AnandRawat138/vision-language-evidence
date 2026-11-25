@@ -1,0 +1,86 @@
+{
+ "uid": "coco_000000569917",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "sink",
+  "toilet",
+  "toothbrush"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 1,
+  "toothbrush": 2,
+  "toilet": 1,
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    161.16,
+    316.74,
+    40.71,
+    90.51
+   ],
+   "area": 1261.2743000000005
+  },
+  {
+   "category": "toothbrush",
+   "bbox": [
+    326.04,
+    281.96,
+    16.35,
+    74.24
+   ],
+   "area": 472.3264499999994
+  },
+  {
+   "category": "toothbrush",
+   "bbox": [
+    337.11,
+    280.56,
+    16.52,
+    73.93
+   ],
+   "area": 395.6595499999991
+  },
+  {
+   "category": "toilet",
+   "bbox": [
+    1.44,
+    429.55,
+    135.5,
+    203.24
+   ],
+   "area": 24319.652099999996
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    149.57,
+    317.84,
+    327.91,
+    198.47
+   ],
+   "area": 38186.31924999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A small bathroom has a sink and a storage rack over the toilet.",
+  "A sink and some shelves are in this small bathroom.",
+  "a a small bathroom with pink tile and trim",
+  "THERE IS A BATHROOM WITH A SINK AND A MIRROR",
+  "A bathroom with a sink, mirror, and toilet and other items"
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "uid": "flickr30k_4465093007",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man in a white shirt yells and throws up his fists as he is being carried by a group of people at a gathering .",
+  "A young man at a party shouts out , his fists raised with emotion .",
+  "A man in a white shirt with a mustache is crowd surfing .",
+  "A man wearing a white shirt and he is having fun",
+  "A man in a white t-shirt is cheering ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "170731",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "170733",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "170734",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his fists",
+   "start": 43,
+   "end": 52
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "he",
+   "start": 56,
+   "end": 58
+  },
+  {
+   "entity_id": "170732",
+   "types": [
+    "people"
+   ],
+   "phrase": "a group of people",
+   "start": 79,
+   "end": 96
+  },
+  {
+   "entity_id": "170735",
+   "types": [
+    "people"
+   ],
+   "phrase": "a gathering",
+   "start": 100,
+   "end": 111
+  },
+  {
+   "entity_id": "170731",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "170737",
+   "types": [
+    "other"
+   ],
+   "phrase": "a party",
+   "start": 15,
+   "end": 22
+  },
+  {
+   "entity_id": "170734",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his fists",
+   "start": 36,
+   "end": 45
+  },
+  {
+   "entity_id": "170738",
+   "types": [
+    "other"
+   ],
+   "phrase": "emotion",
+   "start": 58,
+   "end": 65
+  },
+  {
+   "entity_id": "170731",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "170733",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "170736",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a mustache",
+   "start": 28,
+   "end": 38
+  },
+  {
+   "entity_id": "170732",
+   "types": [
+    "people"
+   ],
+   "phrase": "crowd",
+   "start": 42,
+   "end": 47
+  },
+  {
+   "entity_id": "170731",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "170733",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 14,
+   "end": 27
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "he",
+   "start": 32,
+   "end": 34
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "fun",
+   "start": 45,
+   "end": 48
+  },
+  {
+   "entity_id": "170731",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "170733",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white t-shirt",
+   "start": 9,
+   "end": 24
+  }
+ ],
+ "scene_places": []
+}

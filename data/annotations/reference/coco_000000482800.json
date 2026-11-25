@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000482800",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "frisbee": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    333.24,
+    81.1,
+    165.77,
+    368.47
+   ],
+   "area": 26805.304399999983
+  },
+  {
+   "category": "person",
+   "bbox": [
+    128.37,
+    106.8,
+    66.75,
+    261.88
+   ],
+   "area": 11968.627700000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    303.98,
+    88.39,
+    91.4,
+    243.39
+   ],
+   "area": 6217.788199999998
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    476.41,
+    281.97,
+    24.14,
+    50.07
+   ],
+   "area": 824.0849499999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "an image of three people playing Frisbee outside",
+  "three people standing in a green field with one person holding a frisbee.",
+  "a close up of three people in a field with a frisbee",
+  "Three people in black shirts playing with a white frisbee.",
+  "A bunch of young men walking on a field."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

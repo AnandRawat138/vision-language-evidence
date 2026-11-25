@@ -1,0 +1,195 @@
+{
+ "uid": "coco_000000474293",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "handbag",
+  "person",
+  "teddy bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "teddy bear": 14,
+  "handbag": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "teddy bear",
+   "bbox": [
+    212.0,
+    232.63,
+    20.72,
+    19.41
+   ],
+   "area": 241.78099999999992
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    555.94,
+    288.26,
+    67.72,
+    83.52
+   ],
+   "area": 2268.0071500000013
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    199.03,
+    292.04,
+    21.25,
+    24.46
+   ],
+   "area": 332.4934499999997
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    225.68,
+    291.43,
+    19.32,
+    25.0
+   ],
+   "area": 312.2486000000005
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    212.06,
+    290.38,
+    19.14,
+    26.56
+   ],
+   "area": 284.04954999999967
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    183.22,
+    287.33,
+    23.33,
+    31.55
+   ],
+   "area": 439.3076999999998
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    183.41,
+    261.52,
+    11.77,
+    28.84
+   ],
+   "area": 198.3832000000001
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    153.68,
+    248.87,
+    12.81,
+    12.72
+   ],
+   "area": 115.47465000000008
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    156.36,
+    216.66,
+    13.3,
+    18.86
+   ],
+   "area": 148.3093000000001
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    263.15,
+    296.93,
+    28.0,
+    16.46
+   ],
+   "area": 204.2333499999997
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    201.65,
+    218.7,
+    15.63,
+    25.24
+   ],
+   "area": 192.34845000000004
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    142.41,
+    247.98,
+    15.01,
+    22.93
+   ],
+   "area": 246.03535000000025
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    156.27,
+    260.31,
+    14.91,
+    15.64
+   ],
+   "area": 177.50949999999986
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    153.79,
+    293.71,
+    13.2,
+    26.6
+   ],
+   "area": 284.0800000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    526.62,
+    249.01,
+    110.84,
+    230.63
+   ],
+   "area": 9559.903300000002
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    136,
+    73,
+    345,
+    246
+   ],
+   "area": 20047
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A full view of a beautiful store in a town.",
+  "A view of a store that sells teddy bears. There is a huge display in the window.",
+  "A woman walking past a store front on the sidewalk.",
+  "An entrance to a galeria of some kind",
+  "a store with a lot of teddy bears on display"
+ ],
+ "scene_places": [
+  "store",
+  "street"
+ ]
+}

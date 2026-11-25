@@ -1,0 +1,256 @@
+{
+ "uid": "flickr30k_2978040423",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ],
+  "pants": [
+   "beige"
+  ],
+  "shoes": [],
+  "hat": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman wearing a white shirt , tan pants , and boots is standing beside a vendor cart that contains various beverages .",
+  "Lady at the beach standing next to her ice cream cart , numerous people is lounging in the background .",
+  "A treat vendor is standing in the sun while others sit in the shade under umbrellas .",
+  "A black woman wearing a blue hat and white t-shirt is standing at a snow cone stand .",
+  "Woman with a vending cart in the middle of a beach ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "85196",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "85199",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 16,
+   "end": 29
+  },
+  {
+   "entity_id": "85205",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "tan pants",
+   "start": 32,
+   "end": 41
+  },
+  {
+   "entity_id": "85202",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "boots",
+   "start": 48,
+   "end": 53
+  },
+  {
+   "entity_id": "85198",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a vendor cart",
+   "start": 73,
+   "end": 86
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 87,
+   "end": 91
+  },
+  {
+   "entity_id": "85209",
+   "types": [
+    "other"
+   ],
+   "phrase": "various beverages",
+   "start": 101,
+   "end": 118
+  },
+  {
+   "entity_id": "85196",
+   "types": [
+    "people"
+   ],
+   "phrase": "Lady",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "85197",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 8,
+   "end": 17
+  },
+  {
+   "entity_id": "85198",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "her ice cream cart",
+   "start": 35,
+   "end": 53
+  },
+  {
+   "entity_id": "85203",
+   "types": [
+    "people"
+   ],
+   "phrase": "numerous people",
+   "start": 56,
+   "end": 71
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 87,
+   "end": 101
+  },
+  {
+   "entity_id": "85196",
+   "types": [
+    "people"
+   ],
+   "phrase": "A treat vendor",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "85207",
+   "types": [
+    "other"
+   ],
+   "phrase": "the sun",
+   "start": 30,
+   "end": 37
+  },
+  {
+   "entity_id": "85204",
+   "types": [
+    "other"
+   ],
+   "phrase": "others",
+   "start": 44,
+   "end": 50
+  },
+  {
+   "entity_id": "85206",
+   "types": [
+    "other"
+   ],
+   "phrase": "the shade",
+   "start": 58,
+   "end": 67
+  },
+  {
+   "entity_id": "85208",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "umbrellas",
+   "start": 74,
+   "end": 83
+  },
+  {
+   "entity_id": "85196",
+   "types": [
+    "people"
+   ],
+   "phrase": "A black woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "85200",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue hat",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "85199",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white t-shirt",
+   "start": 37,
+   "end": 50
+  },
+  {
+   "entity_id": "85201",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a snow cone stand",
+   "start": 66,
+   "end": 83
+  },
+  {
+   "entity_id": "85196",
+   "types": [
+    "people"
+   ],
+   "phrase": "Woman",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "85198",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a vending cart",
+   "start": 11,
+   "end": 25
+  },
+  {
+   "entity_id": "85197",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of a beach",
+   "start": 29,
+   "end": 50
+  }
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "uid": "vqa_000000023247",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "person",
+  "refrigerator"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 4,
+  "refrigerator": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    176.9,
+    118.29,
+    50.34,
+    99.24
+   ],
+   "area": 4332.325949999999
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    295.6,
+    51.5,
+    55.11,
+    156.96
+   ],
+   "area": 5907.986449999997
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    252.08,
+    493.46,
+    206.09,
+    115.62
+   ],
+   "area": 17383.8051
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    104.99,
+    198.83,
+    373.93,
+    432.9
+   ],
+   "area": 148015.1017
+  },
+  {
+   "category": "person",
+   "bbox": [
+    2.88,
+    2.97,
+    271.82,
+    629.93
+   ],
+   "area": 41226.9789
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    243.36,
+    402.83,
+    97.01,
+    67.45
+   ],
+   "area": 4508.0944
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman looking into a refrigerator filled with food.",
+  "A REFG WITH THERE ARE MANY THINGS IN IT",
+  "A woman has her hand on a half gallon bottle of milk.",
+  "A girl takes a container of milk out of the refrigerator.",
+  "A girl is reaching to take a container of milk out of the refrigerator.",
+  "A girl is reaching inside a refrigerator for a container of milk.",
+  "A woman is grabbing milk inside of a fridge."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 23247000,
+   "question": "What is the color of the milk cap?",
+   "answer_type": "other",
+   "question_type": "what is the color of the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "blue",
+    "blue",
+    "light blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "blue",
+    "clear"
+   ]
+  },
+  {
+   "question_id": 23247001,
+   "question": "Is the milk from a cow?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "probably",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 23247002,
+   "question": "Is that the best place to store the milk?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 23247003,
+   "question": "What color is the egg carton?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "yellow",
+   "answers": [
+    "tan",
+    "beige",
+    "green",
+    "light brown",
+    "yellow",
+    "brown",
+    "tan",
+    "yellow",
+    "brown",
+    "yellow"
+   ]
+  }
+ ]
+}

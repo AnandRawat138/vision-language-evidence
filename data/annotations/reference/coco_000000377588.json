@@ -1,0 +1,132 @@
+{
+ "uid": "coco_000000377588",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 6,
+  "baseball bat": 1,
+  "baseball glove": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    301.33,
+    202.09,
+    46.96,
+    112.94
+   ],
+   "area": 2635.104349999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    223.3,
+    361.51,
+    47.75,
+    65.43
+   ],
+   "area": 1805.4220000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    489.65,
+    73.64,
+    19.36,
+    47.96
+   ],
+   "area": 524.9837000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    232.94,
+    212.92,
+    76.46,
+    22.8
+   ],
+   "area": 914.11605
+  },
+  {
+   "category": "person",
+   "bbox": [
+    77.18,
+    203.43,
+    47.76,
+    71.14
+   ],
+   "area": 1718.5653999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    318.86,
+    173.66,
+    53.4,
+    59.07
+   ],
+   "area": 1286.3388000000002
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    228.36,
+    348.65,
+    16.47,
+    58.4
+   ],
+   "area": 277.9616999999996
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    296.15,
+    257.17,
+    13.54,
+    17.49
+   ],
+   "area": 135.0297999999997
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    361.82,
+    205.53,
+    12.52,
+    6.76
+   ],
+   "area": 55.65194999999994
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    500.58,
+    98.73,
+    8.08,
+    7.6
+   ],
+   "area": 35.89100000000016
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Professional baseball players in the middle of a game.",
+  "A guy sliding to a base in baseball.",
+  "A baseball game as seen through the safety netting behind the batter.",
+  "Pitcher in a baseball game tries to out a player attempting to steal base.",
+  "A group of men during a baseball game with wall in the background."
+ ],
+ "scene_places": []
+}

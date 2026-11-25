@@ -1,0 +1,130 @@
+{
+ "uid": "coco_000000383921",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "elephant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "elephant": 10
+ },
+ "object_boxes": [
+  {
+   "category": "elephant",
+   "bbox": [
+    32.44,
+    231.31,
+    363.01,
+    113.87
+   ],
+   "area": 19798.683749999997
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    167.23,
+    185.56,
+    308.86,
+    103.19
+   ],
+   "area": 14842.12795
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    407.57,
+    151.89,
+    139.46,
+    148.11
+   ],
+   "area": 12236.039600000004
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    349.3,
+    127.9,
+    110.47,
+    62.89
+   ],
+   "area": 4640.549999999998
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    228.67,
+    106.79,
+    127.29,
+    80.9
+   ],
+   "area": 7889.033599999999
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    104.64,
+    300.3,
+    137.55,
+    140.73
+   ],
+   "area": 9295.1412
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    0.0,
+    321.26,
+    201.71,
+    158.74
+   ],
+   "area": 25312.394300000004
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    0.0,
+    133.09,
+    337.51,
+    298.39
+   ],
+   "area": 23036.97135
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    0.21,
+    118.43,
+    59.61,
+    47.03
+   ],
+   "area": 2023.0636999999995
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    299.1,
+    173.38,
+    111.88,
+    54.79
+   ],
+   "area": 2144.0015000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A herd of elephants walking across a body of water.",
+  "A herd of elephants in rocky area next to water.",
+  "A group of elephants is walking out of the water.",
+  "A herd of large elephants in a pool of water.",
+  "A herd of large elephants get to the other side after crossing a river."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

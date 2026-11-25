@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000050380",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 1,
+  "chair": 1,
+  "person": 3
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    202.5,
+    163.65,
+    148.45,
+    259.32
+   ],
+   "area": 25565.591349999995
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    1.44,
+    252.51,
+    118.6,
+    173.84
+   ],
+   "area": 10208.366350000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    189.46,
+    37.99,
+    135.6,
+    262.54
+   ],
+   "area": 10646.37125
+  },
+  {
+   "category": "person",
+   "bbox": [
+    331.04,
+    0.0,
+    220.7,
+    422.04
+   ],
+   "area": 53453.04690000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    108.69,
+    70.98,
+    296.13
+   ],
+   "area": 14417.6671
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A  man guiding a pony with a boy riding on it.",
+  "a may leading a a boy on a pony with a rope",
+  "A young boy and an elderly man taking a pony out for a walk.",
+  "A man guides a pony with a young boy on it's back.",
+  "A man holding a horse, so a little boy can take a ride."
+ ],
+ "scene_places": []
+}

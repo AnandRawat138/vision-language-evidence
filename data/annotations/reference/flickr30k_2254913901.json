@@ -1,0 +1,154 @@
+{
+ "uid": "flickr30k_2254913901",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Woman on the street window shops in front of the store , Louis Vuitton .",
+  "The woman in black is looking at outfits in a clothing store window .",
+  "A woman looks at clothes in a Louis Vuitton store window .",
+  "A woman window shops outside of a Louis Vuitton store .",
+  "A Louis Vuitton store window at night ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "37162",
+   "types": [
+    "people"
+   ],
+   "phrase": "Woman",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "37163",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street window shops",
+   "start": 9,
+   "end": 32
+  },
+  {
+   "entity_id": "37164",
+   "types": [
+    "other"
+   ],
+   "phrase": "the store , Louis Vuitton",
+   "start": 45,
+   "end": 70
+  },
+  {
+   "entity_id": "37162",
+   "types": [
+    "people"
+   ],
+   "phrase": "The woman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "37165",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black",
+   "start": 13,
+   "end": 18
+  },
+  {
+   "entity_id": "37166",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "outfits",
+   "start": 33,
+   "end": 40
+  },
+  {
+   "entity_id": "37163",
+   "types": [
+    "other"
+   ],
+   "phrase": "a clothing store window",
+   "start": 44,
+   "end": 67
+  },
+  {
+   "entity_id": "37162",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "37166",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "clothes",
+   "start": 17,
+   "end": 24
+  },
+  {
+   "entity_id": "37163",
+   "types": [
+    "other"
+   ],
+   "phrase": "a Louis Vuitton store window",
+   "start": 28,
+   "end": 56
+  },
+  {
+   "entity_id": "37163",
+   "types": [
+    "other"
+   ],
+   "phrase": "A woman window",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "37164",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a Louis Vuitton store",
+   "start": 32,
+   "end": 53
+  },
+  {
+   "entity_id": "37163",
+   "types": [
+    "other"
+   ],
+   "phrase": "A Louis Vuitton store window",
+   "start": 0,
+   "end": 28
+  },
+  {
+   "entity_id": "37168",
+   "types": [
+    "scene"
+   ],
+   "phrase": "night",
+   "start": 32,
+   "end": 37
+  }
+ ],
+ "scene_places": [
+  "store"
+ ]
+}

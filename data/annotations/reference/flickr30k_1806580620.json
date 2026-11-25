@@ -1,0 +1,150 @@
+{
+ "uid": "flickr30k_1806580620",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "blue"
+  ]
+ },
+ "accessories": [
+  "glasses",
+  "jewelry"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "The gal wearing the black sunglasses and blue jean jacket is smiling .",
+  "A woman wearing black sunglasses looks to the right and smiles .",
+  "A blond woman wearing sunglasses and dice earrings smiles .",
+  "A blond lady with sunglasses smiles .",
+  "A woman wearing sunglasses smiles ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "21081",
+   "types": [
+    "people"
+   ],
+   "phrase": "The gal",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "21082",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the black sunglasses",
+   "start": 16,
+   "end": 36
+  },
+  {
+   "entity_id": "21083",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue jean jacket",
+   "start": 41,
+   "end": 57
+  },
+  {
+   "entity_id": "21081",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "21082",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black sunglasses",
+   "start": 16,
+   "end": 32
+  },
+  {
+   "entity_id": "21085",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the right",
+   "start": 42,
+   "end": 51
+  },
+  {
+   "entity_id": "21081",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond woman",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "21082",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "21084",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "dice earrings",
+   "start": 37,
+   "end": 50
+  },
+  {
+   "entity_id": "21081",
+   "types": [
+    "people"
+   ],
+   "phrase": "A blond lady",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "21082",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 18,
+   "end": 28
+  },
+  {
+   "entity_id": "21081",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "21082",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 16,
+   "end": 26
+  }
+ ],
+ "scene_places": []
+}

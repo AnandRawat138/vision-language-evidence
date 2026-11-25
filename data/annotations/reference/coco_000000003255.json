@@ -1,0 +1,134 @@
+{
+ "uid": "coco_000000003255",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 6,
+  "skis": 1,
+  "backpack": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    246.04,
+    319.95,
+    11.43,
+    37.4
+   ],
+   "area": 249.52525000000057
+  },
+  {
+   "category": "person",
+   "bbox": [
+    261.41,
+    311.89,
+    11.7,
+    44.82
+   ],
+   "area": 300.9899999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    271.23,
+    313.63,
+    18.02,
+    45.07
+   ],
+   "area": 446.50305
+  },
+  {
+   "category": "person",
+   "bbox": [
+    295.91,
+    313.66,
+    21.77,
+    38.97
+   ],
+   "area": 377.15294999999935
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    276.13,
+    353.09,
+    14.53,
+    4.95
+   ],
+   "area": 31.16954999999989
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    257.6,
+    343.36,
+    6.26,
+    11.07
+   ],
+   "area": 53.854749999999974
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    271.89,
+    318.92,
+    10.33,
+    18.27
+   ],
+   "area": 133.13875000000024
+  },
+  {
+   "category": "person",
+   "bbox": [
+    235.17,
+    317.55,
+    9.51,
+    38.25
+   ],
+   "area": 258.3916499999999
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    307.25,
+    332.46,
+    10.08,
+    16.67
+   ],
+   "area": 126.89135000000029
+  },
+  {
+   "category": "person",
+   "bbox": [
+    242.63,
+    315.44,
+    8.04,
+    41.6
+   ],
+   "area": 210.22939999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a group of people riding skis on a snowy surface",
+  "A group of skiers have left a trail through the snow on the mountain.",
+  "The paths of some snowboarders carved in a mountain slope.",
+  "Skiers look at the snow that they skied down.",
+  "A group of people stand at the bottom of a snowy hill."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

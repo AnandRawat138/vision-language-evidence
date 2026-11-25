@@ -1,0 +1,179 @@
+{
+ "uid": "flickr30k_4876517154",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young man has a cigarette in his mouth and is wearing a nun 's habit .",
+  "A young man is wearing a nun 's habit and smoking a cigarette .",
+  "A scruffy man wearing a nun 's habit smokes a cigarette .",
+  "A man in a nun outfit has a cigarette in his mouth .",
+  "A man smoking a cigarette with a Nun habit on ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "213984",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "213986",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cigarette",
+   "start": 16,
+   "end": 27
+  },
+  {
+   "entity_id": "213987",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his mouth",
+   "start": 31,
+   "end": 40
+  },
+  {
+   "entity_id": "213985",
+   "types": [
+    "other"
+   ],
+   "phrase": "a nun 's habit",
+   "start": 56,
+   "end": 70
+  },
+  {
+   "entity_id": "213984",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "213985",
+   "types": [
+    "other"
+   ],
+   "phrase": "a nun 's habit",
+   "start": 23,
+   "end": 37
+  },
+  {
+   "entity_id": "213986",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cigarette",
+   "start": 50,
+   "end": 61
+  },
+  {
+   "entity_id": "213984",
+   "types": [
+    "people"
+   ],
+   "phrase": "A scruffy man",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "213985",
+   "types": [
+    "other"
+   ],
+   "phrase": "a nun 's habit",
+   "start": 22,
+   "end": 36
+  },
+  {
+   "entity_id": "213986",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cigarette",
+   "start": 44,
+   "end": 55
+  },
+  {
+   "entity_id": "213984",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "213985",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a nun outfit",
+   "start": 9,
+   "end": 21
+  },
+  {
+   "entity_id": "213986",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cigarette",
+   "start": 26,
+   "end": 37
+  },
+  {
+   "entity_id": "213987",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his mouth",
+   "start": 41,
+   "end": 50
+  },
+  {
+   "entity_id": "213984",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "213986",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cigarette",
+   "start": 14,
+   "end": 25
+  },
+  {
+   "entity_id": "213985",
+   "types": [
+    "other"
+   ],
+   "phrase": "a Nun habit",
+   "start": 31,
+   "end": 42
+  }
+ ],
+ "scene_places": []
+}

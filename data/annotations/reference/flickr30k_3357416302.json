@@ -1,0 +1,143 @@
+{
+ "uid": "flickr30k_3357416302",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A snowboarder clothed in red is in the middle of a jump from a snowy hill .",
+  "A snowboarder is doing a big jump and is in the air .",
+  "A snowboarder soars through the air .",
+  "The snowboarder is in the air .",
+  "A snowboarder in midair"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "112400",
+   "types": [
+    "people"
+   ],
+   "phrase": "A snowboarder",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "112404",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red",
+   "start": 25,
+   "end": 28
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the middle of a jump",
+   "start": 35,
+   "end": 55
+  },
+  {
+   "entity_id": "112403",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a snowy hill",
+   "start": 61,
+   "end": 73
+  },
+  {
+   "entity_id": "112400",
+   "types": [
+    "people"
+   ],
+   "phrase": "A snowboarder",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a big jump",
+   "start": 23,
+   "end": 33
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 44,
+   "end": 51
+  },
+  {
+   "entity_id": "112400",
+   "types": [
+    "people"
+   ],
+   "phrase": "A snowboarder",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 28,
+   "end": 35
+  },
+  {
+   "entity_id": "112400",
+   "types": [
+    "people"
+   ],
+   "phrase": "The snowboarder",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 22,
+   "end": 29
+  },
+  {
+   "entity_id": "112400",
+   "types": [
+    "people"
+   ],
+   "phrase": "A snowboarder",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "112401",
+   "types": [
+    "scene"
+   ],
+   "phrase": "midair",
+   "start": 17,
+   "end": 23
+  }
+ ],
+ "scene_places": []
+}

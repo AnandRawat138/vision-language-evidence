@@ -1,0 +1,369 @@
+{
+ "uid": "vqa_000000552973",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "cup",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 8,
+  "person": 5,
+  "skateboard": 2,
+  "cup": 5
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    545.52,
+    299.54,
+    10.43,
+    23.43
+   ],
+   "area": 164.9981500000001
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    601.72,
+    225.91,
+    6.89,
+    17.65
+   ],
+   "area": 91.74979999999938
+  },
+  {
+   "category": "person",
+   "bbox": [
+    183.95,
+    93.99,
+    155.79,
+    195.9
+   ],
+   "area": 10034.232849999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    570.79,
+    229.48,
+    69.21,
+    152.28
+   ],
+   "area": 4114.002249999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    536.18,
+    118.73,
+    44.76,
+    120.79
+   ],
+   "area": 2755.6321500000017
+  },
+  {
+   "category": "person",
+   "bbox": [
+    478.92,
+    212.57,
+    73.96,
+    141.32
+   ],
+   "area": 4885.973900000002
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    187.59,
+    240.73,
+    94.61,
+    56.89
+   ],
+   "area": 1493.8134500000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    366.43,
+    173.95,
+    47.95,
+    157.22
+   ],
+   "area": 4512.7243499999995
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    390.09,
+    315.15,
+    31.95,
+    17.21
+   ],
+   "area": 280.9846500000002
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    603.43,
+    171.11,
+    12.14,
+    15.03
+   ],
+   "area": 136.17420000000072
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    556.84,
+    350.85,
+    24.12,
+    15.94
+   ],
+   "area": 176.68470000000002
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    600.25,
+    157.97,
+    5.78,
+    7.28
+   ],
+   "area": 24.926749999999853
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    617.0,
+    228.72,
+    7.27,
+    16.54
+   ],
+   "area": 90.9961999999998
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    624.93,
+    230.09,
+    3.72,
+    10.21
+   ],
+   "area": 33.260100000000165
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    629.7,
+    228.71,
+    4.14,
+    10.02
+   ],
+   "area": 23.29249999999972
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    611.76,
+    227.97,
+    5.62,
+    15.7
+   ],
+   "area": 57.944200000000265
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    403.06,
+    236.89,
+    9.82,
+    15.4
+   ],
+   "area": 46.16109999999993
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    578.23,
+    169.52,
+    6.58,
+    9.57
+   ],
+   "area": 49.130049999999976
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    596.8,
+    174.94,
+    7.77,
+    8.37
+   ],
+   "area": 52.192300000000294
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    630.29,
+    315.24,
+    9.71,
+    16.94
+   ],
+   "area": 81.0990500000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a skateboard down the side of a ramp.",
+  "THERE IS A MAN THAT IS ON A SKATE BOARD ON THE RAMP",
+  "A guy on a skate board at the top of a ramp.",
+  "a person riding a skate board at a skate park",
+  "A boy skateboards on a ramp while people watch on."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 552973000,
+   "question": "Is the fence permanent?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 552973001,
+   "question": "What type of place is this?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "backyard",
+   "answers": [
+    "skate park",
+    "backyard",
+    "backyard",
+    "skatepark",
+    "skate park",
+    "skateboard park",
+    "backyard",
+    "backyard",
+    "skate ramp",
+    "house"
+   ]
+  },
+  {
+   "question_id": 552973002,
+   "question": "What kind of trick is he doing?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "ollie",
+   "answers": [
+    "skateboard",
+    "hang time",
+    "half pipe",
+    "ollie",
+    "ollie",
+    "riding rails",
+    "grind",
+    "ollie",
+    "jump",
+    "skateboard"
+   ]
+  },
+  {
+   "question_id": 552973003,
+   "question": "Is it possible that this event is a farmers market?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 552973004,
+   "question": "Is this in someone's backyard?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 552973005,
+   "question": "Is this guy poor?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 552973006,
+   "question": "How many garbage cane?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "3",
+    "3"
+   ]
+  }
+ ]
+}

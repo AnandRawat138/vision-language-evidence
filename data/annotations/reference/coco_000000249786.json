@@ -1,0 +1,150 @@
+{
+ "uid": "coco_000000249786",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 11,
+  "skis": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    298.85,
+    121.28,
+    46.69,
+    57.65
+   ],
+   "area": 1673.79005
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    278.43,
+    164.15,
+    92.81,
+    25.96
+   ],
+   "area": 781.8923
+  },
+  {
+   "category": "person",
+   "bbox": [
+    527.08,
+    192.23,
+    7.43,
+    8.6
+   ],
+   "area": 46.4577499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    349.16,
+    231.68,
+    3.26,
+    4.56
+   ],
+   "area": 10.631499999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    344.29,
+    231.76,
+    6.23,
+    13.75
+   ],
+   "area": 39.45954999999983
+  },
+  {
+   "category": "person",
+   "bbox": [
+    316.84,
+    236.89,
+    4.2,
+    6.85
+   ],
+   "area": 15.249600000000108
+  },
+  {
+   "category": "person",
+   "bbox": [
+    94.72,
+    307.22,
+    5.63,
+    12.29
+   ],
+   "area": 35.53659999999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    245.99,
+    251.94,
+    5.48,
+    9.74
+   ],
+   "area": 32.31929999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    257.33,
+    264.42,
+    3.66,
+    8.75
+   ],
+   "area": 22.24660000000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    98.5,
+    335.43,
+    8.27,
+    11.01
+   ],
+   "area": 50.09270000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    90.04,
+    331.48,
+    9.2,
+    13.21
+   ],
+   "area": 75.48534999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    336.34,
+    234.06,
+    8.01,
+    12.97
+   ],
+   "area": 23.016399999999845
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a man jumping skis at a ski area",
+  "A person with skis in the air on snow covered mountains.",
+  "A person with some skis up in the air.",
+  "A man flying through the air while riding skis.",
+  "Person high up in the air doing ski tricks"
+ ],
+ "scene_places": []
+}

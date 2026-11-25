@@ -1,0 +1,266 @@
+{
+ "uid": "coco_000000322610",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "handbag",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 2,
+  "handbag": 7,
+  "person": 13,
+  "bench": 1
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    281.96,
+    124.69,
+    256.08,
+    86.77
+   ],
+   "area": 12121.729149999997
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    204.94,
+    310.65,
+    35.6,
+    91.69
+   ],
+   "area": 2067.4796999999994
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    100.16,
+    226.51,
+    36.97,
+    98.19
+   ],
+   "area": 2308.729250000001
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    383.06,
+    327.08,
+    82.3,
+    96.2
+   ],
+   "area": 2369.96015
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    14.49,
+    153.37,
+    27.02,
+    53.58
+   ],
+   "area": 395.1795999999998
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    49.39,
+    147.51,
+    23.5,
+    34.11
+   ],
+   "area": 310.6098
+  },
+  {
+   "category": "person",
+   "bbox": [
+    106.79,
+    108.94,
+    131.59,
+    360.27
+   ],
+   "area": 25009.647149999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    42.22,
+    130.35,
+    36.32,
+    109.28
+   ],
+   "area": 2328.33905
+  },
+  {
+   "category": "person",
+   "bbox": [
+    88.84,
+    126.73,
+    36.49,
+    146.05
+   ],
+   "area": 1936.1502000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.79,
+    133.41,
+    30.1,
+    84.7
+   ],
+   "area": 948.6179999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    225.79,
+    114.42,
+    20.66,
+    165.97
+   ],
+   "area": 1440.6490999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    359.19,
+    194.16,
+    142.38,
+    280.45
+   ],
+   "area": 22609.139149999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    77.29,
+    142.25,
+    22.26,
+    77.52
+   ],
+   "area": 901.7774499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.05,
+    143.45,
+    10.93,
+    18.85
+   ],
+   "area": 106.7842500000001
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    419.6,
+    373.03,
+    220.04,
+    101.4
+   ],
+   "area": 8816.884700000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    546.89,
+    140.72,
+    93.11,
+    279.87
+   ],
+   "area": 17795.51175000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    209.47,
+    14.38,
+    122.75
+   ],
+   "area": 1091.3620500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    5.68,
+    124.43,
+    44.26,
+    156.06
+   ],
+   "area": 4179.584500000002
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    0.0,
+    325.06,
+    25.52,
+    97.14
+   ],
+   "area": 1905.1076999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    213.31,
+    167.03,
+    24.97,
+    87.8
+   ],
+   "area": 1494.66515
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    133.49,
+    22.34,
+    95.73
+   ],
+   "area": 812.2776500000001
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    544.66,
+    138.83,
+    95.34,
+    54.99
+   ],
+   "area": 3317.563900000001
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    73.89,
+    155.19,
+    19.67,
+    30.31
+   ],
+   "area": 76.29579999999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman walking past a shop filled with merchandise.",
+  "A woman leaning against a store front with an umbrella.",
+  "The woman with the umbrella is looking at the passerbys",
+  "People browse the shops while walking on a busy street.",
+  "A woman holding an umbrella stands as people walk past."
+ ],
+ "scene_places": [
+  "store"
+ ]
+}

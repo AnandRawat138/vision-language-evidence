@@ -1,0 +1,204 @@
+{
+ "uid": "coco_000000503855",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 6,
+  "person": 9,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    80.17,
+    187.64,
+    53.19,
+    43.74
+   ],
+   "area": 1233.9265000000005
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    241.49,
+    206.85,
+    65.25,
+    43.22
+   ],
+   "area": 1865.8525000000004
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    318.0,
+    264.46,
+    130.61,
+    90.05
+   ],
+   "area": 7641.529350000002
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    553.68,
+    229.57,
+    83.14,
+    68.95
+   ],
+   "area": 3206.033450000001
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    0.0,
+    229.58,
+    68.96,
+    59.22
+   ],
+   "area": 2388.6916499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    190.34,
+    130.36,
+    16.87,
+    25.79
+   ],
+   "area": 260.8482000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    214.78,
+    116.66,
+    17.98,
+    42.59
+   ],
+   "area": 391.61600000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    248.66,
+    125.24,
+    16.51,
+    35.59
+   ],
+   "area": 406.9235500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    354.64,
+    120.91,
+    22.51,
+    39.57
+   ],
+   "area": 458.2728
+  },
+  {
+   "category": "person",
+   "bbox": [
+    63.85,
+    117.97,
+    23.96,
+    56.65
+   ],
+   "area": 778.1508000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    529.96,
+    110.18,
+    17.94,
+    36.11
+   ],
+   "area": 275.8260000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    160.87,
+    111.01,
+    24.17,
+    54.49
+   ],
+   "area": 920.1900500000003
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    46.35,
+    179.81,
+    20.78,
+    17.35
+   ],
+   "area": 264.3286500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    156.04,
+    112.9,
+    8.91,
+    32.74
+   ],
+   "area": 153.75570000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    138.43,
+    119.84,
+    23.39,
+    69.35
+   ],
+   "area": 1007.4907999999998
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    166.1,
+    134.38,
+    4.2,
+    8.59
+   ],
+   "area": 21.097049999999953
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    0.0,
+    192.57,
+    26.13,
+    32.62
+   ],
+   "area": 561.5089
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A grass yard area that has several open umbrellas laid on the grass and various people around the roadway area.",
+  "a bunch of umbrellas it in a park area",
+  "A park with yellow umbrellas on the grass and onlookers in the background.",
+  "A lush green field full of yellow umbrellas.",
+  "Black and yellow umbrellas open on the grass of a park."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

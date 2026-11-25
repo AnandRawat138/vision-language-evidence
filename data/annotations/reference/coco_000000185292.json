@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000185292",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "surfboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    176.59,
+    433.99,
+    25.35,
+    48.47
+   ],
+   "area": 467.54235
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    177.38,
+    476.47,
+    40.27,
+    9.23
+   ],
+   "area": 141.86669999999978
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a wave on top of a surfboard.",
+  "a person is on a surfboard in the water",
+  "A person riding a surfboard in the water.",
+  "A surfer looks tiny while surfing in the ocean.",
+  "a person riding a surf board on a body of water"
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "uid": "flickr30k_2717110088",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two children play in a department store , laying under the polka-dot covers of a pre-made bed in the home furnishings department .",
+  "Two kids who look almost alike are under the covers of a bed on display in a linen store .",
+  "Two small children get cozy under the covers of a display bed in a furniture store .",
+  "Two people are laying in a bed in the middle of a department store aisle .",
+  "Two children lie in the display bed in a store that sells linens ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "68346",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two children",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "68350",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a department store",
+   "start": 21,
+   "end": 39
+  },
+  {
+   "entity_id": "68347",
+   "types": [
+    "other"
+   ],
+   "phrase": "the polka-dot covers of a pre-made bed",
+   "start": 55,
+   "end": 93
+  },
+  {
+   "entity_id": "68352",
+   "types": [
+    "people"
+   ],
+   "phrase": "the home furnishings department",
+   "start": 97,
+   "end": 128
+  },
+  {
+   "entity_id": "68346",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two kids",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "who",
+   "start": 9,
+   "end": 12
+  },
+  {
+   "entity_id": "68347",
+   "types": [
+    "other"
+   ],
+   "phrase": "the covers of a bed",
+   "start": 41,
+   "end": 60
+  },
+  {
+   "entity_id": "68348",
+   "types": [
+    "other"
+   ],
+   "phrase": "display",
+   "start": 64,
+   "end": 71
+  },
+  {
+   "entity_id": "68349",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a linen store",
+   "start": 75,
+   "end": 88
+  },
+  {
+   "entity_id": "68346",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two small children",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "68347",
+   "types": [
+    "other"
+   ],
+   "phrase": "the covers of a display bed",
+   "start": 34,
+   "end": 61
+  },
+  {
+   "entity_id": "68349",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a furniture store",
+   "start": 65,
+   "end": 82
+  },
+  {
+   "entity_id": "68346",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "68347",
+   "types": [
+    "other"
+   ],
+   "phrase": "a bed",
+   "start": 25,
+   "end": 30
+  },
+  {
+   "entity_id": "68349",
+   "types": [
+    "other"
+   ],
+   "phrase": "the middle of a department store aisle",
+   "start": 34,
+   "end": 72
+  },
+  {
+   "entity_id": "68346",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two children",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "68351",
+   "types": [
+    "other"
+   ],
+   "phrase": "the display bed",
+   "start": 20,
+   "end": 35
+  },
+  {
+   "entity_id": "68349",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a store",
+   "start": 39,
+   "end": 46
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 47,
+   "end": 51
+  },
+  {
+   "entity_id": "68353",
+   "types": [
+    "other"
+   ],
+   "phrase": "linens",
+   "start": 58,
+   "end": 64
+  }
+ ],
+ "scene_places": [
+  "store"
+ ]
+}

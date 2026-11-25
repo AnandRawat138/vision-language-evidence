@@ -1,0 +1,258 @@
+{
+ "uid": "vqa_000000232544",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 10,
+  "frisbee": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    240.28,
+    154.13,
+    106.26,
+    181.88
+   ],
+   "area": 7296.273549999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    363.22,
+    186.94,
+    92.92,
+    125.02
+   ],
+   "area": 3025.6722999999974
+  },
+  {
+   "category": "person",
+   "bbox": [
+    369.92,
+    129.29,
+    198.69,
+    212.87
+   ],
+   "area": 9876.263499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    79.29,
+    195.35,
+    72.03,
+    105.02
+   ],
+   "area": 2313.1221
+  },
+  {
+   "category": "person",
+   "bbox": [
+    136.32,
+    232.86,
+    15.13,
+    50.15
+   ],
+   "area": 467.71900000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    2.88,
+    157.35,
+    39.34,
+    150.64
+   ],
+   "area": 3334.7868499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    365.77,
+    236.16,
+    15.58,
+    43.18
+   ],
+   "area": 409.1032499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    160.97,
+    231.92,
+    16.83,
+    51.28
+   ],
+   "area": 628.7714000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    58.55,
+    242.88,
+    14.17,
+    30.83
+   ],
+   "area": 309.20974999999993
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    577.4,
+    91.18,
+    21.15,
+    16.21
+   ],
+   "area": 84.34114999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    124.01,
+    264.0,
+    8.91,
+    21.22
+   ],
+   "area": 115.64915000000009
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people play Frisbee in a field.",
+  "A group of people play frisbee on the grass.",
+  "Several youth play Frisbee in the field with a monument in the background.",
+  "A group of people run around under a flying frisbee.",
+  "some people are playing frisbee on the grass"
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 232544000,
+   "question": "What number is shown on the back of a shirt?",
+   "answer_type": "number",
+   "question_type": "what number is",
+   "multiple_choice_answer": "23",
+   "answers": [
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23"
+   ]
+  },
+  {
+   "question_id": 232544001,
+   "question": "What is the scene?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "park",
+   "answers": [
+    "park",
+    "playing frisbee",
+    "playing",
+    "playing frisbee",
+    "park",
+    "park",
+    "park",
+    "frisbee",
+    "people",
+    "frisbee playing"
+   ]
+  },
+  {
+   "question_id": 232544002,
+   "question": "What are they playing?",
+   "answer_type": "other",
+   "question_type": "what are",
+   "multiple_choice_answer": "frisbee",
+   "answers": [
+    "frisbee",
+    "frisbee",
+    "frisbee",
+    "frisbee",
+    "ultimate frisbee",
+    "frisbee",
+    "frisbee",
+    "frisbee",
+    "frisbee",
+    "soccer"
+   ]
+  },
+  {
+   "question_id": 232544003,
+   "question": "Where are the people located?",
+   "answer_type": "other",
+   "question_type": "where are the",
+   "multiple_choice_answer": "park",
+   "answers": [
+    "park",
+    "park",
+    "park",
+    "park",
+    "park",
+    "park",
+    "park",
+    "all around",
+    "park",
+    "park"
+   ]
+  },
+  {
+   "question_id": 232544004,
+   "question": "What type of field is this?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "park",
+   "answers": [
+    "grass",
+    "grass",
+    "park",
+    "lawn",
+    "grass",
+    "park",
+    "park",
+    "grassy",
+    "sport",
+    "park"
+   ]
+  },
+  {
+   "question_id": 232544005,
+   "question": "Are the men wearing costumes?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

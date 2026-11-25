@@ -1,0 +1,175 @@
+{
+ "uid": "flickr30k_3094034946",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "uniform": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young girl with long brown hair and dressed in black athletic wear is running towards a soccer ball .",
+  "A young soccer player is about to kick the ball presumably to another player .",
+  "A girl with a ponytail in a black soccer uniform prepares to kick the ball .",
+  "A young soccer player getting ready to kick the ball .",
+  "A girl wearing a black uniform is playing soccer ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "93136",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "93138",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "long brown hair",
+   "start": 18,
+   "end": 33
+  },
+  {
+   "entity_id": "93137",
+   "types": [
+    "other"
+   ],
+   "phrase": "black athletic wear",
+   "start": 49,
+   "end": 68
+  },
+  {
+   "entity_id": "93139",
+   "types": [
+    "other"
+   ],
+   "phrase": "a soccer ball",
+   "start": 88,
+   "end": 101
+  },
+  {
+   "entity_id": "93136",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young soccer player",
+   "start": 0,
+   "end": 21
+  },
+  {
+   "entity_id": "93139",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 39,
+   "end": 47
+  },
+  {
+   "entity_id": "93140",
+   "types": [
+    "people"
+   ],
+   "phrase": "another player",
+   "start": 62,
+   "end": 76
+  },
+  {
+   "entity_id": "93136",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "93138",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a ponytail",
+   "start": 12,
+   "end": 22
+  },
+  {
+   "entity_id": "93137",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black soccer uniform",
+   "start": 26,
+   "end": 48
+  },
+  {
+   "entity_id": "93139",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 66,
+   "end": 74
+  },
+  {
+   "entity_id": "93136",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young soccer player",
+   "start": 0,
+   "end": 21
+  },
+  {
+   "entity_id": "93139",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ball",
+   "start": 44,
+   "end": 52
+  },
+  {
+   "entity_id": "93136",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "93137",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black uniform",
+   "start": 15,
+   "end": 30
+  },
+  {
+   "entity_id": "93142",
+   "types": [
+    "other"
+   ],
+   "phrase": "soccer",
+   "start": 42,
+   "end": 48
+  }
+ ],
+ "scene_places": []
+}

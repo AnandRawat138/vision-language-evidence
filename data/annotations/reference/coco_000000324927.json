@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000324927",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cup": 1,
+  "pizza": 2
+ },
+ "object_boxes": [
+  {
+   "category": "cup",
+   "bbox": [
+    254.56,
+    236.86,
+    195.6,
+    113.62
+   ],
+   "area": 16781.959300000006
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    93.54,
+    357.45,
+    249.16,
+    262.48
+   ],
+   "area": 38369.19954999999
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    0.0,
+    15.89,
+    279.19,
+    290.65
+   ],
+   "area": 49290.34490000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A plate of two slices of pizza and a cup of juice.",
+  "Slices of meat pizza with a shot glass of mustard",
+  "a plate with a couple pieces of pizza sitting on it",
+  "Two slices of pizza sit on a plate with an orange drink.",
+  "A couple of slices of pizza and a glass of drink."
+ ],
+ "scene_places": []
+}

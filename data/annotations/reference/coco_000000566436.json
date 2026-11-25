@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000566436",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "bench": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    73.81,
+    0.0,
+    328.17,
+    285.25
+   ],
+   "area": 51008.323799999984
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    10.56,
+    96.75,
+    504.72,
+    324.33
+   ],
+   "area": 76437.25134999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person sitting on a bench in a park.",
+  "Some one who is sitting on the back of a park bench.",
+  "A person in jeans and two toned shoes sits on the back of a bench.",
+  "A person is sitting on the back of a park bench.",
+  "A person sits on top of a bench."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,464 @@
+{
+ "uid": "coco_000000483999",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "person",
+  "spoon",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 3,
+  "person": 11,
+  "cup": 14,
+  "fork": 4,
+  "chair": 7,
+  "spoon": 1,
+  "umbrella": 1,
+  "knife": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    131.69,
+    146.22,
+    394.11,
+    276.94
+   ],
+   "area": 50448.38490000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    195.91,
+    128.88,
+    225.06
+   ],
+   "area": 25175.6027
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.89,
+    166.77,
+    121.46,
+    239.06
+   ],
+   "area": 15711.684649999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    200.05,
+    105.8,
+    85.6,
+    101.95
+   ],
+   "area": 4327.2483999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    399.91,
+    139.21,
+    110.26,
+    190.84
+   ],
+   "area": 12088.986250000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    483.66,
+    176.57,
+    139.15,
+    92.13
+   ],
+   "area": 6449.664899999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    295.27,
+    245.26,
+    344.73,
+    176.97
+   ],
+   "area": 29674.729549999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    364.54,
+    117.95,
+    75.13,
+    116.61
+   ],
+   "area": 4976.393150000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    113.49,
+    115.26,
+    93.3,
+    96.18
+   ],
+   "area": 4226.5771
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    338.49,
+    302.96,
+    31.52,
+    48.26
+   ],
+   "area": 1068.2245000000005
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    321.81,
+    282.34,
+    27.59,
+    29.71
+   ],
+   "area": 568.0417000000002
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    173.08,
+    355.3,
+    21.99,
+    28.81
+   ],
+   "area": 203.56629999999984
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    555.23,
+    172.44,
+    84.77,
+    35.59
+   ],
+   "area": 1634.1834499999993
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    254.09,
+    136.0,
+    56.21,
+    13.41
+   ],
+   "area": 327.26510000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.14,
+    129.22,
+    30.8,
+    80.36
+   ],
+   "area": 1526.94365
+  },
+  {
+   "category": "person",
+   "bbox": [
+    427.32,
+    115.88,
+    88.75,
+    75.33
+   ],
+   "area": 1893.5113999999983
+  },
+  {
+   "category": "person",
+   "bbox": [
+    364.08,
+    120.13,
+    35.84,
+    43.15
+   ],
+   "area": 613.5025999999997
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    375.56,
+    386.08,
+    40.59,
+    41.92
+   ],
+   "area": 1346.8147499999998
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    200.76,
+    346.9,
+    20.58,
+    51.17
+   ],
+   "area": 788.6064500000006
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    257.22,
+    273.52,
+    27.33,
+    24.55
+   ],
+   "area": 464.66314999999986
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    284.61,
+    223.15,
+    12.28,
+    20.28
+   ],
+   "area": 190.78529999999938
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    325.59,
+    216.36,
+    20.84,
+    18.34
+   ],
+   "area": 199.86875
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    246.32,
+    242.21,
+    24.58,
+    42.53
+   ],
+   "area": 656.9755499999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    298.81,
+    257.8,
+    28.67,
+    33.62
+   ],
+   "area": 724.2801000000005
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    336.33,
+    206.72,
+    18.61,
+    24.65
+   ],
+   "area": 239.09524999999957
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    294.09,
+    124.95,
+    23.89,
+    44.64
+   ],
+   "area": 542.4569000000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    557.7,
+    147.16,
+    31.21,
+    36.62
+   ],
+   "area": 934.758149999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    493.3,
+    137.4,
+    22.59,
+    46.83
+   ],
+   "area": 752.5825500000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    341.25,
+    132.1,
+    18.62,
+    26.98
+   ],
+   "area": 426.2687999999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    533.06,
+    149.94,
+    26.29,
+    36.08
+   ],
+   "area": 772.4540500000019
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    19.47,
+    145.93,
+    17.23,
+    58.91
+   ],
+   "area": 517.9798499999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    262.15,
+    128.17,
+    31.04,
+    67.2
+   ],
+   "area": 1064.6147000000008
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    295.11,
+    232.61,
+    21.29,
+    23.11
+   ],
+   "area": 349.05574999999993
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    271.12,
+    203.17,
+    15.0,
+    14.99
+   ],
+   "area": 179.66945000000004
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    150.68,
+    409.73,
+    69.99,
+    11.17
+   ],
+   "area": 264.89825000000053
+  },
+  {
+   "category": "umbrella",
+   "bbox": [
+    29.97,
+    106.04,
+    10.75,
+    66.98
+   ],
+   "area": 313.86655
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    333.45,
+    195.22,
+    14.17,
+    13.9
+   ],
+   "area": 147.91789999999978
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    226.13,
+    247.39,
+    17.25,
+    12.32
+   ],
+   "area": 59.42755000000002
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    364.79,
+    215.63,
+    14.88,
+    9.68
+   ],
+   "area": 50.58454999999989
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    134.81,
+    404.14,
+    83.84,
+    19.37
+   ],
+   "area": 506.37799999999976
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    371.72,
+    285.45,
+    22.08,
+    16.03
+   ],
+   "area": 98.2501500000002
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    251,
+    176,
+    109,
+    122
+   ],
+   "area": 1841
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people at a dining table talking to each other.",
+  "People sitting at a long table in a restaurant with many plates.",
+  "A group of people gathered at a table in a restaurant.",
+  "Group of adults enjoying food and conversation together.",
+  "a large group of people sitting at a table with plates of food"
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

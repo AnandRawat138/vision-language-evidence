@@ -1,0 +1,204 @@
+{
+ "uid": "coco_000000278749",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "person": 12,
+  "handbag": 2
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    178.31,
+    114.6,
+    28.8,
+    20.1
+   ],
+   "area": 430.9127
+  },
+  {
+   "category": "car",
+   "bbox": [
+    78.19,
+    107.79,
+    38.3,
+    19.46
+   ],
+   "area": 451.46855
+  },
+  {
+   "category": "car",
+   "bbox": [
+    113.48,
+    106.7,
+    12.4,
+    12.25
+   ],
+   "area": 85.98699999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    114.38,
+    98.38,
+    31.66,
+    91.82
+   ],
+   "area": 1701.04855
+  },
+  {
+   "category": "person",
+   "bbox": [
+    42.09,
+    97.53,
+    43.6,
+    118.77
+   ],
+   "area": 3776.6815500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    204.86,
+    105.38,
+    17.4,
+    40.54
+   ],
+   "area": 396.30409999999966
+  },
+  {
+   "category": "person",
+   "bbox": [
+    232.11,
+    107.49,
+    10.36,
+    36.49
+   ],
+   "area": 198.5501499999997
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    142.49,
+    128.67,
+    8.21,
+    11.88
+   ],
+   "area": 61.5309000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    256.94,
+    107.94,
+    6.81,
+    17.03
+   ],
+   "area": 76.43149999999989
+  },
+  {
+   "category": "person",
+   "bbox": [
+    221.55,
+    109.47,
+    8.93,
+    24.39
+   ],
+   "area": 136.4254499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    458.87,
+    94.72,
+    21.38,
+    74.01
+   ],
+   "area": 739.5826000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    242.42,
+    108.27,
+    12.27,
+    32.61
+   ],
+   "area": 226.49620000000027
+  },
+  {
+   "category": "person",
+   "bbox": [
+    228.26,
+    108.84,
+    5.2,
+    22.51
+   ],
+   "area": 74.10170000000005
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    238.38,
+    117.29,
+    2.86,
+    5.37
+   ],
+   "area": 13.11395000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    468.27,
+    138.45,
+    31.73,
+    30.29
+   ],
+   "area": 712.0285000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    238.26,
+    114.56,
+    5.22,
+    15.56
+   ],
+   "area": 34.41724999999992
+  },
+  {
+   "category": "person",
+   "bbox": [
+    327.03,
+    122.09,
+    62.33,
+    184.65
+   ],
+   "area": 6197.575250000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a black and white photo of a person holding a sign",
+  "Many people walk on a sidewalk as a man holds a restaurant sign.",
+  "A man holding a street sign giving directions on a city road",
+  "Black and white photo of a sidewalk with a person holding a Subway sign in the foreground.",
+  "a man holds a sign advertising a deli"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

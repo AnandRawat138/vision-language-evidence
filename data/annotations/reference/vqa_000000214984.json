@@ -1,0 +1,213 @@
+{
+ "uid": "vqa_000000214984",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "dog",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 5,
+  "sports ball": 1,
+  "backpack": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    237.59,
+    5.89,
+    380.52,
+    430.74
+   ],
+   "area": 103643.4351
+  },
+  {
+   "category": "person",
+   "bbox": [
+    9.67,
+    119.79,
+    12.59,
+    43.14
+   ],
+   "area": 283.70955
+  },
+  {
+   "category": "person",
+   "bbox": [
+    31.76,
+    116.84,
+    14.74,
+    39.85
+   ],
+   "area": 372.63124999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    70.55,
+    115.72,
+    13.37,
+    38.33
+   ],
+   "area": 370.65695
+  },
+  {
+   "category": "person",
+   "bbox": [
+    86.73,
+    115.19,
+    18.28,
+    38.12
+   ],
+   "area": 392.48845000000017
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    518.96,
+    112.77,
+    61.94,
+    51.17
+   ],
+   "area": 2501.7402499999985
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    12.54,
+    128.54,
+    7.15,
+    12.04
+   ],
+   "area": 80.94980000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    50.75,
+    111.57,
+    23.19,
+    42.4
+   ],
+   "area": 464.3812000000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large brown dog running across a grass covered field.",
+  "A shaggy brown dog has a red ball in it's mouth.",
+  "Brown dog running through grass with its tongue hanging out.",
+  "A golden retriever dog runs outside with a ball in it's mouth.",
+  "A dog running in a park with a ball in its mouth."
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 214984000,
+   "question": "Does the dog appear happy?",
+   "answer_type": "yes/no",
+   "question_type": "does the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 214984001,
+   "question": "What does the dog have in his mouth?",
+   "answer_type": "other",
+   "question_type": "what does the",
+   "multiple_choice_answer": "ball",
+   "answers": [
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball"
+   ]
+  },
+  {
+   "question_id": 214984002,
+   "question": "What is this dog mixed with?",
+   "answer_type": "other",
+   "question_type": "what is this",
+   "multiple_choice_answer": "collie",
+   "answers": [
+    "collie, retriever",
+    "lab",
+    "retriever",
+    "golden retriever",
+    "color",
+    "unknown",
+    "collie",
+    "nothing",
+    "retriever",
+    "collie"
+   ]
+  },
+  {
+   "question_id": 214984003,
+   "question": "What is in the dogs mouth?",
+   "answer_type": "other",
+   "question_type": "what is in the",
+   "multiple_choice_answer": "ball",
+   "answers": [
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball",
+    "ball"
+   ]
+  },
+  {
+   "question_id": 214984004,
+   "question": "Can you see people in the picture?",
+   "answer_type": "yes/no",
+   "question_type": "can you",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,664 @@
+{
+ "uid": "vqa_000000566550",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 14,
+  "kite": 11
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    298.5,
+    383.69,
+    7.72,
+    31.38
+   ],
+   "area": 170.35120000000066
+  },
+  {
+   "category": "person",
+   "bbox": [
+    227.49,
+    369.92,
+    21.92,
+    51.4
+   ],
+   "area": 618.8732999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    170.85,
+    383.39,
+    33.85,
+    56.79
+   ],
+   "area": 849.5979
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.82,
+    382.95,
+    21.98,
+    43.95
+   ],
+   "area": 513.5418500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    362.55,
+    366.42,
+    3.41,
+    9.47
+   ],
+   "area": 22.911099999999944
+  },
+  {
+   "category": "person",
+   "bbox": [
+    345.73,
+    371.6,
+    5.32,
+    12.47
+   ],
+   "area": 45.541549999999795
+  },
+  {
+   "category": "person",
+   "bbox": [
+    338.09,
+    371.21,
+    6.83,
+    11.99
+   ],
+   "area": 44.21475000000014
+  },
+  {
+   "category": "person",
+   "bbox": [
+    479.6,
+    366.91,
+    8.41,
+    18.52
+   ],
+   "area": 118.13524999999969
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    330.05,
+    301.57,
+    14.04,
+    16.97
+   ],
+   "area": 94.80944999999994
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    347.44,
+    291.73,
+    13.52,
+    12.05
+   ],
+   "area": 78.12624999999984
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    567.43,
+    290.41,
+    21.72,
+    23.41
+   ],
+   "area": 120.34765000000006
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    420.25,
+    300.98,
+    14.33,
+    15.47
+   ],
+   "area": 80.32004999999953
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    296.41,
+    332.15,
+    16.48,
+    23.4
+   ],
+   "area": 85.44614999999988
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    128.67,
+    312.87,
+    14.04,
+    15.45
+   ],
+   "area": 92.18820000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    282.82,
+    389.49,
+    14.44,
+    25.09
+   ],
+   "area": 153.48724999999988
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    488.53,
+    278.72,
+    14.03,
+    10.96
+   ],
+   "area": 36.93315
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    467.53,
+    309.67,
+    10.46,
+    17.21
+   ],
+   "area": 107.85880000000006
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    323.11,
+    281.4,
+    17.95,
+    19.95
+   ],
+   "area": 54.06155000000049
+  },
+  {
+   "category": "person",
+   "bbox": [
+    101.43,
+    372.91,
+    18.59,
+    56.0
+   ],
+   "area": 592.7131499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    321.68,
+    368.91,
+    2.63,
+    6.38
+   ],
+   "area": 14.089399999999976
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    170.36,
+    344.22,
+    10.86,
+    18.99
+   ],
+   "area": 110.79754999999959
+  },
+  {
+   "category": "person",
+   "bbox": [
+    344.66,
+    368.95,
+    2.14,
+    6.13
+   ],
+   "area": 7.974249999999958
+  },
+  {
+   "category": "person",
+   "bbox": [
+    434.98,
+    368.39,
+    4.57,
+    7.8
+   ],
+   "area": 13.211699999999952
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    79,
+    351,
+    560,
+    99
+   ],
+   "area": 22083
+  },
+  {
+   "category": "person",
+   "bbox": [
+    152,
+    364,
+    266,
+    22
+   ],
+   "area": 731
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people flying kites on top of a sandy beach.",
+  "People are flying kites on a beach by the ocean.",
+  "Several people on a beach flying kites on a gray looking day.",
+  "Lots of people at the beach flying kites.",
+  "A group of people are flying kites on a beach on a cold day."
+ ],
+ "scene_places": [
+  "beach"
+ ],
+ "vqa": [
+  {
+   "question_id": 566550000,
+   "question": "Is it cold on the beach?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 566550001,
+   "question": "When is this scene taking place?",
+   "answer_type": "other",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "winter",
+   "answers": [
+    "winter",
+    "early evening",
+    "unanswerable",
+    "morning",
+    "beach",
+    "sunset",
+    "beach",
+    "winter",
+    "daytime",
+    "evening"
+   ]
+  },
+  {
+   "question_id": 566550002,
+   "question": "How many people are watching the water?",
+   "answer_type": "number",
+   "question_type": "how many people are",
+   "multiple_choice_answer": "25",
+   "answers": [
+    "10",
+    "25",
+    "6",
+    "6",
+    "lots",
+    "at least 20",
+    "more than 10",
+    "many",
+    "9",
+    "25"
+   ]
+  },
+  {
+   "question_id": 566550003,
+   "question": "What is in the sky?",
+   "answer_type": "other",
+   "question_type": "what is in the",
+   "multiple_choice_answer": "kites",
+   "answers": [
+    "kites",
+    "kites",
+    "kites",
+    "kites",
+    "kites",
+    "kites",
+    "kites",
+    "kites",
+    "kites",
+    "kites"
+   ]
+  },
+  {
+   "question_id": 566550004,
+   "question": "How many people are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many people are in",
+   "multiple_choice_answer": "5",
+   "answers": [
+    "6",
+    "several",
+    "20",
+    "25",
+    "5",
+    "5",
+    "5",
+    "5",
+    "10",
+    "many"
+   ]
+  },
+  {
+   "question_id": 566550005,
+   "question": "How is the sea?",
+   "answer_type": "other",
+   "question_type": "how",
+   "multiple_choice_answer": "calm",
+   "answers": [
+    "calm",
+    "waves",
+    "wavy",
+    "calm",
+    "calm",
+    "wavy",
+    "fair",
+    "rough",
+    "gray",
+    "rough"
+   ]
+  },
+  {
+   "question_id": 566550006,
+   "question": "Are those birds standing on water?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550007,
+   "question": "Are the people getting wet?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 566550008,
+   "question": "Are they in the water?",
+   "answer_type": "yes/no",
+   "question_type": "are they",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550009,
+   "question": "How many people are standing close to the beach?",
+   "answer_type": "number",
+   "question_type": "how many people are",
+   "multiple_choice_answer": "5",
+   "answers": [
+    "many",
+    "50",
+    "6",
+    "6",
+    "5",
+    "12",
+    "5",
+    "20",
+    "19",
+    "5"
+   ]
+  },
+  {
+   "question_id": 566550010,
+   "question": "Is it morning?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550011,
+   "question": "Are there animals?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550012,
+   "question": "What is the color of water?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "gray",
+   "answers": [
+    "white",
+    "white, gray",
+    "gray",
+    "gray blue",
+    "gray",
+    "gray",
+    "blue",
+    "gray",
+    "gray",
+    "gray"
+   ]
+  },
+  {
+   "question_id": 566550013,
+   "question": "Are birds in the sky?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550014,
+   "question": "Are both of the cows eating?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no cows",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "not possible",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550015,
+   "question": "Are there any cars?",
+   "answer_type": "yes/no",
+   "question_type": "are there any",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 566550016,
+   "question": "How many kites are flying through the air?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "10",
+   "answers": [
+    "8",
+    "10",
+    "10",
+    "34",
+    "10",
+    "10",
+    "11",
+    "10",
+    "10",
+    "few"
+   ]
+  },
+  {
+   "question_id": 566550017,
+   "question": "How many people can be seen?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "20",
+   "answers": [
+    "2",
+    "7",
+    "many",
+    "more than 5",
+    "34",
+    "20",
+    "28",
+    "20",
+    "34",
+    "18"
+   ]
+  },
+  {
+   "question_id": 566550018,
+   "question": "What is running?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "people",
+   "answers": [
+    "people",
+    "kids",
+    "running",
+    "people",
+    "water",
+    "kites",
+    "people",
+    "people",
+    "people",
+    "nothing"
+   ]
+  },
+  {
+   "question_id": 566550019,
+   "question": "What type of birds are on the bench?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "seagulls",
+   "answers": [
+    "no bench",
+    "seagulls",
+    "no bird",
+    "seagulls",
+    "gulls",
+    "gulls",
+    "seagulls",
+    "seagulls",
+    "none",
+    "none"
+   ]
+  }
+ ]
+}

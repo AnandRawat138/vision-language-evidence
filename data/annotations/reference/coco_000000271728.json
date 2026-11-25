@@ -1,0 +1,118 @@
+{
+ "uid": "coco_000000271728",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cat",
+  "couch",
+  "cup",
+  "laptop",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "couch": 2,
+  "laptop": 1,
+  "remote": 1,
+  "cup": 1,
+  "book": 2
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    114.11,
+    210.28,
+    142.64,
+    83.74
+   ],
+   "area": 7323.669699999999
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    0.0,
+    89.13,
+    333.0,
+    333.09
+   ],
+   "area": 92462.65634999999
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    424.13,
+    177.77,
+    119.41,
+    82.15
+   ],
+   "area": 4740.2955999999995
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    137.83,
+    307.31,
+    93.58,
+    21.62
+   ],
+   "area": 1528.9376499999992
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    175.04,
+    94.81,
+    37.6,
+    46.36
+   ],
+   "area": 1526.4293499999992
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    491.29,
+    48.94,
+    147.77,
+    208.22
+   ],
+   "area": 23571.447149999993
+  },
+  {
+   "category": "book",
+   "bbox": [
+    599.5,
+    277.18,
+    39.95,
+    30.59
+   ],
+   "area": 1017.6825000000006
+  },
+  {
+   "category": "book",
+   "bbox": [
+    575.31,
+    275.98,
+    64.19,
+    37.52
+   ],
+   "area": 830.1188499999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A fat orange cat on a couch beside a TV remote",
+  "A cat sits on a couch beside a notebook computer.",
+  "A orange cat is laying on a grey sofa.",
+  "a cat on a couch in front of a laptop",
+  "A cat lying on a sofa in front of a computer."
+ ],
+ "scene_places": []
+}

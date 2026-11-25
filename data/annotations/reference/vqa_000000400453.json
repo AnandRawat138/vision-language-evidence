@@ -1,0 +1,304 @@
+{
+ "uid": "vqa_000000400453",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "cell phone",
+  "dining table",
+  "person",
+  "potted plant",
+  "sandwich",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 4,
+  "car": 1,
+  "person": 2,
+  "sandwich": 1,
+  "wine glass": 1,
+  "dining table": 1,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    569.96,
+    152.69,
+    14.63,
+    23.02
+   ],
+   "area": 222.54499999999948
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    550.84,
+    147.35,
+    18.69,
+    25.28
+   ],
+   "area": 371.58014999999875
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    526.45,
+    151.33,
+    17.55,
+    22.85
+   ],
+   "area": 269.55530000000033
+  },
+  {
+   "category": "car",
+   "bbox": [
+    5.2,
+    26.46,
+    149.29,
+    81.35
+   ],
+   "area": 7524.912250000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    116.32,
+    1.31,
+    416.67,
+    361.26
+   ],
+   "area": 107799.48729999996
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    325.55,
+    367.67,
+    142.8,
+    105.15
+   ],
+   "area": 11234.7655
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    134.78,
+    1.15,
+    203.54,
+    119.65
+   ],
+   "area": 8818.284399999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    350.7,
+    612.0,
+    254.42
+   ],
+   "area": 50685.967199999985
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    587.54,
+    163.77,
+    11.03,
+    10.08
+   ],
+   "area": 87.21480000000042
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    56.97,
+    372.27,
+    125.9,
+    53.52
+   ],
+   "area": 3747.1146500000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    73.37,
+    62.96,
+    44.74,
+    127.36
+   ],
+   "area": 2687.20055
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The woman with a sandwich on her plate is drinking from a wine glass.",
+  "a woman drinking from a wine glass at an outdoor table",
+  "A woman drinks a glass of wine while food sits on a table at a restaurant.",
+  "a woman drinks some wine in front of a plate of food",
+  "A young women sitting at a picnic table eating a meal."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 400453000,
+   "question": "Where is the woman holding a sandwich?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "plate",
+   "answers": [
+    "no",
+    "nowhere",
+    "is not",
+    "no",
+    "plate",
+    "she isn't",
+    "stand",
+    "plate",
+    "plate",
+    "wine glass"
+   ]
+  },
+  {
+   "question_id": 400453001,
+   "question": "Is her scarf knitted or crocheted?",
+   "answer_type": "other",
+   "question_type": "is",
+   "multiple_choice_answer": "knitted",
+   "answers": [
+    "crocheted",
+    "knitted",
+    "knitted",
+    "crocheted",
+    "crocheted",
+    "knitted",
+    "knitted",
+    "knitted",
+    "crocheted",
+    "knitted"
+   ]
+  },
+  {
+   "question_id": 400453002,
+   "question": "What is being eaten?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "sandwich",
+   "answers": [
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich",
+    "sandwich"
+   ]
+  },
+  {
+   "question_id": 400453003,
+   "question": "Where is the phone?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "table",
+   "answers": [
+    "on table",
+    "on table",
+    "next to salad",
+    "table on left",
+    "table",
+    "table",
+    "table",
+    "table",
+    "table",
+    "by salad"
+   ]
+  },
+  {
+   "question_id": 400453004,
+   "question": "What is the pattern on the placemats?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "checkered",
+   "answers": [
+    "checker",
+    "squares",
+    "checkered",
+    "plaid",
+    "plaid",
+    "checkered",
+    "checkered",
+    "checkered",
+    "none",
+    "square"
+   ]
+  },
+  {
+   "question_id": 400453005,
+   "question": "What kind of sandwich is on the plate?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "tomato",
+   "answers": [
+    "chicken",
+    "pita",
+    "tomato",
+    "ciabatta",
+    "panini",
+    "tomato",
+    "tomato",
+    "blt",
+    "ciabatta",
+    "salami"
+   ]
+  },
+  {
+   "question_id": 400453006,
+   "question": "How many people can this much food feed?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "2",
+    "1",
+    "2",
+    "2",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 400453007,
+   "question": "Are they having dessert?",
+   "answer_type": "yes/no",
+   "question_type": "are they",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

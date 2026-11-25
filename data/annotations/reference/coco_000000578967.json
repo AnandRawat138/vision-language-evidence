@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000578967",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    14.69,
+    140.7,
+    625.31,
+    323.16
+   ],
+   "area": 121399.72714999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A monorail is going down the track with people on it.",
+  "A passenger train drives passed a station on a cloudy day.",
+  "a train is on the tracks near some trees.",
+  "A three car passenger train on the train tracks.",
+  "The transit train stretches down the track under the power lines."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

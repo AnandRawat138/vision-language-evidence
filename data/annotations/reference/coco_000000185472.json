@@ -1,0 +1,126 @@
+{
+ "uid": "coco_000000185472",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bicycle",
+  "person",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 2,
+  "train": 1,
+  "person": 4,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    426.01,
+    241.06,
+    62.8,
+    127.31
+   ],
+   "area": 4632.101999999997
+  },
+  {
+   "category": "train",
+   "bbox": [
+    371.52,
+    120.81,
+    113.68,
+    109.66
+   ],
+   "area": 9896.049399999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    446.56,
+    157.48,
+    105.71,
+    200.63
+   ],
+   "area": 10760.823200000003
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    619.93,
+    252.01,
+    20.07,
+    88.93
+   ],
+   "area": 1214.2352500000009
+  },
+  {
+   "category": "person",
+   "bbox": [
+    409.97,
+    156.98,
+    20.36,
+    12.01
+   ],
+   "area": 132.6247499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    588.1,
+    139.03,
+    51.9,
+    167.95
+   ],
+   "area": 4553.555450000001
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    590.36,
+    263.36,
+    30.47,
+    44.17
+   ],
+   "area": 524.1743999999997
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    619.41,
+    313.74,
+    20.59,
+    29.29
+   ],
+   "area": 270.5168999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    594.96,
+    348.44,
+    45.04,
+    123.26
+   ],
+   "area": 2797.077
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The train is approaching and a man is getting off his bicycle.",
+  "A train approaching a station with a man and a bike on it.",
+  "A train is pulling up to people waiting and a crossing guard getting off his bike.",
+  "A group of passengers at a train station standing on the platform as a train arrives",
+  "A person getting off a bike and a train coming on the tracks."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

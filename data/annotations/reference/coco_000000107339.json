@@ -1,0 +1,114 @@
+{
+ "uid": "coco_000000107339",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "couch",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 2,
+  "person": 2,
+  "remote": 2,
+  "book": 2
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    137.88,
+    70.31,
+    101.92,
+    55.03
+   ],
+   "area": 3543.2544000000003
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    3.5,
+    70.75,
+    137.0,
+    64.5
+   ],
+   "area": 4345.75
+  },
+  {
+   "category": "person",
+   "bbox": [
+    123.21,
+    18.36,
+    60.7,
+    120.73
+   ],
+   "area": 1969.2835999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    43.83,
+    82.06,
+    40.35,
+    54.23
+   ],
+   "area": 1417.6009500000005
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    123.6,
+    52.74,
+    4.06,
+    2.29
+   ],
+   "area": 6.015650000000006
+  },
+  {
+   "category": "book",
+   "bbox": [
+    142.4,
+    102.22,
+    17.98,
+    6.23
+   ],
+   "area": 56.65080000000001
+  },
+  {
+   "category": "book",
+   "bbox": [
+    152.13,
+    103.84,
+    17.52,
+    6.92
+   ],
+   "area": 60.799700000000044
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    129.4,
+    52.38,
+    3.05,
+    1.53
+   ],
+   "area": 3.453099999999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A pretty young lady standing in front of a couch behind a wooden table.",
+  "Two girls in a room are looking at something.",
+  "Two children in a room with tables and couches.",
+  "A young girl is using a video game remote control.",
+  "Two girls play Wii in a room with ourange rugs and white sofas."
+ ],
+ "scene_places": []
+}

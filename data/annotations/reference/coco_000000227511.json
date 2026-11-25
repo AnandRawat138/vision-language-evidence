@@ -1,0 +1,102 @@
+{
+ "uid": "coco_000000227511",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "fire hydrant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 6,
+  "fire hydrant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    65.73,
+    286.89,
+    160.49,
+    88.11
+   ],
+   "area": 11503.263799999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    225.02,
+    261.44,
+    42.91,
+    33.02
+   ],
+   "area": 1112.0592499999993
+  },
+  {
+   "category": "car",
+   "bbox": [
+    156.76,
+    256.94,
+    18.56,
+    13.6
+   ],
+   "area": 193.97120000000018
+  },
+  {
+   "category": "car",
+   "bbox": [
+    240.26,
+    258.46,
+    30.94,
+    26.64
+   ],
+   "area": 183.11630000000085
+  },
+  {
+   "category": "fire hydrant",
+   "bbox": [
+    79.61,
+    272.0,
+    4.99,
+    7.92
+   ],
+   "area": 30.238450000000036
+  },
+  {
+   "category": "car",
+   "bbox": [
+    182.65,
+    258.59,
+    12.76,
+    9.31
+   ],
+   "area": 61.12230000000045
+  },
+  {
+   "category": "car",
+   "bbox": [
+    138.14,
+    260.86,
+    15.24,
+    8.03
+   ],
+   "area": 86.24725000000015
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Several cars parked along the side of a street next to a street sign.",
+  "Several cars parked along a no parking area.",
+  "Rows of cars parked on the side of a city street going uphill.",
+  "Cars parked on the side of a street.",
+  "There are plenty of cars parked on the side of the street."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "uid": "flickr30k_4455065396",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A small child lays on a glossy hardwood floor .",
+  "A little boy in blue lays on an empty floor .",
+  "Small child laying on a hardwood floor .",
+  "The child lays on the hardwood floor .",
+  "Small boy laying on wooden floor ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "169998",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small child",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "169999",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a glossy hardwood floor",
+   "start": 22,
+   "end": 45
+  },
+  {
+   "entity_id": "169998",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "170000",
+   "types": [
+    "other"
+   ],
+   "phrase": "blue lays",
+   "start": 16,
+   "end": 25
+  },
+  {
+   "entity_id": "169999",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an empty floor",
+   "start": 29,
+   "end": 43
+  },
+  {
+   "entity_id": "169998",
+   "types": [
+    "people"
+   ],
+   "phrase": "Small child",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "169999",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a hardwood floor",
+   "start": 22,
+   "end": 38
+  },
+  {
+   "entity_id": "169998",
+   "types": [
+    "people"
+   ],
+   "phrase": "The child",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "169999",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the hardwood floor",
+   "start": 18,
+   "end": 36
+  },
+  {
+   "entity_id": "169998",
+   "types": [
+    "people"
+   ],
+   "phrase": "Small boy",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "169999",
+   "types": [
+    "scene"
+   ],
+   "phrase": "wooden floor",
+   "start": 20,
+   "end": 32
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,40 @@
+{
+ "uid": "vg_2321956",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "dining table",
+  "horse",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "vest": [
+   "black",
+   "purple"
+  ],
+  "hat": [
+   "black"
+  ],
+  "shoes": [
+   "black"
+  ],
+  "shirt": [
+   "gray"
+  ]
+ },
+ "accessories": [
+  "jewelry"
+ ],
+ "carried": [
+  "umbrella"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

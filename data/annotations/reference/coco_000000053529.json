@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000053529",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "person": 1,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    140.32,
+    197.11,
+    107.42,
+    73.86
+   ],
+   "area": 6110.506500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    52.28,
+    64.63,
+    89.51,
+    209.11
+   ],
+   "area": 15838.409450000001
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    2.59,
+    0.0,
+    497.41,
+    326.95
+   ],
+   "area": 125836.77214999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A dog with a hat and a person in a truck.",
+  "a person in a car sits next to a top with a hat on",
+  "A dog with a green hat sitting in a truck.",
+  "A dog with a green hat in a truck and a green shamrock posted to the truck's side mirror.",
+  "A dog sitting in a vehicle with a St. Patrick hat on."
+ ],
+ "scene_places": []
+}

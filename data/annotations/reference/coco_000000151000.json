@@ -1,0 +1,164 @@
+{
+ "uid": "coco_000000151000",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "handbag",
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 2,
+  "person": 7,
+  "handbag": 3,
+  "tie": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    246.12,
+    47.14,
+    51.28,
+    28.45
+   ],
+   "area": 942.3986999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    175.75,
+    35.45,
+    214.91,
+    381.11
+   ],
+   "area": 48096.7163
+  },
+  {
+   "category": "person",
+   "bbox": [
+    566.87,
+    320.21,
+    41.12,
+    105.79
+   ],
+   "area": 3454.9964000000023
+  },
+  {
+   "category": "person",
+   "bbox": [
+    136.48,
+    139.88,
+    115.57,
+    284.64
+   ],
+   "area": 18441.4993
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    224.8,
+    170.3,
+    76.88,
+    231.33
+   ],
+   "area": 5699.4777
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    556.91,
+    367.3,
+    26.45,
+    44.99
+   ],
+   "area": 343.7624500000017
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    488.3,
+    382.81,
+    27.79,
+    42.31
+   ],
+   "area": 492.70054999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    453.14,
+    224.03,
+    65.13,
+    200.25
+   ],
+   "area": 7751.876600000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    492.38,
+    265.58,
+    55.76,
+    160.42
+   ],
+   "area": 3100.6236
+  },
+  {
+   "category": "person",
+   "bbox": [
+    362.88,
+    175.81,
+    59.9,
+    204.18
+   ],
+   "area": 3502.962549999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    600.12,
+    379.28,
+    39.88,
+    46.72
+   ],
+   "area": 1166.3518
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    207.08,
+    228.92,
+    18.27,
+    22.99
+   ],
+   "area": 241.82444999999984
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    165.61,
+    281.01,
+    34.17,
+    20.8
+   ],
+   "area": 312.1155000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman taking pictures on a busy street.",
+  "A woman taking a picture on a sunny day.",
+  "A male and a female holding up their cellphones",
+  "A woman taking a picture up at the sky with her phone.",
+  "A woman holding a camera is taking a picture."
+ ],
+ "scene_places": []
+}

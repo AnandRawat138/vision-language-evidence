@@ -1,0 +1,164 @@
+{
+ "uid": "flickr30k_4690278994",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ],
+  "pants": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [
+  "bottle"
+ ],
+ "attr_available": true,
+ "captions": [
+  "A man in athletic clothing holding a water bottle running .",
+  "A man jogging in athletic wear holding a bottle of water .",
+  "A man is running with a water bottle in his hand .",
+  "A guy in white shirt and black pants is running .",
+  "Man jogging on a sunny day ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "191469",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "191473",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "athletic clothing",
+   "start": 9,
+   "end": 26
+  },
+  {
+   "entity_id": "191470",
+   "types": [
+    "other"
+   ],
+   "phrase": "a water bottle",
+   "start": 35,
+   "end": 49
+  },
+  {
+   "entity_id": "191469",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "191474",
+   "types": [
+    "other"
+   ],
+   "phrase": "athletic wear",
+   "start": 17,
+   "end": 30
+  },
+  {
+   "entity_id": "191470",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a bottle of water",
+   "start": 39,
+   "end": 56
+  },
+  {
+   "entity_id": "191469",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "191470",
+   "types": [
+    "other"
+   ],
+   "phrase": "a water bottle",
+   "start": 22,
+   "end": 36
+  },
+  {
+   "entity_id": "191477",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hand",
+   "start": 40,
+   "end": 48
+  },
+  {
+   "entity_id": "191469",
+   "types": [
+    "people"
+   ],
+   "phrase": "A guy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "191476",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white shirt",
+   "start": 9,
+   "end": 20
+  },
+  {
+   "entity_id": "191475",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black pants",
+   "start": 25,
+   "end": 36
+  },
+  {
+   "entity_id": "191469",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "191472",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sunny day",
+   "start": 15,
+   "end": 26
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

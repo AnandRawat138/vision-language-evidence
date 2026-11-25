@@ -1,0 +1,175 @@
+{
+ "uid": "flickr30k_3773323977",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Children play with a remote-control boat in a pond with a boat house .",
+  "Five young boys observe remote control boat in water .",
+  "Five boys standing a one boy sitting by the lake .",
+  "A group of boys enjoying a day by down the creek .",
+  "Children stand on shore watching a r.c. boat ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "142054",
+   "types": [
+    "people"
+   ],
+   "phrase": "Children",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "142056",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a remote-control boat",
+   "start": 19,
+   "end": 40
+  },
+  {
+   "entity_id": "142055",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a pond",
+   "start": 44,
+   "end": 50
+  },
+  {
+   "entity_id": "142057",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a boat house",
+   "start": 56,
+   "end": 68
+  },
+  {
+   "entity_id": "142054",
+   "types": [
+    "people"
+   ],
+   "phrase": "Five young boys",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "142056",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "remote control boat",
+   "start": 24,
+   "end": 43
+  },
+  {
+   "entity_id": "142055",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 47,
+   "end": 52
+  },
+  {
+   "entity_id": "142054",
+   "types": [
+    "people"
+   ],
+   "phrase": "Five boys",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "142059",
+   "types": [
+    "people"
+   ],
+   "phrase": "a one boy",
+   "start": 19,
+   "end": 28
+  },
+  {
+   "entity_id": "142055",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the lake",
+   "start": 40,
+   "end": 48
+  },
+  {
+   "entity_id": "142054",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of boys",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "142058",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a day",
+   "start": 25,
+   "end": 30
+  },
+  {
+   "entity_id": "142055",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the creek",
+   "start": 39,
+   "end": 48
+  },
+  {
+   "entity_id": "142054",
+   "types": [
+    "people"
+   ],
+   "phrase": "Children",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "142060",
+   "types": [
+    "scene"
+   ],
+   "phrase": "shore",
+   "start": 18,
+   "end": 23
+  },
+  {
+   "entity_id": "142056",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a r.c. boat",
+   "start": 33,
+   "end": 44
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

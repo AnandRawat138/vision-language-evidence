@@ -1,0 +1,30 @@
+{
+ "uid": "vg_2325736",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "fire hydrant",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shoes": [
+   "black",
+   "white"
+  ],
+  "shorts": [
+   "black",
+   "white"
+  ],
+  "shirt": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

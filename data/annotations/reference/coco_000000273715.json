@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000273715",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skis"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "skis": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    257.07,
+    159.56,
+    57.96,
+    117.61
+   ],
+   "area": 2255.6478000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    438.23,
+    153.88,
+    61.77,
+    147.2
+   ],
+   "area": 5057.546950000001
+  },
+  {
+   "category": "skis",
+   "bbox": [
+    260.1,
+    275.44,
+    28.89,
+    9.03
+   ],
+   "area": 64.95359999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    59.51,
+    179.38,
+    19.28,
+    34.36
+   ],
+   "area": 511.5077000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    164.43,
+    174.89,
+    37.35,
+    97.62
+   ],
+   "area": 1900.0891000000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of people with some skis in the snow.",
+  "A person on skis standing at a finish line.",
+  "three people are standing under the arch for a ski race",
+  "a skier is standing in the snow under a blue thing",
+  "The skier is happy to have won the race."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "uid": "coco_000000258883",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "clock",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "bowl": 1,
+  "pizza": 3,
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    65.11,
+    280.37,
+    283.5
+   ],
+   "area": 34978.3468
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    223.4,
+    189.18,
+    125.55,
+    52.46
+   ],
+   "area": 3887.7021999999993
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    19.3,
+    301.94,
+    289.4,
+    114.81
+   ],
+   "area": 19767.9946
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    0.0,
+    465.45,
+    350.75,
+    134.65
+   ],
+   "area": 35255.1416
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    59.77,
+    153.05,
+    27.68,
+    34.26
+   ],
+   "area": 771.1327999999997
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    318.29,
+    342.44,
+    107.37,
+    122.97
+   ],
+   "area": 9812.723650000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Someone is working on grilling some food on a grill.",
+  "A person cooking some food on a grill.",
+  "Pitas on a grill get topped with vegetables.",
+  "Pizzas are cooking on the small grill outside.",
+  "Several pieces of bread sitting on a grill with a person putting vegetables on top of them."
+ ],
+ "scene_places": []
+}

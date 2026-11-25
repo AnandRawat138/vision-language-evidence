@@ -1,0 +1,68 @@
+{
+ "info": {
+  "backend": "hf-transformers",
+  "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "model_revision": "66285546d2b821cf421d4f5eb2576359d3770cd3",
+  "quantization": "nf4",
+  "min_pixels": 100352,
+  "max_pixels": 200704,
+  "decoding": "greedy",
+  "repetition_penalty": 1.05,
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "transformers": "4.57.3",
+  "bitsandbytes": "0.50.2",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "os": "Windows-11-10.0.26200-SP0",
+  "load_time_s": 20.32
+ },
+ "weights_mb": 2297.2,
+ "runs": [
+  {
+   "batch": 1,
+   "wall_s": 26.68,
+   "img_per_s": 0.037,
+   "peak_alloc_mb": 2406.2,
+   "out_tokens_mean": 320.0,
+   "in_tokens_mean": 520.0,
+   "parse": [
+    "repaired"
+   ],
+   "sample": "```json\n{\n  \"objects\": [\n    {\n      \"name\": \"man\",\n      \"count\": 3,\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"woman\",\n      \"count\": 1,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"clothing\": [\n    {\n      \"name\": \"suit\",\n      \"color\": \"black\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"shirt\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n     "
+  },
+  {
+   "batch": 4,
+   "wall_s": 25.37,
+   "img_per_s": 0.158,
+   "peak_alloc_mb": 2614.0,
+   "out_tokens_mean": 206.75,
+   "in_tokens_mean": 527.75,
+   "parse": [
+    "repaired",
+    "valid",
+    "valid",
+    "valid"
+   ],
+   "sample": "```json\n{\n  \"objects\": [\n    {\n      \"name\": \"man\",\n      \"count\": 3,\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"woman\",\n      \"count\": 1,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"clothing\": [\n    {\n      \"name\": \"suit\",\n      \"color\": \"black\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"shirt\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n     "
+  },
+  {
+   "batch": 8,
+   "wall_s": 27.61,
+   "img_per_s": 0.29,
+   "peak_alloc_mb": 2849.9,
+   "out_tokens_mean": 226.625,
+   "in_tokens_mean": 525.5,
+   "parse": [
+    "repaired",
+    "valid",
+    "valid",
+    "valid",
+    "valid",
+    "valid",
+    "valid",
+    "valid"
+   ],
+   "sample": "```json\n{\n  \"objects\": [\n    {\n      \"name\": \"man\",\n      \"count\": 3,\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"woman\",\n      \"count\": 1,\n      \"confidence\": \"high\"\n    }\n  ],\n  \"clothing\": [\n    {\n      \"name\": \"suit\",\n      \"color\": \"black\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"shirt\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"name\": \"tie\",\n      \"color\": \"blue\",\n     "
+  }
+ ]
+}

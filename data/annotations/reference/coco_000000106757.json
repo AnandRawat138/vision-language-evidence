@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000106757",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "elephant",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "elephant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    212.92,
+    223.33,
+    208.6,
+    416.67
+   ],
+   "area": 70081.46674999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    276.42,
+    192.32,
+    4.35,
+    8.82
+   ],
+   "area": 23.612899999999964
+  },
+  {
+   "category": "elephant",
+   "bbox": [
+    0.0,
+    35.82,
+    301.54,
+    604.18
+   ],
+   "area": 121447.21969999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A actress standing near an elephant on a sunny day.",
+  "An older woman is talking in front of an elephant.",
+  "The woman is looking at the elephant in amazement.",
+  "A woman standing behind a fence looking at an elephant.",
+  "an old woman standing besides an elephant smiling"
+ ],
+ "scene_places": []
+}

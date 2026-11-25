@@ -1,0 +1,98 @@
+{
+ "uid": "coco_000000488166",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "dining table",
+  "fork",
+  "person",
+  "pizza",
+  "sandwich"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 1,
+  "person": 1,
+  "fork": 1,
+  "pizza": 1,
+  "cup": 1,
+  "sandwich": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    487.65,
+    361.0,
+    145.25
+   ],
+   "area": 45581.06195
+  },
+  {
+   "category": "person",
+   "bbox": [
+    138.07,
+    104.82,
+    221.48,
+    325.03
+   ],
+   "area": 35233.708500000015
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    46.47,
+    562.55,
+    168.45,
+    54.96
+   ],
+   "area": 1943.6574499999997
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    45.06,
+    525.35,
+    170.68,
+    76.86
+   ],
+   "area": 8049.10225
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    231.33,
+    421.18,
+    100.35,
+    171.95
+   ],
+   "area": 13890.228899999998
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    45.21,
+    529.46,
+    162.94,
+    68.46
+   ],
+   "area": 7265.5775499999945
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The man stands on fence railing beside a table with food on it.",
+  "a slice of pizza sitting next to a coffee cup on an outdoor table",
+  "A man is standing at the railing of his balcony.",
+  "A man leaning on a railing is looking at the plate of food.",
+  "A man leads on the railing while food sits on the table."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,124 @@
+{
+ "uid": "coco_000000418696",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "traffic light",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "truck": 1,
+  "traffic light": 6
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    185.89,
+    272.22,
+    35.63,
+    21.45
+   ],
+   "area": 613.7073499999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    516.85,
+    275.61,
+    70.24,
+    32.78
+   ],
+   "area": 1516.7316999999985
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    147.62,
+    268.39,
+    26.81,
+    19.89
+   ],
+   "area": 399.71815000000026
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    360.8,
+    158.14,
+    8.32,
+    24.56
+   ],
+   "area": 160.92780000000016
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    160.37,
+    154.34,
+    17.89,
+    27.92
+   ],
+   "area": 353.9751999999999
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    67.59,
+    259.43,
+    4.98,
+    5.34
+   ],
+   "area": 21.38414999999994
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    348.6,
+    172.76,
+    10.19,
+    9.29
+   ],
+   "area": 57.8235500000001
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    97.97,
+    254.81,
+    7.22,
+    6.73
+   ],
+   "area": 39.754999999999974
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    75.75,
+    256.41,
+    4.94,
+    6.59
+   ],
+   "area": 24.316599999999923
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A street corner with a brown and white building on it.",
+  "a traffic light hanging from a wire above a street",
+  "an empty street with a building with a tower at the corner.",
+  "The bright lights are shining on the street.",
+  "A tall church tower sitting on the corner of a street."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

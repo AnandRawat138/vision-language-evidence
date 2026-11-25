@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000165713",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "fire hydrant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "fire hydrant": 1
+ },
+ "object_boxes": [
+  {
+   "category": "fire hydrant",
+   "bbox": [
+    103.32,
+    139.19,
+    160.72,
+    434.8
+   ],
+   "area": 43153.28410000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A rusted silver fire hydrant next to two poles.",
+  "A grey and silver fire hydrant between two barriers.",
+  "a fire hydrant near two small poles on the curb of a street",
+  "The fireplug is positioned between 2 slanted posts, all three of which are dotted with graffiti.",
+  "A fire hydrant on a street has two rusty posts beside it."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

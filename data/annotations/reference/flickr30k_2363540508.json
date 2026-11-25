@@ -1,0 +1,152 @@
+{
+ "uid": "flickr30k_2363540508",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A little girl with long hair and something in her mouth , wearing light-colored clothing is sliding down a tunnel .",
+  "A young girl going down a tube slide .",
+  "A girl inside a long tubular slide .",
+  "A girl goes down a red slide .",
+  "Young girl in tunnel slide"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "44226",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little girl",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "44227",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "long hair",
+   "start": 19,
+   "end": 28
+  },
+  {
+   "entity_id": "44228",
+   "types": [
+    "other"
+   ],
+   "phrase": "something",
+   "start": 33,
+   "end": 42
+  },
+  {
+   "entity_id": "44229",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "her mouth",
+   "start": 46,
+   "end": 55
+  },
+  {
+   "entity_id": "44230",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "light-colored clothing",
+   "start": 66,
+   "end": 88
+  },
+  {
+   "entity_id": "44231",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a tunnel",
+   "start": 105,
+   "end": 113
+  },
+  {
+   "entity_id": "44226",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "44231",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a tube slide",
+   "start": 24,
+   "end": 36
+  },
+  {
+   "entity_id": "44226",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "44231",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a long tubular slide",
+   "start": 14,
+   "end": 34
+  },
+  {
+   "entity_id": "44226",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "44231",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a red slide",
+   "start": 17,
+   "end": 28
+  },
+  {
+   "entity_id": "44226",
+   "types": [
+    "people"
+   ],
+   "phrase": "Young girl",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "44231",
+   "types": [
+    "scene"
+   ],
+   "phrase": "tunnel slide",
+   "start": 14,
+   "end": 26
+  }
+ ],
+ "scene_places": []
+}

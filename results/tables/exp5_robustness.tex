@@ -1,0 +1,25 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Robustness to controlled degradations (120 COCO/VQA test images). Prec.~(sel.) is precision after calibrated selective reporting with the dev-selected threshold; Coverage is the retained fraction of object observations; QA flag is the fraction of images flagged by the image-quality module.}
+\label{tab:exp5}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lccccccc}
+\toprule
+Condition & Object F1 & $\Delta$F1 vs orig. & Halluc. & Prec. (all) & Prec. (sel.) & Coverage & QA flag \\
+\midrule
+original & 0.609 [0.560, 0.657] & -- & 0.056 & 0.909 & 0.908 & 0.995 & 0.07 \\
+blur:2 & 0.570 [0.515, 0.623] & -0.040 [-0.077, -0.004] & 0.052 & 0.929 & 0.929 & 0.987 & 1.00 \\
+blur:5 & 0.530 [0.475, 0.584] & -0.080 [-0.135, -0.023] & 0.076 & 0.888 & 0.887 & 0.993 & 1.00 \\
+downscale:0.25 & 0.579 [0.526, 0.631] & -0.030 [-0.069, +0.009] & 0.058 & 0.910 & 0.915 & 0.988 & 1.00 \\
+downscale:0.1 & 0.487 [0.430, 0.545] & -0.122 [-0.180, -0.061] & 0.119 & 0.835 & 0.838 & 0.978 & 1.00 \\
+lowlight:2.0 & 0.602 [0.552, 0.651] & -0.007 [-0.038, +0.025] & 0.036 & 0.946 & 0.946 & 1.000 & 0.89 \\
+lowlight:3.5 & 0.504 [0.448, 0.562] & -0.105 [-0.157, -0.052] & 0.056 & 0.919 & 0.919 & 0.993 & 1.00 \\
+occlusion:0.25 & 0.507 [0.448, 0.567] & -0.102 [-0.166, -0.035] & 0.104 & 0.883 & 0.889 & 0.994 & 0.07 \\
+occlusion:0.5 & 0.392 [0.332, 0.457] & -0.217 [-0.289, -0.143] & 0.137 & 0.823 & 0.828 & 0.985 & 0.09 \\
+jpeg:20 & 0.625 [0.575, 0.673] & +0.016 [-0.015, +0.048] & 0.031 & 0.928 & 0.927 & 0.994 & 0.07 \\
+jpeg:5 & 0.563 [0.505, 0.620] & -0.046 [-0.095, +0.004] & 0.101 & 0.873 & 0.873 & 1.000 & 0.07 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

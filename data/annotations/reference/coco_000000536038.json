@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000536038",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "book",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bed": 1,
+  "book": 1,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bed",
+   "bbox": [
+    2.88,
+    99.0,
+    355.12,
+    533.57
+   ],
+   "area": 171069.3219
+  },
+  {
+   "category": "book",
+   "bbox": [
+    130.81,
+    225.01,
+    144.01,
+    163.6
+   ],
+   "area": 19306.88315
+  },
+  {
+   "category": "person",
+   "bbox": [
+    7.52,
+    300.94,
+    350.48,
+    336.7
+   ],
+   "area": 79407.09800000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    90.17,
+    145.69,
+    153.75,
+    170.44
+   ],
+   "area": 10829.384450000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman laying in bed reading a book while wearing purple socks.",
+  "A woman that has purple socks and a book.",
+  "This girl is laying on the bed reading.",
+  "The woman is reading something while laying down in bed.",
+  "A woman is laying in bed reading a book."
+ ],
+ "scene_places": []
+}

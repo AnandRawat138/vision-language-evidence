@@ -1,0 +1,34 @@
+{
+ "uid": "vg_2338406",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "bowl",
+  "knife",
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "black",
+   "red"
+  ],
+  "uniform": [
+   "white"
+  ]
+ },
+ "accessories": [
+  "belt"
+ ],
+ "carried": [
+  "bottle"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

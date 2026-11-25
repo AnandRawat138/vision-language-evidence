@@ -1,0 +1,388 @@
+{
+ "uid": "coco_000000572678",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bowl",
+  "chair",
+  "couch",
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "potted plant",
+  "spoon",
+  "vase",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 2,
+  "chair": 6,
+  "dining table": 1,
+  "spoon": 7,
+  "cup": 5,
+  "fork": 2,
+  "knife": 3,
+  "bowl": 1,
+  "vase": 1,
+  "wine glass": 4,
+  "potted plant": 2
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    145.35,
+    192.87,
+    177.61,
+    99.99
+   ],
+   "area": 3987.4488999999994
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    522.8,
+    274.19,
+    86.82,
+    143.5
+   ],
+   "area": 4510.37245
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    265.97,
+    222.1,
+    61.23,
+    85.91
+   ],
+   "area": 3370.279049999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    340.36,
+    196.13,
+    82.14,
+    48.4
+   ],
+   "area": 2300.2745500000005
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    338.23,
+    193.54,
+    91.28,
+    49.26
+   ],
+   "area": 2444.77435
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    202.05,
+    244.94,
+    358.31,
+    175.18
+   ],
+   "area": 42141.376200000006
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    246.98,
+    340.35,
+    45.84,
+    33.43
+   ],
+   "area": 379.8822999999998
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    305.66,
+    295.29,
+    20.91,
+    53.48
+   ],
+   "area": 1057.7415499999981
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    373.5,
+    381.92,
+    38.05,
+    42.04
+   ],
+   "area": 391.79099999999937
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    395.1,
+    393.67,
+    34.7,
+    31.33
+   ],
+   "area": 232.9891499999998
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    326.58,
+    299.2,
+    36.14,
+    9.5
+   ],
+   "area": 68.34035000000004
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    239.62,
+    342.61,
+    36.98,
+    28.47
+   ],
+   "area": 206.35070000000022
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    469.62,
+    335.34,
+    49.22,
+    16.47
+   ],
+   "area": 118.89765000000065
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    494.07,
+    264.51,
+    7.19,
+    7.2
+   ],
+   "area": 23.88514999999994
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    434.75,
+    418.55,
+    14.27,
+    6.45
+   ],
+   "area": 50.189549999999755
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    322.12,
+    294.85,
+    40.07,
+    9.03
+   ],
+   "area": 114.11289999999995
+  },
+  {
+   "category": "bowl",
+   "bbox": [
+    329.88,
+    234.89,
+    34.07,
+    13.35
+   ],
+   "area": 320.2659999999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    182.42,
+    344.78,
+    145.16,
+    75.44
+   ],
+   "area": 6271.310700000002
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    410.31,
+    203.24,
+    43.24,
+    86.13
+   ],
+   "area": 1520.9235
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    394.58,
+    279.66,
+    40.9,
+    86.3
+   ],
+   "area": 1705.772150000001
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    445.78,
+    239.93,
+    31.08,
+    46.42
+   ],
+   "area": 836.2736000000014
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    367.18,
+    252.34,
+    26.0,
+    34.9
+   ],
+   "area": 389.9550000000004
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    414.76,
+    225.55,
+    11.0,
+    19.54
+   ],
+   "area": 142.4379000000002
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    473.9,
+    241.48,
+    14.55,
+    31.82
+   ],
+   "area": 356.5079000000001
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    445.35,
+    278.14,
+    20.4,
+    48.8
+   ],
+   "area": 930.4075999999995
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    20.64,
+    191.63,
+    20.25,
+    21.99
+   ],
+   "area": 378.9645499999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    49.77,
+    203.58,
+    7.11,
+    8.76
+   ],
+   "area": 57.879499999999936
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    486.79,
+    291.25,
+    52.03,
+    17.31
+   ],
+   "area": 83.5847500000003
+  },
+  {
+   "category": "spoon",
+   "bbox": [
+    498.12,
+    263.23,
+    14.26,
+    12.02
+   ],
+   "area": 45.77169999999989
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    455.72,
+    217.65,
+    56.75,
+    47.75
+   ],
+   "area": 1830.1876000000004
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    162.06,
+    229.58,
+    122.45,
+    98.31
+   ],
+   "area": 8310.634
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    395.18,
+    158.26,
+    81.32,
+    148.62
+   ],
+   "area": 4261.125049999997
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    414.59,
+    138.94,
+    11.43,
+    34.74
+   ],
+   "area": 224.34609999999972
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    469.01,
+    331.59,
+    49.78,
+    14.69
+   ],
+   "area": 103.84279999999978
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An upscale living area containing white and glass furniture with brown accents.",
+  "A glass table sitting next to a couch and chair.",
+  "A white room with a large window and a glass dining table and white chairs.",
+  "A white decorated living room with a set dining room table.",
+  "A room with a couch, chairs, lamps, a table and curtains."
+ ],
+ "scene_places": []
+}

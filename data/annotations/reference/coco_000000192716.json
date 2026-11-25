@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000192716",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "stop sign"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "stop sign": 1,
+  "car": 2,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "stop sign",
+   "bbox": [
+    109.3,
+    171.15,
+    304.9,
+    319.28
+   ],
+   "area": 77688.5599
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    589.23,
+    55.52,
+    49.6
+   ],
+   "area": 1790.4617499999983
+  },
+  {
+   "category": "car",
+   "bbox": [
+    137.81,
+    595.39,
+    96.3,
+    44.61
+   ],
+   "area": 2650.7805500000018
+  },
+  {
+   "category": "person",
+   "bbox": [
+    38.89,
+    595.65,
+    14.17,
+    28.7
+   ],
+   "area": 216.81245000000015
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a street sign attached to a wooden pole",
+  "a stop sign has some graffiti on it",
+  "Traffic sign with graffiti displayed near white building in urban area.",
+  "a stop sign a building cars bushes and trees",
+  "A red stop sign sitting in front of a tall palm tree."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "uid": "flickr30k_2723785828",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two children with face paint sitting on the ground in front of a window .",
+  "Two small boys with painted faces are sitting next to each other .",
+  "Two children with their faces painted are sitting on the floor .",
+  "A pair of unhappy children with painted faces .",
+  "Two kids after having their faces painted ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "68684",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two children",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "68685",
+   "types": [
+    "other"
+   ],
+   "phrase": "face paint",
+   "start": 18,
+   "end": 28
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the ground",
+   "start": 40,
+   "end": 50
+  },
+  {
+   "entity_id": "68686",
+   "types": [
+    "other"
+   ],
+   "phrase": "a window",
+   "start": 63,
+   "end": 71
+  },
+  {
+   "entity_id": "68684",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two small boys",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "68687",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "painted faces",
+   "start": 20,
+   "end": 33
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "each other",
+   "start": 54,
+   "end": 64
+  },
+  {
+   "entity_id": "68684",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two children",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "68687",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "their faces",
+   "start": 18,
+   "end": 29
+  },
+  {
+   "entity_id": "68688",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the floor",
+   "start": 53,
+   "end": 62
+  },
+  {
+   "entity_id": "68684",
+   "types": [
+    "people"
+   ],
+   "phrase": "A pair of unhappy children",
+   "start": 0,
+   "end": 26
+  },
+  {
+   "entity_id": "68687",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "painted faces",
+   "start": 32,
+   "end": 45
+  },
+  {
+   "entity_id": "68684",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two kids",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "68687",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "their faces",
+   "start": 22,
+   "end": 33
+  }
+ ],
+ "scene_places": []
+}

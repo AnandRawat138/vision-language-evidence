@@ -1,0 +1,242 @@
+{
+ "uid": "vqa_000000372043",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "surfboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    101.04,
+    222.19,
+    78.53,
+    102.96
+   ],
+   "area": 2783.193599999999
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    119.15,
+    321.06,
+    34.57,
+    12.37
+   ],
+   "area": 199.15864999999943
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a wave on top of a surfboard.",
+  "Surfer on the top of a large blue wave on his board.",
+  "A man riding a surfboard in front of a wave.",
+  "a man on a surf board surfs a big wave",
+  "A surfer rides a sizable wave on the ocean."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 372043000,
+   "question": "What is the man doing?",
+   "answer_type": "other",
+   "question_type": "what is the man",
+   "multiple_choice_answer": "surfing",
+   "answers": [
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing"
+   ]
+  },
+  {
+   "question_id": 372043001,
+   "question": "Are the mountains covered in snow?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no mountains",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 372043002,
+   "question": "Where is the person surfing?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "ocean",
+   "answers": [
+    "yes",
+    "ocean",
+    "ocean",
+    "hawaii",
+    "ocean",
+    "ocean",
+    "ocean",
+    "ocean",
+    "ocean",
+    "ocean"
+   ]
+  },
+  {
+   "question_id": 372043003,
+   "question": "What sport are these people participating in?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "surfing",
+   "answers": [
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing",
+    "surfing"
+   ]
+  },
+  {
+   "question_id": 372043004,
+   "question": "What season is this image?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "summer",
+   "answers": [
+    "summer",
+    "summer",
+    "summer",
+    "summer",
+    "summer",
+    "summer",
+    "summer",
+    "summer",
+    "summer",
+    "summer"
+   ]
+  },
+  {
+   "question_id": 372043005,
+   "question": "How big is the wave?",
+   "answer_type": "other",
+   "question_type": "how",
+   "multiple_choice_answer": "8 feet",
+   "answers": [
+    "large",
+    "8 feet",
+    "2m",
+    "big",
+    "wide",
+    "big",
+    "huge",
+    "8 ft",
+    "8 feet",
+    "8 feet"
+   ]
+  },
+  {
+   "question_id": 372043006,
+   "question": "What is blue colored in the background of the picture?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "sky",
+   "answers": [
+    "sky",
+    "ocean",
+    "sky",
+    "sky",
+    "water",
+    "sky",
+    "water",
+    "water",
+    "water",
+    "sky"
+   ]
+  },
+  {
+   "question_id": 372043007,
+   "question": "What is blowing in the wind?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "water",
+   "answers": [
+    "water",
+    "water",
+    "water",
+    "water",
+    "water",
+    "ocean water",
+    "water/mist",
+    "water",
+    "water",
+    "water"
+   ]
+  },
+  {
+   "question_id": 372043008,
+   "question": "Is it hot today there?",
+   "answer_type": "yes/no",
+   "question_type": "is it",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 372043009,
+   "question": "Is the surfer hanging 10?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

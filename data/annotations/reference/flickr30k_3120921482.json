@@ -1,0 +1,147 @@
+{
+ "uid": "flickr30k_3120921482",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "gray"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young boy in a gray and white striped shirt is playing guitar .",
+  "A young boy with dark hair plays an acoustic guitar .",
+  "A young boy is smiling while playing his guitar .",
+  "Kid in a striped shirt holding a guitar .",
+  "A little boy holding a guitar ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "94967",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "94968",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray and white striped shirt",
+   "start": 15,
+   "end": 45
+  },
+  {
+   "entity_id": "94969",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "guitar",
+   "start": 57,
+   "end": 63
+  },
+  {
+   "entity_id": "94967",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "94971",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "dark hair",
+   "start": 17,
+   "end": 26
+  },
+  {
+   "entity_id": "94969",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "an acoustic guitar",
+   "start": 33,
+   "end": 51
+  },
+  {
+   "entity_id": "94967",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "94969",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "his guitar",
+   "start": 37,
+   "end": 47
+  },
+  {
+   "entity_id": "94967",
+   "types": [
+    "people"
+   ],
+   "phrase": "Kid",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "94968",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a striped shirt",
+   "start": 7,
+   "end": 22
+  },
+  {
+   "entity_id": "94969",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 31,
+   "end": 39
+  },
+  {
+   "entity_id": "94967",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "94969",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 21,
+   "end": 29
+  }
+ ],
+ "scene_places": []
+}

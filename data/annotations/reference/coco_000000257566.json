@@ -1,0 +1,176 @@
+{
+ "uid": "coco_000000257566",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "cell phone",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "boat": 2,
+  "person": 9,
+  "handbag": 2,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "boat",
+   "bbox": [
+    257.96,
+    133.88,
+    133.88,
+    108.84
+   ],
+   "area": 12226.812000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    273.88,
+    110.0,
+    12.71,
+    17.54
+   ],
+   "area": 126.23549999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    251.8,
+    117.98,
+    13.47,
+    31.57
+   ],
+   "area": 197.51545000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    291.31,
+    99.04,
+    29.43,
+    36.99
+   ],
+   "area": 629.5509999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    317.78,
+    104.99,
+    33.51,
+    25.87
+   ],
+   "area": 403.53735000000023
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    209.39,
+    119.32,
+    11.54,
+    28.59
+   ],
+   "area": 160.87855000000016
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    251.38,
+    114.58,
+    44.86,
+    59.52
+   ],
+   "area": 982.8014500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    285.03,
+    118.6,
+    10.62,
+    9.03
+   ],
+   "area": 68.52514999999988
+  },
+  {
+   "category": "person",
+   "bbox": [
+    208.92,
+    108.73,
+    25.84,
+    68.77
+   ],
+   "area": 921.4121500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    226.73,
+    109.35,
+    10.01,
+    31.08
+   ],
+   "area": 109.92680000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    233.78,
+    64.66,
+    246.22
+   ],
+   "area": 9105.448250000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    228.72,
+    112.06,
+    8.16,
+    61.49
+   ],
+   "area": 149.49119999999994
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    235.47,
+    130.61,
+    6.65,
+    19.04
+   ],
+   "area": 78.0121500000001
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    347.21,
+    112.74,
+    2.8,
+    4.24
+   ],
+   "area": 9.667200000000149
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "People going down a narrow area on a boat.",
+  "A gondola like boat crossing over a bridge",
+  "A boat traveling down a narrow canal next to a forest.",
+  "A narrow boat coming down a small water way next to a sidewalk.",
+  "People in a small boat traveling in water along a walkway"
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

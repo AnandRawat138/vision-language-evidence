@@ -1,0 +1,767 @@
+{
+ "radford2021clip": {
+  "title": "Learning Transferable Visual Models From Natural Language Supervision",
+  "src": "arxiv",
+  "found": "Learning Transferable Visual Models From Natural Language Supervision",
+  "authors": [
+   "Alec Radford",
+   "Jong Wook Kim",
+   "Chris Hallacy",
+   "Aditya Ramesh",
+   "Gabriel Goh",
+   "Sandhini Agarwal",
+   "Girish Sastry",
+   "Amanda Askell",
+   "Pamela Mishkin",
+   "Jack Clark",
+   "Gretchen Krueger",
+   "Ilya Sutskever"
+  ],
+  "year": "2021",
+  "arxiv": "2103.00020",
+  "jref": null,
+  "title_match": true
+ },
+ "li2022blip": {
+  "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+  "src": "arxiv",
+  "found": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+  "authors": [
+   "Junnan Li",
+   "Dongxu Li",
+   "Caiming Xiong",
+   "Steven Hoi"
+  ],
+  "year": "2022",
+  "arxiv": "2201.12086",
+  "jref": null,
+  "title_match": true
+ },
+ "li2023blip2": {
+  "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+  "src": "arxiv",
+  "found": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+  "authors": [
+   "Junnan Li",
+   "Dongxu Li",
+   "Silvio Savarese",
+   "Steven Hoi"
+  ],
+  "year": "2023",
+  "arxiv": "2301.12597",
+  "jref": null,
+  "title_match": true
+ },
+ "liu2023llava": {
+  "title": "Visual Instruction Tuning",
+  "src": "arxiv",
+  "found": "Visual Instruction Tuning",
+  "authors": [
+   "Haotian Liu",
+   "Chunyuan Li",
+   "Qingyang Wu",
+   "Yong Jae Lee"
+  ],
+  "year": "2023",
+  "arxiv": "2304.08485",
+  "jref": null,
+  "title_match": true
+ },
+ "bai2025qwen25vl": {
+  "title": "Qwen2.5-VL Technical Report",
+  "src": "arxiv",
+  "found": "Qwen2.5-VL Technical Report",
+  "authors": [
+   "Shuai Bai",
+   "Keqin Chen",
+   "Xuejing Liu",
+   "Jialin Wang",
+   "Wenbin Ge",
+   "Sibo Song",
+   "Kai Dang",
+   "Peng Wang",
+   "Shijie Wang",
+   "Jun Tang",
+   "Humen Zhong",
+   "Yuanzhi Zhu",
+   "Mingkun Yang",
+   "Zhaohai Li",
+   "Jianqiang Wan",
+   "Pengfei Wang",
+   "Wei Ding",
+   "Zheren Fu",
+   "Yiheng Xu",
+   "Jiabo Ye",
+   "Xi Zhang",
+   "Tianbao Xie",
+   "Zesen Cheng",
+   "Hang Zhang",
+   "Zhibo Yang",
+   "Haiyang Xu",
+   "Junyang Lin"
+  ],
+  "year": "2025",
+  "arxiv": "2502.13923",
+  "jref": null,
+  "title_match": true
+ },
+ "wang2024qwen2vl": {
+  "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "src": "arxiv",
+  "found": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+  "authors": [
+   "Peng Wang",
+   "Shuai Bai",
+   "Sinan Tan",
+   "Shijie Wang",
+   "Zhihao Fan",
+   "Jinze Bai",
+   "Keqin Chen",
+   "Xuejing Liu",
+   "Jialin Wang",
+   "Wenbin Ge",
+   "Yang Fan",
+   "Kai Dang",
+   "Mengfei Du",
+   "Xuancheng Ren",
+   "Rui Men",
+   "Dayiheng Liu",
+   "Chang Zhou",
+   "Jingren Zhou",
+   "Junyang Lin"
+  ],
+  "year": "2024",
+  "arxiv": "2409.12191",
+  "jref": null,
+  "title_match": true
+ },
+ "kwon2023vllm": {
+  "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+  "src": "crossref",
+  "found": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+  "authors": [
+   "Kwon, Woosuk",
+   "Li, Zhuohan",
+   "Zhuang, Siyuan",
+   "Sheng, Ying",
+   "Zheng, Lianmin",
+   "Yu, Cody Hao",
+   "Gonzalez, Joseph",
+   "Zhang, Hao",
+   "Stoica, Ion"
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 29th Symposium on Operating Systems Principles",
+  "vol": null,
+  "page": "611-626",
+  "doi": "10.1145/3600006.3613165",
+  "title_match": true
+ },
+ "yu2022orca": {
+  "title": "Orca: A Distributed Serving System for Transformer-Based Generative Models",
+  "error": "Expecting value: line 1 column 1 (char 0)",
+  "title_match": false
+ },
+ "crankshaw2017clipper": {
+  "title": "Clipper: A Low-Latency Online Prediction Serving System",
+  "error": "Expecting value: line 1 column 1 (char 0)",
+  "title_match": false
+ },
+ "agrawal2024sarathi": {
+  "title": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+  "src": "arxiv",
+  "found": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+  "authors": [
+   "Amey Agrawal",
+   "Nitin Kedia",
+   "Ashish Panwar",
+   "Jayashree Mohan",
+   "Nipun Kwatra",
+   "Bhargav S. Gulavani",
+   "Alexey Tumanov",
+   "Ramachandran Ramjee"
+  ],
+  "year": "2024",
+  "arxiv": "2403.02310",
+  "jref": null,
+  "title_match": true
+ },
+ "dettmers2023qlora": {
+  "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+  "src": "arxiv",
+  "found": "QLoRA: Efficient Finetuning of Quantized LLMs",
+  "authors": [
+   "Tim Dettmers",
+   "Artidoro Pagnoni",
+   "Ari Holtzman",
+   "Luke Zettlemoyer"
+  ],
+  "year": "2023",
+  "arxiv": "2305.14314",
+  "jref": null,
+  "title_match": true
+ },
+ "dettmers2022int8": {
+  "title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+  "src": "arxiv",
+  "found": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+  "authors": [
+   "Tim Dettmers",
+   "Mike Lewis",
+   "Younes Belkada",
+   "Luke Zettlemoyer"
+  ],
+  "year": "2022",
+  "arxiv": "2208.07339",
+  "jref": null,
+  "title_match": true
+ },
+ "chen2024fastv": {
+  "title": "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models",
+  "src": "crossref",
+  "found": "An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models",
+  "authors": [
+   "Chen, Liang",
+   "Zhao, Haozhe",
+   "Liu, Tianyu",
+   "Bai, Shuai",
+   "Lin, Junyang",
+   "Zhou, Chang",
+   "Chang, Baobao"
+  ],
+  "year": 2024,
+  "venue": "Lecture Notes in Computer Science",
+  "vol": null,
+  "page": "19-35",
+  "doi": "10.1007/978-3-031-73004-7_2",
+  "title_match": true
+ },
+ "lin2014coco": {
+  "title": "Microsoft COCO: Common Objects in Context",
+  "src": "crossref",
+  "found": "Microsoft COCO: Common Objects in Context",
+  "authors": [
+   "Lin, Tsung-Yi",
+   "Maire, Michael",
+   "Belongie, Serge",
+   "Hays, James",
+   "Perona, Pietro",
+   "Ramanan, Deva",
+   "Dollár, Piotr",
+   "Zitnick, C. Lawrence"
+  ],
+  "year": 2014,
+  "venue": "Lecture Notes in Computer Science",
+  "vol": null,
+  "page": "740-755",
+  "doi": "10.1007/978-3-319-10602-1_48",
+  "title_match": true
+ },
+ "krishna2017vg": {
+  "title": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+  "src": "crossref",
+  "found": "Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations",
+  "authors": [
+   "Krishna, Ranjay",
+   "Zhu, Yuke",
+   "Groth, Oliver",
+   "Johnson, Justin",
+   "Hata, Kenji",
+   "Kravitz, Joshua",
+   "Chen, Stephanie",
+   "Kalantidis, Yannis",
+   "Li, Li-Jia",
+   "Shamma, David A.",
+   "Bernstein, Michael S.",
+   "Fei-Fei, Li"
+  ],
+  "year": 2017,
+  "venue": "International Journal of Computer Vision",
+  "vol": "123",
+  "page": "32-73",
+  "doi": "10.1007/s11263-016-0981-7",
+  "title_match": true
+ },
+ "young2014flickr30k": {
+  "title": "From Image Descriptions to Visual Denotations: New Similarity Metrics for Semantic Inference over Event Descriptions",
+  "src": "crossref",
+  "found": "From image descriptions to visual denotations: New similarity metrics                     for semantic inference over event descriptions",
+  "authors": [
+   "Young, Peter",
+   "Lai, Alice",
+   "Hodosh, Micah",
+   "Hockenmaier, Julia"
+  ],
+  "year": 2014,
+  "venue": "Transactions of the Association for Computational Linguistics",
+  "vol": "2",
+  "page": "67-78",
+  "doi": "10.1162/tacl_a_00166",
+  "title_match": true
+ },
+ "plummer2015entities": {
+  "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models",
+  "src": "crossref",
+  "found": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models",
+  "authors": [
+   "Plummer, Bryan A.",
+   "Wang, Liwei",
+   "Cervantes, Chris M.",
+   "Caicedo, Juan C.",
+   "Hockenmaier, Julia",
+   "Lazebnik, Svetlana"
+  ],
+  "year": 2015,
+  "venue": "2015 IEEE International Conference on Computer Vision (ICCV)",
+  "vol": null,
+  "page": "2641-2649",
+  "doi": "10.1109/ICCV.2015.303",
+  "title_match": true
+ },
+ "goyal2017vqa2": {
+  "title": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+  "src": "crossref",
+  "found": "Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering",
+  "authors": [
+   "Goyal, Yash",
+   "Khot, Tejas",
+   "Summers-Stay, Douglas",
+   "Batra, Dhruv",
+   "Parikh, Devi"
+  ],
+  "year": 2017,
+  "venue": "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+  "vol": null,
+  "page": "6325-6334",
+  "doi": "10.1109/CVPR.2017.670",
+  "title_match": true
+ },
+ "rohrbach2018chair": {
+  "title": "Object Hallucination in Image Captioning",
+  "src": "crossref",
+  "found": "Object Hallucination in Image Captioning",
+  "authors": [
+   "Rohrbach, Anna",
+   "Hendricks, Lisa Anne",
+   "Burns, Kaylee",
+   "Darrell, Trevor",
+   "Saenko, Kate"
+  ],
+  "year": 2018,
+  "venue": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  "vol": null,
+  "page": "4035-4045",
+  "doi": "10.18653/v1/D18-1437",
+  "title_match": true
+ },
+ "li2023pope": {
+  "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+  "src": "crossref",
+  "found": "Evaluating Object Hallucination in Large Vision-Language Models",
+  "authors": [
+   "Li, Yifan",
+   "Du, Yifan",
+   "Zhou, Kun",
+   "Wang, Jinpeng",
+   "Zhao, Xin",
+   "Wen, Ji-Rong"
+  ],
+  "year": 2023,
+  "venue": "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+  "vol": null,
+  "page": "292-305",
+  "doi": "10.18653/v1/2023.emnlp-main.20",
+  "title_match": true
+ },
+ "bai2024hallucsurvey": {
+  "title": "Hallucination of Multimodal Large Language Models: A Survey",
+  "src": "arxiv",
+  "found": "Hallucination of Multimodal Large Language Models: A Survey",
+  "authors": [
+   "Zechen Bai",
+   "Pichao Wang",
+   "Tianjun Xiao",
+   "Tong He",
+   "Zongbo Han",
+   "Zheng Zhang",
+   "Mike Zheng Shou"
+  ],
+  "year": "2024",
+  "arxiv": "2404.18930",
+  "jref": null,
+  "title_match": true
+ },
+ "zhang2024vlmsurvey": {
+  "title": "Vision-Language Models for Vision Tasks: A Survey",
+  "src": "crossref",
+  "found": "Vision-Language Models for Vision Tasks: A Survey",
+  "authors": [
+   "Zhang, Jingyi",
+   "Huang, Jiaxing",
+   "Jin, Sheng",
+   "Lu, Shijian"
+  ],
+  "year": 2024,
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "vol": "46",
+  "page": "5625-5644",
+  "doi": "10.1109/TPAMI.2024.3369699",
+  "title_match": true
+ },
+ "yin2024mllmsurvey": {
+  "title": "A Survey on Multimodal Large Language Models",
+  "src": "crossref",
+  "found": "A survey on multimodal large language models",
+  "authors": [
+   "Yin, Shukang",
+   "Fu, Chaoyou",
+   "Zhao, Sirui",
+   "Li, Ke",
+   "Sun, Xing",
+   "Xu, Tong",
+   "Chen, Enhong"
+  ],
+  "year": 2024,
+  "venue": "National Science Review",
+  "vol": "11",
+  "page": null,
+  "doi": "10.1093/nsr/nwae403",
+  "title_match": true
+ },
+ "jiang2024mantis": {
+  "title": "MANTIS: Interleaved Multi-Image Instruction Tuning",
+  "src": "arxiv",
+  "found": "MANTIS: Interleaved Multi-Image Instruction Tuning",
+  "authors": [
+   "Dongfu Jiang",
+   "Xuan He",
+   "Huaye Zeng",
+   "Cong Wei",
+   "Max Ku",
+   "Qian Liu",
+   "Wenhu Chen"
+  ],
+  "year": "2024",
+  "arxiv": "2405.01483",
+  "jref": "Transactions on Machine Learning Research 2024",
+  "title_match": true
+ },
+ "wang2024muirbench": {
+  "title": "MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding",
+  "src": "arxiv",
+  "found": "MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding",
+  "authors": [
+   "Fei Wang",
+   "Xingyu Fu",
+   "James Y. Huang",
+   "Zekun Li",
+   "Qin Liu",
+   "Xiaogeng Liu",
+   "Mingyu Derek Ma",
+   "Nan Xu",
+   "Wenxuan Zhou",
+   "Kai Zhang",
+   "Tianyi Lorena Yan",
+   "Wenjie Jacky Mo",
+   "Hsiang-Hui Liu",
+   "Pan Lu",
+   "Chunyuan Li",
+   "Chaowei Xiao",
+   "Kai-Wei Chang",
+   "Dan Roth",
+   "Sheng Zhang",
+   "Hoifung Poon",
+   "Muhao Chen"
+  ],
+  "year": "2024",
+  "arxiv": "2406.09411",
+  "jref": null,
+  "title_match": true
+ },
+ "guo2017calibration": {
+  "title": "On Calibration of Modern Neural Networks",
+  "src": "arxiv",
+  "found": "On Calibration of Modern Neural Networks",
+  "authors": [
+   "Chuan Guo",
+   "Geoff Pleiss",
+   "Yu Sun",
+   "Kilian Q. Weinberger"
+  ],
+  "year": "2017",
+  "arxiv": "1706.04599",
+  "jref": null,
+  "title_match": true
+ },
+ "naeini2015ece": {
+  "title": "Obtaining Well Calibrated Probabilities Using Bayesian Binning",
+  "src": "crossref",
+  "found": "Obtaining Well Calibrated Probabilities Using Bayesian Binning",
+  "authors": [
+   "Pakdaman Naeini, Mahdi",
+   "Cooper, Gregory",
+   "Hauskrecht, Milos"
+  ],
+  "year": 2015,
+  "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+  "vol": "29",
+  "page": null,
+  "doi": "10.1609/aaai.v29i1.9602",
+  "title_match": true
+ },
+ "brier1950": {
+  "title": "Verification of Forecasts Expressed in Terms of Probability",
+  "src": "crossref",
+  "found": "VERIFICATION OF FORECASTS EXPRESSED IN TERMS OF PROBABILITY",
+  "authors": [
+   "BRIER, GLENN W."
+  ],
+  "year": 1950,
+  "venue": "Monthly Weather Review",
+  "vol": "78",
+  "page": "1-3",
+  "doi": "10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2",
+  "title_match": true
+ },
+ "geifman2017selective": {
+  "title": "Selective Classification for Deep Neural Networks",
+  "src": "arxiv",
+  "found": "Selective Classification for Deep Neural Networks",
+  "authors": [
+   "Yonatan Geifman",
+   "Ran El-Yaniv"
+  ],
+  "year": "2017",
+  "arxiv": "1705.08500",
+  "jref": null,
+  "title_match": true
+ },
+ "angelopoulos2023conformal": {
+  "title": "Conformal Prediction: A Gentle Introduction",
+  "src": "crossref",
+  "found": "Conformal Prediction: A Gentle Introduction",
+  "authors": [
+   "Angelopoulos, Anastasios N.",
+   "Bates, Stephen"
+  ],
+  "year": 2023,
+  "venue": "Foundations and Trends® in Machine Learning",
+  "vol": "16",
+  "page": "494-591",
+  "doi": "10.1561/2200000101",
+  "title_match": true
+ },
+ "kadavath2022know": {
+  "title": "Language Models (Mostly) Know What They Know",
+  "src": "arxiv",
+  "found": "Language Models (Mostly) Know What They Know",
+  "authors": [
+   "Saurav Kadavath",
+   "Tom Conerly",
+   "Amanda Askell",
+   "Tom Henighan",
+   "Dawn Drain",
+   "Ethan Perez",
+   "Nicholas Schiefer",
+   "Zac Hatfield-Dodds",
+   "Nova DasSarma",
+   "Eli Tran-Johnson",
+   "Scott Johnston",
+   "Sheer El-Showk",
+   "Andy Jones",
+   "Nelson Elhage",
+   "Tristan Hume",
+   "Anna Chen",
+   "Yuntao Bai",
+   "Sam Bowman",
+   "Stanislav Fort",
+   "Deep Ganguli",
+   "Danny Hernandez",
+   "Josh Jacobson",
+   "Jackson Kernion",
+   "Shauna Kravec",
+   "Liane Lovitt",
+   "Kamal Ndousse",
+   "Catherine Olsson",
+   "Sam Ringer",
+   "Dario Amodei",
+   "Tom Brown",
+   "Jack Clark",
+   "Nicholas Joseph",
+   "Ben Mann",
+   "Sam McCandlish",
+   "Chris Olah",
+   "Jared Kaplan"
+  ],
+  "year": "2022",
+  "arxiv": "2207.05221",
+  "jref": null,
+  "title_match": true
+ },
+ "xiong2024uncertainty": {
+  "title": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs",
+  "src": "arxiv",
+  "found": "Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs",
+  "authors": [
+   "Miao Xiong",
+   "Zhiyuan Hu",
+   "Xinyang Lu",
+   "Yifei Li",
+   "Jie Fu",
+   "Junxian He",
+   "Bryan Hooi"
+  ],
+  "year": "2023",
+  "arxiv": "2306.13063",
+  "jref": null,
+  "title_match": true
+ },
+ "willard2023outlines": {
+  "title": "Efficient Guided Generation for Large Language Models",
+  "src": "arxiv",
+  "found": "Efficient Guided Generation for Large Language Models",
+  "authors": [
+   "Brandon T. Willard",
+   "Rémi Louf"
+  ],
+  "year": "2023",
+  "arxiv": "2307.09702",
+  "jref": null,
+  "title_match": true
+ },
+ "hendrycks2019corruptions": {
+  "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+  "src": "arxiv",
+  "found": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+  "authors": [
+   "Dan Hendrycks",
+   "Thomas Dietterich"
+  ],
+  "year": "2019",
+  "arxiv": "1903.12261",
+  "jref": null,
+  "title_match": true
+ },
+ "amershi2014people": {
+  "title": "Power to the People: The Role of Humans in Interactive Machine Learning",
+  "src": "crossref",
+  "found": "Power to the People: The Role of Humans in Interactive Machine Learning",
+  "authors": [
+   "Amershi, Saleema",
+   "Cakmak, Maya",
+   "Knox, W. Bradley",
+   "Kulesza, Todd"
+  ],
+  "year": 2014,
+  "venue": "AI Magazine",
+  "vol": "35",
+  "page": "105-120",
+  "doi": "10.1609/aimag.v35i4.2513",
+  "title_match": true
+ },
+ "wells2003eyewitness": {
+  "title": "Eyewitness Testimony",
+  "src": "crossref",
+  "found": "Eyewitness Testimony",
+  "authors": [
+   "Wells, Gary L.",
+   "Olson, Elizabeth A."
+  ],
+  "year": 2003,
+  "venue": "Annual Review of Psychology",
+  "vol": "54",
+  "page": "277-295",
+  "doi": "10.1146/annurev.psych.54.101601.145028",
+  "title_match": true
+ },
+ "loftus1974": {
+  "title": "Reconstruction of Automobile Destruction: An Example of the Interaction Between Language and Memory",
+  "src": "crossref",
+  "found": "Reconstruction of automobile destruction: An example of the interaction between language and memory",
+  "authors": [
+   "Loftus, Elizabeth F.",
+   "Palmer, John C."
+  ],
+  "year": 1974,
+  "venue": "Journal of Verbal Learning and Verbal Behavior",
+  "vol": "13",
+  "page": "585-589",
+  "doi": "10.1016/S0022-5371(74)80011-3",
+  "title_match": true
+ },
+ "buolamwini2018gender": {
+  "title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+  "error": "Expecting value: line 1 column 1 (char 0)",
+  "title_match": false
+ },
+ "mitchell2019modelcards": {
+  "title": "Model Cards for Model Reporting",
+  "src": "crossref",
+  "found": "Model Cards for Model Reporting",
+  "authors": [
+   "Mitchell, Margaret",
+   "Wu, Simone",
+   "Zaldivar, Andrew",
+   "Barnes, Parker",
+   "Vasserman, Lucy",
+   "Hutchinson, Ben",
+   "Spitzer, Elena",
+   "Raji, Inioluwa Deborah",
+   "Gebru, Timnit"
+  ],
+  "year": 2019,
+  "venue": "Proceedings of the Conference on Fairness, Accountability, and Transparency",
+  "vol": null,
+  "page": "220-229",
+  "doi": "10.1145/3287560.3287596",
+  "title_match": true
+ },
+ "efron1994bootstrap": {
+  "title": "An Introduction to the Bootstrap",
+  "src": "crossref",
+  "found": "An Introduction to the Bootstrap",
+  "authors": [
+   "Efron, Bradley",
+   "Tibshirani, R.J."
+  ],
+  "year": 1994,
+  "venue": "",
+  "vol": null,
+  "page": null,
+  "doi": "10.1201/9780429246593",
+  "title_match": true
+ },
+ "holm1979": {
+  "title": "A Simple Sequentially Rejective Multiple Test Procedure",
+  "error": "Expecting value: line 1 column 1 (char 0)",
+  "title_match": false
+ },
+ "wilcoxon1945": {
+  "title": "Individual Comparisons by Ranking Methods",
+  "src": "crossref",
+  "found": "Individual Comparisons by Ranking Methods",
+  "authors": [
+   "Wilcoxon, Frank"
+  ],
+  "year": 1945,
+  "venue": "Biometrics Bulletin",
+  "vol": "1",
+  "page": "80",
+  "doi": "10.2307/3001968",
+  "title_match": true
+ },
+ "cliff1993": {
+  "title": "Dominance Statistics: Ordinal Analyses to Answer Ordinal Questions",
+  "src": "crossref",
+  "found": "Dominance statistics: Ordinal analyses to answer ordinal questions.",
+  "authors": [
+   "Cliff, Norman"
+  ],
+  "year": 1993,
+  "venue": "Psychological Bulletin",
+  "vol": "114",
+  "page": "494-509",
+  "doi": "10.1037/0033-2909.114.3.494",
+  "title_match": true
+ }
+}

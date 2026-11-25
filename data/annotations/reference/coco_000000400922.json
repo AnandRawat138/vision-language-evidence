@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000400922",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane",
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 1,
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    379.75,
+    124.3,
+    27.5,
+    14.83
+   ],
+   "area": 167.3705500000001
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    285.84,
+    289.08,
+    66.88,
+    65.8
+   ],
+   "area": 3452.381600000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A sign hanging of the side of a building on top of a clock.",
+  "A key bank sign with a clock on a building",
+  "A bank sign that also has a clock attached to it.",
+  "Clock showing 11:05 as time under Bank logo sign",
+  "A photograph of Key Bank with a clock under the sign."
+ ],
+ "scene_places": []
+}

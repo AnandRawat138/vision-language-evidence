@@ -1,0 +1,208 @@
+{
+ "uid": "flickr30k_4614358086",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "While a marathon is going on , a police officer with his hands in his pockets looks off into the distance .",
+  "policeman standing guard along side many protesters , one of which is holding a sign against prop 16 .",
+  "A policeman watches a crowd of Prop 16 protesters march down the street .",
+  "A policeman watches while many people participate in a marathon .",
+  "A policeman watches over a crowd in the street ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "182971",
+   "types": [
+    "other"
+   ],
+   "phrase": "a marathon",
+   "start": 6,
+   "end": 16
+  },
+  {
+   "entity_id": "182966",
+   "types": [
+    "people"
+   ],
+   "phrase": "a police officer",
+   "start": 31,
+   "end": 47
+  },
+  {
+   "entity_id": "182977",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hands",
+   "start": 53,
+   "end": 62
+  },
+  {
+   "entity_id": "182978",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "his pockets",
+   "start": 66,
+   "end": 77
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the distance",
+   "start": 93,
+   "end": 105
+  },
+  {
+   "entity_id": "182966",
+   "types": [
+    "people"
+   ],
+   "phrase": "policeman",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "182966",
+   "types": [
+    "people"
+   ],
+   "phrase": "guard",
+   "start": 19,
+   "end": 24
+  },
+  {
+   "entity_id": "182968",
+   "types": [
+    "people"
+   ],
+   "phrase": "many protesters",
+   "start": 36,
+   "end": 51
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "one of which",
+   "start": 54,
+   "end": 66
+  },
+  {
+   "entity_id": "182973",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sign",
+   "start": 78,
+   "end": 84
+  },
+  {
+   "entity_id": "182975",
+   "types": [
+    "other"
+   ],
+   "phrase": "prop 16",
+   "start": 93,
+   "end": 100
+  },
+  {
+   "entity_id": "182966",
+   "types": [
+    "people"
+   ],
+   "phrase": "A policeman",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "182968",
+   "types": [
+    "people"
+   ],
+   "phrase": "a crowd of Prop 16 protesters",
+   "start": 20,
+   "end": 49
+  },
+  {
+   "entity_id": "182972",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 61,
+   "end": 71
+  },
+  {
+   "entity_id": "182966",
+   "types": [
+    "people"
+   ],
+   "phrase": "A policeman",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "182968",
+   "types": [
+    "people"
+   ],
+   "phrase": "many people",
+   "start": 26,
+   "end": 37
+  },
+  {
+   "entity_id": "182971",
+   "types": [
+    "other"
+   ],
+   "phrase": "a marathon",
+   "start": 53,
+   "end": 63
+  },
+  {
+   "entity_id": "182966",
+   "types": [
+    "people"
+   ],
+   "phrase": "A policeman",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "182968",
+   "types": [
+    "people"
+   ],
+   "phrase": "a crowd",
+   "start": 25,
+   "end": 32
+  },
+  {
+   "entity_id": "182972",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 36,
+   "end": 46
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000167353",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 1
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    0.0,
+    37.64,
+    315.55,
+    602.36
+   ],
+   "area": 122397.37054999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "An old wooden  clock attached to the wall",
+  "A large brown wooden clock mounted to a wall.",
+  "The grandfather clock is many years old and worn.",
+  "A very old antique clock on a wall.",
+  "An old clock hangs on the wall and gives the time."
+ ],
+ "scene_places": []
+}

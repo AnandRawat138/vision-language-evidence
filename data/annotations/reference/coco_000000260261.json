@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000260261",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "knife",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 1,
+  "person": 2,
+  "knife": 1
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    2.88,
+    173.69,
+    351.71,
+    291.17
+   ],
+   "area": 61807.11455000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    174.41,
+    154.95,
+    168.65,
+    469.91
+   ],
+   "area": 40276.67415
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    179.95,
+    285.52,
+    40.58,
+    33.24
+   ],
+   "area": 578.7569999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    396.19,
+    222.47,
+    5.37,
+    8.67
+   ],
+   "area": 35.65344999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A vendor selling fruit from the back of a truck.",
+  "A man standing behind a truck filled with produce.",
+  "A man in the back of a truck cutting fruit.",
+  "A man with fruit on the back of a pickup truck.",
+  "A man cutting a cold coconut on the back of a truck"
+ ],
+ "scene_places": []
+}

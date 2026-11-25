@@ -1,0 +1,170 @@
+{
+ "uid": "flickr30k_2317271",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A large formally dressed family poses for a photo in front of a large wooden door .",
+  "A family gathers for a photo after a wedding where the bridal party wears red capes",
+  "A photo of a wedding party taken outdoors in front of a building .",
+  "The wedding couples families pose for a picture together .",
+  "A group of people outside a church at a wedding ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "41257",
+   "types": [
+    "people"
+   ],
+   "phrase": "A large formally dressed family",
+   "start": 0,
+   "end": 31
+  },
+  {
+   "entity_id": "41264",
+   "types": [
+    "other"
+   ],
+   "phrase": "a photo",
+   "start": 42,
+   "end": 49
+  },
+  {
+   "entity_id": "41258",
+   "types": [
+    "other"
+   ],
+   "phrase": "a large wooden door",
+   "start": 62,
+   "end": 81
+  },
+  {
+   "entity_id": "41257",
+   "types": [
+    "people"
+   ],
+   "phrase": "A family",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "41265",
+   "types": [
+    "other"
+   ],
+   "phrase": "a photo",
+   "start": 21,
+   "end": 28
+  },
+  {
+   "entity_id": "41263",
+   "types": [
+    "other"
+   ],
+   "phrase": "a wedding",
+   "start": 35,
+   "end": 44
+  },
+  {
+   "entity_id": "41259",
+   "types": [
+    "other"
+   ],
+   "phrase": "the bridal party",
+   "start": 51,
+   "end": 67
+  },
+  {
+   "entity_id": "41260",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red capes",
+   "start": 74,
+   "end": 83
+  },
+  {
+   "entity_id": "41261",
+   "types": [
+    "other"
+   ],
+   "phrase": "A photo of a wedding party",
+   "start": 0,
+   "end": 26
+  },
+  {
+   "entity_id": "41262",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a building",
+   "start": 54,
+   "end": 64
+  },
+  {
+   "entity_id": "41263",
+   "types": [
+    "other"
+   ],
+   "phrase": "The wedding",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "41259",
+   "types": [
+    "other"
+   ],
+   "phrase": "families",
+   "start": 20,
+   "end": 28
+  },
+  {
+   "entity_id": "41266",
+   "types": [
+    "other"
+   ],
+   "phrase": "a picture",
+   "start": 38,
+   "end": 47
+  },
+  {
+   "entity_id": "41257",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of people",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "41262",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a church",
+   "start": 26,
+   "end": 34
+  },
+  {
+   "entity_id": "41263",
+   "types": [
+    "other"
+   ],
+   "phrase": "a wedding",
+   "start": 38,
+   "end": 47
+  }
+ ],
+ "scene_places": []
+}

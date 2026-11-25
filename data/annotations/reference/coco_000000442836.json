@@ -1,0 +1,70 @@
+{
+ "uid": "coco_000000442836",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "frisbee": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    136.11,
+    37.44,
+    121.1,
+    380.14
+   ],
+   "area": 15415.40369999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    300.9,
+    142.82,
+    148.91,
+    268.03
+   ],
+   "area": 16040.988800000005
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    406.68,
+    271.27,
+    44.16,
+    45.18
+   ],
+   "area": 1191.190149999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    47.24,
+    150.87,
+    69.32,
+    198.47
+   ],
+   "area": 8245.878000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A person trying to throw a frisbee and another trying to block the throw.",
+  "Two grown men and a young child playing frisbee in a field",
+  "older man tries to block younger man's frisbee throw",
+  "A group of people playing a game of frisbee.",
+  "He is ready to block the flight of that Frisbee."
+ ],
+ "scene_places": []
+}

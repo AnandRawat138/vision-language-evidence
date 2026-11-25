@@ -1,0 +1,82 @@
+{
+ "uid": "coco_000000261982",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 3,
+  "person": 1,
+  "skateboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    8.53,
+    251.9,
+    214.62
+   ],
+   "area": 31251.538800000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    409.89,
+    120.81,
+    47.11,
+    92.04
+   ],
+   "area": 3057.2233500000025
+  },
+  {
+   "category": "person",
+   "bbox": [
+    84.85,
+    0.0,
+    298.6,
+    398.22
+   ],
+   "area": 52466.16420000001
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    159.71,
+    211.53,
+    189.89,
+    231.01
+   ],
+   "area": 15092.356149999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    357.69,
+    110.26,
+    99.31,
+    90.43
+   ],
+   "area": 4515.535250000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man flying through the air while riding a skateboard.",
+  "a guy having a spill on his skate board",
+  "A person on a skateboard does a flip in a parking lot.",
+  "A person is riding on a skateboard on the street.",
+  "a person on a skate board does a trick"
+ ],
+ "scene_places": []
+}

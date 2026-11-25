@@ -1,0 +1,134 @@
+{
+ "uid": "coco_000000011511",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "handbag",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "bench": 1,
+  "handbag": 4,
+  "motorcycle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    90.35,
+    38.6,
+    39.71,
+    151.42
+   ],
+   "area": 3858.6890499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    139.53,
+    32.22,
+    50.38,
+    140.24
+   ],
+   "area": 2691.584550000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    35.39,
+    44.5,
+    50.22,
+    145.84
+   ],
+   "area": 4081.7877500000004
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    37.71,
+    227.02,
+    277.56,
+    188.54
+   ],
+   "area": 29588.63449999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    286.74,
+    348.26,
+    111.57,
+    85.5
+   ],
+   "area": 8744.866899999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    448.82,
+    260.55,
+    67.57,
+    103.58
+   ],
+   "area": 5175.7271
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    483.81,
+    50.53,
+    46.84,
+    50.0
+   ],
+   "area": 1267.7626000000005
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    24.01,
+    95.45,
+    24.88,
+    53.64
+   ],
+   "area": 857.6344500000001
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    90.05,
+    78.75,
+    11.48,
+    25.51
+   ],
+   "area": 186.3826000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.27,
+    51.73,
+    61.55,
+    162.56
+   ],
+   "area": 4610.6455
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A sculpture of two women stting on a bench with their purses on the ground while people standing in a line behind them.",
+  "A metal statue of two women sits on a bench in a city street.",
+  "A statue of two women with purses sitting on a bench.",
+  "A statue of two people sitting on a bench.",
+  "A metal statue of two women sitting on a bench."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,118 @@
+{
+ "uid": "coco_000000491213",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "motorcycle",
+  "person",
+  "traffic light",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "person": 1,
+  "traffic light": 3,
+  "motorcycle": 1,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    60.27,
+    81.36,
+    243.23,
+    162.51
+   ],
+   "area": 22960.80495
+  },
+  {
+   "category": "car",
+   "bbox": [
+    232.16,
+    111.4,
+    28.5,
+    10.42
+   ],
+   "area": 218.57145000000014
+  },
+  {
+   "category": "person",
+   "bbox": [
+    46.83,
+    119.22,
+    9.56,
+    23.91
+   ],
+   "area": 161.16865
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    290.52,
+    92.39,
+    8.43,
+    13.16
+   ],
+   "area": 77.84910000000013
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    259.26,
+    84.1,
+    3.68,
+    5.51
+   ],
+   "area": 18.028949999999988
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    242.73,
+    84.96,
+    4.97,
+    8.81
+   ],
+   "area": 39.60875000000002
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    195.56,
+    2.37,
+    444.44,
+    471.7
+   ],
+   "area": 111793.90084999999
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    48.85,
+    81.42,
+    98.03,
+    67.64
+   ],
+   "area": 1659.9971000000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A motorcycle of some sort parked somewhere during the day.",
+  "A black motorcycle on street in front of a grey sports car.",
+  "A motorcycle and a vintage Mustang car parked at a curb.",
+  "A motorcycle sitting in front of a classic Ford Mustang Car.",
+  "a black motorcycle parked on the road in front of a car"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

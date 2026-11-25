@@ -1,0 +1,216 @@
+{
+ "uid": "coco_000000228942",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "traffic light",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "traffic light": 4,
+  "person": 11,
+  "train": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    539.07,
+    124.51,
+    100.93,
+    110.4
+   ],
+   "area": 8203.8951
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.94,
+    133.06,
+    379.93,
+    165.43
+   ],
+   "area": 42420.539399999994
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    613.29,
+    103.34,
+    9.64,
+    16.66
+   ],
+   "area": 145.20904999999968
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    631.15,
+    96.63,
+    6.99,
+    11.77
+   ],
+   "area": 70.7109999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    542.98,
+    121.07,
+    16.91,
+    36.44
+   ],
+   "area": 455.26444999999944
+  },
+  {
+   "category": "person",
+   "bbox": [
+    571.2,
+    125.73,
+    16.56,
+    24.43
+   ],
+   "area": 283.9718999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    523.84,
+    128.81,
+    19.28,
+    47.27
+   ],
+   "area": 474.02020000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    81.45,
+    109.39,
+    25.52,
+    29.72
+   ],
+   "area": 541.8200499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    78.42,
+    114.35,
+    21.24,
+    24.24
+   ],
+   "area": 349.42280000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    587.37,
+    127.1,
+    9.73,
+    22.12
+   ],
+   "area": 160.69334999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    601.75,
+    129.61,
+    10.49,
+    14.8
+   ],
+   "area": 84.93289999999998
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    1.51,
+    18.43,
+    12.81,
+    16.42
+   ],
+   "area": 162.0282
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    629.73,
+    34.36,
+    10.27,
+    45.65
+   ],
+   "area": 435.2104000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    165.0,
+    152.05,
+    46.37,
+    37.55
+   ],
+   "area": 998.2090999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    611.89,
+    125.01,
+    10.18,
+    13.11
+   ],
+   "area": 60.30085000000045
+  },
+  {
+   "category": "person",
+   "bbox": [
+    566.97,
+    123.28,
+    13.7,
+    28.14
+   ],
+   "area": 129.39524999999935
+  },
+  {
+   "category": "train",
+   "bbox": [
+    68.53,
+    22.05,
+    507.25,
+    163.84
+   ],
+   "area": 53863.88485000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    521.81,
+    126.01,
+    12.03,
+    48.73
+   ],
+   "area": 298.51230000000055
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white passenger train passing a parking lot at night.",
+  "A car on a city street with a moving train directly behind it.",
+  "A car driving down a street at night.",
+  "A bunch of cars are crossing an intersection.",
+  "a busy street with cars in action and a train zooming by"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

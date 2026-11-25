@@ -1,0 +1,221 @@
+{
+ "uid": "flickr30k_6952893010",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Four sailing vessels at sea on a cloudy day , one smaller then the others and one other one much larger then the other three .",
+  "Blue and gray sailboat in the water with a few other boats in front of it against a gray sky .",
+  "A large competition sailboat is surrounded by three small boats in the middle of the water .",
+  "A collection of boats gathers on the ocean during a sunny day .",
+  "A bunch of boats in the nice blue water ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "262317",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "Four sailing vessels",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "262311",
+   "types": [
+    "scene"
+   ],
+   "phrase": "sea",
+   "start": 24,
+   "end": 27
+  },
+  {
+   "entity_id": "262310",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a cloudy day",
+   "start": 31,
+   "end": 43
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "one smaller then",
+   "start": 46,
+   "end": 62
+  },
+  {
+   "entity_id": "262315",
+   "types": [
+    "other"
+   ],
+   "phrase": "the others",
+   "start": 63,
+   "end": 73
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "one other one much larger then",
+   "start": 78,
+   "end": 108
+  },
+  {
+   "entity_id": "262309",
+   "types": [
+    "other"
+   ],
+   "phrase": "the other three",
+   "start": 109,
+   "end": 124
+  },
+  {
+   "entity_id": "262312",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "Blue",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "262309",
+   "types": [
+    "other"
+   ],
+   "phrase": "gray sailboat",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "262311",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 26,
+   "end": 35
+  },
+  {
+   "entity_id": "262308",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a few other boats",
+   "start": 41,
+   "end": 58
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 71,
+   "end": 73
+  },
+  {
+   "entity_id": "262310",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a gray sky",
+   "start": 82,
+   "end": 92
+  },
+  {
+   "entity_id": "262309",
+   "types": [
+    "other"
+   ],
+   "phrase": "A large competition sailboat",
+   "start": 0,
+   "end": 28
+  },
+  {
+   "entity_id": "262308",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "three small boats",
+   "start": 46,
+   "end": 63
+  },
+  {
+   "entity_id": "262311",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the middle of the water",
+   "start": 67,
+   "end": 90
+  },
+  {
+   "entity_id": "262308",
+   "types": [
+    "other"
+   ],
+   "phrase": "A collection of boats gathers",
+   "start": 0,
+   "end": 29
+  },
+  {
+   "entity_id": "262311",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the ocean",
+   "start": 33,
+   "end": 42
+  },
+  {
+   "entity_id": "262310",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sunny day",
+   "start": 50,
+   "end": 61
+  },
+  {
+   "entity_id": "262308",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "A bunch of boats",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "262311",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the nice blue water",
+   "start": 20,
+   "end": 39
+  }
+ ],
+ "scene_places": [
+  "beach",
+  "water"
+ ]
+}

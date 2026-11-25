@@ -1,0 +1,226 @@
+{
+ "uid": "vqa_000000085556",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 5,
+  "dining table": 1,
+  "cup": 2,
+  "fork": 1,
+  "knife": 1,
+  "pizza": 1
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    463.28,
+    67.81,
+    71.08,
+    84.38
+   ],
+   "area": 4014.1075000000014
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    169.57,
+    37.45,
+    163.71,
+    79.9
+   ],
+   "area": 7157.896099999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    2.17,
+    107.54,
+    637.83,
+    368.4
+   ],
+   "area": 54606.12270000001
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    316.75,
+    16.99,
+    159.43,
+    221.72
+   ],
+   "area": 25675.7884
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    491.64,
+    239.04,
+    138.69,
+    71.72
+   ],
+   "area": 2450.9597000000003
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    1.67,
+    205.79,
+    194.37,
+    175.82
+   ],
+   "area": 5524.960350000001
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    85.41,
+    205.95,
+    431.35,
+    237.83
+   ],
+   "area": 67462.29495000001
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    330.01,
+    12.85,
+    50.01,
+    50.61
+   ],
+   "area": 2038.6001999999994
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    471.19,
+    46.73,
+    37.36,
+    20.53
+   ],
+   "area": 643.0457000000002
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    576.0,
+    163.96,
+    64.0,
+    55.01
+   ],
+   "area": 1511.5868000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    505.87,
+    47.81,
+    43.71,
+    112.0
+   ],
+   "area": 2020.067549999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A good looking pizza has a piece missing.",
+  "A partially eaten cheese pizza on a white plate.",
+  "A party eaten pizza on a plat by a drink.",
+  "A medium sized pizza on a white serving plate on a table.",
+  "A white plate topped with a pizza next to a drink."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 85556000,
+   "question": "Is this restaurant pizza?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 85556001,
+   "question": "Is there any coffee on the table?",
+   "answer_type": "yes/no",
+   "question_type": "is there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 85556002,
+   "question": "How many pieces of pizza are missing?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "1",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 85556003,
+   "question": "What food is on the plate?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "pizza",
+   "answers": [
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza",
+    "pizza"
+   ]
+  }
+ ]
+}

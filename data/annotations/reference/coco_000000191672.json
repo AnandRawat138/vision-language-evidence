@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000191672",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "surfboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    363.56,
+    152.93,
+    118.3,
+    102.91
+   ],
+   "area": 5768.506299999999
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    397.01,
+    199.44,
+    39.61,
+    83.82
+   ],
+   "area": 1858.0807
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person riding a skate board on a wave",
+  "A man on a surfboard riding a wave.",
+  "A man in a wetsuit on a surfboard in the ocean.",
+  "A man makes a splash as he surfs on a wave.",
+  "A man is riding a wave as he surfs in the ocean."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

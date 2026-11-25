@@ -1,0 +1,183 @@
+{
+ "uid": "vqa_000000503051",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person",
+  "suitcase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "suitcase": 4,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    234.69,
+    46.97,
+    156.56,
+    400.48
+   ],
+   "area": 23384.162300000004
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    328.38,
+    208.76,
+    102.47,
+    216.72
+   ],
+   "area": 10225.248450000001
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    70.08,
+    288.47,
+    235.87,
+    159.23
+   ],
+   "area": 18232.65135
+  },
+  {
+   "category": "person",
+   "bbox": [
+    528.99,
+    160.95,
+    49.3,
+    131.46
+   ],
+   "area": 3925.69415
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    543.34,
+    180.59,
+    33.74,
+    39.54
+   ],
+   "area": 925.971350000001
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    120.79,
+    22.84,
+    127.68,
+    435.02
+   ],
+   "area": 33506.24644999999
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    321.13,
+    250.08,
+    30.66,
+    50.91
+   ],
+   "area": 1281.8437000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    352.18,
+    151.92,
+    43.85,
+    77.32
+   ],
+   "area": 1101.1968499999998
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    352.28,
+    199.12,
+    76.57,
+    87.94
+   ],
+   "area": 5537.903400000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman smiling while standing with a luggage carrier.",
+  "A woman pushing a cart filled with lots of luggage.",
+  "A lady is pulling her luggage through a terminal.",
+  "A woman standing in a station waiting with luggage.",
+  "a woman is at an airport with a bunch of luggage"
+ ],
+ "scene_places": [
+  "station"
+ ],
+ "vqa": [
+  {
+   "question_id": 503051000,
+   "question": "What city is this?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "new york",
+   "answers": [
+    "new york",
+    "hong kong",
+    "new york",
+    "amsterdam",
+    "new york",
+    "new york",
+    "new york",
+    "new york",
+    "new york",
+    "new york"
+   ]
+  },
+  {
+   "question_id": 503051001,
+   "question": "Is the woman wearing glasses?",
+   "answer_type": "yes/no",
+   "question_type": "is the woman",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 503051002,
+   "question": "Are they in a terminal?",
+   "answer_type": "yes/no",
+   "question_type": "are they",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

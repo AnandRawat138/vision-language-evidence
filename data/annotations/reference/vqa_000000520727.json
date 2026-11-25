@@ -1,0 +1,149 @@
+{
+ "uid": "vqa_000000520727",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe",
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 1,
+  "giraffe": 1
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    93.82,
+    282.28,
+    162.9,
+    111.27
+   ],
+   "area": 10403.437000000002
+  },
+  {
+   "category": "giraffe",
+   "bbox": [
+    298.28,
+    133.82,
+    152.37,
+    185.39
+   ],
+   "area": 7469.162549999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A zebra and a giraffe foraging together by some trees.",
+  "A zebra and a giraffe eating from the grass and trees.",
+  "A giraffe grazes in a field as a giraffe eats leaves nearby.",
+  "A zebra grazing and a giraffe walking in a green field",
+  "A zebra and giraffe eating food near each other."
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 520727000,
+   "question": "Is the zebra grazing?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 520727001,
+   "question": "Are these two animals competing for food?",
+   "answer_type": "yes/no",
+   "question_type": "are these",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "drink",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 520727002,
+   "question": "Are these animals in their natural habitat?",
+   "answer_type": "yes/no",
+   "question_type": "are these",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 520727003,
+   "question": "What type of animal is pictured?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "zebra and giraffe",
+   "answers": [
+    "zebra, giraffe",
+    "zebra, giraffe",
+    "zebra, giraffe",
+    "zebra and giraffe",
+    "zebra and giraffe",
+    "giraffe and zebra",
+    "mammal",
+    "giraffe and zebra",
+    "zebra and giraffe",
+    "zebra"
+   ]
+  },
+  {
+   "question_id": 520727004,
+   "question": "Are either of these animals predators?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "uid": "coco_000000499181",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "stop sign",
+  "traffic light"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 6,
+  "traffic light": 5,
+  "person": 1,
+  "stop sign": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    535.23,
+    192.92,
+    92.39,
+    39.31
+   ],
+   "area": 2689.5120999999995
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    271.0,
+    281.66,
+    22.57,
+    47.58
+   ],
+   "area": 754.3720000000003
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    107.62,
+    154.42,
+    25.65,
+    84.55
+   ],
+   "area": 1903.3725
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    222.72,
+    317.34,
+    25.06,
+    18.62
+   ],
+   "area": 391.90170000000035
+  },
+  {
+   "category": "person",
+   "bbox": [
+    110.05,
+    410.96,
+    15.49,
+    17.35
+   ],
+   "area": 93.94554999999984
+  },
+  {
+   "category": "car",
+   "bbox": [
+    19.86,
+    390.17,
+    175.14,
+    89.19
+   ],
+   "area": 9873.295350000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    274.68,
+    71.95,
+    40.2
+   ],
+   "area": 2195.7372
+  },
+  {
+   "category": "car",
+   "bbox": [
+    491.85,
+    235.85,
+    93.08,
+    43.28
+   ],
+   "area": 2503.639199999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    573.13,
+    277.74,
+    66.87,
+    82.74
+   ],
+   "area": 4856.725799999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    328.99,
+    252.87,
+    62.38,
+    12.08
+   ],
+   "area": 589.6647
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    237.95,
+    285.0,
+    12.98,
+    29.11
+   ],
+   "area": 360.34650000000056
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    250.83,
+    280.58,
+    20.17,
+    36.78
+   ],
+   "area": 638.74775
+  },
+  {
+   "category": "stop sign",
+   "bbox": [
+    248.61,
+    320.32,
+    22.31,
+    38.85
+   ],
+   "area": 719.43475
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A street scene of a self service parking lot.",
+  "There are many cars that are parked in the parking lot",
+  "a BLACK BUILDING THAT SAYS FIRST AVENUE AND 7th street entry",
+  "A self service parking lot with a building behind it and an intersection in front of it.",
+  "a parking lot with a few cars in it"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

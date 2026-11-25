@@ -1,0 +1,336 @@
+{
+ "uid": "coco_000000410650",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "person",
+  "sports ball",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "chair": 14,
+  "tennis racket": 1,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    303.8,
+    19.57,
+    8.87,
+    9.07
+   ],
+   "area": 61.04394999999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    493.7,
+    94.1,
+    36.44,
+    20.04
+   ],
+   "area": 527.3285500000007
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    557.82,
+    130.73,
+    28.53,
+    15.73
+   ],
+   "area": 383.7800499999997
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    179.74,
+    125.82,
+    54.09,
+    51.53
+   ],
+   "area": 476.5337499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    170.98,
+    113.08,
+    89.85,
+    268.16
+   ],
+   "area": 8364.31705
+  },
+  {
+   "category": "person",
+   "bbox": [
+    73.25,
+    141.12,
+    49.3,
+    41.35
+   ],
+   "area": 901.0818499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    175.41,
+    144.09,
+    30.17,
+    37.17
+   ],
+   "area": 530.6621
+  },
+  {
+   "category": "person",
+   "bbox": [
+    116.79,
+    103.47,
+    31.54,
+    50.52
+   ],
+   "area": 1047.7948999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    171.61,
+    108.27,
+    30.87,
+    44.9
+   ],
+   "area": 639.6214499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    169.73,
+    89.15,
+    35.58,
+    51.19
+   ],
+   "area": 764.1625499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    201.76,
+    108.18,
+    33.71,
+    35.08
+   ],
+   "area": 561.1615999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    187.85,
+    63.2,
+    53.49,
+    79.45
+   ],
+   "area": 1562.9208000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    314.97,
+    100.31,
+    34.51,
+    56.09
+   ],
+   "area": 1187.4184999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    437.05,
+    125.58,
+    34.56,
+    30.68
+   ],
+   "area": 551.3028499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    160.42,
+    45.93,
+    22.38,
+    35.91
+   ],
+   "area": 422.2674
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    539.59,
+    150.96,
+    27.26,
+    19.52
+   ],
+   "area": 482.80040000000025
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    355.49,
+    110.72,
+    29.18,
+    22.06
+   ],
+   "area": 515.0545000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    570.34,
+    150.08,
+    31.35,
+    20.81
+   ],
+   "area": 538.3927499999991
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    599.95,
+    151.25,
+    29.4,
+    17.99
+   ],
+   "area": 450.8187499999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    585.76,
+    129.51,
+    30.04,
+    30.05
+   ],
+   "area": 568.5510500000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    518.9,
+    93.24,
+    30.67,
+    19.82
+   ],
+   "area": 456.5095000000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    480.48,
+    76.11,
+    27.23,
+    29.62
+   ],
+   "area": 501.7713000000005
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    530.55,
+    75.43,
+    30.45,
+    18.8
+   ],
+   "area": 424.35155000000026
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    412.06,
+    112.05,
+    28.46,
+    18.97
+   ],
+   "area": 471.26360000000045
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    556.94,
+    75.73,
+    23.07,
+    14.68
+   ],
+   "area": 288.7066499999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    103.53,
+    47.95,
+    32.22,
+    49.41
+   ],
+   "area": 959.1804499999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    390.67,
+    38.48,
+    24.28,
+    4.99
+   ],
+   "area": 118.17984999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    121.11,
+    143.57,
+    29.3,
+    37.94
+   ],
+   "area": 545.1704499999997
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    1,
+    2,
+    631,
+    166
+   ],
+   "area": 6522
+  },
+  {
+   "category": "person",
+   "bbox": [
+    5,
+    0,
+    634,
+    178
+   ],
+   "area": 41663
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A beautiful young woman swinging a tennis racquet on a tennis court.",
+  "A tennis player taking a swing at  a ball",
+  "A woman hitting a tennis ball with a tennis racket",
+  "a woman on a tennis court getting ready to serve the ball",
+  "an image of a girl getting ready to serve on the tennis court"
+ ],
+ "scene_places": [
+  "sports field"
+ ]
+}

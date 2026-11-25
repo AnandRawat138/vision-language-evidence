@@ -1,0 +1,106 @@
+{
+ "uid": "coco_000000445792",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone",
+  "couch",
+  "person",
+  "potted plant",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "couch": 2,
+  "person": 1,
+  "remote": 2,
+  "potted plant": 1,
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "couch",
+   "bbox": [
+    23.39,
+    83.87,
+    425.8,
+    287.1
+   ],
+   "area": 10700.850900000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    32.02,
+    47.4,
+    467.98,
+    327.6
+   ],
+   "area": 95364.67499999999
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    242.59,
+    58.65,
+    43.28,
+    40.35
+   ],
+   "area": 849.9150499999995
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    0.0,
+    186.24,
+    48.19,
+    188.76
+   ],
+   "area": 2332.3682000000003
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    444.34,
+    150.89,
+    50.02,
+    38.01
+   ],
+   "area": 529.8668000000004
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    356.74,
+    20.3,
+    31.74,
+    64.21
+   ],
+   "area": 805.7402500000003
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    387.66,
+    27.06,
+    112.02,
+    204.76
+   ],
+   "area": 9848.965749999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "there is a woman sitting on a couch playing a video game",
+  "A young woman is playing a video game on a couch.",
+  "A woman playing a video game while sitting on a couch.",
+  "A women sitting down on a couch playing the wii .",
+  "A woman that is sitting on a couch holding a remote."
+ ],
+ "scene_places": []
+}

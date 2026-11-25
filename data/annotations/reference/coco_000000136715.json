@@ -1,0 +1,246 @@
+{
+ "uid": "coco_000000136715",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "motorcycle",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 1,
+  "motorcycle": 5,
+  "truck": 1,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    507.72,
+    45.77,
+    132.16,
+    269.07
+   ],
+   "area": 26729.16555
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    71.47,
+    103.98,
+    361.15,
+    317.32
+   ],
+   "area": 63643.322299999985
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    360.06,
+    137.53,
+    96.46,
+    144.21
+   ],
+   "area": 5956.186949999998
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    67.79,
+    175.46,
+    60.15,
+    100.25
+   ],
+   "area": 3452.7148999999995
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    508.76,
+    46.38,
+    129.61,
+    277.75
+   ],
+   "area": 27483.303850000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    135.62,
+    48.71,
+    251.18,
+    351.46
+   ],
+   "area": 27887.59975000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.96,
+    70.67,
+    85.0,
+    349.55
+   ],
+   "area": 13275.808250000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    157.58,
+    108.64,
+    26.32,
+    31.9
+   ],
+   "area": 550.5129999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    382.67,
+    73.54,
+    28.62,
+    20.86
+   ],
+   "area": 330.0588499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    404.11,
+    75.27,
+    38.1,
+    56.8
+   ],
+   "area": 1056.03345
+  },
+  {
+   "category": "person",
+   "bbox": [
+    445.06,
+    80.46,
+    56.34,
+    152.81
+   ],
+   "area": 4295.5876499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    472.46,
+    63.95,
+    20.02,
+    23.59
+   ],
+   "area": 328.0759000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    108.73,
+    106.25,
+    53.95,
+    168.46
+   ],
+   "area": 4331.6852
+  },
+  {
+   "category": "person",
+   "bbox": [
+    333.28,
+    88.63,
+    45.08,
+    43.99
+   ],
+   "area": 801.3838
+  },
+  {
+   "category": "person",
+   "bbox": [
+    453.17,
+    60.94,
+    23.52,
+    51.57
+   ],
+   "area": 477.6538000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    376.31,
+    92.66,
+    49.45,
+    39.08
+   ],
+   "area": 1268.1758000000002
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    25.43,
+    225.19,
+    53.77,
+    83.98
+   ],
+   "area": 2941.8224999999998
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    454.31,
+    212.6,
+    63.86,
+    65.95
+   ],
+   "area": 2264.8960499999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    485.8,
+    89.05,
+    23.69,
+    29.39
+   ],
+   "area": 384.0480999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    28.35,
+    51.55,
+    26.67,
+    48.9
+   ],
+   "area": 773.49125
+  },
+  {
+   "category": "person",
+   "bbox": [
+    27,
+    18,
+    568,
+    142
+   ],
+   "area": 9255
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man on a motorbike rides down the street.",
+  "A policeman on a motorcycle leads the way in a parade.",
+  "A sheriff riding a motorcycle in a parade.",
+  "The officer is riding his motorcycle in a busy street.",
+  "A police officer on a motorcycle drives through a parade."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

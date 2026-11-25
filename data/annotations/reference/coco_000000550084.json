@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000550084",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 3
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    271.35,
+    214.75,
+    228.65,
+    141.57
+   ],
+   "area": 14803.837099999999
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    85.04,
+    281.42,
+    102.98,
+    22.04
+   ],
+   "area": 1063.9558499999991
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    0.0,
+    257.14,
+    87.66,
+    77.92
+   ],
+   "area": 4533.479149999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A green sign says Thruway one fourth mile.",
+  "The large machinery sits on the opposite side of the fence from the highway sign.",
+  "A road sign stands next to the road.",
+  "Roadwork equipment, at a gas station, next to a thruway.",
+  "a street sign below a bunch of power lines"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

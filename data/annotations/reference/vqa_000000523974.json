@@ -1,0 +1,128 @@
+{
+ "uid": "vqa_000000523974",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bus": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bus",
+   "bbox": [
+    1.08,
+    2.7,
+    638.92,
+    472.44
+   ],
+   "area": 248491.97630000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    504.86,
+    277.84,
+    134.06,
+    122.16
+   ],
+   "area": 9090.244699999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "THERE IS A PAPER DOLL SOMEONE IS HOLDING IN THEIR HAND",
+  "paper cut out man posing in front of a Michigan bus",
+  "there is a man holing a paper doll in front of a bus",
+  "a person holding a paper but out of a man in front of a blue bus",
+  "A paper cutout of a man being held up against a Michigan bus"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 523974000,
+   "question": "What color is the bus?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "blue",
+    "blue",
+    "blue and yellow",
+    "blue",
+    "blue",
+    "blue and yellow",
+    "blue and yellow",
+    "blue",
+    "blue"
+   ]
+  },
+  {
+   "question_id": 523974001,
+   "question": "What is Michigan written on?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "bus",
+   "answers": [
+    "bus",
+    "bus",
+    "bus",
+    "bus",
+    "bus",
+    "bus",
+    "bus",
+    "bus",
+    "bus",
+    "bus"
+   ]
+  },
+  {
+   "question_id": 523974002,
+   "question": "What is the person holding?",
+   "answer_type": "other",
+   "question_type": "what is the person",
+   "multiple_choice_answer": "paper doll",
+   "answers": [
+    "paper person",
+    "paper doll",
+    "miniature person",
+    "paper man",
+    "paper doll",
+    "paper figurine",
+    "paper person",
+    "holding paper cutout",
+    "cut out of man",
+    "cut out human"
+   ]
+  },
+  {
+   "question_id": 523974003,
+   "question": "What does the train say on the side?",
+   "answer_type": "other",
+   "question_type": "what does the",
+   "multiple_choice_answer": "michigan",
+   "answers": [
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan",
+    "michigan"
+   ]
+  }
+ ]
+}

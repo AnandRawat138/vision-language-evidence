@@ -1,0 +1,224 @@
+{
+ "uid": "flickr30k_4677535056",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [],
+  "shirt": [
+   "blue"
+  ],
+  "jacket": []
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A black man with a hat and shades frowning with a yellow taxi in the background .",
+  "A man with a dark blue shirt and hat wears glasses next to a taxi .",
+  "An elderly man in a cap and sunglasses walks by a taxi .",
+  "A man with a blue polo is standing in front of a taxi .",
+  "A man wearing a cap and jacket passing by a taxi ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "189576",
+   "types": [
+    "people"
+   ],
+   "phrase": "A black man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "189577",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a hat",
+   "start": 17,
+   "end": 22
+  },
+  {
+   "entity_id": "189582",
+   "types": [
+    "other"
+   ],
+   "phrase": "shades",
+   "start": 27,
+   "end": 33
+  },
+  {
+   "entity_id": "189579",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a yellow taxi",
+   "start": 48,
+   "end": 61
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 65,
+   "end": 79
+  },
+  {
+   "entity_id": "189576",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "189578",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a dark blue shirt",
+   "start": 11,
+   "end": 28
+  },
+  {
+   "entity_id": "189577",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "hat",
+   "start": 33,
+   "end": 36
+  },
+  {
+   "entity_id": "189580",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "glasses",
+   "start": 43,
+   "end": 50
+  },
+  {
+   "entity_id": "189579",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a taxi",
+   "start": 59,
+   "end": 65
+  },
+  {
+   "entity_id": "189576",
+   "types": [
+    "people"
+   ],
+   "phrase": "An elderly man",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "189577",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a cap",
+   "start": 18,
+   "end": 23
+  },
+  {
+   "entity_id": "189580",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 28,
+   "end": 38
+  },
+  {
+   "entity_id": "189579",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a taxi",
+   "start": 48,
+   "end": 54
+  },
+  {
+   "entity_id": "189576",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "189578",
+   "types": [
+    "other"
+   ],
+   "phrase": "a blue polo",
+   "start": 11,
+   "end": 22
+  },
+  {
+   "entity_id": "189579",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a taxi",
+   "start": 47,
+   "end": 53
+  },
+  {
+   "entity_id": "189576",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "189577",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a cap",
+   "start": 14,
+   "end": 19
+  },
+  {
+   "entity_id": "189578",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "jacket",
+   "start": 24,
+   "end": 30
+  },
+  {
+   "entity_id": "189579",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a taxi",
+   "start": 42,
+   "end": 48
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000535306",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "skateboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    113.51,
+    2.44,
+    211.97,
+    207.47
+   ],
+   "area": 16207.778050000004
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    150.41,
+    117.49,
+    223.0,
+    114.49
+   ],
+   "area": 6941.372900000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man is doing skateboard tricks on a ramp",
+  "A man riding a skateboard up the side of a ramp.",
+  "A skateboarder balances on the top of a ramp.",
+  "A person with a skate board going getting ready to go down a ramp.",
+  "A boy stands at the top of a jump with his skateboard."
+ ],
+ "scene_places": []
+}

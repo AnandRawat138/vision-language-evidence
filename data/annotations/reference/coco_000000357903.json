@@ -1,0 +1,48 @@
+{
+ "uid": "coco_000000357903",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "pizza": 2
+ },
+ "object_boxes": [
+  {
+   "category": "pizza",
+   "bbox": [
+    5.75,
+    113.62,
+    467.42,
+    451.59
+   ],
+   "area": 185878.66615000006
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    73.35,
+    4.31,
+    362.43,
+    90.61
+   ],
+   "area": 26857.0564
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two pizzas with cheese and an egg on top.",
+  "A fried egg with a runny yolk tops a mini whole wheat pizza made with melted cheese and spinach.",
+  "A pizza with veggies and eggs on it.",
+  "A pizza topped with cheese, veggies and an egg.",
+  "A pizza with broccoli and spinach topped with an egg"
+ ],
+ "scene_places": []
+}

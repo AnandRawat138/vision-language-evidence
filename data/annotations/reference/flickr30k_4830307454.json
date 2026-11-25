@@ -1,0 +1,161 @@
+{
+ "uid": "flickr30k_4830307454",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ],
+  "hat": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young man in a white t-shirt is looking at the photographer .",
+  "Kid wearing white shirt and black hat posing for the camera .",
+  "A teenager wearing a baseball cap and a white tee-shirt",
+  "A teenage boy wearing a cap looks irritated",
+  "A handsome Caucasian boy in a car ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "208364",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young man",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "208366",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white t-shirt",
+   "start": 15,
+   "end": 30
+  },
+  {
+   "entity_id": "208367",
+   "types": [
+    "people"
+   ],
+   "phrase": "the photographer",
+   "start": 45,
+   "end": 61
+  },
+  {
+   "entity_id": "208364",
+   "types": [
+    "people"
+   ],
+   "phrase": "Kid",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "208366",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white shirt",
+   "start": 12,
+   "end": 23
+  },
+  {
+   "entity_id": "208365",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black hat",
+   "start": 28,
+   "end": 37
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the camera",
+   "start": 49,
+   "end": 59
+  },
+  {
+   "entity_id": "208364",
+   "types": [
+    "people"
+   ],
+   "phrase": "A teenager",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "208365",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a baseball cap",
+   "start": 19,
+   "end": 33
+  },
+  {
+   "entity_id": "208366",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white tee-shirt",
+   "start": 38,
+   "end": 55
+  },
+  {
+   "entity_id": "208364",
+   "types": [
+    "people"
+   ],
+   "phrase": "A teenage boy",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "208365",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a cap",
+   "start": 22,
+   "end": 27
+  },
+  {
+   "entity_id": "208364",
+   "types": [
+    "people"
+   ],
+   "phrase": "A handsome Caucasian boy",
+   "start": 0,
+   "end": 24
+  },
+  {
+   "entity_id": "208368",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a car",
+   "start": 28,
+   "end": 33
+  }
+ ],
+ "scene_places": []
+}

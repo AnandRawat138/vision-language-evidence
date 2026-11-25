@@ -1,0 +1,273 @@
+{
+ "uid": "vqa_000000398537",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "kite": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    214.93,
+    113.77,
+    91.71,
+    308.55
+   ],
+   "area": 19845.53655
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    296.5,
+    14.39,
+    234.13,
+    331.05
+   ],
+   "area": 30012.981099999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    299.06,
+    275.27,
+    86.9,
+    151.73
+   ],
+   "area": 6718.2282000000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man in black jacket holding a kite in front of another person.",
+  "Two people standing on a beach with one obscured by a kite.",
+  "A man holding a kite over the view of another person on a beach.",
+  "a man hiding behind a kite and its very cold",
+  "Two people standing on the beach with a kite."
+ ],
+ "scene_places": [
+  "beach"
+ ],
+ "vqa": [
+  {
+   "question_id": 398537000,
+   "question": "What animal is on the front kite?",
+   "answer_type": "other",
+   "question_type": "what animal is",
+   "multiple_choice_answer": "human",
+   "answers": [
+    "person",
+    "elephant",
+    "human",
+    "person",
+    "human",
+    "human",
+    "no",
+    "no animal",
+    "none",
+    "human"
+   ]
+  },
+  {
+   "question_id": 398537001,
+   "question": "What are the people carrying?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "kite",
+   "answers": [
+    "kite",
+    "kite",
+    "kites",
+    "kite",
+    "kite",
+    "kite",
+    "kites",
+    "kite",
+    "kite",
+    "kite"
+   ]
+  },
+  {
+   "question_id": 398537002,
+   "question": "What is the man holding?",
+   "answer_type": "other",
+   "question_type": "what is the man",
+   "multiple_choice_answer": "kite",
+   "answers": [
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite",
+    "kite"
+   ]
+  },
+  {
+   "question_id": 398537003,
+   "question": "Are they kite surfing or taking pictures?",
+   "answer_type": "other",
+   "question_type": "are they",
+   "multiple_choice_answer": "taking pictures",
+   "answers": [
+    "taking picture",
+    "taking pictures",
+    "pictures",
+    "taking pictures",
+    "kitesurfing",
+    "pictures",
+    "taking pictures",
+    "taking pictures",
+    "taking picture",
+    "taking pictures"
+   ]
+  },
+  {
+   "question_id": 398537004,
+   "question": "Are there leaves on the ground?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 398537005,
+   "question": "Does this look like the Atlantic coast?",
+   "answer_type": "yes/no",
+   "question_type": "does this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 398537006,
+   "question": "Who is wearing sunglasses?",
+   "answer_type": "number",
+   "question_type": "who is",
+   "multiple_choice_answer": "no 1",
+   "answers": [
+    "no 1",
+    "0",
+    "no 1",
+    "no 1",
+    "no 1",
+    "0",
+    "person behind kite",
+    "no",
+    "nobody",
+    "nobody"
+   ]
+  },
+  {
+   "question_id": 398537007,
+   "question": "Is there a star on the kite?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 398537008,
+   "question": "Does the weather appear to be warm here?",
+   "answer_type": "yes/no",
+   "question_type": "does the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 398537009,
+   "question": "What character is on the umbrella?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "man",
+   "answers": [
+    "blue",
+    "black",
+    "surfer",
+    "skateboarder",
+    "blue, purple, black, pink, yellow, orange, and green",
+    "man",
+    "hand grains",
+    "man",
+    "windsurfer",
+    "man"
+   ]
+  },
+  {
+   "question_id": 398537010,
+   "question": "Can you tell if it is windy?",
+   "answer_type": "yes/no",
+   "question_type": "can you",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

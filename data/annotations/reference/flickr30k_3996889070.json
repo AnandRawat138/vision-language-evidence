@@ -1,0 +1,196 @@
+{
+ "uid": "flickr30k_3996889070",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "dress": [],
+  "skirt": [],
+  "shirt": [
+   "white"
+  ],
+  "uniform": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A young child wearing an overall dress with a floral patterned skirt and a white t-shirt pets a baby deer with a backpack on her back .",
+  "A small girl wearing denim overalls and a flowered skirt reaches out to pet a seated deer .",
+  "A little brunette girl squats down to pet a deer laying in sand .",
+  "Young girl reaches out to pet a deer .",
+  "Young children like to pet the deer ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "151325",
+   "types": [
+    "people"
+   ],
+   "phrase": "A young child",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "151328",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "an overall dress",
+   "start": 22,
+   "end": 38
+  },
+  {
+   "entity_id": "151327",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a floral patterned skirt",
+   "start": 44,
+   "end": 68
+  },
+  {
+   "entity_id": "151332",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white t-shirt",
+   "start": 73,
+   "end": 88
+  },
+  {
+   "entity_id": "151326",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a baby deer",
+   "start": 94,
+   "end": 105
+  },
+  {
+   "entity_id": "151330",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a backpack",
+   "start": 111,
+   "end": 121
+  },
+  {
+   "entity_id": "151333",
+   "types": [
+    "other"
+   ],
+   "phrase": "her back",
+   "start": 125,
+   "end": 133
+  },
+  {
+   "entity_id": "151325",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "151328",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "denim overalls",
+   "start": 21,
+   "end": 35
+  },
+  {
+   "entity_id": "151327",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a flowered skirt",
+   "start": 40,
+   "end": 56
+  },
+  {
+   "entity_id": "151326",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a seated deer",
+   "start": 76,
+   "end": 89
+  },
+  {
+   "entity_id": "151325",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little brunette girl",
+   "start": 0,
+   "end": 22
+  },
+  {
+   "entity_id": "151331",
+   "types": [
+    "other"
+   ],
+   "phrase": "a deer laying",
+   "start": 42,
+   "end": 55
+  },
+  {
+   "entity_id": "151334",
+   "types": [
+    "other"
+   ],
+   "phrase": "sand",
+   "start": 59,
+   "end": 63
+  },
+  {
+   "entity_id": "151325",
+   "types": [
+    "people"
+   ],
+   "phrase": "Young girl",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "151326",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a deer",
+   "start": 30,
+   "end": 36
+  },
+  {
+   "entity_id": "151325",
+   "types": [
+    "people"
+   ],
+   "phrase": "Young children",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "151326",
+   "types": [
+    "animals"
+   ],
+   "phrase": "the deer",
+   "start": 27,
+   "end": 35
+  }
+ ],
+ "scene_places": []
+}

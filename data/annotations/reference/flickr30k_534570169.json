@@ -1,0 +1,235 @@
+{
+ "uid": "flickr30k_534570169",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "suit": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A well dressed man with a smile on his face walks past a piano with a saxophone in his hands",
+  "A man in a black suite , with a saxophone around his neck is standing next to a piano .",
+  "A man in a tuxedo is carrying a saxophone across stage in front of a grand piano .",
+  "A well-dressed man is holding a saxophone and walking in front of a piano .",
+  "A man in a suit strides across a stage holding a saxophone ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "234147",
+   "types": [
+    "people"
+   ],
+   "phrase": "A well dressed man",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "234153",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "a smile",
+   "start": 24,
+   "end": 31
+  },
+  {
+   "entity_id": "234154",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his face",
+   "start": 35,
+   "end": 43
+  },
+  {
+   "entity_id": "234148",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a piano",
+   "start": 55,
+   "end": 62
+  },
+  {
+   "entity_id": "234149",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a saxophone",
+   "start": 68,
+   "end": 79
+  },
+  {
+   "entity_id": "234155",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hands",
+   "start": 83,
+   "end": 92
+  },
+  {
+   "entity_id": "234147",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "234151",
+   "types": [
+    "other"
+   ],
+   "phrase": "a black suite",
+   "start": 9,
+   "end": 22
+  },
+  {
+   "entity_id": "234149",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a saxophone",
+   "start": 30,
+   "end": 41
+  },
+  {
+   "entity_id": "234156",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his neck",
+   "start": 49,
+   "end": 57
+  },
+  {
+   "entity_id": "234148",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a piano",
+   "start": 78,
+   "end": 85
+  },
+  {
+   "entity_id": "234147",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "234151",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a tuxedo",
+   "start": 9,
+   "end": 17
+  },
+  {
+   "entity_id": "234149",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a saxophone",
+   "start": 30,
+   "end": 41
+  },
+  {
+   "entity_id": "234150",
+   "types": [
+    "scene"
+   ],
+   "phrase": "stage",
+   "start": 49,
+   "end": 54
+  },
+  {
+   "entity_id": "234148",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a grand piano",
+   "start": 67,
+   "end": 80
+  },
+  {
+   "entity_id": "234147",
+   "types": [
+    "people"
+   ],
+   "phrase": "A well-dressed man",
+   "start": 0,
+   "end": 18
+  },
+  {
+   "entity_id": "234149",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a saxophone",
+   "start": 30,
+   "end": 41
+  },
+  {
+   "entity_id": "234148",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a piano",
+   "start": 66,
+   "end": 73
+  },
+  {
+   "entity_id": "234147",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "234151",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a suit",
+   "start": 9,
+   "end": 15
+  },
+  {
+   "entity_id": "234150",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a stage",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "entity_id": "234149",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a saxophone",
+   "start": 47,
+   "end": 58
+  }
+ ],
+ "scene_places": []
+}

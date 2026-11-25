@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000450559",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "skateboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    71.68,
+    34.13,
+    232.11,
+    325.98
+   ],
+   "area": 40417.305600000014
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    181.58,
+    215.36,
+    160.0,
+    158.55
+   ],
+   "area": 6381.567799999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A teenager doing skateboard tricks at a skate park",
+  "A skate boarding teenagers goes airborne on his skate board.",
+  "A boy skate boarding high into the air.",
+  "A skateboarder executing a jump trick at a park.",
+  "A boy who is skateboarding does a trick."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

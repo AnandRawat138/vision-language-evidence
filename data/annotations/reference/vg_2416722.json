@@ -1,0 +1,30 @@
+{
+ "uid": "vg_2416722",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "person",
+  "truck",
+  "umbrella"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "black"
+  ],
+  "hat": [],
+  "shoes": []
+ },
+ "accessories": [],
+ "carried": [
+  "umbrella"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

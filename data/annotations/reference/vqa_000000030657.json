@@ -1,0 +1,109 @@
+{
+ "uid": "vqa_000000030657",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    351.96,
+    129.11,
+    125.12,
+    152.61
+   ],
+   "area": 10087.8662
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    0.0,
+    35.54,
+    640.0,
+    439.19
+   ],
+   "area": 206035.09700000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A dog sits in the cab of a state pickup truck.",
+  "A dog driving a truck down a street.",
+  "A dog is sitting in the driver's seat of a truck.",
+  "A dog sitting in a truck, in the driver seat.",
+  "A dog sitting in the drivers side of a truck."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 30657000,
+   "question": "Is the dog the driver?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 30657001,
+   "question": "Is there a light on top?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 30657002,
+   "question": "Where is the dog?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "truck",
+   "answers": [
+    "in truck",
+    "truck",
+    "car",
+    "in car",
+    "truck",
+    "truck",
+    "in truck",
+    "in truck",
+    "truck",
+    "car"
+   ]
+  }
+ ]
+}

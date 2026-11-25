@@ -1,0 +1,145 @@
+{
+ "uid": "flickr30k_519228867",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A smiling young girl wearing a swimsuit is soaking in a tub of water .",
+  "A little girl is sitting in a metal tub filled with water .",
+  "A little girl in a metal tub filled with water .",
+  "A girl sits and laughs while in a kiddie pool .",
+  "A small girl in a tub of water ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "230683",
+   "types": [
+    "people"
+   ],
+   "phrase": "A smiling young girl",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "230687",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a swimsuit",
+   "start": 29,
+   "end": 39
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a tub of water",
+   "start": 54,
+   "end": 68
+  },
+  {
+   "entity_id": "230683",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little girl",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "other"
+   ],
+   "phrase": "a metal tub",
+   "start": 28,
+   "end": 39
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 52,
+   "end": 57
+  },
+  {
+   "entity_id": "230683",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little girl",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "other"
+   ],
+   "phrase": "a metal tub",
+   "start": 17,
+   "end": 28
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "scene"
+   ],
+   "phrase": "water",
+   "start": 41,
+   "end": 46
+  },
+  {
+   "entity_id": "230683",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a kiddie pool",
+   "start": 32,
+   "end": 45
+  },
+  {
+   "entity_id": "230683",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small girl",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "230684",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a tub of water",
+   "start": 16,
+   "end": 30
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

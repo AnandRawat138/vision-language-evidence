@@ -1,0 +1,190 @@
+{
+ "uid": "coco_000000068409",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tie"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 6,
+  "person": 10
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    415.61,
+    80.02,
+    9.92,
+    23.8
+   ],
+   "area": 160.79985000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    474.25,
+    18.27,
+    163.72,
+    241.52
+   ],
+   "area": 22631.3997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    503.34,
+    1.35,
+    136.66,
+    96.07
+   ],
+   "area": 7125.12535
+  },
+  {
+   "category": "person",
+   "bbox": [
+    200.93,
+    16.24,
+    168.46,
+    232.05
+   ],
+   "area": 21934.808349999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    346.92,
+    5.32,
+    139.48,
+    254.72
+   ],
+   "area": 21950.937400000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    408.63,
+    0.34,
+    110.27,
+    152.22
+   ],
+   "area": 7405.265499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    253.52,
+    0.89,
+    157.57,
+    93.59
+   ],
+   "area": 7468.827300000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    88.37,
+    0.15,
+    95.67,
+    83.3
+   ],
+   "area": 4933.691899999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    110.01,
+    17.44,
+    154.99,
+    235.21
+   ],
+   "area": 18374.0048
+  },
+  {
+   "category": "person",
+   "bbox": [
+    3.55,
+    5.63,
+    148.09,
+    252.93
+   ],
+   "area": 20937.439799999996
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    291.31,
+    90.41,
+    15.35,
+    31.48
+   ],
+   "area": 257.0539000000004
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    192.68,
+    81.79,
+    15.62,
+    37.87
+   ],
+   "area": 374.3975999999996
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    80.17,
+    77.34,
+    14.61,
+    29.21
+   ],
+   "area": 258.86800000000005
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    561.48,
+    89.57,
+    9.78,
+    21.4
+   ],
+   "area": 112.49624999999955
+  },
+  {
+   "category": "person",
+   "bbox": [
+    209.78,
+    2.13,
+    72.41,
+    78.56
+   ],
+   "area": 2916.6047500000013
+  },
+  {
+   "category": "tie",
+   "bbox": [
+    454.0,
+    0.07,
+    11.86,
+    16.23
+   ],
+   "area": 130.13025000000013
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a black and white photo of children siting posing for a photo",
+  "School boys sit cross legged in front of a chalkboard sign in a vintage black and white photo.",
+  "School class photo from the boys school of Standard South Carolina",
+  "A  group of boys in suits holding a chalkboard.",
+  "Black and white photograph of young schoolboys."
+ ],
+ "scene_places": []
+}

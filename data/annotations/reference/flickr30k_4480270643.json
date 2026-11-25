@@ -1,0 +1,181 @@
+{
+ "uid": "flickr30k_4480270643",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A person standing in front of a window overlooking a large body of water , next to a large indoor pool .",
+  "A person standing next to an indoor pool while looking at the ocean outside .",
+  "A man standing in a strange building is looking out a window at the water .",
+  "Man checking out a body of water from inside latticework .",
+  "A man standing in a large room by a window ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "171875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "171880",
+   "types": [
+    "other"
+   ],
+   "phrase": "a window",
+   "start": 30,
+   "end": 38
+  },
+  {
+   "entity_id": "171876",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large body of water",
+   "start": 51,
+   "end": 72
+  },
+  {
+   "entity_id": "171877",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large indoor pool",
+   "start": 83,
+   "end": 102
+  },
+  {
+   "entity_id": "171875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "171877",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an indoor pool",
+   "start": 26,
+   "end": 40
+  },
+  {
+   "entity_id": "171876",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the ocean outside",
+   "start": 58,
+   "end": 75
+  },
+  {
+   "entity_id": "171875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "171878",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a strange building",
+   "start": 18,
+   "end": 36
+  },
+  {
+   "entity_id": "171879",
+   "types": [
+    "other"
+   ],
+   "phrase": "a window",
+   "start": 52,
+   "end": 60
+  },
+  {
+   "entity_id": "171876",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 64,
+   "end": 73
+  },
+  {
+   "entity_id": "171875",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "171876",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a body of water",
+   "start": 17,
+   "end": 32
+  },
+  {
+   "entity_id": "171880",
+   "types": [
+    "other"
+   ],
+   "phrase": "latticework",
+   "start": 45,
+   "end": 56
+  },
+  {
+   "entity_id": "171875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "171878",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large room",
+   "start": 18,
+   "end": 30
+  },
+  {
+   "entity_id": "171880",
+   "types": [
+    "other"
+   ],
+   "phrase": "a window",
+   "start": 34,
+   "end": 42
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

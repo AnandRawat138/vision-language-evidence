@@ -1,0 +1,194 @@
+{
+ "uid": "vqa_000000293333",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    98.86,
+    120.16,
+    461.69,
+    266.07
+   ],
+   "area": 77173.88445000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "The white train is at a platform at evening time.",
+  "The train is at a stop at night.",
+  "a yellow white and blue train a fence and some lights",
+  "a commuter train stopped at a station at night",
+  "a train resting next to a a station during the night hours"
+ ],
+ "scene_places": [
+  "station"
+ ],
+ "vqa": [
+  {
+   "question_id": 293333000,
+   "question": "Are there any people on the platform?",
+   "answer_type": "yes/no",
+   "question_type": "are there any",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "none",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 293333001,
+   "question": "What color is the front of the train?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "black",
+   "answers": [
+    "yellow black white",
+    "white",
+    "yellow",
+    "black",
+    "white and blue",
+    "white/brown/yellow",
+    "black",
+    "white, black & yellow",
+    "white",
+    "black, yellow"
+   ]
+  },
+  {
+   "question_id": 293333002,
+   "question": "To the headlights on the train appear to be on?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 293333003,
+   "question": "What color is the side of the train?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "blue, white",
+    "blue and white",
+    "blue",
+    "white & blue",
+    "blue",
+    "blue",
+    "white and blue",
+    "white and blue",
+    "blue/yellow"
+   ]
+  },
+  {
+   "question_id": 293333004,
+   "question": "Is the train moving?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 293333005,
+   "question": "How many trains are shown?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 293333006,
+   "question": "Does this train work during the evening hours?",
+   "answer_type": "yes/no",
+   "question_type": "does this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 293333007,
+   "question": "Is it approaching daylight or nightfall?",
+   "answer_type": "other",
+   "question_type": "is it",
+   "multiple_choice_answer": "nightfall",
+   "answers": [
+    "night",
+    "nightfall",
+    "nightfall",
+    "nightfall",
+    "night",
+    "nightfall",
+    "nightfall",
+    "nightfall",
+    "nightfall",
+    "daylight"
+   ]
+  }
+ ]
+}

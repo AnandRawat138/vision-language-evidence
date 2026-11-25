@@ -1,0 +1,97 @@
+{
+ "uid": "vqa_000000279305",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cake"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cake": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cake",
+   "bbox": [
+    41.43,
+    144.39,
+    515.41,
+    391.13
+   ],
+   "area": 161333.99964999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Give candles light a decorative cake with white frosting.",
+  "A white cake with black drizzled chocolate and candles",
+  "a couple of candles are on a cake",
+  "A cake that has candles that are lit on top of it.",
+  "A white frosted cake with five lit candles"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 279305000,
+   "question": "What are the owners of the cake celebrating?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "birthday",
+   "answers": [
+    "birthday",
+    "birthday",
+    "anniversary",
+    "birthday",
+    "birthday",
+    "birthday",
+    "birthday",
+    "birthday",
+    "birthday",
+    "anniversary"
+   ]
+  },
+  {
+   "question_id": 279305001,
+   "question": "What kind of candies are on the cake?",
+   "answer_type": "other",
+   "question_type": "what kind of",
+   "multiple_choice_answer": "birthday",
+   "answers": [
+    "chocolate",
+    "rolo's",
+    "wax",
+    "birthday",
+    "chocolate",
+    "birthday",
+    "birthday",
+    "wax",
+    "chocolate",
+    "chocolates"
+   ]
+  },
+  {
+   "question_id": 279305002,
+   "question": "How many candles are on the cake?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "5",
+   "answers": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  }
+ ]
+}

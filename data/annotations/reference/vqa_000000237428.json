@@ -1,0 +1,198 @@
+{
+ "uid": "vqa_000000237428",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 1,
+  "person": 1,
+  "bench": 3
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    11.29,
+    144.35,
+    314.52,
+    194.36
+   ],
+   "area": 32887.06260000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    265.45,
+    114.61,
+    155.9,
+    231.74
+   ],
+   "area": 11310.374500000002
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    124.72,
+    166.85,
+    375.28,
+    139.6
+   ],
+   "area": 12519.977650000006
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    0.0,
+    155.06,
+    34.55,
+    70.78
+   ],
+   "area": 1266.485
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    210.39,
+    167.53,
+    120.78,
+    36.04
+   ],
+   "area": 2676.4799000000016
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A blonde woman sitting on a park bench next to a green bike.",
+  "a woman sitting on a bench next to her bike",
+  "A woman sitting on a bench and a bicycle leaning against the bench.",
+  "A woman sitting on a bench next to a bicycle,",
+  "A woman sitting on a bench next to her bike."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 237428000,
+   "question": "Is the bike a mountain bike?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes",
+    "no"
+   ]
+  },
+  {
+   "question_id": 237428001,
+   "question": "What is leaning against the bench?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "bike",
+   "answers": [
+    "bike",
+    "bike",
+    "bike",
+    "bike",
+    "bicycle",
+    "bike",
+    "bike",
+    "bike",
+    "bike",
+    "bike"
+   ]
+  },
+  {
+   "question_id": 237428002,
+   "question": "Is the woman a professional cyclist?",
+   "answer_type": "yes/no",
+   "question_type": "is the woman",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 237428003,
+   "question": "Where is the bike parked?",
+   "answer_type": "other",
+   "question_type": "where is the",
+   "multiple_choice_answer": "next to bench",
+   "answers": [
+    "bench",
+    "next to bench",
+    "in front of bench",
+    "sidewalk",
+    "next to bench",
+    "by bench",
+    "next to bench",
+    "by bench",
+    "on sidewalk",
+    "next to bench"
+   ]
+  },
+  {
+   "question_id": 237428004,
+   "question": "How many inches high is the bicycle?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "26",
+   "answers": [
+    "55",
+    "32",
+    "36",
+    "40",
+    "26",
+    "26",
+    "26",
+    "26",
+    "5",
+    "28"
+   ]
+  },
+  {
+   "question_id": 237428005,
+   "question": "Is there a person in this photo?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000327601",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "person",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "vase": 1,
+  "chair": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    48.31,
+    46.85,
+    270.79,
+    376.4
+   ],
+   "area": 35009.527949999974
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    25.15,
+    284.4,
+    68.41,
+    136.29
+   ],
+   "area": 6241.194700000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    51.69,
+    198.88,
+    197.75,
+    210.11
+   ],
+   "area": 8040.8915
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A woman sitting on a unique chair beside a vase.",
+  "A woman in a blue dress poses on a weird chair",
+  "Woman with blue dress sitting in modern chair next to vase in empty room.",
+  "A woman in a blue dress with no shoes, seated with her legs crossed on a chair in the middle of a room.",
+  "A barefoot woman sitting in a chair relaxing."
+ ],
+ "scene_places": []
+}

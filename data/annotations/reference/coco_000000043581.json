@@ -1,0 +1,76 @@
+{
+ "uid": "coco_000000043581",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "fork",
+  "knife",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "pizza": 1,
+  "fork": 1,
+  "dining table": 1,
+  "knife": 1
+ },
+ "object_boxes": [
+  {
+   "category": "pizza",
+   "bbox": [
+    182.31,
+    193.83,
+    432.76,
+    179.44
+   ],
+   "area": 62169.79565
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    364.48,
+    139.52,
+    199.22,
+    33.41
+   ],
+   "area": 910.9141000000016
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    68.55,
+    640.0,
+    358.45
+   ],
+   "area": 214195.10585000005
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    456.93,
+    140.23,
+    45.78,
+    69.49
+   ],
+   "area": 1005.1821499999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A restaurant table with a plate of vegetable pizza and garnishment",
+  "A small ham and pineapple pizza on a plate next to a spicy pepper shaker.",
+  "A small pizza sitting on a blue table.",
+  "a pizza on a plate on a table",
+  "A whole freshly made pizza in a restaurant."
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "uid": "coco_000000469067",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "cat",
+  "cell phone",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "person": 1,
+  "bed": 1,
+  "cell phone": 1,
+  "remote": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    292.76,
+    244.66,
+    262.76,
+    227.58
+   ],
+   "area": 13570.299749999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    184.8,
+    557.32,
+    288.86
+   ],
+   "area": 110235.75375000003
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    1.08,
+    167.19,
+    638.92,
+    305.26
+   ],
+   "area": 94543.16255000001
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    515.09,
+    418.44,
+    46.35,
+    54.46
+   ],
+   "area": 1607.0890499999991
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    513.73,
+    416.79,
+    47.36,
+    57.93
+   ],
+   "area": 1713.0169500000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "this is a person sleeping on a bed with a cat",
+  "a woman laying down with a cat",
+  "A sleeping woman cuddling a cat in bed.",
+  "A women in a blue shirt cuddles up with her cat",
+  "A woman laying in bed next to a cat."
+ ],
+ "scene_places": []
+}

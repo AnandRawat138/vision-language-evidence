@@ -1,0 +1,190 @@
+{
+ "uid": "coco_000000173004",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "chair",
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 3,
+  "dining table": 1,
+  "cup": 1,
+  "fork": 2,
+  "knife": 2,
+  "pizza": 4,
+  "chair": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    23.33,
+    0.0,
+    116.42,
+    170.21
+   ],
+   "area": 10560.089350000002
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    92.04,
+    0.05,
+    61.18,
+    121.01
+   ],
+   "area": 3466.6531499999996
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    48.65,
+    640.0,
+    431.35
+   ],
+   "area": 204014.3883
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    124.84,
+    6.4,
+    89.33,
+    146.37
+   ],
+   "area": 8909.335400000002
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    398.21,
+    222.55,
+    185.27,
+    82.38
+   ],
+   "area": 1912.946350000004
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    197.01,
+    49.13,
+    121.34,
+    24.27
+   ],
+   "area": 666.5897500000004
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    123.05,
+    216.93,
+    159.63,
+    151.66
+   ],
+   "area": 3676.2540499999977
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    263.19,
+    182.17,
+    151.01,
+    125.12
+   ],
+   "area": 12123.273100000002
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    452.14,
+    102.24,
+    133.79,
+    64.76
+   ],
+   "area": 5969.755350000001
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    284.11,
+    57.56,
+    94.61,
+    63.05
+   ],
+   "area": 3662.41605
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    469.08,
+    162.78,
+    170.92,
+    91.26
+   ],
+   "area": 9823.527000000004
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    203.87,
+    1.08,
+    134.83,
+    55.01
+   ],
+   "area": 3198.722350000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    362.83,
+    0.0,
+    176.37,
+    52.85
+   ],
+   "area": 1923.3809999999994
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    363.3,
+    59.49,
+    138.06,
+    20.49
+   ],
+   "area": 711.9657000000001
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    0.0,
+    46.01,
+    86.82,
+    193.49
+   ],
+   "area": 12446.482250000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A half eaten slice of pizza is on a plate with a knife and fork.",
+  "pizza with olives on black plate setting on table",
+  "A dining table with some very tasty looking pizza.",
+  "A plate that has food on a table.",
+  "Plates of Pizza with silverware next to ketchup and other condiments."
+ ],
+ "scene_places": []
+}

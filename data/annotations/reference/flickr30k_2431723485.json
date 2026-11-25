@@ -1,0 +1,167 @@
+{
+ "uid": "flickr30k_2431723485",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "black"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A girl on a bike is wearing a backpack and a helmet , and riding through a wooded area .",
+  "a woman wearing a black helmet riding on a bike",
+  "A woman rides her bike by some trees .",
+  "A mountain biker rides in the woods .",
+  "a biker bikes through the woods ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "49066",
+   "types": [
+    "people"
+   ],
+   "phrase": "A girl",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "49067",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 10,
+   "end": 16
+  },
+  {
+   "entity_id": "49070",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a backpack",
+   "start": 28,
+   "end": 38
+  },
+  {
+   "entity_id": "49068",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a helmet",
+   "start": 43,
+   "end": 51
+  },
+  {
+   "entity_id": "49071",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a wooded area",
+   "start": 73,
+   "end": 86
+  },
+  {
+   "entity_id": "49066",
+   "types": [
+    "people"
+   ],
+   "phrase": "a woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "49068",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black helmet",
+   "start": 16,
+   "end": 30
+  },
+  {
+   "entity_id": "49067",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 41,
+   "end": 47
+  },
+  {
+   "entity_id": "49066",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "49067",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "her bike",
+   "start": 14,
+   "end": 22
+  },
+  {
+   "entity_id": "49069",
+   "types": [
+    "other"
+   ],
+   "phrase": "some trees",
+   "start": 26,
+   "end": 36
+  },
+  {
+   "entity_id": "49066",
+   "types": [
+    "people"
+   ],
+   "phrase": "A mountain biker",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "49069",
+   "types": [
+    "other"
+   ],
+   "phrase": "the woods",
+   "start": 26,
+   "end": 35
+  },
+  {
+   "entity_id": "49066",
+   "types": [
+    "people"
+   ],
+   "phrase": "a biker",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "49069",
+   "types": [
+    "other"
+   ],
+   "phrase": "the woods",
+   "start": 22,
+   "end": 31
+  }
+ ],
+ "scene_places": []
+}

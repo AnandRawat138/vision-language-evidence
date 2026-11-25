@@ -1,0 +1,176 @@
+{
+ "uid": "coco_000000102411",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "handbag",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 1,
+  "person": 11,
+  "car": 1,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    188.07,
+    181.36,
+    228.37,
+    176.55
+   ],
+   "area": 17701.655000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    239.97,
+    146.34,
+    41.35,
+    51.08
+   ],
+   "area": 1191.6891500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    218.75,
+    126.19,
+    118.46,
+    228.3
+   ],
+   "area": 6658.277199999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    28.84,
+    142.09,
+    31.26,
+    109.2
+   ],
+   "area": 2351.661249999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    276.32,
+    123.73,
+    116.4,
+    196.56
+   ],
+   "area": 9237.802449999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    202.34,
+    174.08,
+    14.52,
+    39.49
+   ],
+   "area": 440.92625
+  },
+  {
+   "category": "person",
+   "bbox": [
+    389.32,
+    166.84,
+    41.05,
+    40.51
+   ],
+   "area": 992.0616000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    569.18,
+    164.74,
+    49.13,
+    66.87
+   ],
+   "area": 1903.4767
+  },
+  {
+   "category": "person",
+   "bbox": [
+    103.89,
+    198.4,
+    15.45,
+    20.64
+   ],
+   "area": 193.7308
+  },
+  {
+   "category": "person",
+   "bbox": [
+    178.67,
+    179.24,
+    15.16,
+    35.0
+   ],
+   "area": 361.2167500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    59.91,
+    154.89,
+    59.66,
+    97.29
+   ],
+   "area": 2683.8799999999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    1.11,
+    198.53,
+    37.71,
+    95.38
+   ],
+   "area": 2263.7468000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    508.58,
+    140.84,
+    46.2,
+    52.42
+   ],
+   "area": 1606.2766000000004
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    437.3,
+    224.21,
+    8.63,
+    13.56
+   ],
+   "area": 50.24824999999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two people riding a motorcycle to the beach.",
+  "A man riding a motorcycle with a woman on the back.",
+  "Two people sitting on a motorcycle in the street next to a beach.",
+  "Two people are riding a motorcycle on the beach.",
+  "A couple sit on a motorcycle at the beach."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000368212",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "toilet",
+  "toothbrush"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toothbrush": 1,
+  "toilet": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toothbrush",
+   "bbox": [
+    242.25,
+    206.9,
+    15.02,
+    138.72
+   ],
+   "area": 647.5447000000001
+  },
+  {
+   "category": "toilet",
+   "bbox": [
+    57.97,
+    169.02,
+    392.72,
+    470.98
+   ],
+   "area": 47021.60924999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    17.26,
+    43.15,
+    368.18,
+    565.21
+   ],
+   "area": 97446.68745
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Baby brushing teeth while sitting on a toilet.",
+  "Young toddler sitting on toilet bowl brushing teeth.",
+  "A young boy sittingon a toilette seat in a bathroom.",
+  "A toddler sits on a toilet while brushing his teeth.",
+  "A toddler with a toothbrush sitting on top of the lid of a toilet."
+ ],
+ "scene_places": []
+}

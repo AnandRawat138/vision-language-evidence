@@ -1,0 +1,125 @@
+{
+ "uid": "flickr30k_3219606",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A choir dressed in white and black performing on stage .",
+  "A singing choir with purple and white decorations .",
+  "children wearing black and white are performing .",
+  "young people on stage in front of an audience .",
+  "The youth choir is performing ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "102091",
+   "types": [
+    "people"
+   ],
+   "phrase": "A choir",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "102093",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white and black",
+   "start": 19,
+   "end": 34
+  },
+  {
+   "entity_id": "102094",
+   "types": [
+    "scene"
+   ],
+   "phrase": "stage",
+   "start": 49,
+   "end": 54
+  },
+  {
+   "entity_id": "102091",
+   "types": [
+    "people"
+   ],
+   "phrase": "A singing choir",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "102096",
+   "types": [
+    "other"
+   ],
+   "phrase": "purple and white decorations",
+   "start": 21,
+   "end": 49
+  },
+  {
+   "entity_id": "102092",
+   "types": [
+    "people"
+   ],
+   "phrase": "children",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "102093",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black and white",
+   "start": 17,
+   "end": 32
+  },
+  {
+   "entity_id": "102092",
+   "types": [
+    "people"
+   ],
+   "phrase": "young people",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "102094",
+   "types": [
+    "scene"
+   ],
+   "phrase": "stage",
+   "start": 16,
+   "end": 21
+  },
+  {
+   "entity_id": "102095",
+   "types": [
+    "people"
+   ],
+   "phrase": "an audience",
+   "start": 34,
+   "end": 45
+  },
+  {
+   "entity_id": "102092",
+   "types": [
+    "people"
+   ],
+   "phrase": "The youth choir",
+   "start": 0,
+   "end": 15
+  }
+ ],
+ "scene_places": []
+}

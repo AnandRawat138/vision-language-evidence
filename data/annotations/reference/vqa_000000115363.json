@@ -1,0 +1,143 @@
+{
+ "uid": "vqa_000000115363",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 2,
+  "person": 1,
+  "backpack": 2
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    195.95,
+    187.61,
+    130.71,
+    150.07
+   ],
+   "area": 11067.31425
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    278.24,
+    142.06,
+    114.73,
+    118.34
+   ],
+   "area": 7673.8002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    209.45,
+    128.08,
+    77.34,
+    84.18
+   ],
+   "area": 3745.6899000000003
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    323.18,
+    187.35,
+    43.97,
+    19.32
+   ],
+   "area": 503.36009999999993
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    215.9,
+    198.39,
+    69.84,
+    45.59
+   ],
+   "area": 2228.12615
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a motorcycle down a road near a forest.",
+  "Two motorcycles are parked on the shoulder of a mountainous freeway.",
+  "Two motorcycles sit on the side of a secluded road.",
+  "a couple of motorcycles are off the side of the street",
+  "a couple of motorcycles that are next to a road"
+ ],
+ "scene_places": [
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 115363000,
+   "question": "What bird is on the sign?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "cardinal",
+   "answers": [
+    "cardinal",
+    "cardinal",
+    "cardinal",
+    "cardinal",
+    "robin",
+    "cardinal",
+    "robin",
+    "cardinal",
+    "cardinal",
+    "cardinal"
+   ]
+  },
+  {
+   "question_id": 115363001,
+   "question": "What state are they entering?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "virginia",
+   "answers": [
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia",
+    "virginia"
+   ]
+  },
+  {
+   "question_id": 115363002,
+   "question": "What type of vehicle is this person riding on?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "motorcycle",
+   "answers": [
+    "bike",
+    "motorbike",
+    "motorcycle",
+    "motorcycle",
+    "motorcycle",
+    "motorcycle",
+    "motorcycle",
+    "motorcycle",
+    "motorcycle",
+    "motorcycle"
+   ]
+  }
+ ]
+}

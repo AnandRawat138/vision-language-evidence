@@ -1,0 +1,166 @@
+{
+ "uid": "vqa_000000445567",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "toothbrush"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toothbrush": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toothbrush",
+   "bbox": [
+    111.69,
+    306.89,
+    46.1,
+    18.55
+   ],
+   "area": 180.10404999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    116.59,
+    65.86,
+    156.28,
+    408.06
+   ],
+   "area": 42586.383200000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A female wearing winter clothing standing next to a tent inside an unfinished building.",
+  "a girl that is standing next to a tent",
+  "a woman standing in front of a tent",
+  "A person stands between two tents set up inside of a cabin.",
+  "a woman in an orange jacket standing near a jacket"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 445567000,
+   "question": "What is the boy doing?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "standing",
+   "answers": [
+    "nothing",
+    "looking down",
+    "looking at tent",
+    "camping in attic",
+    "staring",
+    "camping",
+    "camping",
+    "looking at ground",
+    "standing",
+    "standing"
+   ]
+  },
+  {
+   "question_id": 445567001,
+   "question": "What colors are on the woman's hat?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "pink and white",
+   "answers": [
+    "pink gray white",
+    "gray, blue and white",
+    "gray and orange",
+    "pink and white",
+    "pink and gray",
+    "pink and white",
+    "purple",
+    "pink white",
+    "purple,black, white",
+    "pink blue and white"
+   ]
+  },
+  {
+   "question_id": 445567002,
+   "question": "Are the tents pitched in the woods?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 445567003,
+   "question": "What animal is on  his jacket?",
+   "answer_type": "other",
+   "question_type": "what animal is",
+   "multiple_choice_answer": "none",
+   "answers": [
+    "no animal",
+    "red",
+    "no animal",
+    "none",
+    "none",
+    "none",
+    "bear",
+    "none",
+    "noe",
+    "dog"
+   ]
+  },
+  {
+   "question_id": 445567004,
+   "question": "Who is not wearing contact lenses?",
+   "answer_type": "other",
+   "question_type": "who is",
+   "multiple_choice_answer": "woman",
+   "answers": [
+    "girl",
+    "everyone",
+    "lady",
+    "woman in red jacket",
+    "lady",
+    "lady",
+    "woman",
+    "woman",
+    "woman",
+    "not sure"
+   ]
+  },
+  {
+   "question_id": 445567005,
+   "question": "Is the floor finished?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

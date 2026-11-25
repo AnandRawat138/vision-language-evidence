@@ -1,0 +1,200 @@
+{
+ "uid": "coco_000000476770",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball glove",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "baseball glove": 3,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "baseball glove",
+   "bbox": [
+    301.17,
+    178.98,
+    37.76,
+    35.63
+   ],
+   "area": 985.0511000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    613.67,
+    56.14,
+    10.28,
+    15.64
+   ],
+   "area": 117.4583000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    235.5,
+    116.79,
+    112.96,
+    185.72
+   ],
+   "area": 10080.0135
+  },
+  {
+   "category": "person",
+   "bbox": [
+    362.0,
+    40.12,
+    87.88,
+    233.05
+   ],
+   "area": 10229.621199999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    341.95,
+    30.57,
+    268.4,
+    389.7
+   ],
+   "area": 54862.58365
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.43,
+    75.4,
+    33.81,
+    75.05
+   ],
+   "area": 1001.0874999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    28.8,
+    69.62,
+    36.21,
+    41.97
+   ],
+   "area": 962.7763500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    593.53,
+    71.8,
+    46.47,
+    40.2
+   ],
+   "area": 1146.7736500000015
+  },
+  {
+   "category": "person",
+   "bbox": [
+    583.31,
+    65.76,
+    25.3,
+    25.8
+   ],
+   "area": 320.62220000000065
+  },
+  {
+   "category": "person",
+   "bbox": [
+    72.76,
+    63.18,
+    41.16,
+    38.29
+   ],
+   "area": 900.6892000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    78.67,
+    18.35,
+    16.44,
+    26.57
+   ],
+   "area": 190.92560000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    269.08,
+    73.24,
+    62.98,
+    39.32
+   ],
+   "area": 1051.8479000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    47.73,
+    54.61,
+    23.84,
+    37.36
+   ],
+   "area": 528.9523499999998
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    400.5,
+    39.88,
+    37.48,
+    34.71
+   ],
+   "area": 816.6537499999998
+  },
+  {
+   "category": "baseball glove",
+   "bbox": [
+    536.18,
+    179.18,
+    50.06,
+    64.84
+   ],
+   "area": 1938.1426000000026
+  },
+  {
+   "category": "person",
+   "bbox": [
+    326.79,
+    72.39,
+    33.06,
+    39.83
+   ],
+   "area": 771.2110000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1,
+    1,
+    638,
+    165
+   ],
+   "area": 100009
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of men playing a game of baseball on a field.",
+  "A man in a baseball game running to base and others trying to tag him out.",
+  "A baseball player reacts to the play during a baseball game.",
+  "Several players playing together during a baseball game.",
+  "A baseball player is looking at another player as he runs."
+ ],
+ "scene_places": []
+}

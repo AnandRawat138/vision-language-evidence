@@ -1,0 +1,135 @@
+{
+ "uid": "vqa_000000414750",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "scissors"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "scissors": 1
+ },
+ "object_boxes": [
+  {
+   "category": "scissors",
+   "bbox": [
+    169.73,
+    25.95,
+    465.95,
+    420.54
+   ],
+   "area": 33586.96774999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large pair of black scissors on top of a table.",
+  "a pair of scissors with long shears sitting on a pattern",
+  "a close up of a pair of scissors",
+  "A pair of well-worn large scissors laying on a pattern.",
+  "A pair of scissors that is on something that measures forty centimeters."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 414750000,
+   "question": "What is the measurement listed?",
+   "answer_type": "number",
+   "question_type": "what is the",
+   "multiple_choice_answer": "40 cm",
+   "answers": [
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm",
+    "40 cm"
+   ]
+  },
+  {
+   "question_id": 414750001,
+   "question": "What number is in the picture?",
+   "answer_type": "number",
+   "question_type": "what number is",
+   "multiple_choice_answer": "40",
+   "answers": [
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40",
+    "40"
+   ]
+  },
+  {
+   "question_id": 414750002,
+   "question": "What was someone cutting?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "paper",
+   "answers": [
+    "paper",
+    "plastic",
+    "cutouts",
+    "paper",
+    "paper",
+    "cardboard",
+    "yes",
+    "cardboard",
+    "patterns",
+    "paper designs"
+   ]
+  },
+  {
+   "question_id": 414750003,
+   "question": "How many pairs of scissors are in this picture?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 414750004,
+   "question": "Are the scissors well used?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

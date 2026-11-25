@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000363875",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 1,
+  "person": 1,
+  "bus": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    2.86,
+    153.4,
+    555.14,
+    476.78
+   ],
+   "area": 103501.07285
+  },
+  {
+   "category": "person",
+   "bbox": [
+    107.35,
+    15.48,
+    301.42,
+    407.4
+   ],
+   "area": 48755.36384999999
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    0.0,
+    3.32,
+    558.0,
+    382.34
+   ],
+   "area": 121263.37885000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man that is sitting on a moped.",
+  "The guy is travelling on his motorcycle outside.",
+  "A man riding around on a scooter with luggage on his lap.",
+  "asian man on motorcycle with a large load of cardboard boxes",
+  "a person riding a scooter with folded cardboard"
+ ],
+ "scene_places": []
+}

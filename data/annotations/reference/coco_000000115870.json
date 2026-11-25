@@ -1,0 +1,188 @@
+{
+ "uid": "coco_000000115870",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cell phone",
+  "couch",
+  "cup",
+  "person",
+  "potted plant"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 2,
+  "couch": 3,
+  "person": 5,
+  "cell phone": 1,
+  "book": 3,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    433.98,
+    81.48,
+    142.67,
+    145.65
+   ],
+   "area": 13194.542599999995
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    20.1,
+    267.09,
+    87.12,
+    81.37
+   ],
+   "area": 4664.3118
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    143.22,
+    177.97,
+    316.53,
+    168.76
+   ],
+   "area": 27607.70414999999
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    304.67,
+    198.68,
+    204.86,
+    165.89
+   ],
+   "area": 10388.148750000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    16.02,
+    185.17,
+    63.41,
+    112.87
+   ],
+   "area": 3542.2416500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    63.67,
+    180.52,
+    90.7,
+    116.62
+   ],
+   "area": 5855.415700000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    185.68,
+    243.13,
+    434.98,
+    182.87
+   ],
+   "area": 31810.48324999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    273.52,
+    103.97,
+    59.08,
+    77.2
+   ],
+   "area": 3168.7898
+  },
+  {
+   "category": "person",
+   "bbox": [
+    202.49,
+    66.48,
+    70.68,
+    293.23
+   ],
+   "area": 13136.065750000002
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    77.18,
+    188.58,
+    7.02,
+    15.55
+   ],
+   "area": 56.8043499999999
+  },
+  {
+   "category": "book",
+   "bbox": [
+    372.12,
+    354.5,
+    84.64,
+    52.65
+   ],
+   "area": 2100.6585499999987
+  },
+  {
+   "category": "book",
+   "bbox": [
+    2.53,
+    366.89,
+    69.58,
+    26.68
+   ],
+   "area": 1192.532200000001
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    200.61,
+    152.69,
+    14.69,
+    22.3
+   ],
+   "area": 54.806850000000125
+  },
+  {
+   "category": "book",
+   "bbox": [
+    81.07,
+    300.33,
+    34.53,
+    18.91
+   ],
+   "area": 419.38095000000044
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    337.64,
+    220.96,
+    301.89,
+    197.75
+   ],
+   "area": 16813.32415
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A group of people sitting around two couches.",
+  "A large brown sectional sofa has people on it.",
+  "a group of people all sitting on the couch and doing things",
+  "Some people hanging around in a living room with a big couch.",
+  "A few people are sitting on a long coach together"
+ ],
+ "scene_places": []
+}

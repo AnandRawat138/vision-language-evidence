@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000069795",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "potted plant",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 1,
+  "vase": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    168.53,
+    102.08,
+    251.7,
+    303.02
+   ],
+   "area": 46393.84384999999
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    164.57,
+    208.21,
+    174.55,
+    195.74
+   ],
+   "area": 19843.322250000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A purple flower is in a watering can on the window sill.",
+  "An old watering can used as a window sill planter.",
+  "Lavender flowers are in flower pot on a windowsill.",
+  "a watering can for a vase of purple flowers",
+  "Lilacs in a blue watering can vase sitting outdoors on a ledge."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,73 @@
+{
+ "uid": "coco_000000455219",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cow",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cow": 2,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "cow",
+   "bbox": [
+    247.5,
+    226.11,
+    194.14,
+    140.77
+   ],
+   "area": 15557.439399999997
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    313.76,
+    216.7,
+    177.87,
+    123.94
+   ],
+   "area": 6887.18735
+  },
+  {
+   "category": "person",
+   "bbox": [
+    472.73,
+    202.62,
+    71.83,
+    167.09
+   ],
+   "area": 5892.668349999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    309.29,
+    197.29,
+    25.28,
+    37.36
+   ],
+   "area": 450.67694999999964
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Some people in a field working with some big animals.",
+  "Two men walking two ox on a dirt road",
+  "a couple of cows that are dragging some metal",
+  "A man is using two cows to plow a field.",
+  "A man plowing with oxen on a dirt road."
+ ],
+ "scene_places": [
+  "park",
+  "street"
+ ]
+}

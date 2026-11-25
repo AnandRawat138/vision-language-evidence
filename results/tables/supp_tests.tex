@@ -1,0 +1,52 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Automated tests executed on the CPU-only configuration (38/38 passed; pytest, Python 3.12.7). Covers lexicon mapping, schema coercion, JSON repair, provenance, statement certainty, aggregation, calibration metrics, statistics, image degradation, de-duplication, scheduler OOM/failure/timeout/resume handling and API endpoints including the audit trail.}
+\label{tab:supp_tests}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{llcr}
+\toprule
+Area & Test case & Result & Time (s) \\
+\midrule
+review API & \texttt{test\_overview\_and\_image} & pass & 0.12 \\
+review API & \texttt{test\_review\_audit\_trail} & pass & 0.06 \\
+review API & \texttt{test\_narrative\_and\_group} & pass & 0.05 \\
+review API & \texttt{test\_report} & pass & 0.05 \\
+review API & \texttt{test\_batch\_job\_mock} & pass & 0.39 \\
+core modules & \texttt{test\_map\_term\_synonyms\_and\_plural} & pass & 0.00 \\
+core modules & \texttt{test\_find\_terms\_no\_false\_top} & pass & 0.00 \\
+core modules & \texttt{test\_schema\_coercion} & pass & 0.00 \\
+core modules & \texttt{test\_parse\_fenced\_and\_repair} & pass & 0.00 \\
+core modules & \texttt{test\_parse\_truncated} & pass & 0.00 \\
+core modules & \texttt{test\_parse\_garbage} & pass & 0.00 \\
+core modules & \texttt{test\_observations\_have\_provenance\_and\_token\_conf} & pass & 0.00 \\
+core modules & \texttt{test\_rule\_structurer\_certainty[He wore a red jacket.-jacket-definite]} & pass & 0.00 \\
+core modules & \texttt{test\_rule\_structurer\_certainty[I think he had a blue cap.-hat-hedged]} & pass & 0.00 \\
+core modules & \texttt{test\_rule\_structurer\_certainty[Maybe a backpack, I'm not sure.-bag-hedged]} & pass & 0.00 \\
+core modules & \texttt{test\_rule\_structurer\_certainty[She was not carrying an umbrella.-umbrella-negated]} & pass & 0.00 \\
+core modules & \texttt{test\_rule\_structurer\_certainty[The shirt was black or dark blue.-shirt-hedged]} & pass & 0.00 \\
+core modules & \texttt{test\_rule\_structurer\_missing\_and\_color} & pass & 0.00 \\
+core modules & \texttt{test\_llm\_structurer\_never\_upgrades\_and\_drops\_ungrounded} & pass & 0.00 \\
+core modules & \texttt{test\_flickr\_sentence\_spans} & pass & 0.00 \\
+core modules & \texttt{test\_aggregation\_support\_and\_contradiction} & pass & 0.00 \\
+core modules & \texttt{test\_aggregation\_quality\_weighting} & pass & 0.00 \\
+core modules & \texttt{test\_narrative\_vs\_image} & pass & 0.00 \\
+core modules & \texttt{test\_calibration\_metrics} & pass & 0.00 \\
+core modules & \texttt{test\_combiner\_fits} & pass & 0.86 \\
+core modules & \texttt{test\_set\_metrics\_and\_chair} & pass & 0.00 \\
+core modules & \texttt{test\_vqa\_accuracy} & pass & 0.00 \\
+core modules & \texttt{test\_stats} & pass & 0.00 \\
+core modules & \texttt{test\_quality\_and\_degradation} & pass & 0.03 \\
+core modules & \texttt{test\_dedup} & pass & 0.00 \\
+batch scheduler & \texttt{test\_static\_all\_ok} & pass & 0.25 \\
+batch scheduler & \texttt{test\_independent\_batch\_one} & pass & 0.25 \\
+batch scheduler & \texttt{test\_oom\_split} & pass & 0.25 \\
+batch scheduler & \texttt{test\_failure\_isolated\_by\_bisection} & pass & 0.25 \\
+batch scheduler & \texttt{test\_timeout} & pass & 0.75 \\
+batch scheduler & \texttt{test\_resume\_checkpoint} & pass & 0.51 \\
+batch scheduler & \texttt{test\_adaptive\_grows\_and\_respects\_oom} & pass & 0.50 \\
+batch scheduler & \texttt{test\_online\_dynamic} & pass & 0.50 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

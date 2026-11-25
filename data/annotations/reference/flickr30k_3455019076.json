@@ -1,0 +1,202 @@
+{
+ "uid": "flickr30k_3455019076",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": []
+ },
+ "accessories": [
+  "glasses"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman with long blond-hair is standing over her bicycle while other bicycles are around her .",
+  "Blond woman in black cycling outfit and bicycle helmet getting on a ten speed bike .",
+  "Blond bicyclist wearing a helmet and pink goggles , looks down .",
+  "A female wearing bicycle racing gear and a helmet is on a bike .",
+  "A woman in black and white is on a bicycle ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "119432",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "119439",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "long blond-hair",
+   "start": 13,
+   "end": 28
+  },
+  {
+   "entity_id": "119433",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "her bicycle",
+   "start": 46,
+   "end": 57
+  },
+  {
+   "entity_id": "119433",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "other bicycles",
+   "start": 64,
+   "end": 78
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "her",
+   "start": 90,
+   "end": 93
+  },
+  {
+   "entity_id": "119432",
+   "types": [
+    "people"
+   ],
+   "phrase": "Blond woman",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "119435",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black cycling outfit",
+   "start": 15,
+   "end": 35
+  },
+  {
+   "entity_id": "119434",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "bicycle helmet",
+   "start": 40,
+   "end": 54
+  },
+  {
+   "entity_id": "119433",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a ten speed bike",
+   "start": 66,
+   "end": 82
+  },
+  {
+   "entity_id": "119432",
+   "types": [
+    "people"
+   ],
+   "phrase": "Blond bicyclist",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "119434",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a helmet",
+   "start": 24,
+   "end": 32
+  },
+  {
+   "entity_id": "119438",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "pink goggles",
+   "start": 37,
+   "end": 49
+  },
+  {
+   "entity_id": "119432",
+   "types": [
+    "people"
+   ],
+   "phrase": "A female",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "119435",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "bicycle racing gear",
+   "start": 17,
+   "end": 36
+  },
+  {
+   "entity_id": "119434",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a helmet",
+   "start": 41,
+   "end": 49
+  },
+  {
+   "entity_id": "119433",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 56,
+   "end": 62
+  },
+  {
+   "entity_id": "119432",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "119440",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "black and white",
+   "start": 11,
+   "end": 26
+  },
+  {
+   "entity_id": "119433",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bicycle",
+   "start": 33,
+   "end": 42
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000343803",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "frisbee",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "frisbee": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    19.15,
+    135.18,
+    314.89,
+    474.1
+   ],
+   "area": 58736.34025000002
+  },
+  {
+   "category": "frisbee",
+   "bbox": [
+    213.41,
+    299.58,
+    72.39,
+    33.77
+   ],
+   "area": 1553.53875
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man has a frisbee in his hand and is standing up.",
+  "A young man holding a Frisbee in a throwing position.",
+  "A young man playing out side with a disc.",
+  "The young man in jeans is throwing a Frisbee.",
+  "A person on field with a Frisbee in their hand."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,13 @@
+# Local configuration: RTX 3060 Laptop GPU (6 GB), Windows 11, HF Transformers backend.
+# The model is fixed for all reported experiments; changing it requires a new run name.
+backend: hf
+timeout_s: 900
+hf:
+  model_id: Qwen/Qwen2.5-VL-3B-Instruct
+  revision: null            # resolved commit hash is recorded in each run's config.json
+  quantization: nf4         # bitsandbytes 4-bit NF4, double quant, fp16 compute
+  dtype: float16
+  min_pixels: 100352        # 128 * 28 * 28
+  max_pixels: 200704        # 448 * 448  (~256 visual tokens per image)
+  repetition_penalty: 1.05
+  attn_implementation: sdpa

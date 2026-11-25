@@ -1,0 +1,156 @@
+{
+ "uid": "coco_000000038829",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "bicycle",
+  "motorcycle",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 2,
+  "motorcycle": 3,
+  "person": 6,
+  "backpack": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    99.17,
+    208.68,
+    184.58,
+    202.94
+   ],
+   "area": 15079.643299999996
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    292.93,
+    261.56,
+    134.07,
+    146.92
+   ],
+   "area": 8592.1953
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    2.38,
+    236.97,
+    107.63,
+    147.69
+   ],
+   "area": 12332.645350000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    213.98,
+    82.55,
+    134.34,
+    309.93
+   ],
+   "area": 16965.666250000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    414.09,
+    128.11,
+    38.34,
+    100.21
+   ],
+   "area": 1760.6722000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    439.47,
+    127.86,
+    101.72,
+    195.75
+   ],
+   "area": 8692.758649999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    311.85,
+    100.75,
+    95.0,
+    259.08
+   ],
+   "area": 11952.9864
+  },
+  {
+   "category": "person",
+   "bbox": [
+    584.86,
+    138.26,
+    55.14,
+    117.99
+   ],
+   "area": 3116.9602
+  },
+  {
+   "category": "person",
+   "bbox": [
+    392.03,
+    60.98,
+    26.61,
+    72.48
+   ],
+   "area": 861.4256500000006
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    533.19,
+    154.39,
+    106.81,
+    87.29
+   ],
+   "area": 3152.22685
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    166.0,
+    199.43,
+    49.9,
+    44.14
+   ],
+   "area": 1667.9475499999999
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    396.5,
+    193.75,
+    238.98,
+    168.4
+   ],
+   "area": 19514.658499999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man riding a bicycle with a boy on the back of it.",
+  "a man on his bike with his friend riding on the back",
+  "Two men ride a big along a busy street.",
+  "Two boys riding on a single bicycle on a city street",
+  "Two men are on a bicycle and a third is on a scooter."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

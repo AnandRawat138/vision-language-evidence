@@ -1,0 +1,235 @@
+{
+ "uid": "vqa_000000434159",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "clock",
+  "person",
+  "traffic light",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 1,
+  "traffic light": 3,
+  "person": 7,
+  "clock": 2,
+  "car": 1
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    135.11,
+    342.38,
+    71.76,
+    44.02
+   ],
+   "area": 1966.0087000000005
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    503.47,
+    294.09,
+    19.22,
+    42.38
+   ],
+   "area": 673.2106500000009
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    42.97,
+    318.08,
+    13.27,
+    26.73
+   ],
+   "area": 250.37945000000013
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    221.03,
+    308.48,
+    14.76,
+    30.48
+   ],
+   "area": 392.4719999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    233.68,
+    353.59,
+    17.53,
+    48.88
+   ],
+   "area": 491.7431500000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    207.95,
+    362.95,
+    12.07,
+    38.92
+   ],
+   "area": 205.92260000000033
+  },
+  {
+   "category": "person",
+   "bbox": [
+    221.6,
+    355.36,
+    12.18,
+    45.91
+   ],
+   "area": 283.1937
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    37.91,
+    218.76,
+    9.95,
+    13.13
+   ],
+   "area": 100.67419999999997
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    3.51,
+    218.36,
+    7.93,
+    12.79
+   ],
+   "area": 75.2554
+  },
+  {
+   "category": "person",
+   "bbox": [
+    195.4,
+    375.21,
+    6.35,
+    12.12
+   ],
+   "area": 66.53474999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    179.06,
+    361.81,
+    12.19,
+    37.95
+   ],
+   "area": 260.6645999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    64.27,
+    358.17,
+    9.2,
+    25.84
+   ],
+   "area": 154.97635000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    189.23,
+    362.8,
+    7.45,
+    36.38
+   ],
+   "area": 127.4551500000002
+  },
+  {
+   "category": "car",
+   "bbox": [
+    180.85,
+    352.8,
+    40.76,
+    34.14
+   ],
+   "area": 788.0377500000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A grey castle with various towers and windows.",
+  "A 3D picture of a tall brick palace behind traffic lights.",
+  "People standing in front of grey blocked structure.",
+  "an old black and white photo of a large building",
+  "The building is massive and represents an old presence and architecture."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 434159000,
+   "question": "Where was the picture taken?",
+   "answer_type": "other",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "england",
+   "answers": [
+    "prison",
+    "london",
+    "london",
+    "england",
+    "europe",
+    "castle",
+    "outside",
+    "1975",
+    "at castle",
+    "england"
+   ]
+  },
+  {
+   "question_id": 434159001,
+   "question": "Does this picture look strange?",
+   "answer_type": "yes/no",
+   "question_type": "does this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 434159002,
+   "question": "What color is the building?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "gray",
+   "answers": [
+    "white",
+    "gray",
+    "gray",
+    "gray",
+    "gray",
+    "black and white",
+    "gray",
+    "gray",
+    "gray",
+    "gray"
+   ]
+  }
+ ]
+}

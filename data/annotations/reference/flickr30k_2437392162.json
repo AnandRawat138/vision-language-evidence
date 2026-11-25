@@ -1,0 +1,172 @@
+{
+ "uid": "flickr30k_2437392162",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Seven kids are playing , 6 on the rope climber and 1 on the big blue and silver play structure .",
+  "A bunch of kids climbing sliding and playing on a really cool playground .",
+  "Many children playing at a playground jungle-gym .",
+  "Children play in a park with bright blue tunnels .",
+  "Children climbing on ropes at a park ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "49403",
+   "types": [
+    "people"
+   ],
+   "phrase": "Seven kids",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "49409",
+   "types": [
+    "other"
+   ],
+   "phrase": "6",
+   "start": 25,
+   "end": 26
+  },
+  {
+   "entity_id": "49406",
+   "types": [
+    "people"
+   ],
+   "phrase": "the rope climber",
+   "start": 30,
+   "end": 46
+  },
+  {
+   "entity_id": "49408",
+   "types": [
+    "other"
+   ],
+   "phrase": "1",
+   "start": 51,
+   "end": 52
+  },
+  {
+   "entity_id": "49411",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the big blue",
+   "start": 56,
+   "end": 68
+  },
+  {
+   "entity_id": "49407",
+   "types": [
+    "other"
+   ],
+   "phrase": "silver play structure",
+   "start": 73,
+   "end": 94
+  },
+  {
+   "entity_id": "49402",
+   "types": [
+    "people"
+   ],
+   "phrase": "A bunch of kids",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "49404",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a really cool playground",
+   "start": 48,
+   "end": 72
+  },
+  {
+   "entity_id": "49403",
+   "types": [
+    "people"
+   ],
+   "phrase": "Many children",
+   "start": 0,
+   "end": 13
+  },
+  {
+   "entity_id": "49406",
+   "types": [
+    "other"
+   ],
+   "phrase": "a playground jungle-gym",
+   "start": 25,
+   "end": 48
+  },
+  {
+   "entity_id": "49403",
+   "types": [
+    "people"
+   ],
+   "phrase": "Children",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "49405",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a park",
+   "start": 17,
+   "end": 23
+  },
+  {
+   "entity_id": "49411",
+   "types": [
+    "scene"
+   ],
+   "phrase": "bright blue tunnels",
+   "start": 29,
+   "end": 48
+  },
+  {
+   "entity_id": "49402",
+   "types": [
+    "people"
+   ],
+   "phrase": "Children",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "49406",
+   "types": [
+    "other"
+   ],
+   "phrase": "ropes",
+   "start": 21,
+   "end": 26
+  },
+  {
+   "entity_id": "49405",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a park",
+   "start": 30,
+   "end": 36
+  }
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "uid": "flickr30k_1157215900",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A woman in an outdoor marketplace , wearing a large cone shaped hat , standing behind two large baskets containing loaves of bread .",
+  "A woman in a hat is either selling or buying bread that is stacked in two different woven baskets .",
+  "An older person sits on the street to sell their bread .",
+  "A person is sitting behind two large baskets of bread .",
+  "An older asian woman displaying bread for sale"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "4090",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4095",
+   "types": [
+    "other"
+   ],
+   "phrase": "an outdoor marketplace",
+   "start": 11,
+   "end": 33
+  },
+  {
+   "entity_id": "4091",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a large cone shaped hat",
+   "start": 44,
+   "end": 67
+  },
+  {
+   "entity_id": "4094",
+   "types": [
+    "other"
+   ],
+   "phrase": "two large baskets",
+   "start": 86,
+   "end": 103
+  },
+  {
+   "entity_id": "4092",
+   "types": [
+    "other"
+   ],
+   "phrase": "loaves of bread",
+   "start": 115,
+   "end": 130
+  },
+  {
+   "entity_id": "4090",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "4091",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a hat",
+   "start": 11,
+   "end": 16
+  },
+  {
+   "entity_id": "4093",
+   "types": [
+    "other"
+   ],
+   "phrase": "either selling",
+   "start": 20,
+   "end": 34
+  },
+  {
+   "entity_id": "4092",
+   "types": [
+    "other"
+   ],
+   "phrase": "bread",
+   "start": 45,
+   "end": 50
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 51,
+   "end": 55
+  },
+  {
+   "entity_id": "4094",
+   "types": [
+    "other"
+   ],
+   "phrase": "two different woven baskets",
+   "start": 70,
+   "end": 97
+  },
+  {
+   "entity_id": "4090",
+   "types": [
+    "people"
+   ],
+   "phrase": "An older person",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "4096",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the street",
+   "start": 24,
+   "end": 34
+  },
+  {
+   "entity_id": "4092",
+   "types": [
+    "other"
+   ],
+   "phrase": "their bread",
+   "start": 43,
+   "end": 54
+  },
+  {
+   "entity_id": "4090",
+   "types": [
+    "people"
+   ],
+   "phrase": "A person",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "4094",
+   "types": [
+    "other"
+   ],
+   "phrase": "two large baskets of bread",
+   "start": 27,
+   "end": 53
+  },
+  {
+   "entity_id": "4090",
+   "types": [
+    "people"
+   ],
+   "phrase": "An older asian woman",
+   "start": 0,
+   "end": 20
+  },
+  {
+   "entity_id": "4092",
+   "types": [
+    "other"
+   ],
+   "phrase": "bread",
+   "start": 32,
+   "end": 37
+  },
+  {
+   "entity_id": "4093",
+   "types": [
+    "other"
+   ],
+   "phrase": "sale",
+   "start": 42,
+   "end": 46
+  }
+ ],
+ "scene_places": []
+}

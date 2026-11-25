@@ -1,0 +1,51 @@
+{
+ "review_138": {
+  "author": "yes",
+  "n": 59,
+  "images": 40,
+  "answers": {
+   "yes": 54,
+   "no": 5
+  },
+  "visible_frac": 0.9152542372881356,
+  "visible_ci": [
+   0.8132056645283031,
+   0.9719087432790161
+  ],
+  "in_reference": 53,
+  "table": {
+   "yes|inref=True": 52,
+   "yes|inref=False": 2,
+   "no|inref=False": 4,
+   "no|inref=True": 1
+  },
+  "agree": 56,
+  "disagreements": [
+   [
+    "coco_000000371677",
+    "book",
+    "yes",
+    false,
+    11051
+   ],
+   [
+    "coco_000000001675",
+    "laptop",
+    "yes",
+    false,
+    2445
+   ],
+   [
+    "coco_000000368900",
+    "chair",
+    "no",
+    true,
+    8210
+   ]
+  ],
+  "median_ms": 2088,
+  "min_ms": 1066,
+  "started": "2026-11-25T06:18:29.618Z",
+  "ended": "2026-11-25T06:21:22.537Z"
+ }
+}

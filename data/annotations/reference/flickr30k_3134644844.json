@@ -1,0 +1,207 @@
+{
+ "uid": "flickr30k_3134644844",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man with a guitar playing to an ill little girl in a hospital bed .",
+  "A man is playing a guitar for a little girl in a hospital .",
+  "A man is playing the guitar for a child in a hospital bed",
+  "A man plays a guitar for a sick child in a hospital",
+  "A man plays guitar for a girl in the hospital ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "95875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 11,
+   "end": 19
+  },
+  {
+   "entity_id": "95876",
+   "types": [
+    "people"
+   ],
+   "phrase": "an ill little girl",
+   "start": 31,
+   "end": 49
+  },
+  {
+   "entity_id": "95879",
+   "types": [
+    "other"
+   ],
+   "phrase": "a hospital bed",
+   "start": 53,
+   "end": 67
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 17,
+   "end": 25
+  },
+  {
+   "entity_id": "95876",
+   "types": [
+    "people"
+   ],
+   "phrase": "a little girl",
+   "start": 30,
+   "end": 43
+  },
+  {
+   "entity_id": "95878",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a hospital",
+   "start": 47,
+   "end": 57
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "the guitar",
+   "start": 17,
+   "end": 27
+  },
+  {
+   "entity_id": "95876",
+   "types": [
+    "people"
+   ],
+   "phrase": "a child",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "95879",
+   "types": [
+    "other"
+   ],
+   "phrase": "a hospital bed",
+   "start": 43,
+   "end": 57
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "a guitar",
+   "start": 12,
+   "end": 20
+  },
+  {
+   "entity_id": "95876",
+   "types": [
+    "people"
+   ],
+   "phrase": "a sick child",
+   "start": 25,
+   "end": 37
+  },
+  {
+   "entity_id": "95878",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a hospital",
+   "start": 41,
+   "end": 51
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "95875",
+   "types": [
+    "instruments"
+   ],
+   "phrase": "guitar",
+   "start": 12,
+   "end": 18
+  },
+  {
+   "entity_id": "95876",
+   "types": [
+    "people"
+   ],
+   "phrase": "a girl",
+   "start": 23,
+   "end": 29
+  },
+  {
+   "entity_id": "95878",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the hospital",
+   "start": 33,
+   "end": 45
+  }
+ ],
+ "scene_places": []
+}

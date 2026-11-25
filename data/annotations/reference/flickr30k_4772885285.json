@@ -1,0 +1,206 @@
+{
+ "uid": "flickr30k_4772885285",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "handbag",
+  "person",
+  "umbrella"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "dress": [
+   "white"
+  ],
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A lady with a black bag is walking in the rain with her blue umbrella .",
+  "A woman in white is holding a blue umbrella and walking in the rain .",
+  "A woman in a white dress is holding a blue umbrella in the rain .",
+  "lady wearing white shirt with blue umbrella in the rain .",
+  "A woman alone in the rain with a blue umbrella ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "201352",
+   "types": [
+    "people"
+   ],
+   "phrase": "A lady",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "201356",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a black bag",
+   "start": 12,
+   "end": 23
+  },
+  {
+   "entity_id": "201354",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rain",
+   "start": 38,
+   "end": 46
+  },
+  {
+   "entity_id": "201353",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "her blue umbrella",
+   "start": 52,
+   "end": 69
+  },
+  {
+   "entity_id": "201352",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "201355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white",
+   "start": 11,
+   "end": 16
+  },
+  {
+   "entity_id": "201353",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue umbrella",
+   "start": 28,
+   "end": 43
+  },
+  {
+   "entity_id": "201354",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rain",
+   "start": 59,
+   "end": 67
+  },
+  {
+   "entity_id": "201352",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "201355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white dress",
+   "start": 11,
+   "end": 24
+  },
+  {
+   "entity_id": "201353",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue umbrella",
+   "start": 36,
+   "end": 51
+  },
+  {
+   "entity_id": "201354",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rain",
+   "start": 55,
+   "end": 63
+  },
+  {
+   "entity_id": "201352",
+   "types": [
+    "people"
+   ],
+   "phrase": "lady",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "201355",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "white shirt",
+   "start": 13,
+   "end": 24
+  },
+  {
+   "entity_id": "201353",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue umbrella",
+   "start": 30,
+   "end": 43
+  },
+  {
+   "entity_id": "201354",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rain",
+   "start": 47,
+   "end": 55
+  },
+  {
+   "entity_id": "201352",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "201354",
+   "types": [
+    "other"
+   ],
+   "phrase": "the rain",
+   "start": 17,
+   "end": 25
+  },
+  {
+   "entity_id": "201353",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue umbrella",
+   "start": 31,
+   "end": 46
+  }
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,205 @@
+{
+ "uid": "flickr30k_524036004",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shorts": [
+   "blue",
+   "red"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A boy in blue and red trunks , with a green ball in his hand . is jumping into a pool .",
+  "Boy in red and blue flowered trunks jumps into pool holding green ball .",
+  "A boy is jumping into the water with a ball in his hand .",
+  "A boy jumps into a pool while holding a ball .",
+  "boy in floral swim trunks jumps into the pool"
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "231853",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "231856",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "blue and red trunks",
+   "start": 9,
+   "end": 28
+  },
+  {
+   "entity_id": "231854",
+   "types": [
+    "other"
+   ],
+   "phrase": "a green ball",
+   "start": 36,
+   "end": 48
+  },
+  {
+   "entity_id": "231857",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hand",
+   "start": 52,
+   "end": 60
+  },
+  {
+   "entity_id": "231855",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a pool",
+   "start": 79,
+   "end": 85
+  },
+  {
+   "entity_id": "231853",
+   "types": [
+    "people"
+   ],
+   "phrase": "Boy",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "231856",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "red and blue flowered trunks",
+   "start": 7,
+   "end": 35
+  },
+  {
+   "entity_id": "231855",
+   "types": [
+    "scene"
+   ],
+   "phrase": "pool",
+   "start": 47,
+   "end": 51
+  },
+  {
+   "entity_id": "231854",
+   "types": [
+    "other"
+   ],
+   "phrase": "green ball",
+   "start": 60,
+   "end": 70
+  },
+  {
+   "entity_id": "231853",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "231858",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 22,
+   "end": 31
+  },
+  {
+   "entity_id": "231854",
+   "types": [
+    "other"
+   ],
+   "phrase": "a ball",
+   "start": 37,
+   "end": 43
+  },
+  {
+   "entity_id": "231857",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hand",
+   "start": 47,
+   "end": 55
+  },
+  {
+   "entity_id": "231853",
+   "types": [
+    "people"
+   ],
+   "phrase": "A boy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "231855",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a pool",
+   "start": 17,
+   "end": 23
+  },
+  {
+   "entity_id": "231854",
+   "types": [
+    "other"
+   ],
+   "phrase": "a ball",
+   "start": 38,
+   "end": 44
+  },
+  {
+   "entity_id": "231853",
+   "types": [
+    "people"
+   ],
+   "phrase": "boy",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "231856",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "floral swim trunks",
+   "start": 7,
+   "end": 25
+  },
+  {
+   "entity_id": "231855",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the pool",
+   "start": 37,
+   "end": 45
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

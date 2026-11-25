@@ -1,0 +1,256 @@
+{
+ "uid": "flickr30k_3809758561",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "person",
+  "tie"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ],
+  "pants": [
+   "beige"
+  ]
+ },
+ "accessories": [
+  "glasses",
+  "tie"
+ ],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man stands in front of a street vending booth with his hands crossed awkwardly in front of him while two yellow taxis are seen in the background of the cityscape .",
+  "A street vendor that sells ties and sunglasses is standing with his hands together looking at the camera .",
+  "A main in a white shirt and tan pants stands in front of a stand that sells various goods .",
+  "A man is standing in front of a street stand with folded hands .",
+  "A man with a white shirt standing next to a vending stall ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "143485",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "143486",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street vending booth",
+   "start": 25,
+   "end": 47
+  },
+  {
+   "entity_id": "143488",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hands",
+   "start": 53,
+   "end": 62
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "him",
+   "start": 93,
+   "end": 96
+  },
+  {
+   "entity_id": "143495",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "two yellow taxis",
+   "start": 103,
+   "end": 119
+  },
+  {
+   "entity_id": "143492",
+   "types": [
+    "other"
+   ],
+   "phrase": "the background of the cityscape",
+   "start": 132,
+   "end": 163
+  },
+  {
+   "entity_id": "143485",
+   "types": [
+    "people"
+   ],
+   "phrase": "A street vendor",
+   "start": 0,
+   "end": 15
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 16,
+   "end": 20
+  },
+  {
+   "entity_id": "143493",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "ties",
+   "start": 27,
+   "end": 31
+  },
+  {
+   "entity_id": "143490",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "sunglasses",
+   "start": 36,
+   "end": 46
+  },
+  {
+   "entity_id": "143488",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "his hands",
+   "start": 64,
+   "end": 73
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the camera",
+   "start": 94,
+   "end": 104
+  },
+  {
+   "entity_id": "143485",
+   "types": [
+    "other"
+   ],
+   "phrase": "A main",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "143487",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 10,
+   "end": 23
+  },
+  {
+   "entity_id": "143491",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "tan pants",
+   "start": 28,
+   "end": 37
+  },
+  {
+   "entity_id": "143486",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a stand",
+   "start": 57,
+   "end": 64
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 65,
+   "end": 69
+  },
+  {
+   "entity_id": "143494",
+   "types": [
+    "other"
+   ],
+   "phrase": "various goods",
+   "start": 76,
+   "end": 89
+  },
+  {
+   "entity_id": "143485",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "143486",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a street stand",
+   "start": 30,
+   "end": 44
+  },
+  {
+   "entity_id": "143488",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "folded hands",
+   "start": 50,
+   "end": 62
+  },
+  {
+   "entity_id": "143485",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "143487",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 11,
+   "end": 24
+  },
+  {
+   "entity_id": "143486",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a vending stall",
+   "start": 42,
+   "end": 57
+  }
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

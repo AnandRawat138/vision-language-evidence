@@ -1,0 +1,235 @@
+{
+ "uid": "coco_000000405279",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 4,
+  "bench": 2,
+  "kite": 14
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    314.14,
+    336.92,
+    12.2,
+    32.62
+   ],
+   "area": 226.2700000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    413.28,
+    335.21,
+    19.95,
+    40.76
+   ],
+   "area": 454.12900000000053
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    411.74,
+    350.37,
+    70.98,
+    26.61
+   ],
+   "area": 1102.1464999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    518.29,
+    325.01,
+    4.27,
+    8.98
+   ],
+   "area": 23.08775000000017
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    516.34,
+    331.38,
+    13.76,
+    10.57
+   ],
+   "area": 81.81325000000056
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    522.56,
+    180.74,
+    17.79,
+    14.63
+   ],
+   "area": 174.95310000000006
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    392.75,
+    201.15,
+    33.61,
+    52.96
+   ],
+   "area": 898.6642499999997
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    149.27,
+    129.79,
+    44.64,
+    44.93
+   ],
+   "area": 381.3135000000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    67.53,
+    227.99,
+    19.29,
+    18.21
+   ],
+   "area": 107.19254999999994
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    36.21,
+    234.88,
+    29.94,
+    35.7
+   ],
+   "area": 387.9803000000002
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    130.6,
+    254.8,
+    11.38,
+    12.45
+   ],
+   "area": 77.60955000000006
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    329.25,
+    179.38,
+    16.92,
+    15.16
+   ],
+   "area": 172.22755000000032
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    273.23,
+    283.27,
+    7.58,
+    10.97
+   ],
+   "area": 64.10795000000013
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    281.81,
+    259.24,
+    8.79,
+    8.85
+   ],
+   "area": 29.856950000000115
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    390.92,
+    264.56,
+    11.17,
+    15.58
+   ],
+   "area": 90.37974999999965
+  },
+  {
+   "category": "person",
+   "bbox": [
+    291.36,
+    334.18,
+    15.55,
+    33.01
+   ],
+   "area": 248.11185000000003
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    185.91,
+    276.75,
+    4.73,
+    7.89
+   ],
+   "area": 19.88909999999996
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    363.88,
+    262.27,
+    8.21,
+    5.0
+   ],
+   "area": 19.174999999999898
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    356.5,
+    231.39,
+    10.8,
+    12.75
+   ],
+   "area": 42.74330000000028
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    32,
+    128,
+    506,
+    171
+   ],
+   "area": 6570
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Kites are flying in the sky over the water at a park.",
+  "People flying kites over a lake in a park",
+  "People flying kites in a park next to a lake.",
+  "some people a bench some grass trees and kites",
+  "A filed full of people flying colorful kites."
+ ],
+ "scene_places": [
+  "park",
+  "water"
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "uid": "flickr30k_3880726770",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "dress": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Spices and other goods are being put in display in what appears to be a local village shop .",
+  "People in an outdoor market with colorful plastic containers filled with dried food .",
+  "A woman in a blue dress is sitting in front of buckets of hay and grain .",
+  "Women are selling grains in a stall in an urban environment .",
+  "two tubs hold wood chips , and people stand around ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "146832",
+   "types": [
+    "other"
+   ],
+   "phrase": "Spices",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "146838",
+   "types": [
+    "other"
+   ],
+   "phrase": "other goods",
+   "start": 11,
+   "end": 22
+  },
+  {
+   "entity_id": "146843",
+   "types": [
+    "other"
+   ],
+   "phrase": "display",
+   "start": 40,
+   "end": 47
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "what",
+   "start": 51,
+   "end": 55
+  },
+  {
+   "entity_id": "146836",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a local village shop",
+   "start": 70,
+   "end": 90
+  },
+  {
+   "entity_id": "146831",
+   "types": [
+    "people"
+   ],
+   "phrase": "People",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "146836",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an outdoor market",
+   "start": 10,
+   "end": 27
+  },
+  {
+   "entity_id": "146837",
+   "types": [
+    "other"
+   ],
+   "phrase": "colorful plastic containers",
+   "start": 33,
+   "end": 60
+  },
+  {
+   "entity_id": "146833",
+   "types": [
+    "other"
+   ],
+   "phrase": "dried food",
+   "start": 73,
+   "end": 83
+  },
+  {
+   "entity_id": "146840",
+   "types": [
+    "people"
+   ],
+   "phrase": "A woman",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "146845",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue dress",
+   "start": 11,
+   "end": 23
+  },
+  {
+   "entity_id": "146834",
+   "types": [
+    "other"
+   ],
+   "phrase": "buckets of hay",
+   "start": 47,
+   "end": 61
+  },
+  {
+   "entity_id": "146833",
+   "types": [
+    "other"
+   ],
+   "phrase": "grain",
+   "start": 66,
+   "end": 71
+  },
+  {
+   "entity_id": "146840",
+   "types": [
+    "people"
+   ],
+   "phrase": "Women",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "146835",
+   "types": [
+    "other"
+   ],
+   "phrase": "grains",
+   "start": 18,
+   "end": 24
+  },
+  {
+   "entity_id": "146836",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a stall",
+   "start": 28,
+   "end": 35
+  },
+  {
+   "entity_id": "146842",
+   "types": [
+    "other"
+   ],
+   "phrase": "an urban environment",
+   "start": 39,
+   "end": 59
+  },
+  {
+   "entity_id": "146844",
+   "types": [
+    "other"
+   ],
+   "phrase": "two tubs",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "146833",
+   "types": [
+    "other"
+   ],
+   "phrase": "wood chips",
+   "start": 14,
+   "end": 24
+  },
+  {
+   "entity_id": "146831",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 31,
+   "end": 37
+  }
+ ],
+ "scene_places": [
+  "store"
+ ]
+}

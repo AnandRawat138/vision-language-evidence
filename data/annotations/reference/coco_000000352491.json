@@ -1,0 +1,92 @@
+{
+ "uid": "coco_000000352491",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1,
+  "person": 5
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    124.49,
+    147.98,
+    514.52,
+    277.54
+   ],
+   "area": 78572.36489999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    469.36,
+    268.58,
+    16.71,
+    11.1
+   ],
+   "area": 85.89395000000009
+  },
+  {
+   "category": "person",
+   "bbox": [
+    367.13,
+    261.11,
+    15.39,
+    10.59
+   ],
+   "area": 92.24900000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    62.53,
+    243.45,
+    9.02,
+    21.69
+   ],
+   "area": 124.31665000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    76.75,
+    244.78,
+    4.71,
+    14.59
+   ],
+   "area": 41.74439999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    531.53,
+    266.6,
+    22.57,
+    17.3
+   ],
+   "area": 256.57340000000033
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A train sitting idle in an empty train station",
+  "A very long train parked in front of a train station.",
+  "A long white train has a blue pin stripe.",
+  "A passenger train on the outer track at a railway station.",
+  "The train is traveling down  the railroad tracks."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

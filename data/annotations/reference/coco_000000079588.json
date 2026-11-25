@@ -1,0 +1,90 @@
+{
+ "uid": "coco_000000079588",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 1,
+  "person": 5
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    207.9,
+    127.0,
+    30.35,
+    51.11
+   ],
+   "area": 1194.3409499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    409.62,
+    375.32,
+    14.02,
+    40.66
+   ],
+   "area": 332.6969000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    302.38,
+    379.98,
+    13.01,
+    42.22
+   ],
+   "area": 325.1321500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    390.59,
+    377.72,
+    13.46,
+    39.71
+   ],
+   "area": 283.9995999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    286.96,
+    383.36,
+    17.52,
+    39.37
+   ],
+   "area": 349.30390000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    320.0,
+    384.83,
+    8.37,
+    21.23
+   ],
+   "area": 98.69299999999983
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Some people standing in front of a large building.",
+  "A courtyard with people walking about it next to clock tower.",
+  "A very old building has a large clock tower.",
+  "Four people walk through the courtyard of a large building.",
+  "An old stone and brick building three stories high."
+ ],
+ "scene_places": []
+}

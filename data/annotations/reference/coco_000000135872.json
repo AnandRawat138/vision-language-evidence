@@ -1,0 +1,160 @@
+{
+ "uid": "coco_000000135872",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "cup",
+  "keyboard",
+  "laptop",
+  "mouse",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tv": 2,
+  "chair": 1,
+  "laptop": 1,
+  "keyboard": 2,
+  "book": 1,
+  "cup": 1,
+  "mouse": 4
+ },
+ "object_boxes": [
+  {
+   "category": "tv",
+   "bbox": [
+    270.83,
+    42.63,
+    88.49,
+    100.84
+   ],
+   "area": 7747.423350000002
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    191.05,
+    177.84,
+    33.46,
+    88.92
+   ],
+   "area": 569.8705999999984
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    389.27,
+    144.94,
+    149.08,
+    246.63
+   ],
+   "area": 12109.3627
+  },
+  {
+   "category": "laptop",
+   "bbox": [
+    185.48,
+    174.43,
+    110.34,
+    97.61
+   ],
+   "area": 3092.7091500000015
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    309.29,
+    167.66,
+    60.1,
+    29.41
+   ],
+   "area": 798.5444500000002
+  },
+  {
+   "category": "keyboard",
+   "bbox": [
+    333.18,
+    176.71,
+    70.46,
+    28.9
+   ],
+   "area": 1092.4242499999996
+  },
+  {
+   "category": "book",
+   "bbox": [
+    298.76,
+    207.61,
+    67.51,
+    31.14
+   ],
+   "area": 1584.37845
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    378.66,
+    141.38,
+    17.36,
+    18.12
+   ],
+   "area": 250.0297999999999
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    407.87,
+    157.0,
+    21.24,
+    9.22
+   ],
+   "area": 148.50254999999993
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    409.51,
+    169.99,
+    4.16,
+    2.84
+   ],
+   "area": 5.116799999999988
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    410.16,
+    166.91,
+    16.95,
+    9.72
+   ],
+   "area": 100.81559999999992
+  },
+  {
+   "category": "mouse",
+   "bbox": [
+    382.59,
+    168.76,
+    19.65,
+    7.01
+   ],
+   "area": 111.26415000000026
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A desk with both a laptop computer and a desktop computer.",
+  "A desk containing a desktop and laptop computers.",
+  "A home office desk with a desktop computer, large flat screen monitor, and laptop computer on it.",
+  "a desk with a computer  a laptop and monitor",
+  "a desk with a laptop and a desktop computer"
+ ],
+ "scene_places": []
+}

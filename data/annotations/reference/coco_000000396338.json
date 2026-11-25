@@ -1,0 +1,160 @@
+{
+ "uid": "coco_000000396338",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "car",
+  "handbag",
+  "motorcycle",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 2,
+  "person": 5,
+  "truck": 2,
+  "backpack": 1,
+  "motorcycle": 1,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    133.15,
+    291.09,
+    289.26
+   ],
+   "area": 61441.90460000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    302.23,
+    182.28,
+    32.46,
+    100.66
+   ],
+   "area": 1940.9261999999985
+  },
+  {
+   "category": "person",
+   "bbox": [
+    174.44,
+    179.88,
+    20.37,
+    61.11
+   ],
+   "area": 838.7615500000004
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    388.62,
+    105.39,
+    233.17,
+    182.32
+   ],
+   "area": 28033.0762
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    116.11,
+    155.45,
+    166.96,
+    96.91
+   ],
+   "area": 12086.302000000003
+  },
+  {
+   "category": "backpack",
+   "bbox": [
+    290.47,
+    214.25,
+    22.06,
+    30.68
+   ],
+   "area": 502.69394999999963
+  },
+  {
+   "category": "person",
+   "bbox": [
+    569.24,
+    178.72,
+    29.33,
+    20.9
+   ],
+   "area": 385.54019999999974
+  },
+  {
+   "category": "person",
+   "bbox": [
+    415.92,
+    175.48,
+    63.14,
+    114.93
+   ],
+   "area": 3027.570300000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    412.93,
+    143.37,
+    227.07,
+    277.29
+   ],
+   "area": 35579.38995000001
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    355.9,
+    209.6,
+    34.48,
+    55.95
+   ],
+   "area": 1285.7413000000006
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    291.1,
+    212.97,
+    22.49,
+    33.21
+   ],
+   "area": 535.3385499999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    275.44,
+    190.06,
+    17.72,
+    53.65
+   ],
+   "area": 462.6243000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A couple of cars on a city street.",
+  "A couple of cars driving down a street next to a truck.",
+  "A street scene with vehicles after a rain",
+  "Three men are walking near passing trucks and cars.",
+  "Men in white outfits are near very old cars."
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

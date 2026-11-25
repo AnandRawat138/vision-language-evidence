@@ -1,0 +1,108 @@
+{
+ "uid": "coco_000000177213",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "dining table",
+  "fork",
+  "knife",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 1,
+  "person": 1,
+  "cup": 2,
+  "fork": 1,
+  "knife": 1,
+  "pizza": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    107.3,
+    638.13,
+    246.86
+   ],
+   "area": 131349.5088
+  },
+  {
+   "category": "person",
+   "bbox": [
+    170.99,
+    0.0,
+    469.01,
+    140.49
+   ],
+   "area": 48854.84300000001
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    563.45,
+    111.08,
+    76.55,
+    151.33
+   ],
+   "area": 7136.948699999997
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    584.89,
+    146.83,
+    55.11,
+    207.33
+   ],
+   "area": 5930.257900000008
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    461.36,
+    140.55,
+    111.3,
+    34.04
+   ],
+   "area": 1116.1412499999997
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    416.28,
+    137.71,
+    69.38,
+    6.45
+   ],
+   "area": 207.29449999999954
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    96.81,
+    87.13,
+    411.44,
+    225.08
+   ],
+   "area": 68664.18789999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Small pizza sits on a plate on a restaurant table.",
+  "A pizza sitting on top of a white plate on a kitchen table.",
+  "A close up of a cheese pizza on a plate.",
+  "A small uneaten pizza on a plate sits on a table.",
+  "Plate with pizza, knife and fork laying on edge of plate with two glasses next to them."
+ ],
+ "scene_places": []
+}

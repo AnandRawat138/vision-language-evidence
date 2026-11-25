@@ -1,0 +1,167 @@
+{
+ "uid": "vqa_000000354126",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dog",
+  "teddy bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 2,
+  "teddy bear": 2
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    0.97,
+    109.41,
+    394.67,
+    305.46
+   ],
+   "area": 83817.46539999997
+  },
+  {
+   "category": "dog",
+   "bbox": [
+    318.06,
+    66.18,
+    270.55,
+    298.67
+   ],
+   "area": 34568.674150000006
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    266.0,
+    356.68,
+    224.67,
+    123.32
+   ],
+   "area": 16203.64185
+  },
+  {
+   "category": "teddy bear",
+   "bbox": [
+    97.08,
+    298.79,
+    161.8,
+    143.46
+   ],
+   "area": 12824.62035
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two dogs sleeping on a small dog bed. The bed has many toys on it.",
+  "Two black-and-white Springer Spaniel puppies sleeping in a dog bed with toys.",
+  "Two cats and teddy bears lying inside a container",
+  "Two dogs sleep on a bed with stuffed toys",
+  "two black and white dogs sleeping and stuffed play toys"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 354126000,
+   "question": "How many toys are in the dog bed?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "3",
+   "answers": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "question_id": 354126001,
+   "question": "What are the dogs doing?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "sleeping",
+   "answers": [
+    "sleeping",
+    "sleeping",
+    "sleeping",
+    "sleep",
+    "sleeping",
+    "sleep",
+    "sleeping",
+    "sleeping",
+    "sleeping",
+    "resting"
+   ]
+  },
+  {
+   "question_id": 354126002,
+   "question": "Why is the dog on the right smaller?",
+   "answer_type": "other",
+   "question_type": "why is the",
+   "multiple_choice_answer": "puppy",
+   "answers": [
+    "puppy",
+    "it's puppy",
+    "it is puppy",
+    "it is younger",
+    "baby",
+    "puppy",
+    "its puppy",
+    "puppy",
+    "it's puppy",
+    "puppy"
+   ]
+  },
+  {
+   "question_id": 354126003,
+   "question": "Did the dog just wake up?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 354126004,
+   "question": "What breed of dog is this?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "dalmatian",
+   "answers": [
+    "dalmatian",
+    "cocker spaniel",
+    "yorkie",
+    "no idea",
+    "dalmatian",
+    "beagle",
+    "irish setter",
+    "spaniel",
+    "cocker spaniel",
+    "schnauzer"
+   ]
+  }
+ ]
+}

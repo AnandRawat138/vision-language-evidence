@@ -1,0 +1,209 @@
+{
+ "uid": "flickr30k_3700322513",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [
+  "camera"
+ ],
+ "attr_available": true,
+ "captions": [
+  "A guy on a bike jumps high into the air while another person takes his picture",
+  "Shadowed cyclist jumps over camera at sunset as shadowed photographer films .",
+  "A man on a BMX bike catches massive air while someone is taking a picture",
+  "A man is taking a picture of a bicyclist performing a trick in the air .",
+  "A bike rider jumps through the air while being filmed ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "137813",
+   "types": [
+    "people"
+   ],
+   "phrase": "A guy",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "137813",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a bike",
+   "start": 9,
+   "end": 15
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 32,
+   "end": 39
+  },
+  {
+   "entity_id": "137814",
+   "types": [
+    "people"
+   ],
+   "phrase": "another person",
+   "start": 46,
+   "end": 60
+  },
+  {
+   "entity_id": "137821",
+   "types": [
+    "other"
+   ],
+   "phrase": "his picture",
+   "start": 67,
+   "end": 78
+  },
+  {
+   "entity_id": "137813",
+   "types": [
+    "people"
+   ],
+   "phrase": "Shadowed cyclist",
+   "start": 0,
+   "end": 16
+  },
+  {
+   "entity_id": "137820",
+   "types": [
+    "other"
+   ],
+   "phrase": "camera",
+   "start": 28,
+   "end": 34
+  },
+  {
+   "entity_id": "137823",
+   "types": [
+    "scene"
+   ],
+   "phrase": "sunset",
+   "start": 38,
+   "end": 44
+  },
+  {
+   "entity_id": "137822",
+   "types": [
+    "other"
+   ],
+   "phrase": "shadowed photographer films",
+   "start": 48,
+   "end": 75
+  },
+  {
+   "entity_id": "137813",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "137813",
+   "types": [
+    "vehicles"
+   ],
+   "phrase": "a BMX bike",
+   "start": 9,
+   "end": 19
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "massive air",
+   "start": 28,
+   "end": 39
+  },
+  {
+   "entity_id": "137814",
+   "types": [
+    "people"
+   ],
+   "phrase": "someone",
+   "start": 46,
+   "end": 53
+  },
+  {
+   "entity_id": "137817",
+   "types": [
+    "other"
+   ],
+   "phrase": "a picture",
+   "start": 64,
+   "end": 73
+  },
+  {
+   "entity_id": "137814",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "137818",
+   "types": [
+    "people"
+   ],
+   "phrase": "a picture of a bicyclist",
+   "start": 16,
+   "end": 40
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "a trick",
+   "start": 52,
+   "end": 59
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 63,
+   "end": 70
+  },
+  {
+   "entity_id": "137813",
+   "types": [
+    "people"
+   ],
+   "phrase": "A bike rider",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the air",
+   "start": 27,
+   "end": 34
+  }
+ ],
+ "scene_places": []
+}

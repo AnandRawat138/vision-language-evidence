@@ -1,0 +1,222 @@
+{
+ "uid": "coco_000000219271",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "truck": 5,
+  "person": 14
+ },
+ "object_boxes": [
+  {
+   "category": "truck",
+   "bbox": [
+    2.79,
+    350.76,
+    129.69,
+    117.99
+   ],
+   "area": 9723.739599999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    129.92,
+    426.41,
+    66.92,
+    73.59
+   ],
+   "area": 2975.3383500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    245.89,
+    358.57,
+    21.8,
+    62.95
+   ],
+   "area": 707.6369000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    262.87,
+    354.58,
+    20.77,
+    59.29
+   ],
+   "area": 705.7901000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    299.93,
+    331.74,
+    27.18,
+    43.39
+   ],
+   "area": 676.6011000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    323.04,
+    316.79,
+    26.96,
+    53.93
+   ],
+   "area": 752.4012000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    113.13,
+    424.89,
+    23.44,
+    22.71
+   ],
+   "area": 217.08395000000024
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    318.64,
+    263.74,
+    24.19,
+    34.85
+   ],
+   "area": 681.4386499999997
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    190.57,
+    281.32,
+    107.77,
+    111.32
+   ],
+   "area": 6462.885150000002
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    262.51,
+    274.85,
+    60.84,
+    58.53
+   ],
+   "area": 2363.8998999999994
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    332.26,
+    260.05,
+    17.74,
+    28.59
+   ],
+   "area": 256.0374500000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    55.62,
+    468.84,
+    25.5,
+    30.69
+   ],
+   "area": 506.3496999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    31.24,
+    352.63,
+    10.49,
+    13.65
+   ],
+   "area": 87.21524999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    73.17,
+    484.91,
+    30.1,
+    15.09
+   ],
+   "area": 339.5515999999991
+  },
+  {
+   "category": "person",
+   "bbox": [
+    37.95,
+    357.46,
+    11.72,
+    31.61
+   ],
+   "area": 226.99790000000024
+  },
+  {
+   "category": "person",
+   "bbox": [
+    163.57,
+    423.82,
+    10.05,
+    19.34
+   ],
+   "area": 108.82785000000035
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.27,
+    377.12,
+    13.36,
+    45.51
+   ],
+   "area": 383.1604
+  },
+  {
+   "category": "person",
+   "bbox": [
+    217.45,
+    388.15,
+    24.56,
+    89.35
+   ],
+   "area": 1373.971449999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    83,
+    46,
+    266,
+    453
+   ],
+   "area": 18235
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Large group of people surrounding a truck on a mountain.",
+  "The black and white photo shows a truck tilting a large cargo crate.",
+  "A tow truck pulls a large crate down a mountain pass as crowds watch.",
+  "old photo of tow truck working while people watch",
+  "A crowd of people walking along a snow covered mountain side."
+ ],
+ "scene_places": [
+  "snow/mountain"
+ ]
+}

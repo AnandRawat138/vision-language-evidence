@@ -1,0 +1,156 @@
+{
+ "uid": "coco_000000425925",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "car",
+  "clock",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 1,
+  "clock": 2,
+  "car": 7,
+  "person": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    576.02,
+    146.29,
+    63.98,
+    154.87
+   ],
+   "area": 5802.03595
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    255.16,
+    230.45,
+    41.02,
+    43.31
+   ],
+   "area": 1369.84695
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    323.55,
+    230.96,
+    14.18,
+    47.41
+   ],
+   "area": 544.0705500000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    160.86,
+    411.86,
+    80.99,
+    47.05
+   ],
+   "area": 2274.920349999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    38.78,
+    417.72,
+    20.52,
+    38.7
+   ],
+   "area": 459.5762499999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    54.34,
+    414.5,
+    78.95,
+    49.32
+   ],
+   "area": 3169.8853999999988
+  },
+  {
+   "category": "car",
+   "bbox": [
+    239.57,
+    410.39,
+    40.7,
+    15.11
+   ],
+   "area": 526.5747500000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    29.44,
+    415.18,
+    17.79,
+    42.36
+   ],
+   "area": 227.47025000000022
+  },
+  {
+   "category": "car",
+   "bbox": [
+    152.73,
+    417.69,
+    11.56,
+    32.48
+   ],
+   "area": 259.5143000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    127.64,
+    424.21,
+    17.27,
+    37.49
+   ],
+   "area": 415.3856499999999
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    409.23,
+    43.97,
+    57.92
+   ],
+   "area": 1888.9244499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    139.7,
+    424.52,
+    9.04,
+    36.99
+   ],
+   "area": 241.08840000000018
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large clock tower in the center of a city.",
+  "City street with focal view to building with maroon steeple and clocks under a standing platform.",
+  "Clock tower sitting in the center of a busy city street.",
+  "A busy city with a building that has a clock on it.",
+  "large colorful clock with a brown top on a tall building near parked cars"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

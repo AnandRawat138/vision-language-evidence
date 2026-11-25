@@ -1,0 +1,192 @@
+{
+ "uid": "coco_000000402720",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "cell phone",
+  "fork",
+  "knife",
+  "person",
+  "pizza",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bottle": 2,
+  "cell phone": 1,
+  "person": 3,
+  "wine glass": 6,
+  "knife": 1,
+  "pizza": 1,
+  "fork": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bottle",
+   "bbox": [
+    332.24,
+    366.8,
+    39.41,
+    140.27
+   ],
+   "area": 3669.6266
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    212.64,
+    462.52,
+    39.04,
+    70.59
+   ],
+   "area": 1747.85
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    375.07,
+    471.06,
+    41.69,
+    26.31
+   ],
+   "area": 595.7404499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    247.5,
+    226.69,
+    166.9,
+    202.12
+   ],
+   "area": 22516.422650000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    375.45,
+    242.05,
+    235.17,
+    298.44
+   ],
+   "area": 44662.25335000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    261.3,
+    187.04,
+    272.31
+   ],
+   "area": 32093.085699999992
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    206.95,
+    346.05,
+    37.57,
+    95.18
+   ],
+   "area": 2224.792800000002
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    298.49,
+    405.13,
+    43.41,
+    128.57
+   ],
+   "area": 3877.792249999999
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    400.41,
+    380.04,
+    48.01,
+    121.17
+   ],
+   "area": 2513.7359999999985
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    187.34,
+    330.43,
+    30.09,
+    80.68
+   ],
+   "area": 1519.2945000000002
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    257.94,
+    421.4,
+    48.14,
+    113.2
+   ],
+   "area": 3270.669300000001
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    135.49,
+    463.28,
+    67.4,
+    31.67
+   ],
+   "area": 343.3671000000013
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    177.52,
+    431.3,
+    43.09,
+    29.4
+   ],
+   "area": 688.5019499999996
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    578.85,
+    271.75,
+    31.83,
+    60.2
+   ],
+   "area": 874.6402499999996
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    125.04,
+    437.27,
+    63.39,
+    26.33
+   ],
+   "area": 290.0764500000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A trio of men drinking wine at a restaurant table",
+  "three men sitting at  a table with some wine glasses",
+  "A group of three men at a restaurant drinking wine.",
+  "A group of people that are sitting around a table.",
+  "Three men pose and smile at a table."
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

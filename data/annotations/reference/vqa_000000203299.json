@@ -1,0 +1,186 @@
+{
+ "uid": "vqa_000000203299",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sheep": 2
+ },
+ "object_boxes": [
+  {
+   "category": "sheep",
+   "bbox": [
+    35.06,
+    391.43,
+    288.01,
+    170.85
+   ],
+   "area": 25327.324749999992
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    306.24,
+    443.47,
+    54.69,
+    98.27
+   ],
+   "area": 2996.9724999999994
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two sheep standing in a sunny green  field",
+  "A pair of sheep stands in a pasture beneath a blue sky.",
+  "Two white sheep stand on a grassy hill.",
+  "Mother sheep with her baby, in a pasture.",
+  "A sheep is standing in the grass on a nice day."
+ ],
+ "scene_places": [
+  "farm/rural",
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 203299000,
+   "question": "What color is the lamb?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "white",
+   "answers": [
+    "gray",
+    "white",
+    "dirty white",
+    "white",
+    "tan",
+    "beige",
+    "white",
+    "tan",
+    "gray",
+    "white"
+   ]
+  },
+  {
+   "question_id": 203299001,
+   "question": "Is there a hill behind the animal?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 203299002,
+   "question": "What type of animal is it?",
+   "answer_type": "other",
+   "question_type": "what type of",
+   "multiple_choice_answer": "sheep",
+   "answers": [
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "sheep",
+    "lamb",
+    "sheep",
+    "sheep",
+    "sheep"
+   ]
+  },
+  {
+   "question_id": 203299003,
+   "question": "What is on the ground under the sheep?",
+   "answer_type": "other",
+   "question_type": "what is on the",
+   "multiple_choice_answer": "grass",
+   "answers": [
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass",
+    "grass"
+   ]
+  },
+  {
+   "question_id": 203299004,
+   "question": "How many hairs does the sheep in front have?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "10000",
+   "answers": [
+    "five-hundred million 3 hundred and ninety 5 thousand 4 hundred and twenty 7",
+    "70,000",
+    "100000",
+    "many",
+    "999 trillion",
+    "1000000000",
+    "1000000",
+    "lot",
+    "10000",
+    "300"
+   ]
+  },
+  {
+   "question_id": 203299005,
+   "question": "How many sheep are there?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 203299006,
+   "question": "Are there clouds in the sky?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "yes"
+   ]
+  }
+ ]
+}

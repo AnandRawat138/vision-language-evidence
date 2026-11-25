@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000546011",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "zebra"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "zebra": 3
+ },
+ "object_boxes": [
+  {
+   "category": "zebra",
+   "bbox": [
+    52.42,
+    118.29,
+    99.6,
+    165.5
+   ],
+   "area": 10443.649900000004
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    200.5,
+    115.25,
+    175.76,
+    167.27
+   ],
+   "area": 10604.07135
+  },
+  {
+   "category": "zebra",
+   "bbox": [
+    270.2,
+    112.58,
+    191.4,
+    171.13
+   ],
+   "area": 14346.278150000006
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A trio of zebras stand together in the grass.",
+  "A group of zebras stand in front of a group of trees.",
+  "Three zebras standing together in a grassy field.",
+  "A few zebras are standing near tall grass.",
+  "A group of zebras that are standing in the dirt."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

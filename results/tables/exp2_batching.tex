@@ -1,0 +1,22 @@
+\begin{table*}[!t]
+\centering
+\scriptsize
+\caption{Batch-processing scalability on the RTX~3060 Laptop GPU (6~GB): 32 images ($B{=}1$: first 16), 3 repeats per configuration; the $B{=}64$ row is a single feasibility run on 64 images. Latencies are per-request service times (batch execution time). GPU MB: peak device memory (NVML, includes the desktop). Ident.: fraction of the 16 shared images whose output text equals $B{=}1$ (larger comparison in the main text). $B{=}1$ used 16 of the 32 images.}
+\label{tab:exp2}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+Policy & $B$ & Images/s (mean $\pm$ sd) & p50 (s) & p95 (s) & p99 (s) & GPU MB & RAM MB & CPU \% & Fail & Ident. \\
+\midrule
+independent & 1 & 0.047 $\pm$ 0.001 & 21.1 & 28.5 & 30.0 & 3204 & 659 & 5.8 & 0 & 1.00 \\
+static & 4 & 0.190 $\pm$ 0.001 & 22.9 & 24.0 & 24.0 & 3471 & 576 & 6.6 & 0 & 1.00 \\
+static & 8 & 0.333 $\pm$ 0.006 & 24.4 & 26.2 & 26.2 & 4431 & 621 & 6.4 & 0 & 1.00 \\
+static & 16 & 0.491 $\pm$ 0.006 & 32.5 & 33.0 & 33.0 & 5325 & 705 & 6.2 & 0 & 1.00 \\
+static & 32 & 0.448 $\pm$ 0.003 & 71.2 & 71.6 & 71.6 & 6033 & 1512 & 6.2 & 0 & 1.00 \\
+static & 64 & 0.135 $\pm$ 0.000 & 475.2 & 475.2 & 475.2 & 6073 & 6055 & 5.1 & 0 & 1.00 \\
+sorted & 16 & 0.501 $\pm$ 0.002 & 32.0 & 32.3 & 32.3 & 5457 & 884 & 6.3 & 0 & 1.00 \\
+adaptive & adaptive & 0.244 $\pm$ 0.000 & 28.3 & 32.6 & 32.6 & 4990 & 742 & 6.5 & 0 & 1.00 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

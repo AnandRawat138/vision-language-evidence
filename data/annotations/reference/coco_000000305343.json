@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000305343",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "dog"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dog": 1,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dog",
+   "bbox": [
+    341.43,
+    150.83,
+    218.68,
+    207.45
+   ],
+   "area": 35845.7428
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    60.45,
+    124.74,
+    244.69,
+    267.72
+   ],
+   "area": 56055.3433
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two cups sitting on top of a gray counter.",
+  "A cup with a bird on it and a cup with a wolf on it.",
+  "Two ceramic cups - one with a bird and the other with a fox.",
+  "Two cups with painted animal pictures on them.",
+  "two cup like things with a bird and a wolf painted on them"
+ ],
+ "scene_places": []
+}

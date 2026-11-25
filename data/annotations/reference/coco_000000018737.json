@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000018737",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "motorcycle"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "motorcycle": 1
+ },
+ "object_boxes": [
+  {
+   "category": "motorcycle",
+   "bbox": [
+    254.28,
+    159.29,
+    337.76,
+    248.52
+   ],
+   "area": 47586.101599999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A motorcycle parked near a fence by a beach.",
+  "a motorcycle parked on the road in a desert",
+  "A motorcycle is sitting next to a beach.",
+  "a parked red motorcycle a fence and some trees",
+  "A motor bike is parked next to a sandy area."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

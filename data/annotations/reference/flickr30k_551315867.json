@@ -1,0 +1,235 @@
+{
+ "uid": "flickr30k_551315867",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "hat": [
+   "blue"
+  ],
+  "shirt": [
+   "blue"
+  ],
+  "pants": [
+   "gray"
+  ],
+  "shorts": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Two men - one wearing a blue cap , two-toned blue shirt , and gray trousers , the other hatless and in dark-colored shorts - stand in a green cherry-picker amid utility wires and leafy tree-tops .",
+  "Two men standing in a crane lift next to several tall trees .",
+  "Two men on a piece of green machinery in the trees .",
+  "Two men stand in a lift near some power lines .",
+  "Two men in a crane examining trees ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "238020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "238026",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 10,
+   "end": 13
+  },
+  {
+   "entity_id": "238028",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue cap",
+   "start": 22,
+   "end": 32
+  },
+  {
+   "entity_id": "238029",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "two-toned blue shirt",
+   "start": 35,
+   "end": 55
+  },
+  {
+   "entity_id": "238030",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "gray trousers",
+   "start": 62,
+   "end": 75
+  },
+  {
+   "entity_id": "238027",
+   "types": [
+    "other"
+   ],
+   "phrase": "the other hatless",
+   "start": 78,
+   "end": 95
+  },
+  {
+   "entity_id": "238031",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "dark-colored shorts",
+   "start": 103,
+   "end": 122
+  },
+  {
+   "entity_id": "238021",
+   "types": [
+    "other"
+   ],
+   "phrase": "a green cherry-picker",
+   "start": 134,
+   "end": 155
+  },
+  {
+   "entity_id": "238025",
+   "types": [
+    "other"
+   ],
+   "phrase": "utility wires",
+   "start": 161,
+   "end": 174
+  },
+  {
+   "entity_id": "238023",
+   "types": [
+    "other"
+   ],
+   "phrase": "tree-tops",
+   "start": 185,
+   "end": 194
+  },
+  {
+   "entity_id": "238020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "238021",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a crane lift",
+   "start": 20,
+   "end": 32
+  },
+  {
+   "entity_id": "238024",
+   "types": [
+    "other"
+   ],
+   "phrase": "several tall trees",
+   "start": 41,
+   "end": 59
+  },
+  {
+   "entity_id": "238020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "238021",
+   "types": [
+    "other"
+   ],
+   "phrase": "a piece of green machinery",
+   "start": 11,
+   "end": 37
+  },
+  {
+   "entity_id": "238024",
+   "types": [
+    "other"
+   ],
+   "phrase": "the trees",
+   "start": 41,
+   "end": 50
+  },
+  {
+   "entity_id": "238020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "238021",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a lift",
+   "start": 17,
+   "end": 23
+  },
+  {
+   "entity_id": "238025",
+   "types": [
+    "other"
+   ],
+   "phrase": "some power lines",
+   "start": 29,
+   "end": 45
+  },
+  {
+   "entity_id": "238020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "238021",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a crane",
+   "start": 11,
+   "end": 18
+  },
+  {
+   "entity_id": "238024",
+   "types": [
+    "other"
+   ],
+   "phrase": "trees",
+   "start": 29,
+   "end": 34
+  }
+ ],
+ "scene_places": []
+}

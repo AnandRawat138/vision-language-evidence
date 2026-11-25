@@ -1,0 +1,33 @@
+{
+ "uid": "vg_2341324",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car",
+  "cell phone",
+  "dog",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [
+   "beige",
+   "blue",
+   "green"
+  ],
+  "hat": [
+   "gray"
+  ]
+ },
+ "accessories": [],
+ "carried": [
+  "phone"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}

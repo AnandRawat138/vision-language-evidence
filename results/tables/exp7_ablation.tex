@@ -1,0 +1,19 @@
+\begin{table*}[!t]
+\centering
+\footnotesize
+\caption{Ablation of framework components on the test split (E7). $\Delta$F1: mean per-image difference (full minus ablated), Wilcoxon signed-rank $p$ Holm-adjusted over the eight comparisons. Without validation, 65 of 1,000 raw outputs are unusable, versus 17 after repair. Scheduler and aggregation ablations are reported in Fig.~\ref{fig:tput} and Table~\ref{tab:exp3}.}
+\label{tab:ablation}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lccccc}
+\toprule
+Configuration & Obj. F1 & CHAIR$_i$ & $\Delta$F1 full$-$variant (obj.) & Garm. F1 & $\Delta$F1 full$-$variant (garm.) \\
+\midrule
+Full framework (B6) & 0.554 & 0.085 & -- & 0.458 & -- \\
+w/o uncertainty-based selection & 0.554 & 0.089 & -0.000 (p=1) & 0.468 & +0.005 (p=1) \\
+w/o structured validation (no JSON repair) & 0.533 & 0.087 & +0.016 (p=0.0061) & 0.446 & +0.022 (p=0.8) \\
+w/o CLIP signal in calibrator & 0.554 & 0.085 & +0.000 (p=1) & 0.460 & +0.005 (p=1) \\
+w/o image-quality signal in calibrator & 0.554 & 0.085 & +0.000 (p=1) & 0.468 & +0.005 (p=1) \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\end{table*}

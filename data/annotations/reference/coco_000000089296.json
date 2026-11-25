@@ -1,0 +1,92 @@
+{
+ "uid": "coco_000000089296",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "sports ball": 3,
+  "baseball bat": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    221.67,
+    107.13,
+    214.6,
+    317.81
+   ],
+   "area": 20877.529550000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    541.32,
+    0.64,
+    98.68,
+    256.36
+   ],
+   "area": 18561.36374999999
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    387.8,
+    296.52,
+    12.16,
+    12.16
+   ],
+   "area": 119.4804499999998
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    593.49,
+    333.6,
+    13.28,
+    13.21
+   ],
+   "area": 143.5141000000002
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    460.93,
+    372.01,
+    12.86,
+    13.71
+   ],
+   "area": 140.4665500000002
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    347.22,
+    35.18,
+    50.68,
+    97.28
+   ],
+   "area": 810.1271500000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man holding a baseball bat preparing to swing it",
+  "Baseball player in the cage practicing his swings",
+  "A man in red jacket and shorts in a batting cage.",
+  "A man gets ready to swing at a pitch during batting practice",
+  "The baseball player is practicing his swing for his favorite game."
+ ],
+ "scene_places": []
+}

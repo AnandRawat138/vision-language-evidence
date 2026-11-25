@@ -1,0 +1,175 @@
+{
+ "uid": "vqa_000000271148",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "giraffe"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "giraffe": 1
+ },
+ "object_boxes": [
+  {
+   "category": "giraffe",
+   "bbox": [
+    54.9,
+    76.21,
+    322.17,
+    541.76
+   ],
+   "area": 46698.98099999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A giraffe that is standing in the grass.",
+  "A single giraffe standing in a grass field.",
+  "A giraffe taking a bite of some leaves from a tree.",
+  "A giraffe standing near a tree branch in the grass near a grove of trees.",
+  "A giraffe eating leaves out of a tall tree."
+ ],
+ "scene_places": [
+  "park"
+ ],
+ "vqa": [
+  {
+   "question_id": 271148000,
+   "question": "Is this their natural environment?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "safari"
+   ]
+  },
+  {
+   "question_id": 271148001,
+   "question": "How many giraffe legs can you see?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "3",
+   "answers": [
+    "4",
+    "3",
+    "4",
+    "3",
+    "3",
+    "4",
+    "4",
+    "3",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "question_id": 271148002,
+   "question": "Is the giraffe eating?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "leaves",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 271148003,
+   "question": "How many giraffes are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 271148004,
+   "question": "How many giraffes are seen?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "1",
+   "answers": [
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "question_id": 271148005,
+   "question": "Is this male or female?",
+   "answer_type": "other",
+   "question_type": "is this",
+   "multiple_choice_answer": "male",
+   "answers": [
+    "female",
+    "male",
+    "male",
+    "female",
+    "male",
+    "female",
+    "unknown",
+    "male",
+    "male",
+    "male"
+   ]
+  },
+  {
+   "question_id": 271148006,
+   "question": "What is in the background?",
+   "answer_type": "other",
+   "question_type": "what is in the",
+   "multiple_choice_answer": "trees",
+   "answers": [
+    "trees",
+    "trees",
+    "trees",
+    "trees",
+    "trees",
+    "trees",
+    "trees",
+    "trees",
+    "trees",
+    "trees"
+   ]
+  }
+ ]
+}

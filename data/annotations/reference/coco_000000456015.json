@@ -1,0 +1,112 @@
+{
+ "uid": "coco_000000456015",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 4,
+  "person": 4
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    476.48,
+    111.79,
+    146.61,
+    128.28
+   ],
+   "area": 7576.3138000000035
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    283.6,
+    121.96,
+    93.61,
+    106.84
+   ],
+   "area": 5543.162700000002
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    373.9,
+    107.44,
+    141.25,
+    133.15
+   ],
+   "area": 9163.407900000004
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    257.86,
+    117.14,
+    77.23,
+    104.09
+   ],
+   "area": 2153.3686
+  },
+  {
+   "category": "person",
+   "bbox": [
+    328.12,
+    58.3,
+    51.17,
+    75.51
+   ],
+   "area": 1990.5021999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    295.37,
+    64.13,
+    31.01,
+    59.06
+   ],
+   "area": 1319.9898999999984
+  },
+  {
+   "category": "person",
+   "bbox": [
+    513.96,
+    70.2,
+    51.19,
+    112.12
+   ],
+   "area": 2510.0440499999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    405.95,
+    56.43,
+    57.45,
+    117.32
+   ],
+   "area": 2695.0074999999993
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "People are riding horses down a beach next to the water.",
+  "A group of men riding horses on a beach.",
+  "People wearing jackets are riding horses on the beach.",
+  "Men on horse back riding on the beach",
+  "The group of friends is riding down the beach."
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

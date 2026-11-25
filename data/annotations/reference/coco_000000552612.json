@@ -1,0 +1,130 @@
+{
+ "uid": "coco_000000552612",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sheep"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sheep": 10
+ },
+ "object_boxes": [
+  {
+   "category": "sheep",
+   "bbox": [
+    479.15,
+    333.54,
+    113.62,
+    93.63
+   ],
+   "area": 6897.471700000002
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    301.43,
+    270.31,
+    59.84,
+    39.24
+   ],
+   "area": 1351.1169999999995
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    335.6,
+    265.88,
+    60.5,
+    37.51
+   ],
+   "area": 1144.5651499999997
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    22.28,
+    291.45,
+    39.31,
+    31.46
+   ],
+   "area": 620.7370000000006
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    110.19,
+    275.04,
+    66.06,
+    56.69
+   ],
+   "area": 2175.1299999999997
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    18.8,
+    308.92,
+    66.32,
+    76.7
+   ],
+   "area": 2686.5719499999996
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    206.23,
+    328.43,
+    74.41,
+    86.28
+   ],
+   "area": 4576.206300000001
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    183.12,
+    287.57,
+    35.92,
+    62.24
+   ],
+   "area": 1491.8456999999994
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    59.79,
+    280.79,
+    53.17,
+    45.36
+   ],
+   "area": 598.4335499999995
+  },
+  {
+   "category": "sheep",
+   "bbox": [
+    66.87,
+    287.32,
+    40.93,
+    31.99
+   ],
+   "area": 799.8525499999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A herd of sheep grazing on a lush green field.",
+  "A bunch of sheep eating grass next to the forest.",
+  "an image of a herd of sheep grazing in the pasture",
+  "There are some sheep eating in the field eating grass.",
+  "Polaroid-like shot of sheep grazing in a green field"
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

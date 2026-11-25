@@ -1,0 +1,160 @@
+{
+ "uid": "coco_000000465549",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "couch",
+  "dining table",
+  "person",
+  "potted plant",
+  "remote",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "couch": 1,
+  "potted plant": 2,
+  "remote": 4,
+  "vase": 2,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    79.29,
+    95.22,
+    215.02,
+    327.97
+   ],
+   "area": 35732.163700000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    277.67,
+    111.16,
+    290.12,
+    316.06
+   ],
+   "area": 47816.48955
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    500.23,
+    194.64,
+    139.77,
+    213.21
+   ],
+   "area": 19496.4204
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    67.11,
+    232.41,
+    57.45,
+    102.96
+   ],
+   "area": 2300.3110999999994
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    160.49,
+    177.76,
+    18.42,
+    23.56
+   ],
+   "area": 213.69345000000004
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    99.62,
+    299.52,
+    18.08,
+    33.68
+   ],
+   "area": 450.3433500000001
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    147.33,
+    285.31,
+    16.75,
+    36.84
+   ],
+   "area": 463.92214999999976
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    278.97,
+    185.06,
+    39.56,
+    60.5
+   ],
+   "area": 960.558299999999
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    79.47,
+    210.61,
+    37.3,
+    14.69
+   ],
+   "area": 338.20629999999994
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    115.32,
+    210.98,
+    50.95,
+    111.64
+   ],
+   "area": 2905.052199999999
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    234.9,
+    341.59,
+    132.51,
+    86.41
+   ],
+   "area": 2060.9235499999986
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    435.19,
+    238.05,
+    25.22,
+    55.35
+   ],
+   "area": 300.6620000000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two young people standing in a living room holding game controllers.",
+  "A boy and a girl play on the Wii gaming system.",
+  "Two girls are playing video games in a living room.",
+  "A pair of smiling young people play a Wii game.",
+  "Two young people playing a game on a video game console."
+ ],
+ "scene_places": [
+  "living room"
+ ]
+}

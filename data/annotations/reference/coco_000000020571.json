@@ -1,0 +1,154 @@
+{
+ "uid": "coco_000000020571",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "boat": 7,
+  "person": 3,
+  "handbag": 2
+ },
+ "object_boxes": [
+  {
+   "category": "boat",
+   "bbox": [
+    121.82,
+    18.9,
+    222.53,
+    587.02
+   ],
+   "area": 53995.49324999999
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    288.26,
+    69.92,
+    135.14,
+    309.77
+   ],
+   "area": 17069.986350000003
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    45.88,
+    171.87,
+    16.29,
+    6.52
+   ],
+   "area": 90.78579999999974
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    71.65,
+    168.38,
+    11.25,
+    6.53
+   ],
+   "area": 38.80970000000004
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    87.33,
+    165.7,
+    12.05,
+    4.95
+   ],
+   "area": 46.69050000000005
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    151.65,
+    165.7,
+    9.44,
+    6.09
+   ],
+   "area": 34.86640000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    493.48,
+    150.62,
+    13.94,
+    38.96
+   ],
+   "area": 337.4745999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    479.51,
+    157.51,
+    13.19,
+    29.02
+   ],
+   "area": 241.21745000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    488.21,
+    162.07,
+    9.68,
+    25.75
+   ],
+   "area": 124.53679999999986
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    479.6,
+    168.03,
+    11.72,
+    14.05
+   ],
+   "area": 43.338649999999966
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    183.9,
+    116.78,
+    14.72,
+    63.97
+   ],
+   "area": 325.5729500000007
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    506.48,
+    170.09,
+    6.13,
+    15.15
+   ],
+   "area": 42.10315000000009
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a group of boats parked next to a dock in the water",
+  "A few fishing boats tied to a dock.",
+  "Two tug boats tied up to the dock.",
+  "some boats that are by a dock in some water",
+  "A tugboat sits beside a ferry on placid water with a mountain in the distance."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

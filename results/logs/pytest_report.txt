@@ -1,0 +1,54 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.12.7, pytest-9.2.0, pluggy-1.7.0 -- E:\Vision-Language Evidence\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: E:\Vision-Language Evidence
+plugins: anyio-4.16.0
+collecting ... collected 38 items
+
+tests/test_api.py::test_overview_and_image PASSED                        [  2%]
+tests/test_api.py::test_review_audit_trail PASSED                        [  5%]
+tests/test_api.py::test_narrative_and_group PASSED                       [  7%]
+tests/test_api.py::test_report PASSED                                    [ 10%]
+tests/test_api.py::test_batch_job_mock PASSED                            [ 13%]
+tests/test_core.py::test_map_term_synonyms_and_plural PASSED             [ 15%]
+tests/test_core.py::test_find_terms_no_false_top PASSED                  [ 18%]
+tests/test_core.py::test_schema_coercion PASSED                          [ 21%]
+tests/test_core.py::test_parse_fenced_and_repair PASSED                  [ 23%]
+tests/test_core.py::test_parse_truncated PASSED                          [ 26%]
+tests/test_core.py::test_parse_garbage PASSED                            [ 28%]
+tests/test_core.py::test_observations_have_provenance_and_token_conf PASSED [ 31%]
+tests/test_core.py::test_rule_structurer_certainty[He wore a red jacket.-jacket-definite] PASSED [ 34%]
+tests/test_core.py::test_rule_structurer_certainty[I think he had a blue cap.-hat-hedged] PASSED [ 36%]
+tests/test_core.py::test_rule_structurer_certainty[Maybe a backpack, I'm not sure.-bag-hedged] PASSED [ 39%]
+tests/test_core.py::test_rule_structurer_certainty[She was not carrying an umbrella.-umbrella-negated] PASSED [ 42%]
+tests/test_core.py::test_rule_structurer_certainty[The shirt was black or dark blue.-shirt-hedged] PASSED [ 44%]
+tests/test_core.py::test_rule_structurer_missing_and_color PASSED        [ 47%]
+tests/test_core.py::test_llm_structurer_never_upgrades_and_drops_ungrounded PASSED [ 50%]
+tests/test_core.py::test_flickr_sentence_spans PASSED                    [ 52%]
+tests/test_core.py::test_aggregation_support_and_contradiction PASSED    [ 55%]
+tests/test_core.py::test_aggregation_quality_weighting PASSED            [ 57%]
+tests/test_core.py::test_narrative_vs_image PASSED                       [ 60%]
+tests/test_core.py::test_calibration_metrics PASSED                      [ 63%]
+tests/test_core.py::test_combiner_fits PASSED                            [ 65%]
+tests/test_core.py::test_set_metrics_and_chair PASSED                    [ 68%]
+tests/test_core.py::test_vqa_accuracy PASSED                             [ 71%]
+tests/test_core.py::test_stats PASSED                                    [ 73%]
+tests/test_core.py::test_quality_and_degradation PASSED                  [ 76%]
+tests/test_core.py::test_dedup PASSED                                    [ 78%]
+tests/test_scheduler.py::test_static_all_ok PASSED                       [ 81%]
+tests/test_scheduler.py::test_independent_batch_one PASSED               [ 84%]
+tests/test_scheduler.py::test_oom_split PASSED                           [ 86%]
+tests/test_scheduler.py::test_failure_isolated_by_bisection PASSED       [ 89%]
+tests/test_scheduler.py::test_timeout PASSED                             [ 92%]
+tests/test_scheduler.py::test_resume_checkpoint PASSED                   [ 94%]
+tests/test_scheduler.py::test_adaptive_grows_and_respects_oom PASSED     [ 97%]
+tests/test_scheduler.py::test_online_dynamic PASSED                      [100%]
+
+============================== warnings summary ===============================
+.venv\Lib\site-packages\fastapi\testclient.py:1
+  E:\Vision-Language Evidence\.venv\Lib\site-packages\fastapi\testclient.py:1: StarletteDeprecationWarning: Using `httpx` with `starlette.testclient` is deprecated; install `httpx2` instead.
+    from starlette.testclient import TestClient as TestClient  # noqa
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+- generated xml file: E:\Vision-Language Evidence\results\logs\pytest_junit.xml -
+======================== 38 passed, 1 warning in 7.22s ========================

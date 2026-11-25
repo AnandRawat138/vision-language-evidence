@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000255747",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "dining table",
+  "sandwich"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sandwich": 2,
+  "dining table": 1
+ },
+ "object_boxes": [
+  {
+   "category": "sandwich",
+   "bbox": [
+    100.31,
+    85.03,
+    458.43,
+    326.84
+   ],
+   "area": 109062.9095
+  },
+  {
+   "category": "sandwich",
+   "bbox": [
+    7.55,
+    2.91,
+    249.17,
+    189.84
+   ],
+   "area": 31945.969249999995
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    0.0,
+    0.0,
+    640.0,
+    480.0
+   ],
+   "area": 289486.42179999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two  beige plates with thick sandwich and mustard.",
+  "A corned beef sandwich sits on a small plate.",
+  "A corn beef sandwich sitting on a plate.",
+  "A picture of two plates of food on a table.",
+  "An open faced corn beef sandwich sits on a white plate."
+ ],
+ "scene_places": []
+}

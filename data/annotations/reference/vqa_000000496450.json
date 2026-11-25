@@ -1,0 +1,201 @@
+{
+ "uid": "vqa_000000496450",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "handbag",
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 2,
+  "person": 7,
+  "handbag": 2
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    353.22,
+    233.1,
+    190.91,
+    189.98
+   ],
+   "area": 27476.1515
+  },
+  {
+   "category": "person",
+   "bbox": [
+    310.14,
+    184.63,
+    22.78,
+    19.39
+   ],
+   "area": 306.55479999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    346.03,
+    195.06,
+    30.38,
+    28.2
+   ],
+   "area": 549.6848000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    375.82,
+    187.89,
+    38.33,
+    33.2
+   ],
+   "area": 749.0696999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    335.88,
+    178.56,
+    26.72,
+    40.18
+   ],
+   "area": 568.3565500000004
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    282.92,
+    203.62,
+    26.0,
+    22.1
+   ],
+   "area": 115.33599999999959
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    239.65,
+    209.89,
+    9.96,
+    25.9
+   ],
+   "area": 100.58150000000025
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    396.09,
+    203.43,
+    10.67,
+    17.19
+   ],
+   "area": 46.100199999999816
+  },
+  {
+   "category": "person",
+   "bbox": [
+    253.51,
+    205.55,
+    6.04,
+    10.35
+   ],
+   "area": 45.0429500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    373.86,
+    187.4,
+    15.72,
+    30.74
+   ],
+   "area": 302.21400000000006
+  },
+  {
+   "category": "person",
+   "bbox": [
+    277.35,
+    185.45,
+    40.15,
+    48.81
+   ],
+   "area": 1041.921299999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A row of wagons being pulled by horses.",
+  "A wagon train traveling through a forest with tourists.",
+  "A view of a horse pulling a carriage with tons of people in it.",
+  "Horse drawn wagons with passengers pulled on path in forest.",
+  "A line of horse pulled carriages on a road."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 496450000,
+   "question": "Is this a jungle?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 496450001,
+   "question": "Are there horses here?",
+   "answer_type": "yes/no",
+   "question_type": "are there",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 496450002,
+   "question": "What is in from of the horse?",
+   "answer_type": "other",
+   "question_type": "what is",
+   "multiple_choice_answer": "wagon",
+   "answers": [
+    "another wagon",
+    "carriage",
+    "wagon",
+    "wagon",
+    "carriage",
+    "wagon",
+    "carriage",
+    "trolley",
+    "carriage",
+    "wagon"
+   ]
+  }
+ ]
+}

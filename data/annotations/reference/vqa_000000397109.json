@@ -1,0 +1,100 @@
+{
+ "uid": "vqa_000000397109",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bench": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bench",
+   "bbox": [
+    336.16,
+    273.65,
+    102.03,
+    56.92
+   ],
+   "area": 2533.248150000004
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A park bench next to a serene lake.",
+  "A wooden park bench sitting at the end of a pier.",
+  "A bench on a concrete slab overlooking a lake.",
+  "A single bench is overlooking a crystal lake.",
+  "A bench on the bank of a river near a tree."
+ ],
+ "scene_places": [
+  "park",
+  "water"
+ ],
+ "vqa": [
+  {
+   "question_id": 397109000,
+   "question": "What is the bench facing?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "lake",
+   "answers": [
+    "towards lake",
+    "pond",
+    "lake",
+    "water",
+    "water",
+    "lake",
+    "lake",
+    "lake",
+    "water",
+    "lake"
+   ]
+  },
+  {
+   "question_id": 397109001,
+   "question": "Can you see the reflection of the bench in the water?",
+   "answer_type": "yes/no",
+   "question_type": "can you",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "trees",
+    "no"
+   ]
+  },
+  {
+   "question_id": 397109002,
+   "question": "Anyone on the bench?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000431848",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "skateboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "skateboard": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    65.01,
+    100.77,
+    310.61,
+    382.84
+   ],
+   "area": 35682.257299999976
+  },
+  {
+   "category": "person",
+   "bbox": [
+    88.04,
+    303.22,
+    58.37,
+    96.03
+   ],
+   "area": 3139.5206000000003
+  },
+  {
+   "category": "skateboard",
+   "bbox": [
+    189.79,
+    384.23,
+    140.47,
+    139.94
+   ],
+   "area": 6034.993499999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man is doing a trick on a sidewalk curb.",
+  "A person doing a trick on a skateboard",
+  "A black and white photo of a man doing a trick on his skateboard.",
+  "a man skating on a drying ground with his hands up",
+  "A person jumping up in the air on a skateboard."
+ ],
+ "scene_places": []
+}

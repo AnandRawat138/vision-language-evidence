@@ -1,0 +1,231 @@
+{
+ "uid": "vqa_000000293574",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cup",
+  "potted plant",
+  "vase",
+  "wine glass"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 1,
+  "wine glass": 6,
+  "vase": 2,
+  "cup": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    170.97,
+    124.87,
+    328.88,
+    334.32
+   ],
+   "area": 79838.19174999998
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    110.39,
+    81.64,
+    68.54,
+    150.91
+   ],
+   "area": 5808.0292500000005
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    147.45,
+    67.63,
+    65.24,
+    136.92
+   ],
+   "area": 4113.984450000004
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    585.19,
+    88.85,
+    54.81,
+    140.85
+   ],
+   "area": 5878.410599999997
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    523.98,
+    75.63,
+    62.16,
+    158.6
+   ],
+   "area": 5916.13245
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    346.92,
+    53.52,
+    54.42,
+    77.17
+   ],
+   "area": 3396.3780999999985
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    230.93,
+    346.6,
+    170.33,
+    110.77
+   ],
+   "area": 9906.2892
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    25.08,
+    330.03,
+    132.71,
+    129.57
+   ],
+   "area": 13709.423000000003
+  },
+  {
+   "category": "wine glass",
+   "bbox": [
+    392.2,
+    53.13,
+    67.93,
+    91.25
+   ],
+   "area": 4725.97445
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    497.06,
+    359.07,
+    113.61,
+    105.93
+   ],
+   "area": 9815.24325
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A table topped with lots of candles and flowers.",
+  "A vase of flowers is sitting in the middle of the table.",
+  "A bouquet of flowers on a table top with surrounding glassware and candles.",
+  "A colorful flower centerpiece is surrounded by candles and wine glasses.",
+  "A beautiful flower arrangement on a dining table surrounded by candles and glasses."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 293574000,
+   "question": "Are the flowers alive?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "no",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 293574001,
+   "question": "Do you like that centerpiece?",
+   "answer_type": "yes/no",
+   "question_type": "do you",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "yes",
+    "no",
+    "no",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 293574002,
+   "question": "Are the candles lit?",
+   "answer_type": "yes/no",
+   "question_type": "are the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 293574003,
+   "question": "How many tulips are in the picture?",
+   "answer_type": "number",
+   "question_type": "how many",
+   "multiple_choice_answer": "7",
+   "answers": [
+    "13",
+    "7",
+    "10",
+    "7",
+    "7",
+    "7",
+    "7",
+    "7",
+    "6",
+    "7"
+   ]
+  },
+  {
+   "question_id": 293574004,
+   "question": "Where are the flowers?",
+   "answer_type": "other",
+   "question_type": "where are the",
+   "multiple_choice_answer": "vase",
+   "answers": [
+    "vase",
+    "centerpiece",
+    "on table",
+    "table",
+    "middle of table",
+    "roses",
+    "table",
+    "vase",
+    "vase",
+    "10"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{
+ "uid": "vqa_000000163798",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "clock"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "clock": 2
+ },
+ "object_boxes": [
+  {
+   "category": "clock",
+   "bbox": [
+    498.91,
+    41.9,
+    68.72,
+    85.54
+   ],
+   "area": 3705.8980499999975
+  },
+  {
+   "category": "clock",
+   "bbox": [
+    447.46,
+    45.78,
+    43.61,
+    96.06
+   ],
+   "area": 2513.5604000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A clock tower sitting beside a large building.",
+  "A clock tower has red scaffolding, with a brown building in the background.",
+  "A stone building is next to a clock tower.",
+  "A large clock tower sits in front of the building.",
+  "some red metal scaffolding that leads to some clocks on the top"
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 163798000,
+   "question": "Does this tower have something in common with the American flag?",
+   "answer_type": "yes/no",
+   "question_type": "does this",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 163798001,
+   "question": "What time does the clock read on the top of the tower?",
+   "answer_type": "number",
+   "question_type": "what time",
+   "multiple_choice_answer": "2:10",
+   "answers": [
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:13",
+    "2.15",
+    "2",
+    "210p",
+    "2:10",
+    "2:10"
+   ]
+  },
+  {
+   "question_id": 163798002,
+   "question": "What color is the top of the tower?",
+   "answer_type": "other",
+   "question_type": "what color is the",
+   "multiple_choice_answer": "blue",
+   "answers": [
+    "blue",
+    "gray",
+    "silver",
+    "blue",
+    "white",
+    "blue",
+    "gray",
+    "blue",
+    "gray",
+    "gray"
+   ]
+  },
+  {
+   "question_id": 163798003,
+   "question": "Is the click tower enclosed?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "yes",
+    "no",
+    "yes",
+    "yes",
+    "yes",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 163798004,
+   "question": "What time does the clock say?",
+   "answer_type": "number",
+   "question_type": "what time",
+   "multiple_choice_answer": "2:10",
+   "answers": [
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10",
+    "2:10"
+   ]
+  },
+  {
+   "question_id": 163798005,
+   "question": "Is the sun shining?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "not in picture at least",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

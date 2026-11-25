@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000326462",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "donut",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "donut": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    22.47,
+    398.55,
+    377.62,
+    190.13
+   ],
+   "area": 30309.54144999999
+  },
+  {
+   "category": "donut",
+   "bbox": [
+    96.63,
+    126.53,
+    331.08,
+    317.61
+   ],
+   "area": 74818.55094999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Pink donut with white sprinkles on the top of it.",
+  "a person holds a doughnut with sprinkles on it",
+  "A red icing doughnut with sprinkles on top.",
+  "A person holding a donut with a napkin.",
+  "A person is holding a doughnut with sprinkles."
+ ],
+ "scene_places": []
+}

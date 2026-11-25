@@ -1,0 +1,150 @@
+{
+ "uid": "coco_000000398028",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 11,
+  "baseball bat": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    287.16,
+    143.12,
+    130.98,
+    234.23
+   ],
+   "area": 11064.380600000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.0,
+    113.89,
+    89.57,
+    257.16
+   ],
+   "area": 9737.952899999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.55,
+    141.98,
+    275.31,
+    498.02
+   ],
+   "area": 80987.10655
+  },
+  {
+   "category": "person",
+   "bbox": [
+    47.7,
+    24.72,
+    71.59,
+    49.09
+   ],
+   "area": 1523.3842000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    329.24,
+    24.62,
+    43.44,
+    43.12
+   ],
+   "area": 946.4708499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    380.28,
+    22.98,
+    39.44,
+    45.07
+   ],
+   "area": 1192.6639499999994
+  },
+  {
+   "category": "baseball bat",
+   "bbox": [
+    226.73,
+    37.31,
+    96.14,
+    200.9
+   ],
+   "area": 4144.082700000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    29.06,
+    24.23,
+    17.51,
+    32.09
+   ],
+   "area": 320.45174999999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    197.62,
+    26.36,
+    53.85,
+    36.02
+   ],
+   "area": 1044.3762000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    105.27,
+    21.53,
+    51.9,
+    30.38
+   ],
+   "area": 682.3430000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    0.26,
+    23.54,
+    38.58,
+    33.97
+   ],
+   "area": 840.8865499999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    274.46,
+    27.82,
+    31.18,
+    43.15
+   ],
+   "area": 659.2303999999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A ballplayer on deck practicing for his turn at bat",
+  "A person practices batting during a baseball game.",
+  "A baseball player practicing his swing at a baseball game.",
+  "A baseball player holding a baseball bat during a game.",
+  "The man has a bat in his hands."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,126 @@
+{
+ "uid": "coco_000000171757",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "chair",
+  "couch",
+  "person",
+  "remote"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 3,
+  "remote": 1,
+  "couch": 1,
+  "chair": 3,
+  "bed": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    55.01,
+    129.44,
+    257.8,
+    350.56
+   ],
+   "area": 45670.419449999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    415.28,
+    159.04,
+    120.53,
+    320.96
+   ],
+   "area": 23883.752150000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    403.47,
+    140.92,
+    135.0,
+    339.08
+   ],
+   "area": 10887.999600000006
+  },
+  {
+   "category": "remote",
+   "bbox": [
+    243.49,
+    161.22,
+    25.66,
+    20.26
+   ],
+   "area": 131.10194999999987
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    520.31,
+    345.54,
+    114.81,
+    134.24
+   ],
+   "area": 12151.315249999998
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    3.57,
+    354.27,
+    124.14,
+    89.45
+   ],
+   "area": 6081.907500000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    38.65,
+    315.14,
+    36.62,
+    38.98
+   ],
+   "area": 1306.9724000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    281.42,
+    309.38,
+    82.57,
+    138.59
+   ],
+   "area": 6320.119499999999
+  },
+  {
+   "category": "bed",
+   "bbox": [
+    521.5,
+    347.84,
+    118.5,
+    132.16
+   ],
+   "area": 13627.495000000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a couple of people that are standing up in a room",
+  "a group of people listening to music or possible playing video games",
+  "The group of people are really into the game.",
+  "A group of people are socializing in a room.",
+  "A group of people standing inside of a living room."
+ ],
+ "scene_places": []
+}

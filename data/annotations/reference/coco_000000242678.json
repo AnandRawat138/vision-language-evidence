@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000242678",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "horse",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 1,
+  "person": 1
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    319.75,
+    183.48,
+    118.32,
+    132.17
+   ],
+   "area": 5157.028399999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    351.53,
+    163.32,
+    61.73,
+    63.95
+   ],
+   "area": 1114.7464000000016
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A horse and rider jumping over a bar on a track.",
+  "A person jumping a horse over an obstacle on a course.",
+  "The horse and rider are jumping over the yellow structure.",
+  "Horse above hurdle at Kentucky horse show event.",
+  "A horseback rider competing in an obstacle course event."
+ ],
+ "scene_places": []
+}

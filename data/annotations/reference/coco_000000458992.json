@@ -1,0 +1,74 @@
+{
+ "uid": "coco_000000458992",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "fork",
+  "knife",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "fork": 1,
+  "knife": 1,
+  "pizza": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    1.43,
+    2.39,
+    456.74,
+    409.96
+   ],
+   "area": 119652.93174999997
+  },
+  {
+   "category": "fork",
+   "bbox": [
+    273.05,
+    322.86,
+    164.32,
+    94.95
+   ],
+   "area": 1569.740899999999
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    61.76,
+    371.41,
+    83.89,
+    30.05
+   ],
+   "area": 1489.1181499999982
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    0.35,
+    392.18,
+    460.67,
+    247.7
+   ],
+   "area": 87764.33560000003
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a woman poses in front of a giant pizza",
+  "A woman poses on front of a large pizza",
+  "A woman holding a knife and fork over a giant pizza.",
+  "a lady using a knife and fork to cut a pizza",
+  "The woman has a knife and fork for eating the big pizza."
+ ],
+ "scene_places": []
+}

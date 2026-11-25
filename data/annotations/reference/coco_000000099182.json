@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000099182",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bed",
+  "book",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bed": 1,
+  "person": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bed",
+   "bbox": [
+    360.9,
+    173.42,
+    136.74,
+    153.93
+   ],
+   "area": 16798.499150000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    184.64,
+    0.75,
+    193.64,
+    281.46
+   ],
+   "area": 27240.5626
+  },
+  {
+   "category": "book",
+   "bbox": [
+    56.29,
+    88.34,
+    335.5,
+    245.66
+   ],
+   "area": 43530.95885
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man looking through a book on top of a table.",
+  "A man sitting on a bed looking at a book",
+  "a man is flipping through a book on a bed",
+  "A man sitting on a bed flipping through pages of a book.",
+  "A man in a black jacket is flipping through a large book."
+ ],
+ "scene_places": []
+}

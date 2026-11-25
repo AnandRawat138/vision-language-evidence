@@ -1,0 +1,315 @@
+{
+ "uid": "vqa_000000200605",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "handbag",
+  "parking meter",
+  "person",
+  "truck",
+  "umbrella"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "umbrella": 1,
+  "car": 4,
+  "truck": 2,
+  "person": 5,
+  "handbag": 1,
+  "parking meter": 1
+ },
+ "object_boxes": [
+  {
+   "category": "umbrella",
+   "bbox": [
+    365.82,
+    160.89,
+    198.6,
+    92.02
+   ],
+   "area": 10442.920349999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    357.5,
+    216.54,
+    24.88,
+    24.89
+   ],
+   "area": 397.37130000000025
+  },
+  {
+   "category": "car",
+   "bbox": [
+    318.16,
+    221.92,
+    46.49,
+    34.2
+   ],
+   "area": 738.5444499999992
+  },
+  {
+   "category": "car",
+   "bbox": [
+    211.24,
+    225.34,
+    17.17,
+    28.38
+   ],
+   "area": 394.83109999999994
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    250.35,
+    190.13,
+    69.72,
+    75.74
+   ],
+   "area": 4331.789450000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    437.47,
+    234.26,
+    105.17,
+    244.15
+   ],
+   "area": 15391.264449999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    156.57,
+    219.7,
+    12.18,
+    30.55
+   ],
+   "area": 209.0892499999999
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    513.44,
+    264.42,
+    38.36,
+    74.54
+   ],
+   "area": 1486.8267499999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    123.28,
+    221.45,
+    9.04,
+    24.69
+   ],
+   "area": 137.61564999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    134.24,
+    220.04,
+    4.45,
+    15.64
+   ],
+   "area": 46.2520499999999
+  },
+  {
+   "category": "parking meter",
+   "bbox": [
+    403.4,
+    247.35,
+    12.61,
+    25.22
+   ],
+   "area": 244.59104999999988
+  },
+  {
+   "category": "person",
+   "bbox": [
+    106.16,
+    217.27,
+    11.08,
+    36.61
+   ],
+   "area": 295.60195
+  },
+  {
+   "category": "car",
+   "bbox": [
+    511.42,
+    183.26,
+    128.58,
+    172.53
+   ],
+   "area": 16564.0364
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    215.99,
+    192.35,
+    26.59,
+    64.04
+   ],
+   "area": 839.4076500000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a woman holding an umbrella walking down a wet sidewalk",
+  "A woman walks down a street with an umbrella on a rainy day.",
+  "A woman with an umbrella walks down the street.",
+  "An umbrella clad woman walks down the sidewalk of a busy, rainy street.",
+  "Lady walking down rainy street with umbrella approaching a Levi's Store."
+ ],
+ "scene_places": [
+  "street"
+ ],
+ "vqa": [
+  {
+   "question_id": 200605000,
+   "question": "Does someplace specialize in casual apparel?",
+   "answer_type": "yes/no",
+   "question_type": "none of the above",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "levi's",
+    "yes",
+    "yes",
+    "yes",
+    "levi's store",
+    "yes",
+    "levis store",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 200605001,
+   "question": "Is the picture in black and white?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 200605002,
+   "question": "Why does the lady have an umbrella?",
+   "answer_type": "other",
+   "question_type": "why",
+   "multiple_choice_answer": "raining",
+   "answers": [
+    "raining",
+    "rainy weather",
+    "it's raining",
+    "raining",
+    "it's raining",
+    "raining",
+    "yes",
+    "it's raining",
+    "rain",
+    "raining"
+   ]
+  },
+  {
+   "question_id": 200605003,
+   "question": "What are the people waiting for?",
+   "answer_type": "other",
+   "question_type": "what are the",
+   "multiple_choice_answer": "bus",
+   "answers": [
+    "rain",
+    "rain",
+    "nothing",
+    "ride",
+    "bus",
+    "taxi",
+    "bus",
+    "bus",
+    "taxi",
+    "taxi"
+   ]
+  },
+  {
+   "question_id": 200605004,
+   "question": "Is that a train?",
+   "answer_type": "yes/no",
+   "question_type": "is that a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 200605005,
+   "question": "Is rain wet?",
+   "answer_type": "yes/no",
+   "question_type": "is",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "red",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "ibid"
+   ]
+  },
+  {
+   "question_id": 200605006,
+   "question": "Are cars allowed?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  }
+ ]
+}

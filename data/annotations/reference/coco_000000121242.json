@@ -1,0 +1,266 @@
+{
+ "uid": "coco_000000121242",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "car",
+  "horse",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "horse": 2,
+  "car": 14,
+  "person": 6,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "horse",
+   "bbox": [
+    316.45,
+    156.84,
+    196.5,
+    165.14
+   ],
+   "area": 16795.01555
+  },
+  {
+   "category": "car",
+   "bbox": [
+    615.34,
+    192.69,
+    24.52,
+    15.36
+   ],
+   "area": 313.7238000000003
+  },
+  {
+   "category": "car",
+   "bbox": [
+    58.85,
+    196.19,
+    5.6,
+    7.86
+   ],
+   "area": 30.09535000000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    28.12,
+    193.48,
+    25.76,
+    11.77
+   ],
+   "area": 170.83094999999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    483.79,
+    191.29,
+    92.78,
+    73.5
+   ],
+   "area": 4030.3377500000015
+  },
+  {
+   "category": "car",
+   "bbox": [
+    567.33,
+    180.08,
+    38.2,
+    11.81
+   ],
+   "area": 248.0811499999997
+  },
+  {
+   "category": "car",
+   "bbox": [
+    617.57,
+    181.37,
+    21.04,
+    9.97
+   ],
+   "area": 149.0897499999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    7.45,
+    194.73,
+    16.86,
+    6.6
+   ],
+   "area": 56.88824999999996
+  },
+  {
+   "category": "car",
+   "bbox": [
+    97.51,
+    193.91,
+    13.73,
+    8.83
+   ],
+   "area": 70.93464999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    239.0,
+    102.17,
+    54.68,
+    113.97
+   ],
+   "area": 2916.30265
+  },
+  {
+   "category": "person",
+   "bbox": [
+    58.71,
+    205.69,
+    49.61,
+    98.58
+   ],
+   "area": 2377.5511500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    109.42,
+    165.25,
+    44.42,
+    52.44
+   ],
+   "area": 943.9047999999993
+  },
+  {
+   "category": "horse",
+   "bbox": [
+    328.5,
+    144.76,
+    208.69,
+    70.55
+   ],
+   "area": 1838.5530499999995
+  },
+  {
+   "category": "person",
+   "bbox": [
+    570.04,
+    194.34,
+    5.46,
+    15.96
+   ],
+   "area": 47.91405000000017
+  },
+  {
+   "category": "car",
+   "bbox": [
+    569.52,
+    186.45,
+    23.82,
+    13.69
+   ],
+   "area": 121.75570000000022
+  },
+  {
+   "category": "person",
+   "bbox": [
+    606.78,
+    195.11,
+    5.77,
+    14.74
+   ],
+   "area": 53.24494999999977
+  },
+  {
+   "category": "person",
+   "bbox": [
+    574.69,
+    193.75,
+    7.91,
+    16.49
+   ],
+   "area": 68.31185000000012
+  },
+  {
+   "category": "car",
+   "bbox": [
+    583.88,
+    187.37,
+    20.81,
+    9.65
+   ],
+   "area": 72.1842500000004
+  },
+  {
+   "category": "car",
+   "bbox": [
+    66.91,
+    192.06,
+    25.97,
+    10.85
+   ],
+   "area": 162.78084999999982
+  },
+  {
+   "category": "car",
+   "bbox": [
+    0.0,
+    198.84,
+    13.94,
+    10.0
+   ],
+   "area": 116.55124999999998
+  },
+  {
+   "category": "car",
+   "bbox": [
+    47.67,
+    193.78,
+    12.85,
+    6.88
+   ],
+   "area": 45.44249999999996
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    513.21,
+    191.07,
+    58.6,
+    29.17
+   ],
+   "area": 987.9304000000011
+  },
+  {
+   "category": "car",
+   "bbox": [
+    1,
+    182,
+    615,
+    21
+   ],
+   "area": 3145
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A horse drawn carriage parked on top of a field.",
+  "A man that is sitting on a cart attached to a horse.",
+  "Two horses hitched to a wagon with a driver.",
+  "Horse drawn carriage in wide open field with old fashioned clothing",
+  "a horse pulling a cart with a person on top of it"
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

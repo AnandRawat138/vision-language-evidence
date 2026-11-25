@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000314177",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "toilet": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    167.72,
+    280.97,
+    156.12,
+    318.43
+   ],
+   "area": 33539.16979999999
+  },
+  {
+   "category": "toilet",
+   "bbox": [
+    206.06,
+    557.19,
+    69.57,
+    41.75
+   ],
+   "area": 2315.937749999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a person taking a photo in a bath room mirror",
+  "A youth on a toilet taking a \"selfie\" in a mirror.",
+  "Someone sitting on the toilet in the bathroom holding their camera at the mirror.",
+  "The person is sitting on the unusual toilet in the bathroom.",
+  "A picture of the photographer sitting on the toilet"
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

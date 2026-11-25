@@ -1,0 +1,228 @@
+{
+ "uid": "coco_000000482275",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cake",
+  "cup",
+  "knife",
+  "person",
+  "tie",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "tie": 1,
+  "person": 3,
+  "cup": 1,
+  "cake": 12,
+  "vase": 1,
+  "knife": 1
+ },
+ "object_boxes": [
+  {
+   "category": "tie",
+   "bbox": [
+    202.54,
+    159.98,
+    36.62,
+    99.54
+   ],
+   "area": 733.9531500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    92.56,
+    24.88,
+    298.11,
+    447.71
+   ],
+   "area": 62888.4766
+  },
+  {
+   "category": "person",
+   "bbox": [
+    241.62,
+    45.3,
+    223.28,
+    422.83
+   ],
+   "area": 48779.64884999999
+  },
+  {
+   "category": "cup",
+   "bbox": [
+    223.86,
+    446.47,
+    30.91,
+    33.38
+   ],
+   "area": 930.6953500000005
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    384.0,
+    247.01,
+    148.85,
+    62.56
+   ],
+   "area": 7598.330799999999
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    480.02,
+    443.26,
+    28.19,
+    22.99
+   ],
+   "area": 512.5713999999999
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    423.91,
+    442.07,
+    26.97,
+    28.04
+   ],
+   "area": 690.4721500000002
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    546.88,
+    408.48,
+    58.24,
+    64.72
+   ],
+   "area": 2712.715799999997
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    503.64,
+    438.13,
+    22.06,
+    26.47
+   ],
+   "area": 434.46445000000057
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    454.96,
+    433.45,
+    25.95,
+    33.27
+   ],
+   "area": 705.2471500000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    406.05,
+    312.51,
+    97.46,
+    123.18
+   ],
+   "area": 2993.599099999999
+  },
+  {
+   "category": "knife",
+   "bbox": [
+    373.4,
+    221.83,
+    50.85,
+    35.98
+   ],
+   "area": 943.0666
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    371.45,
+    430.27,
+    28.58,
+    39.41
+   ],
+   "area": 801.3523500000007
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    472.49,
+    354.37,
+    26.45,
+    32.37
+   ],
+   "area": 696.0505499999994
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    496.8,
+    351.26,
+    24.56,
+    34.02
+   ],
+   "area": 662.8657999999996
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    445.82,
+    355.6,
+    27.77,
+    30.82
+   ],
+   "area": 695.0258000000001
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    419.77,
+    356.05,
+    24.33,
+    31.89
+   ],
+   "area": 604.4604000000014
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    393.02,
+    355.13,
+    29.37,
+    34.97
+   ],
+   "area": 842.0532500000002
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    513.97,
+    351.86,
+    13.09,
+    32.42
+   ],
+   "area": 225.86284999999899
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man and woman cutting a slice of cake by trees.",
+  "A couple of people standing cutting a cake.",
+  "The dork with the earring stands next to the Asian beauty who is way out of his league.",
+  "A newly married couple cutting a cake in a park.",
+  "A bride and groom are cutting a cake as they smile."
+ ],
+ "scene_places": []
+}

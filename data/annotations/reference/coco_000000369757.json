@@ -1,0 +1,80 @@
+{
+ "uid": "coco_000000369757",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "hot dog",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "pizza": 4,
+  "hot dog": 1
+ },
+ "object_boxes": [
+  {
+   "category": "pizza",
+   "bbox": [
+    287.46,
+    133.56,
+    242.71,
+    85.42
+   ],
+   "area": 13727.508049999999
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    40.11,
+    121.04,
+    260.35,
+    84.58
+   ],
+   "area": 14541.204649999996
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    579.24,
+    141.38,
+    60.76,
+    118.65
+   ],
+   "area": 5815.08395
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    107.99,
+    208.6,
+    209.08,
+    37.22
+   ],
+   "area": 5302.844050000001
+  },
+  {
+   "category": "hot dog",
+   "bbox": [
+    204.87,
+    300.43,
+    138.15,
+    52.52
+   ],
+   "area": 5008.696399999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A set of three pizzas in a display case.next to desserts.",
+  "Three different types of pizzas and other items on display at a pizzeria.",
+  "Multiple kinds of pizzas are on display in a case.",
+  "Pizza are on display for the hungry diners",
+  "four different pizzas in a glass case and a few other food items"
+ ],
+ "scene_places": []
+}

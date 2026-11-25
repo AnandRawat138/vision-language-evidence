@@ -1,0 +1,72 @@
+{
+ "uid": "coco_000000577182",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "bird"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 1,
+  "bench": 3
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    307.11,
+    180.31,
+    34.82,
+    37.07
+   ],
+   "area": 627.2382499999998
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    2.89,
+    205.33,
+    637.11,
+    216.38
+   ],
+   "area": 112919.58485
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    498.97,
+    181.2,
+    141.03,
+    186.15
+   ],
+   "area": 20640.342150000004
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    0.96,
+    7.74,
+    44.14,
+    162.16
+   ],
+   "area": 4139.7035000000005
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A bird sitting on top of a park bench.",
+  "The wooden park benches are painted dark purple.",
+  "A small bird sitting on the back of a wooden bench.",
+  "a bench with a couple of purple benches",
+  "Some purple benches and a bird on it."
+ ],
+ "scene_places": [
+  "park"
+ ]
+}

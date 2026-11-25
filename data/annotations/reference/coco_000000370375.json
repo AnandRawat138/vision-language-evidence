@@ -1,0 +1,62 @@
+{
+ "uid": "coco_000000370375",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "baseball bat",
+  "person",
+  "sports ball"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "baseball bat": 1,
+  "person": 1,
+  "sports ball": 1
+ },
+ "object_boxes": [
+  {
+   "category": "baseball bat",
+   "bbox": [
+    10.29,
+    192.94,
+    263.4,
+    113.66
+   ],
+   "area": 7739.226400000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    186.97,
+    87.73,
+    189.84,
+    545.08
+   ],
+   "area": 68307.0344
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    333.29,
+    312.48,
+    54.89,
+    63.94
+   ],
+   "area": 2695.9438999999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A little boy wearing a baseball hat holding a baseball bat.",
+  "A young boy swings a plastic bat while wearing a large helmet.",
+  "A young child in a khaki pants and a hitting helmet, holding a small baseball bat while standing in the grass.",
+  "A small boy holding a bat with a hat pulled over his face.",
+  "A boy with a bat has a batting helmet pulled over his face."
+ ],
+ "scene_places": []
+}

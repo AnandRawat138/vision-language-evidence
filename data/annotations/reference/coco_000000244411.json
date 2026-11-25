@@ -1,0 +1,131 @@
+{
+ "uid": "coco_000000244411",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cow"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cow": 10
+ },
+ "object_boxes": [
+  {
+   "category": "cow",
+   "bbox": [
+    355.1,
+    134.02,
+    145.55,
+    213.68
+   ],
+   "area": 19961.691399999996
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    73.66,
+    148.68,
+    170.44,
+    161.04
+   ],
+   "area": 14284.427250000004
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    225.12,
+    219.19,
+    26.46,
+    11.67
+   ],
+   "area": 210.47180000000043
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    16.99,
+    205.51,
+    23.79,
+    11.08
+   ],
+   "area": 179.22199999999987
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    59.44,
+    149.08,
+    20.7,
+    8.81
+   ],
+   "area": 101.77844999999981
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    586.17,
+    180.56,
+    8.64,
+    4.5
+   ],
+   "area": 29.741950000000106
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    545.0,
+    132.58,
+    4.87,
+    3.02
+   ],
+   "area": 6.250899999999937
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    510.89,
+    130.67,
+    6.17,
+    2.91
+   ],
+   "area": 13.689650000000075
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    272.5,
+    268.15,
+    41.11,
+    13.7
+   ],
+   "area": 313.49114999999995
+  },
+  {
+   "category": "cow",
+   "bbox": [
+    341.22,
+    265.67,
+    20.47,
+    12.72
+   ],
+   "area": 161.55449999999973
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Black cows standing in the grass of a pasture.",
+  "A couple of black cows standing on the top of a grassy hill.",
+  "Two cows in a large green grassy field.",
+  "Two cows are in a pasture and one is reaching his head to the side.",
+  "Green fields with shrubs and gentle rises and dips in the terrain has a large black cow standing on it, face-front, and a second one that is looking around at the other one."
+ ],
+ "scene_places": [
+  "farm/rural",
+  "park"
+ ]
+}

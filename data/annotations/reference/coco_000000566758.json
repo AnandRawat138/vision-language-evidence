@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000566758",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bus",
+  "car"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "car": 1,
+  "bus": 1
+ },
+ "object_boxes": [
+  {
+   "category": "car",
+   "bbox": [
+    538.82,
+    177.32,
+    94.35,
+    49.87
+   ],
+   "area": 1952.3047999999997
+  },
+  {
+   "category": "bus",
+   "bbox": [
+    31.35,
+    106.49,
+    496.22,
+    245.4
+   ],
+   "area": 91964.69445000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A school bus is parked on the side of the street.",
+  "A bus parked by a curb on the street",
+  "A school bus parked next to a curb.",
+  "The yellow school bus has stopped at the bus stop.",
+  "a school bus on a city street"
+ ],
+ "scene_places": [
+  "street"
+ ]
+}

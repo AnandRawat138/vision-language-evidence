@@ -1,0 +1,208 @@
+{
+ "uid": "flickr30k_4439654945",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shoes": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Young children are learning a local custom by watching adults , and it appears to involve pretending to be asleep .",
+  "A group of Indian men demonstrate the act of sleeping to 3 school children , a young boy , and two young girls .",
+  "A small boy grins in a crowd full of people posing with their eyes closed in a sleeping position .",
+  "Three children and adults in the background , all pretend to sleep .",
+  "People without shoes on acting like they are sleeping ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "168213",
+   "types": [
+    "people"
+   ],
+   "phrase": "Young children",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "168218",
+   "types": [
+    "other"
+   ],
+   "phrase": "a local custom",
+   "start": 28,
+   "end": 42
+  },
+  {
+   "entity_id": "168216",
+   "types": [
+    "people"
+   ],
+   "phrase": "adults",
+   "start": 55,
+   "end": 61
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 68,
+   "end": 70
+  },
+  {
+   "entity_id": "168214",
+   "types": [
+    "people"
+   ],
+   "phrase": "A group of Indian men",
+   "start": 0,
+   "end": 21
+  },
+  {
+   "entity_id": "168218",
+   "types": [
+    "other"
+   ],
+   "phrase": "the act",
+   "start": 34,
+   "end": 41
+  },
+  {
+   "entity_id": "168213",
+   "types": [
+    "people"
+   ],
+   "phrase": "3 school children",
+   "start": 57,
+   "end": 74
+  },
+  {
+   "entity_id": "168224",
+   "types": [
+    "people"
+   ],
+   "phrase": "a young boy",
+   "start": 77,
+   "end": 88
+  },
+  {
+   "entity_id": "168220",
+   "types": [
+    "people"
+   ],
+   "phrase": "two young girls",
+   "start": 95,
+   "end": 110
+  },
+  {
+   "entity_id": "168224",
+   "types": [
+    "people"
+   ],
+   "phrase": "A small boy",
+   "start": 0,
+   "end": 11
+  },
+  {
+   "entity_id": "168217",
+   "types": [
+    "people"
+   ],
+   "phrase": "a crowd full of people",
+   "start": 21,
+   "end": 43
+  },
+  {
+   "entity_id": "168221",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "their eyes",
+   "start": 56,
+   "end": 66
+  },
+  {
+   "entity_id": "168222",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sleeping position",
+   "start": 77,
+   "end": 96
+  },
+  {
+   "entity_id": "168213",
+   "types": [
+    "people"
+   ],
+   "phrase": "Three children",
+   "start": 0,
+   "end": 14
+  },
+  {
+   "entity_id": "168217",
+   "types": [
+    "people"
+   ],
+   "phrase": "adults",
+   "start": 19,
+   "end": 25
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 29,
+   "end": 43
+  },
+  {
+   "entity_id": "168219",
+   "types": [
+    "other"
+   ],
+   "phrase": "all pretend",
+   "start": 46,
+   "end": 57
+  },
+  {
+   "entity_id": "168217",
+   "types": [
+    "people"
+   ],
+   "phrase": "People",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "168223",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "shoes",
+   "start": 15,
+   "end": 20
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "they",
+   "start": 36,
+   "end": 40
+  }
+ ],
+ "scene_places": []
+}

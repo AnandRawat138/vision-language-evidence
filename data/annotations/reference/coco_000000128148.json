@@ -1,0 +1,270 @@
+{
+ "uid": "coco_000000128148",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "couch",
+  "dining table",
+  "potted plant",
+  "tv"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "potted plant": 2,
+  "chair": 3,
+  "couch": 2,
+  "dining table": 1,
+  "book": 14,
+  "tv": 1
+ },
+ "object_boxes": [
+  {
+   "category": "potted plant",
+   "bbox": [
+    521.29,
+    138.2,
+    29.82,
+    62.52
+   ],
+   "area": 1138.4154000000008
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    0.0,
+    212.38,
+    63.78,
+    102.61
+   ],
+   "area": 1624.4208999999992
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    67.93,
+    200.56,
+    21.9,
+    29.98
+   ],
+   "area": 530.1698999999996
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    69.08,
+    192.63,
+    28.42,
+    31.68
+   ],
+   "area": 407.7691499999999
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    262.32,
+    192.37,
+    243.92,
+    127.02
+   ],
+   "area": 26432.11685
+  },
+  {
+   "category": "couch",
+   "bbox": [
+    45.91,
+    205.77,
+    212.27,
+    162.24
+   ],
+   "area": 23563.432999999997
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    1.44,
+    206.12,
+    68.25,
+    36.44
+   ],
+   "area": 881.2162000000005
+  },
+  {
+   "category": "book",
+   "bbox": [
+    131.12,
+    146.18,
+    7.8,
+    20.24
+   ],
+   "area": 82.44324999999985
+  },
+  {
+   "category": "book",
+   "bbox": [
+    103.79,
+    150.35,
+    18.35,
+    8.64
+   ],
+   "area": 123.93780000000001
+  },
+  {
+   "category": "book",
+   "bbox": [
+    112.81,
+    124.45,
+    3.86,
+    17.31
+   ],
+   "area": 54.37469999999993
+  },
+  {
+   "category": "book",
+   "bbox": [
+    120.47,
+    131.86,
+    9.64,
+    10.2
+   ],
+   "area": 88.24465000000004
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    280.2,
+    139.34,
+    11.35,
+    52.47
+   ],
+   "area": 135.98300000000015
+  },
+  {
+   "category": "book",
+   "bbox": [
+    141.57,
+    144.16,
+    5.87,
+    20.41
+   ],
+   "area": 103.0873000000001
+  },
+  {
+   "category": "book",
+   "bbox": [
+    128.24,
+    148.66,
+    3.66,
+    16.79
+   ],
+   "area": 45.51824999999992
+  },
+  {
+   "category": "book",
+   "bbox": [
+    111.59,
+    147.88,
+    11.37,
+    20.12
+   ],
+   "area": 72.71979999999995
+  },
+  {
+   "category": "book",
+   "bbox": [
+    124.98,
+    199.09,
+    6.03,
+    17.61
+   ],
+   "area": 77.16519999999969
+  },
+  {
+   "category": "book",
+   "bbox": [
+    141.63,
+    194.16,
+    9.37,
+    17.36
+   ],
+   "area": 133.7166999999999
+  },
+  {
+   "category": "book",
+   "bbox": [
+    113.86,
+    204.54,
+    3.46,
+    15.49
+   ],
+   "area": 25.58984999999997
+  },
+  {
+   "category": "book",
+   "bbox": [
+    107.12,
+    199.62,
+    14.76,
+    20.78
+   ],
+   "area": 242.90889999999996
+  },
+  {
+   "category": "tv",
+   "bbox": [
+    605.16,
+    202.4,
+    34.84,
+    125.43
+   ],
+   "area": 3178.7479000000008
+  },
+  {
+   "category": "book",
+   "bbox": [
+    129.5,
+    168.51,
+    9.87,
+    25.97
+   ],
+   "area": 60.491650000000355
+  },
+  {
+   "category": "book",
+   "bbox": [
+    105.66,
+    175.91,
+    6.25,
+    23.62
+   ],
+   "area": 50.62829999999995
+  },
+  {
+   "category": "book",
+   "bbox": [
+    93,
+    123,
+    245,
+    133
+   ],
+   "area": 3225
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large living room with leather couches and wood flooring",
+  "A living room filled with two leather couches on a hard wood floor.",
+  "The living room is spacious and clean with hardwood floors and seating on leather sofas.",
+  "Two brown leather couches in a living room",
+  "A living room with brown, leather furniture and a red wall"
+ ],
+ "scene_places": [
+  "living room"
+ ]
+}

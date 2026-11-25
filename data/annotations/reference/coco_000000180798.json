@@ -1,0 +1,38 @@
+{
+ "uid": "coco_000000180798",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "cell phone"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    175.68,
+    145.83,
+    127.25,
+    305.18
+   ],
+   "area": 25692.942299999995
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a cellphone sitting on a blue mesh blanket",
+  "A small cell phone on a blue surface.",
+  "A smart device sitting on top of a blue blanket.",
+  "a phone that is sitting on a blue blanket",
+  "A cell phone on a blue item with tiny holes."
+ ],
+ "scene_places": []
+}

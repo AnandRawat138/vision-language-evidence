@@ -1,0 +1,276 @@
+{
+ "uid": "coco_000000541123",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "person",
+  "sports ball",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 14,
+  "sports ball": 1,
+  "chair": 6,
+  "tennis racket": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    304.43,
+    267.44,
+    60.1,
+    87.66
+   ],
+   "area": 1851.5800499999991
+  },
+  {
+   "category": "person",
+   "bbox": [
+    351.59,
+    135.05,
+    19.13,
+    53.43
+   ],
+   "area": 575.5303000000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    529.94,
+    178.96,
+    42.05,
+    62.61
+   ],
+   "area": 812.1101000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    459.74,
+    103.02,
+    22.63,
+    31.13
+   ],
+   "area": 484.4458000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    381.29,
+    146.01,
+    17.23,
+    43.54
+   ],
+   "area": 329.9991499999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    111.31,
+    256.87,
+    55.65,
+    82.52
+   ],
+   "area": 1501.1092
+  },
+  {
+   "category": "person",
+   "bbox": [
+    447.19,
+    78.37,
+    13.45,
+    13.83
+   ],
+   "area": 127.36710000000008
+  },
+  {
+   "category": "person",
+   "bbox": [
+    19.13,
+    150.29,
+    17.99,
+    38.89
+   ],
+   "area": 356.28970000000027
+  },
+  {
+   "category": "person",
+   "bbox": [
+    383.33,
+    161.71,
+    28.44,
+    67.08
+   ],
+   "area": 846.3507999999995
+  },
+  {
+   "category": "sports ball",
+   "bbox": [
+    292.14,
+    225.99,
+    4.78,
+    4.53
+   ],
+   "area": 13.229100000000017
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    324.74,
+    164.35,
+    16.69,
+    22.81
+   ],
+   "area": 252.01525000000012
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    33.14,
+    226.48,
+    27.96,
+    32.69
+   ],
+   "area": 365.95410000000004
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    52.22,
+    221.18,
+    13.57,
+    13.04
+   ],
+   "area": 121.1390499999999
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    73.23,
+    178.96,
+    12.31,
+    25.09
+   ],
+   "area": 140.02265000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    422.73,
+    73.45,
+    13.74,
+    18.9
+   ],
+   "area": 177.64619999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    77.31,
+    164.69,
+    23.8,
+    39.26
+   ],
+   "area": 532.80785
+  },
+  {
+   "category": "person",
+   "bbox": [
+    311.53,
+    69.34,
+    19.62,
+    22.15
+   ],
+   "area": 287.8152999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    494.97,
+    59.31,
+    12.75,
+    14.0
+   ],
+   "area": 87.96875000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    67.68,
+    179.13,
+    7.52,
+    4.24
+   ],
+   "area": 23.50500000000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    129.57,
+    74.75,
+    11.99,
+    6.38
+   ],
+   "area": 70.2293
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    303.81,
+    289.97,
+    16.36,
+    15.81
+   ],
+   "area": 164.02149999999986
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    563.62,
+    189.85,
+    6.58,
+    5.97
+   ],
+   "area": 25.41219999999999
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    394.73,
+    182.54,
+    11.13,
+    8.95
+   ],
+   "area": 52.2440500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1,
+    0,
+    638,
+    261
+   ],
+   "area": 52328
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "four tennis players with rackets on a court",
+  "A mens doubles tennis tournament on a grass court.",
+  "Four men on a tennis court playing a doubles tennis match.",
+  "Four people in red shirts playing tennis with onlookers in the background.",
+  "People playing a game of tennis with a large audience."
+ ],
+ "scene_places": [
+  "sports field"
+ ]
+}

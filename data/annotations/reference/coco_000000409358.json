@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000409358",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "sink",
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toilet": 1,
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toilet",
+   "bbox": [
+    75.64,
+    386.45,
+    233.8,
+    187.04
+   ],
+   "area": 21013.18395
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    308.92,
+    348.88,
+    301.71,
+    73.63
+   ],
+   "area": 11107.45365
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A modern bathroom with square sink and backlit mirror.",
+  "Brightly lit tiled wall in modern bathroom setting.",
+  "A white toilet and sink in a room.",
+  "a bathroom with white and black tile a sink and toilet",
+  "The corner of a bathroom, showing the sink and toilet."
+ ],
+ "scene_places": [
+  "bathroom"
+ ]
+}

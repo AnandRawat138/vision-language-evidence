@@ -1,0 +1,214 @@
+{
+ "uid": "vqa_000000296544",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "cake",
+  "dining table",
+  "person",
+  "pizza"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "dining table": 2,
+  "person": 3,
+  "pizza": 3,
+  "cake": 1,
+  "book": 1
+ },
+ "object_boxes": [
+  {
+   "category": "dining table",
+   "bbox": [
+    93.83,
+    154.26,
+    422.2,
+    134.84
+   ],
+   "area": 14899.671199999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    389.58,
+    0.0,
+    55.65,
+    164.08
+   ],
+   "area": 6567.164400000002
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    448.5,
+    129.0,
+    190.0,
+    54.0
+   ],
+   "area": 7578.5
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    422.2,
+    267.71,
+    196.71,
+    132.42
+   ],
+   "area": 16348.150799999998
+  },
+  {
+   "category": "cake",
+   "bbox": [
+    116.11,
+    54.69,
+    325.28,
+    341.6
+   ],
+   "area": 61647.06645
+  },
+  {
+   "category": "person",
+   "bbox": [
+    562.3,
+    2.88,
+    77.7,
+    147.77
+   ],
+   "area": 9805.183700000001
+  },
+  {
+   "category": "pizza",
+   "bbox": [
+    0.96,
+    139.13,
+    161.2,
+    242.77
+   ],
+   "area": 17624.226300000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    1.92,
+    0.0,
+    72.92,
+    158.33
+   ],
+   "area": 9275.747500000001
+  },
+  {
+   "category": "dining table",
+   "bbox": [
+    302.0,
+    369.61,
+    213.5,
+    51.99
+   ],
+   "area": 5051.259200000002
+  },
+  {
+   "category": "book",
+   "bbox": [
+    53.24,
+    3.08,
+    135.32,
+    34.08
+   ],
+   "area": 2491.4631999999997
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A table of food that includes pizza and a cake.",
+  "a three layered cake sits next to some pizza",
+  "Several trays of pizza surrounding a large cake.",
+  "A table with four pizzas on stands and a cake in the middle.",
+  "Ornate dessert item on display surrounded by pans of pizza."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 296544000,
+   "question": "Is there a clear, glass plate under the cake?",
+   "answer_type": "yes/no",
+   "question_type": "is there a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 296544001,
+   "question": "Where are the plates?",
+   "answer_type": "other",
+   "question_type": "where are the",
+   "multiple_choice_answer": "on table",
+   "answers": [
+    "on table",
+    "underneath",
+    "on top of stands",
+    "table",
+    "on stands on table",
+    "on table",
+    "mesh",
+    "under food",
+    "none",
+    "on table"
+   ]
+  },
+  {
+   "question_id": 296544002,
+   "question": "Is the rear right pizza well done?",
+   "answer_type": "yes/no",
+   "question_type": "is the",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "display",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 296544003,
+   "question": "What colors are the flowers on the cake?",
+   "answer_type": "other",
+   "question_type": "what",
+   "multiple_choice_answer": "pink",
+   "answers": [
+    "pink",
+    "pink",
+    "pink",
+    "pink",
+    "multiple",
+    "pink",
+    "red",
+    "pink",
+    "pink",
+    "pink yellow red"
+   ]
+  }
+ ]
+}

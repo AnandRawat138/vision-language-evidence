@@ -1,0 +1,210 @@
+{
+ "uid": "vqa_000000529850",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "cat",
+  "cell phone",
+  "person",
+  "potted plant",
+  "refrigerator",
+  "sink",
+  "suitcase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cat": 1,
+  "person": 1,
+  "suitcase": 1,
+  "bottle": 2,
+  "potted plant": 1,
+  "refrigerator": 1,
+  "cell phone": 1,
+  "sink": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cat",
+   "bbox": [
+    26.54,
+    156.24,
+    204.29,
+    73.19
+   ],
+   "area": 11437.996450000004
+  },
+  {
+   "category": "person",
+   "bbox": [
+    189.93,
+    81.32,
+    310.07,
+    292.68
+   ],
+   "area": 62889.61554999998
+  },
+  {
+   "category": "suitcase",
+   "bbox": [
+    17.65,
+    53.65,
+    187.42,
+    320.35
+   ],
+   "area": 29863.892550000004
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    233.75,
+    0.0,
+    23.82,
+    37.93
+   ],
+   "area": 773.8500500000002
+  },
+  {
+   "category": "potted plant",
+   "bbox": [
+    370.64,
+    2.52,
+    129.36,
+    28.58
+   ],
+   "area": 2842.6195000000002
+  },
+  {
+   "category": "refrigerator",
+   "bbox": [
+    10.09,
+    0.0,
+    106.73,
+    229.44
+   ],
+   "area": 15515.93815
+  },
+  {
+   "category": "cell phone",
+   "bbox": [
+    453.36,
+    303.42,
+    39.49,
+    54.57
+   ],
+   "area": 1532.0662500000008
+  },
+  {
+   "category": "sink",
+   "bbox": [
+    194.32,
+    80.66,
+    31.32,
+    5.13
+   ],
+   "area": 100.33055000000017
+  },
+  {
+   "category": "bottle",
+   "bbox": [
+    222.18,
+    0.0,
+    12.88,
+    37.0
+   ],
+   "area": 339.142
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A man kneeling down to a black cat on luggage.",
+  "A man puts his head on his cat sitting on a suitcase.",
+  "A man says goodbye to his cat sitting on his luggage",
+  "A man resting his forehead on a cat sitting on luggage.",
+  "A man has his face up to a cat on a suitcase."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 529850000,
+   "question": "What is the cat sitting on?",
+   "answer_type": "other",
+   "question_type": "what is the",
+   "multiple_choice_answer": "suitcase",
+   "answers": [
+    "suitcase",
+    "luggage",
+    "suitcase",
+    "suitcase",
+    "luggage",
+    "suitcase",
+    "luggage",
+    "suitcase",
+    "luggage",
+    "suitcase"
+   ]
+  },
+  {
+   "question_id": 529850001,
+   "question": "Is he wearing pants?",
+   "answer_type": "yes/no",
+   "question_type": "is he",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 529850002,
+   "question": "What is this man laying his head on?",
+   "answer_type": "other",
+   "question_type": "what is this",
+   "multiple_choice_answer": "cat",
+   "answers": [
+    "cat",
+    "cat",
+    "cat",
+    "cat",
+    "cat",
+    "his cat's head",
+    "cat",
+    "cat",
+    "cat",
+    "cat"
+   ]
+  },
+  {
+   "question_id": 529850003,
+   "question": "Does the cat or the man have more hair on its head?",
+   "answer_type": "other",
+   "question_type": "does the",
+   "multiple_choice_answer": "cat",
+   "answers": [
+    "cat",
+    "cat",
+    "cat",
+    "cat",
+    "cat",
+    "car",
+    "cat",
+    "cat",
+    "cat",
+    "cat"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "args": {
+  "part": "online",
+  "repeats": 1,
+  "n": 24,
+  "batches": [
+   1,
+   4,
+   8,
+   16,
+   32,
+   64
+  ],
+  "rates": [
+   0.1
+  ],
+  "only": "online_indep_0.1Hz_r0",
+  "n_indep": null,
+  "big_batch_check": false,
+  "config": "E:\\Vision-Language Evidence\\configs\\local_gpu.yaml"
+ },
+ "backend": {
+  "backend": "hf-transformers",
+  "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "model_revision": "66285546d2b821cf421d4f5eb2576359d3770cd3",
+  "quantization": "nf4",
+  "min_pixels": 100352,
+  "max_pixels": 200704,
+  "decoding": "greedy",
+  "repetition_penalty": 1.05,
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "transformers": "4.57.3",
+  "bitsandbytes": "0.50.2",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "os": "Windows-11-10.0.26200-SP0",
+  "load_time_s": 57.26
+ },
+ "environment": {
+  "python": "3.12.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "git_commit": "3e6337cafc44678ef56777bc7b1bad4d7d0f8600",
+  "utc": "2026-11-23T04:46:49+00:00",
+  "torch": "2.7.1+cu126",
+  "cuda": "12.6",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "gpu_total_mb": 6144,
+  "ram_total_mb": 15773,
+  "cpu_count_logical": 16
+ },
+ "uids": [
+  "vg_2317782",
+  "coco_000000407298",
+  "coco_000000255536",
+  "vg_2416839",
+  "vg_2374047",
+  "coco_000000569700",
+  "coco_000000185472",
+  "coco_000000254814",
+  "coco_000000249786",
+  "vqa_000000344654",
+  "vg_2415234",
+  "flickr30k_20702864",
+  "coco_000000571598",
+  "flickr30k_1097710887",
+  "flickr30k_4569926879",
+  "flickr30k_4480270643",
+  "coco_000000356387",
+  "coco_000000135673",
+  "coco_000000396518",
+  "vqa_000000293574",
+  "vg_2368605",
+  "flickr30k_3036894037",
+  "coco_000000188439",
+  "vqa_000000226244"
+ ]
+}

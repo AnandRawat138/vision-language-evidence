@@ -1,0 +1,146 @@
+{
+ "uid": "coco_000000357737",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "car",
+  "motorcycle",
+  "person",
+  "truck"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bicycle": 2,
+  "car": 3,
+  "person": 4,
+  "motorcycle": 1,
+  "truck": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bicycle",
+   "bbox": [
+    45.42,
+    136.26,
+    362.32,
+    329.29
+   ],
+   "area": 58148.943499999994
+  },
+  {
+   "category": "car",
+   "bbox": [
+    63.14,
+    112.73,
+    335.84,
+    144.81
+   ],
+   "area": 23981.603899999987
+  },
+  {
+   "category": "car",
+   "bbox": [
+    134.94,
+    98.47,
+    126.69,
+    28.84
+   ],
+   "area": 1659.2475999999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    405.41,
+    21.08,
+    181.62,
+    434.6
+   ],
+   "area": 37621.66424999998
+  },
+  {
+   "category": "motorcycle",
+   "bbox": [
+    228.13,
+    109.07,
+    214.1,
+    354.01
+   ],
+   "area": 20321.515050000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    123.42,
+    97.57,
+    18.19,
+    30.25
+   ],
+   "area": 268.6410500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    153.58,
+    89.56,
+    20.67,
+    19.65
+   ],
+   "area": 205.35865000000007
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    19.33,
+    141.85,
+    51.54,
+    32.21
+   ],
+   "area": 592.0275500000001
+  },
+  {
+   "category": "car",
+   "bbox": [
+    576.36,
+    88.04,
+    7.07,
+    3.35
+   ],
+   "area": 18.59504999999976
+  },
+  {
+   "category": "truck",
+   "bbox": [
+    27.79,
+    88.54,
+    165.25,
+    77.0
+   ],
+   "area": 6295.601299999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    167.74,
+    95.12,
+    5.46,
+    8.12
+   ],
+   "area": 26.164199999999948
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A picture of a person standing by a bicycle.",
+  "A man in a parking lot stand next to bike and motorcycle.",
+  "Man laughing standing next to his motorcycle with his bicycle attached to it.",
+  "A man smiles while he stands beside a bike with a bike on it",
+  "A bicycle is mounted on the back of a motorcycle."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,147 @@
+{
+ "uid": "flickr30k_3799708677",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "dress": [
+   "brown"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Monks walk past a large stone building with stone women at the top .",
+  "Two monks walk along a plaza in front of some large columns .",
+  "Two monks are walking together possibly contemplating life .",
+  "Two men in brown robes walk away from a columned building .",
+  "Two monks walking together ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "143069",
+   "types": [
+    "people"
+   ],
+   "phrase": "Monks",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "143070",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large stone building",
+   "start": 16,
+   "end": 38
+  },
+  {
+   "entity_id": "143074",
+   "types": [
+    "people"
+   ],
+   "phrase": "stone women",
+   "start": 44,
+   "end": 55
+  },
+  {
+   "entity_id": "143075",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "the top",
+   "start": 59,
+   "end": 66
+  },
+  {
+   "entity_id": "143069",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two monks",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "143071",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a plaza",
+   "start": 21,
+   "end": 28
+  },
+  {
+   "entity_id": "143073",
+   "types": [
+    "people"
+   ],
+   "phrase": "some large columns",
+   "start": 41,
+   "end": 59
+  },
+  {
+   "entity_id": "143069",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two monks",
+   "start": 0,
+   "end": 9
+  },
+  {
+   "entity_id": "143076",
+   "types": [
+    "other"
+   ],
+   "phrase": "life",
+   "start": 54,
+   "end": 58
+  },
+  {
+   "entity_id": "143069",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "143072",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "brown robes",
+   "start": 11,
+   "end": 22
+  },
+  {
+   "entity_id": "143070",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a columned building",
+   "start": 38,
+   "end": 57
+  },
+  {
+   "entity_id": "143069",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two monks",
+   "start": 0,
+   "end": 9
+  }
+ ],
+ "scene_places": []
+}

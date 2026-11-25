@@ -1,0 +1,100 @@
+{
+ "uid": "coco_000000001761",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "airplane",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "airplane": 2,
+  "person": 5
+ },
+ "object_boxes": [
+  {
+   "category": "airplane",
+   "bbox": [
+    282.23,
+    139.38,
+    51.22,
+    43.78
+   ],
+   "area": 567.9410999999999
+  },
+  {
+   "category": "airplane",
+   "bbox": [
+    150.17,
+    8.63,
+    74.09,
+    77.19
+   ],
+   "area": 1454.4721500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    11.61,
+    615.96,
+    4.84,
+    11.55
+   ],
+   "area": 37.59895
+  },
+  {
+   "category": "person",
+   "bbox": [
+    4.28,
+    616.35,
+    7.22,
+    9.79
+   ],
+   "area": 44.45704999999989
+  },
+  {
+   "category": "person",
+   "bbox": [
+    15.58,
+    614.97,
+    6.23,
+    12.85
+   ],
+   "area": 47.845700000000036
+  },
+  {
+   "category": "person",
+   "bbox": [
+    36.24,
+    625.74,
+    4.8,
+    7.24
+   ],
+   "area": 20.78525000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    21.28,
+    617.1,
+    7.33,
+    10.64
+   ],
+   "area": 42.22255000000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two planes flying in the sky over a bridge.",
+  "A sky photo to jumbo jet airplanes over a bridge.",
+  "Two planes fly over a bridge in Sydney, Australia, with the Sydney Opera House in the background.",
+  "two jets are flying over a bridge and some water",
+  "Two airplanes flying in the sky above a black bridge."
+ ],
+ "scene_places": []
+}

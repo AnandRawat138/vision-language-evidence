@@ -1,0 +1,50 @@
+{
+ "uid": "coco_000000048153",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "bench": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    90.17,
+    75.84,
+    342.13,
+    294.1
+   ],
+   "area": 59652.01495000002
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    0.0,
+    2.53,
+    499.72,
+    311.8
+   ],
+   "area": 103795.67375000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A foot wearing a pointy pink flat shoe rested upon a bench.",
+  "A woman showing off her pink pointy-toed heels.",
+  "A woman wearing blue jeans with a sexy foot in a pink shoe.",
+  "A photo of a bright pink shoe on a blue and green background.",
+  "A lady wearing a pink shoe and blue jeans."
+ ],
+ "scene_places": []
+}

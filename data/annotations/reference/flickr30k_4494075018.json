@@ -1,0 +1,268 @@
+{
+ "uid": "flickr30k_4494075018",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "orange",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": []
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "Male with brown hair and mustache , wearing a gray shawl over a printed shirt , while a small orange and blue boat cruises along the water .",
+  "There is a man drinking in the foreground , while people in a boat pass by in the background on the water .",
+  "A man walking in front of a body of water with a boat in it .",
+  "Man with shawl praying by a large lake and small boat .",
+  "A man standing near water lights a cigarette ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "173020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Male",
+   "start": 0,
+   "end": 4
+  },
+  {
+   "entity_id": "173030",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "brown hair",
+   "start": 10,
+   "end": 20
+  },
+  {
+   "entity_id": "173031",
+   "types": [
+    "bodyparts"
+   ],
+   "phrase": "mustache",
+   "start": 25,
+   "end": 33
+  },
+  {
+   "entity_id": "173023",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a gray shawl",
+   "start": 44,
+   "end": 56
+  },
+  {
+   "entity_id": "173023",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a printed shirt",
+   "start": 62,
+   "end": 77
+  },
+  {
+   "entity_id": "173026",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a small orange",
+   "start": 86,
+   "end": 100
+  },
+  {
+   "entity_id": "173021",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "blue boat",
+   "start": 105,
+   "end": 114
+  },
+  {
+   "entity_id": "173022",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 129,
+   "end": 138
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "There",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "173020",
+   "types": [
+    "people"
+   ],
+   "phrase": "a man",
+   "start": 9,
+   "end": 14
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the foreground",
+   "start": 27,
+   "end": 41
+  },
+  {
+   "entity_id": "173027",
+   "types": [
+    "people"
+   ],
+   "phrase": "people",
+   "start": 50,
+   "end": 56
+  },
+  {
+   "entity_id": "173021",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a boat pass",
+   "start": 60,
+   "end": 71
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 78,
+   "end": 92
+  },
+  {
+   "entity_id": "173022",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the water",
+   "start": 96,
+   "end": 105
+  },
+  {
+   "entity_id": "173020",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "173022",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a body of water",
+   "start": 26,
+   "end": 41
+  },
+  {
+   "entity_id": "173021",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "a boat",
+   "start": 47,
+   "end": 53
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 57,
+   "end": 59
+  },
+  {
+   "entity_id": "173020",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "173023",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "shawl",
+   "start": 9,
+   "end": 14
+  },
+  {
+   "entity_id": "173022",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a large lake",
+   "start": 26,
+   "end": 38
+  },
+  {
+   "entity_id": "173021",
+   "types": [
+    "vehicles",
+    "scene"
+   ],
+   "phrase": "small boat",
+   "start": 43,
+   "end": 53
+  },
+  {
+   "entity_id": "173020",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "173029",
+   "types": [
+    "other"
+   ],
+   "phrase": "water lights",
+   "start": 20,
+   "end": 32
+  },
+  {
+   "entity_id": "173024",
+   "types": [
+    "other"
+   ],
+   "phrase": "a cigarette",
+   "start": 33,
+   "end": 44
+  }
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

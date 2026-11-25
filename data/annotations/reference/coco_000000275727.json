@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000275727",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "traffic light",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1,
+  "traffic light": 1
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    25.14,
+    143.14,
+    532.5,
+    245.08
+   ],
+   "area": 73601.3973
+  },
+  {
+   "category": "traffic light",
+   "bbox": [
+    6.05,
+    202.69,
+    18.08,
+    42.3
+   ],
+   "area": 685.5801000000001
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Yellow and grey train near platform at railway station.",
+  "A train is moving along the tracks past a traffic signal.",
+  "A train engine carrying carts down a track into a station.",
+  "A freight train riding on tracks through a forested area.",
+  "a yellow and gray train some tracks and trees"
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

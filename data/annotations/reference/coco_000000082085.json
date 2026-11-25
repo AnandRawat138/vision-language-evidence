@@ -1,0 +1,152 @@
+{
+ "uid": "coco_000000082085",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "train"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "train": 1,
+  "person": 11
+ },
+ "object_boxes": [
+  {
+   "category": "train",
+   "bbox": [
+    118.3,
+    0.0,
+    521.3,
+    405.88
+   ],
+   "area": 121466.15664999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    107.48,
+    226.15,
+    14.7,
+    73.1
+   ],
+   "area": 735.6638500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    9.64,
+    252.7,
+    24.86,
+    36.18
+   ],
+   "area": 650.3054500000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    603.99,
+    158.52,
+    23.37,
+    52.24
+   ],
+   "area": 705.9545499999987
+  },
+  {
+   "category": "person",
+   "bbox": [
+    483.27,
+    133.15,
+    14.49,
+    82.6
+   ],
+   "area": 606.6759999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    256.09,
+    196.63,
+    4.29,
+    11.32
+   ],
+   "area": 22.21600000000005
+  },
+  {
+   "category": "person",
+   "bbox": [
+    69.68,
+    177.61,
+    45.32,
+    158.27
+   ],
+   "area": 2454.4444
+  },
+  {
+   "category": "person",
+   "bbox": [
+    210.78,
+    187.86,
+    12.62,
+    22.63
+   ],
+   "area": 148.87004999999994
+  },
+  {
+   "category": "person",
+   "bbox": [
+    340.57,
+    217.56,
+    10.68,
+    65.49
+   ],
+   "area": 289.38100000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    397.26,
+    144.33,
+    29.46,
+    75.78
+   ],
+   "area": 1319.1314000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    243.66,
+    211.44,
+    3.09,
+    17.97
+   ],
+   "area": 44.880749999999956
+  },
+  {
+   "category": "person",
+   "bbox": [
+    572.21,
+    111.99,
+    51.82,
+    25.06
+   ],
+   "area": 556.9226999999996
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a train that is on a rail road track",
+  "a large blue train is coming down some tracks",
+  "A brightly colored train is stopped on the tracks to let passengers on.",
+  "A man stands near a passenger train holding a flag.",
+  "A gentleman is waving a flag at people passing by in a train."
+ ],
+ "scene_places": [
+  "station"
+ ]
+}

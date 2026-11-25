@@ -1,0 +1,52 @@
+{
+ "uid": "coco_000000269121",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 1,
+  "tennis racket": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    148.13,
+    30.2,
+    209.98,
+    565.22
+   ],
+   "area": 42971.762050000005
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    330.16,
+    210.51,
+    101.59,
+    125.29
+   ],
+   "area": 4774.486000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A white-clad tennis player hurls a ball upward to deliver a serve.",
+  "A male tennis player with a racket at the court",
+  "A tennis player is attempting to hit the ball.",
+  "A guy in the middle of serving on a tennis court.",
+  "A man playing tennis throws the ball in the air."
+ ],
+ "scene_places": [
+  "sports field"
+ ]
+}

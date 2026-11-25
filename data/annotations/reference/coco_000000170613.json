@@ -1,0 +1,73 @@
+{
+ "uid": "coco_000000170613",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person",
+  "surfboard"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 2,
+  "surfboard": 2
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    23.56,
+    161.78,
+    200.75,
+    335.66
+   ],
+   "area": 23225.777850000006
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    205.89,
+    251.52,
+    208.85,
+    107.73
+   ],
+   "area": 15226.576450000002
+  },
+  {
+   "category": "surfboard",
+   "bbox": [
+    28.76,
+    158.51,
+    113.26,
+    211.62
+   ],
+   "area": 15667.775899999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    263.9,
+    180.15,
+    140.64,
+    271.8
+   ],
+   "area": 11367.373500000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Surfers holding boards standing in water at ocean.",
+  "Two people standing in the surf with their surfboards.",
+  "A couple of women are at the beach with surfboards",
+  "A couple of people with surfboards in the water.",
+  "two people holding surf boards in a body of water"
+ ],
+ "scene_places": [
+  "beach",
+  "water"
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "uid": "coco_000000016958",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "book",
+  "chair",
+  "vase"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "chair": 3,
+  "book": 2,
+  "vase": 3
+ },
+ "object_boxes": [
+  {
+   "category": "chair",
+   "bbox": [
+    565.81,
+    234.99,
+    62.3,
+    124.6
+   ],
+   "area": 4339.788350000003
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    308.47,
+    227.01,
+    69.4,
+    132.07
+   ],
+   "area": 3605.6617499999984
+  },
+  {
+   "category": "book",
+   "bbox": [
+    427.04,
+    212.56,
+    70.21,
+    29.81
+   ],
+   "area": 1053.42085
+  },
+  {
+   "category": "book",
+   "bbox": [
+    349.53,
+    299.88,
+    102.61,
+    39.22
+   ],
+   "area": 2081.5555500000014
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    278.47,
+    87.5,
+    27.63,
+    53.16
+   ],
+   "area": 1124.7253999999998
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    23.1,
+    73.63,
+    42.03,
+    64.76
+   ],
+   "area": 1858.8759999999997
+  },
+  {
+   "category": "vase",
+   "bbox": [
+    93.38,
+    43.92,
+    24.23,
+    94.44
+   ],
+   "area": 1395.50215
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    437.99,
+    240.58,
+    130.94,
+    187.21
+   ],
+   "area": 13529.487949999999
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A room with a fireplace and a wooden table.",
+  "a living room with a fireplace and a table and chair.",
+  "A living room with an old fireplace and desk.",
+  "View of two desks with chairs next to a fireplace in an old style living room.",
+  "a room with a fire place and a group of chairs"
+ ],
+ "scene_places": [
+  "living room"
+ ]
+}

@@ -1,0 +1,275 @@
+{
+ "uid": "flickr30k_2657844508",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bottle",
+  "dining table",
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [
+  "bottle"
+ ],
+ "attr_available": true,
+ "captions": [
+  "A man and woman are sitting at a table in front of a sign that reads IL PORTO and two wine bottles and two wineglasses are on the table .",
+  "Two people sit at a table with wine in front of them , and a sign with a fish reading : \" IL PORTO \" behind them .",
+  "An elderly couple are sitting outside a restaurant , enjoying wine .",
+  "A couple is sitting at a restaurant in front of a big fish sign .",
+  "Couple sitting on patio outside restaurant having some wine ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "64465",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "64469",
+   "types": [
+    "people"
+   ],
+   "phrase": "woman",
+   "start": 10,
+   "end": 15
+  },
+  {
+   "entity_id": "64463",
+   "types": [
+    "other"
+   ],
+   "phrase": "a table",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "entity_id": "64461",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sign",
+   "start": 51,
+   "end": 57
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "that",
+   "start": 58,
+   "end": 62
+  },
+  {
+   "entity_id": "64460",
+   "types": [
+    "other"
+   ],
+   "phrase": "IL PORTO",
+   "start": 69,
+   "end": 77
+  },
+  {
+   "entity_id": "64464",
+   "types": [
+    "other"
+   ],
+   "phrase": "two wine bottles",
+   "start": 82,
+   "end": 98
+  },
+  {
+   "entity_id": "64467",
+   "types": [
+    "other"
+   ],
+   "phrase": "two wineglasses",
+   "start": 103,
+   "end": 118
+  },
+  {
+   "entity_id": "64463",
+   "types": [
+    "other"
+   ],
+   "phrase": "the table",
+   "start": 126,
+   "end": 135
+  },
+  {
+   "entity_id": "64459",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two people",
+   "start": 0,
+   "end": 10
+  },
+  {
+   "entity_id": "64463",
+   "types": [
+    "other"
+   ],
+   "phrase": "a table",
+   "start": 18,
+   "end": 25
+  },
+  {
+   "entity_id": "64468",
+   "types": [
+    "other"
+   ],
+   "phrase": "wine",
+   "start": 31,
+   "end": 35
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "them",
+   "start": 48,
+   "end": 52
+  },
+  {
+   "entity_id": "64461",
+   "types": [
+    "other"
+   ],
+   "phrase": "a sign",
+   "start": 59,
+   "end": 65
+  },
+  {
+   "entity_id": "64470",
+   "types": [
+    "animals"
+   ],
+   "phrase": "a fish",
+   "start": 71,
+   "end": 77
+  },
+  {
+   "entity_id": "64460",
+   "types": [
+    "other"
+   ],
+   "phrase": "IL PORTO",
+   "start": 90,
+   "end": 98
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "them",
+   "start": 108,
+   "end": 112
+  },
+  {
+   "entity_id": "64459",
+   "types": [
+    "people"
+   ],
+   "phrase": "An elderly couple",
+   "start": 0,
+   "end": 17
+  },
+  {
+   "entity_id": "64462",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a restaurant",
+   "start": 38,
+   "end": 50
+  },
+  {
+   "entity_id": "64464",
+   "types": [
+    "other"
+   ],
+   "phrase": "wine",
+   "start": 62,
+   "end": 66
+  },
+  {
+   "entity_id": "64459",
+   "types": [
+    "people"
+   ],
+   "phrase": "A couple",
+   "start": 0,
+   "end": 8
+  },
+  {
+   "entity_id": "64462",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a restaurant",
+   "start": 23,
+   "end": 35
+  },
+  {
+   "entity_id": "64461",
+   "types": [
+    "other"
+   ],
+   "phrase": "a big fish sign",
+   "start": 48,
+   "end": 63
+  },
+  {
+   "entity_id": "64459",
+   "types": [
+    "people"
+   ],
+   "phrase": "Couple",
+   "start": 0,
+   "end": 6
+  },
+  {
+   "entity_id": "64466",
+   "types": [
+    "scene"
+   ],
+   "phrase": "patio",
+   "start": 18,
+   "end": 23
+  },
+  {
+   "entity_id": "64462",
+   "types": [
+    "scene"
+   ],
+   "phrase": "restaurant",
+   "start": 32,
+   "end": 42
+  },
+  {
+   "entity_id": "64464",
+   "types": [
+    "other"
+   ],
+   "phrase": "some wine",
+   "start": 50,
+   "end": 59
+  }
+ ],
+ "scene_places": [
+  "restaurant"
+ ]
+}

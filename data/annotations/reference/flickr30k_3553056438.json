@@ -1,0 +1,215 @@
+{
+ "uid": "flickr30k_3553056438",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A little boy kisses a little girl as they sit on a hay bale with pumpkins and a Halloween display in the background .",
+  "A little boy kisses a little girl while sitting on hay bales surrounded by Halloween decorations .",
+  "Two children are sitting on bales of hay in a Halloween themed setting .",
+  "Two children are sitting on hay in front of pumpkins and play witches .",
+  "A little boy kissing a girl on a stack of hay ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "127139",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "127145",
+   "types": [
+    "people"
+   ],
+   "phrase": "a little girl",
+   "start": 20,
+   "end": 33
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "they",
+   "start": 37,
+   "end": 41
+  },
+  {
+   "entity_id": "127146",
+   "types": [
+    "other"
+   ],
+   "phrase": "a hay bale",
+   "start": 49,
+   "end": 59
+  },
+  {
+   "entity_id": "127143",
+   "types": [
+    "other"
+   ],
+   "phrase": "pumpkins",
+   "start": 65,
+   "end": 73
+  },
+  {
+   "entity_id": "127142",
+   "types": [
+    "other"
+   ],
+   "phrase": "a Halloween display",
+   "start": 78,
+   "end": 97
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 101,
+   "end": 115
+  },
+  {
+   "entity_id": "127139",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "127145",
+   "types": [
+    "people"
+   ],
+   "phrase": "a little girl",
+   "start": 20,
+   "end": 33
+  },
+  {
+   "entity_id": "127146",
+   "types": [
+    "other"
+   ],
+   "phrase": "hay bales",
+   "start": 51,
+   "end": 60
+  },
+  {
+   "entity_id": "127141",
+   "types": [
+    "other"
+   ],
+   "phrase": "Halloween decorations",
+   "start": 75,
+   "end": 96
+  },
+  {
+   "entity_id": "127139",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two children",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "127146",
+   "types": [
+    "other"
+   ],
+   "phrase": "bales of hay",
+   "start": 28,
+   "end": 40
+  },
+  {
+   "entity_id": "127144",
+   "types": [
+    "other"
+   ],
+   "phrase": "a Halloween",
+   "start": 44,
+   "end": 55
+  },
+  {
+   "entity_id": "127148",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two children",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "127146",
+   "types": [
+    "other"
+   ],
+   "phrase": "hay",
+   "start": 28,
+   "end": 31
+  },
+  {
+   "entity_id": "127143",
+   "types": [
+    "other"
+   ],
+   "phrase": "pumpkins",
+   "start": 44,
+   "end": 52
+  },
+  {
+   "entity_id": "127150",
+   "types": [
+    "people"
+   ],
+   "phrase": "witches",
+   "start": 62,
+   "end": 69
+  },
+  {
+   "entity_id": "127139",
+   "types": [
+    "people"
+   ],
+   "phrase": "A little boy",
+   "start": 0,
+   "end": 12
+  },
+  {
+   "entity_id": "127145",
+   "types": [
+    "people"
+   ],
+   "phrase": "a girl",
+   "start": 21,
+   "end": 27
+  },
+  {
+   "entity_id": "127146",
+   "types": [
+    "other"
+   ],
+   "phrase": "a stack of hay",
+   "start": 31,
+   "end": 45
+  }
+ ],
+ "scene_places": []
+}

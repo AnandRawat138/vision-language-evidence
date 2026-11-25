@@ -1,0 +1,205 @@
+{
+ "uid": "coco_000000308587",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "boat",
+  "kite",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 13,
+  "kite": 3,
+  "boat": 1
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    112.35,
+    368.33,
+    8.25,
+    16.24
+   ],
+   "area": 72.68655000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    361.82,
+    341.93,
+    3.56,
+    11.74
+   ],
+   "area": 24.57620000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    93.12,
+    349.76,
+    6.01,
+    10.72
+   ],
+   "area": 32.80919999999992
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    262.37,
+    174.7,
+    39.91,
+    35.46
+   ],
+   "area": 588.3850999999999
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    54.07,
+    245.41,
+    21.84,
+    35.83
+   ],
+   "area": 457.5084000000001
+  },
+  {
+   "category": "boat",
+   "bbox": [
+    81.79,
+    339.91,
+    23.59,
+    8.18
+   ],
+   "area": 148.9385499999991
+  },
+  {
+   "category": "kite",
+   "bbox": [
+    359.91,
+    120.47,
+    34.63,
+    45.18
+   ],
+   "area": 674.5976500000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    270.92,
+    352.39,
+    5.97,
+    11.94
+   ],
+   "area": 52.22980000000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    447.24,
+    322.05,
+    3.42,
+    8.84
+   ],
+   "area": 21.89589999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    354.88,
+    325.06,
+    2.9,
+    5.45
+   ],
+   "area": 9.244399999999922
+  },
+  {
+   "category": "person",
+   "bbox": [
+    422.56,
+    322.81,
+    1.79,
+    7.81
+   ],
+   "area": 11.207300000000066
+  },
+  {
+   "category": "person",
+   "bbox": [
+    434.63,
+    317.99,
+    3.52,
+    6.06
+   ],
+   "area": 15.039799999999957
+  },
+  {
+   "category": "person",
+   "bbox": [
+    411.2,
+    314.37,
+    4.04,
+    7.68
+   ],
+   "area": 22.276150000000126
+  },
+  {
+   "category": "person",
+   "bbox": [
+    388.61,
+    319.64,
+    3.19,
+    6.71
+   ],
+   "area": 13.54384999999993
+  },
+  {
+   "category": "person",
+   "bbox": [
+    72.97,
+    325.72,
+    9.38,
+    5.0
+   ],
+   "area": 25.45350000000009
+  },
+  {
+   "category": "person",
+   "bbox": [
+    102.3,
+    323.94,
+    3.37,
+    8.27
+   ],
+   "area": 20.01429999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    39.55,
+    329.82,
+    3.03,
+    5.58
+   ],
+   "area": 12.066200000000023
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "People are in the water with kites flying over them.",
+  "The photo shows the many ways to enjoy the beach--kite flying, bathing, lying in the sun, walking along the sand.",
+  "Several para sailors on choppy water under a cloudy sky.",
+  "A few para-surfers on the water near a beach.",
+  "People are windsurfing near a beach on a cloudy day."
+ ],
+ "scene_places": [
+  "beach",
+  "water"
+ ]
+}

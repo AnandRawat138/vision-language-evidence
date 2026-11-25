@@ -1,0 +1,194 @@
+{
+ "uid": "flickr30k_2723024306",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "blue"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A man builds a sand castle as children enjoy the sun in the background .",
+  "A man in a blue shirt is building a sand castle at the beach .",
+  "A man builds an elaborate sand castle on the beach .",
+  "Man builds detailed sand castle on the beach .",
+  "A man on a beach building a sand castle ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "68641",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "68643",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sand castle",
+   "start": 13,
+   "end": 26
+  },
+  {
+   "entity_id": "68645",
+   "types": [
+    "people"
+   ],
+   "phrase": "children",
+   "start": 30,
+   "end": 38
+  },
+  {
+   "entity_id": "68646",
+   "types": [
+    "other"
+   ],
+   "phrase": "the sun",
+   "start": 45,
+   "end": 52
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "the background",
+   "start": 56,
+   "end": 70
+  },
+  {
+   "entity_id": "68641",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "68647",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a blue shirt",
+   "start": 9,
+   "end": 21
+  },
+  {
+   "entity_id": "68643",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sand castle",
+   "start": 34,
+   "end": 47
+  },
+  {
+   "entity_id": "68642",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 51,
+   "end": 60
+  },
+  {
+   "entity_id": "68641",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "68643",
+   "types": [
+    "scene"
+   ],
+   "phrase": "an elaborate sand castle",
+   "start": 13,
+   "end": 37
+  },
+  {
+   "entity_id": "68642",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 41,
+   "end": 50
+  },
+  {
+   "entity_id": "68641",
+   "types": [
+    "people"
+   ],
+   "phrase": "Man",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "68643",
+   "types": [
+    "scene"
+   ],
+   "phrase": "detailed sand castle",
+   "start": 11,
+   "end": 31
+  },
+  {
+   "entity_id": "68642",
+   "types": [
+    "scene"
+   ],
+   "phrase": "the beach",
+   "start": 35,
+   "end": 44
+  },
+  {
+   "entity_id": "68641",
+   "types": [
+    "people"
+   ],
+   "phrase": "A man",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "entity_id": "68644",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a beach building",
+   "start": 9,
+   "end": 25
+  },
+  {
+   "entity_id": "68643",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a sand castle",
+   "start": 26,
+   "end": 39
+  }
+ ],
+ "scene_places": [
+  "beach"
+ ]
+}

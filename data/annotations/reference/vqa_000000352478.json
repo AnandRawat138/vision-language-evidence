@@ -1,0 +1,191 @@
+{
+ "uid": "vqa_000000352478",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bicycle",
+  "broccoli",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "person": 6,
+  "bicycle": 1,
+  "broccoli": 3
+ },
+ "object_boxes": [
+  {
+   "category": "person",
+   "bbox": [
+    3.75,
+    12.93,
+    78.78,
+    119.71
+   ],
+   "area": 4515.471699999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    439.33,
+    9.22,
+    23.55,
+    81.92
+   ],
+   "area": 1478.130699999999
+  },
+  {
+   "category": "bicycle",
+   "bbox": [
+    372.62,
+    57.74,
+    28.54,
+    55.33
+   ],
+   "area": 850.5631999999999
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    146.0,
+    301.94,
+    106.46,
+    87.05
+   ],
+   "area": 7297.163350000001
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    78.6,
+    306.03,
+    34.05,
+    35.57
+   ],
+   "area": 802.2976000000007
+  },
+  {
+   "category": "broccoli",
+   "bbox": [
+    2.1,
+    12.62,
+    380.71,
+    390.18
+   ],
+   "area": 86583.38404999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    462.37,
+    27.74,
+    12.56,
+    47.62
+   ],
+   "area": 348.2847499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    537.12,
+    15.46,
+    16.88,
+    69.56
+   ],
+   "area": 522.128349999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    610.36,
+    18.04,
+    8.02,
+    44.86
+   ],
+   "area": 234.8376000000009
+  },
+  {
+   "category": "person",
+   "bbox": [
+    418.87,
+    29.51,
+    22.5,
+    33.34
+   ],
+   "area": 309.81600000000026
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A table full of green vegetables that are for sale",
+  "A stand with fresh green vegetables for sale.",
+  "There are some herbs and broccoli prepared for sale",
+  "The lettuce and brocolli have been piped high.",
+  "A display in a store filled with broccoli and green leaf."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 352478000,
+   "question": "How many people are there?",
+   "answer_type": "number",
+   "question_type": "how many people are",
+   "multiple_choice_answer": "2",
+   "answers": [
+    "2",
+    "0",
+    "2",
+    "3",
+    "1",
+    "4",
+    "2",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "question_id": 352478001,
+   "question": "Are those vegetables healthy?",
+   "answer_type": "yes/no",
+   "question_type": "are",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes"
+   ]
+  },
+  {
+   "question_id": 352478002,
+   "question": "Is this a farmers market?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "yes",
+   "answers": [
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "yes",
+    "maybe",
+    "yes"
+   ]
+  }
+ ]
+}

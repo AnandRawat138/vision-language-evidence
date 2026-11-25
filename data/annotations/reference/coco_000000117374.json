@@ -1,0 +1,60 @@
+{
+ "uid": "coco_000000117374",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bird",
+  "cat"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bird": 1,
+  "cat": 2
+ },
+ "object_boxes": [
+  {
+   "category": "bird",
+   "bbox": [
+    303.92,
+    57.0,
+    27.61,
+    56.41
+   ],
+   "area": 828.3959999999996
+  },
+  {
+   "category": "cat",
+   "bbox": [
+    460.7,
+    266.42,
+    90.41,
+    114.45
+   ],
+   "area": 7276.436550000001
+  },
+  {
+   "category": "cat",
+   "bbox": [
+    71.01,
+    218.56,
+    91.28,
+    63.23
+   ],
+   "area": 3554.1640999999986
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Two cats sitting in the dirt under a tree.",
+  "A couple of cats are by a tree",
+  "an image of two cats in a sand lot",
+  "Two cats by a tree in the dirt",
+  "Several cats sitting near a tree and a bird on a fence post."
+ ],
+ "scene_places": []
+}

@@ -1,0 +1,40 @@
+{
+ "uid": "coco_000000513484",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bear"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "bear": 1
+ },
+ "object_boxes": [
+  {
+   "category": "bear",
+   "bbox": [
+    7.67,
+    31.42,
+    472.97,
+    369.36
+   ],
+   "area": 91241.15099999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A large brown bear standing next to a pile of rocks.",
+  "A brown bear leans on the concrete and looks up.",
+  "A brown bear enjoying the sun and a little water at the zoo",
+  "A large brown bear laying on a rock.",
+  "A happy  bear putting his paws in some water."
+ ],
+ "scene_places": [
+  "water"
+ ]
+}

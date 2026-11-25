@@ -1,0 +1,154 @@
+{
+ "uid": "coco_000000295713",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "bench",
+  "cell phone",
+  "handbag",
+  "person"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "cell phone": 1,
+  "person": 7,
+  "bench": 3,
+  "handbag": 1
+ },
+ "object_boxes": [
+  {
+   "category": "cell phone",
+   "bbox": [
+    451.72,
+    161.49,
+    19.07,
+    14.58
+   ],
+   "area": 147.8820000000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    413.62,
+    101.19,
+    127.88,
+    269.06
+   ],
+   "area": 16821.331850000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    547.54,
+    11.8,
+    62.68,
+    57.99
+   ],
+   "area": 1809.2003000000013
+  },
+  {
+   "category": "person",
+   "bbox": [
+    527.55,
+    45.72,
+    28.18,
+    25.09
+   ],
+   "area": 349.4856999999999
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    49.9,
+    232.05,
+    199.58,
+    124.74
+   ],
+   "area": 7519.3844
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    355.52,
+    251.63,
+    279.26,
+    116.28
+   ],
+   "area": 23049.11785000001
+  },
+  {
+   "category": "handbag",
+   "bbox": [
+    376.52,
+    188.15,
+    76.7,
+    71.72
+   ],
+   "area": 4151.446200000001
+  },
+  {
+   "category": "bench",
+   "bbox": [
+    259.2,
+    157.75,
+    329.36,
+    128.17
+   ],
+   "area": 21949.74815
+  },
+  {
+   "category": "person",
+   "bbox": [
+    542.38,
+    0.88,
+    48.45,
+    59.31
+   ],
+   "area": 1485.9458499999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    188.0,
+    0.57,
+    33.89,
+    54.56
+   ],
+   "area": 699.8311999999999
+  },
+  {
+   "category": "person",
+   "bbox": [
+    590.07,
+    0.0,
+    8.85,
+    15.47
+   ],
+   "area": 87.3970999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    601.14,
+    0.0,
+    28.43,
+    48.67
+   ],
+   "area": 635.5627500000007
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "A statue is sitting on a bench and a woman sits on a cement block.",
+  "A woman sitting on a bench next to a statue sitting on a bench.",
+  "A woman sitting looking at her phone with an iron cast woman next to her.",
+  "A beautiful woman sitting on a bench next to a bronze statue.",
+  "A woman sitting on a bench near a statue, checking her phone."
+ ],
+ "scene_places": []
+}

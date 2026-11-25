@@ -1,0 +1,97 @@
+{
+ "uid": "vqa_000000452121",
+ "source": "vqa",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "toilet"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "toilet": 1
+ },
+ "object_boxes": [
+  {
+   "category": "toilet",
+   "bbox": [
+    51.2,
+    24.29,
+    535.86,
+    434.0
+   ],
+   "area": 173988.25389999998
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "a white toilet is laying on its side on the ground",
+  "Toilet sitting on the ground in the middle of a forrest.",
+  "a toilet left out like a big piece of trash",
+  "a broken toilet laying on the ground in the forest",
+  "A white toilet laying on it's side in a field."
+ ],
+ "scene_places": [],
+ "vqa": [
+  {
+   "question_id": 452121000,
+   "question": "Is this toilet usable right now?",
+   "answer_type": "yes/no",
+   "question_type": "is this",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 452121001,
+   "question": "Is this a bathroom?",
+   "answer_type": "yes/no",
+   "question_type": "is this a",
+   "multiple_choice_answer": "no",
+   "answers": [
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no",
+    "no"
+   ]
+  },
+  {
+   "question_id": 452121002,
+   "question": "What is this object?",
+   "answer_type": "other",
+   "question_type": "what is this",
+   "multiple_choice_answer": "toilet",
+   "answers": [
+    "toilet",
+    "toilet",
+    "toilet",
+    "toilet",
+    "sink",
+    "toilet",
+    "toilet",
+    "toilet",
+    "toilet",
+    "toilet"
+   ]
+  }
+ ]
+}

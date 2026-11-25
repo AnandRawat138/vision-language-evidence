@@ -1,0 +1,255 @@
+{
+ "uid": "flickr30k_86131617",
+ "source": "flickr30k",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "person"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "shirt": [
+   "white"
+  ]
+ },
+ "accessories": [],
+ "carried": [],
+ "attr_available": true,
+ "captions": [
+  "A large billboard of a woman wearing a white shirt and lavender cami is being hung by 2 people in mechanical lift and one man standing on the ledge behind the billboard .",
+  "Two men are in a cherry picker looking at the billboard which has a picture of a blond woman on it .",
+  "A billboard of a woman , with three men , two in a lift , and one on top of the billboard .",
+  "Two men on a cherry picker putting up a billboard of a woman .",
+  "Men working on a billboard ."
+ ],
+ "flickr_phrases": [
+  {
+   "entity_id": "282069",
+   "types": [
+    "people"
+   ],
+   "phrase": "A large billboard of a woman",
+   "start": 0,
+   "end": 28
+  },
+  {
+   "entity_id": "282079",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "a white shirt",
+   "start": 37,
+   "end": 50
+  },
+  {
+   "entity_id": "282080",
+   "types": [
+    "clothing"
+   ],
+   "phrase": "lavender cami",
+   "start": 55,
+   "end": 68
+  },
+  {
+   "entity_id": "282071",
+   "types": [
+    "people"
+   ],
+   "phrase": "2 people",
+   "start": 86,
+   "end": 94
+  },
+  {
+   "entity_id": "282073",
+   "types": [
+    "scene"
+   ],
+   "phrase": "mechanical lift",
+   "start": 98,
+   "end": 113
+  },
+  {
+   "entity_id": "282077",
+   "types": [
+    "people"
+   ],
+   "phrase": "one man",
+   "start": 118,
+   "end": 125
+  },
+  {
+   "entity_id": "282075",
+   "types": [
+    "other"
+   ],
+   "phrase": "the ledge",
+   "start": 138,
+   "end": 147
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "other"
+   ],
+   "phrase": "the billboard",
+   "start": 155,
+   "end": 168
+  },
+  {
+   "entity_id": "282071",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "282073",
+   "types": [
+    "people"
+   ],
+   "phrase": "a cherry picker",
+   "start": 15,
+   "end": 30
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "other"
+   ],
+   "phrase": "the billboard",
+   "start": 42,
+   "end": 55
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "which",
+   "start": 56,
+   "end": 61
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "people"
+   ],
+   "phrase": "a picture of a blond woman",
+   "start": 66,
+   "end": 92
+  },
+  {
+   "entity_id": "0",
+   "types": [
+    "notvisual"
+   ],
+   "phrase": "it",
+   "start": 96,
+   "end": 98
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "people"
+   ],
+   "phrase": "A billboard of a woman",
+   "start": 0,
+   "end": 22
+  },
+  {
+   "entity_id": "282070",
+   "types": [
+    "people"
+   ],
+   "phrase": "three men",
+   "start": 30,
+   "end": 39
+  },
+  {
+   "entity_id": "282078",
+   "types": [
+    "other"
+   ],
+   "phrase": "two",
+   "start": 42,
+   "end": 45
+  },
+  {
+   "entity_id": "282073",
+   "types": [
+    "scene"
+   ],
+   "phrase": "a lift",
+   "start": 49,
+   "end": 55
+  },
+  {
+   "entity_id": "282076",
+   "types": [
+    "other"
+   ],
+   "phrase": "one",
+   "start": 62,
+   "end": 65
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "other"
+   ],
+   "phrase": "the billboard",
+   "start": 76,
+   "end": 89
+  },
+  {
+   "entity_id": "282071",
+   "types": [
+    "people"
+   ],
+   "phrase": "Two men",
+   "start": 0,
+   "end": 7
+  },
+  {
+   "entity_id": "282073",
+   "types": [
+    "people"
+   ],
+   "phrase": "a cherry picker",
+   "start": 11,
+   "end": 26
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "people"
+   ],
+   "phrase": "a billboard of a woman",
+   "start": 38,
+   "end": 60
+  },
+  {
+   "entity_id": "282070",
+   "types": [
+    "people"
+   ],
+   "phrase": "Men",
+   "start": 0,
+   "end": 3
+  },
+  {
+   "entity_id": "282069",
+   "types": [
+    "other"
+   ],
+   "phrase": "a billboard",
+   "start": 15,
+   "end": 26
+  }
+ ],
+ "scene_places": []
+}

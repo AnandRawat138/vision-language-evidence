@@ -1,0 +1,194 @@
+{
+ "uid": "coco_000000403122",
+ "source": "coco",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "chair",
+  "person",
+  "sports ball",
+  "tennis racket"
+ ],
+ "objects_complete": true,
+ "object_counts": {
+  "sports ball": 1,
+  "person": 12,
+  "tennis racket": 1,
+  "chair": 2
+ },
+ "object_boxes": [
+  {
+   "category": "sports ball",
+   "bbox": [
+    208.58,
+    395.49,
+    10.96,
+    11.03
+   ],
+   "area": 94.04079999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    140.94,
+    261.75,
+    80.04,
+    265.71
+   ],
+   "area": 11403.026150000007
+  },
+  {
+   "category": "person",
+   "bbox": [
+    48.9,
+    207.31,
+    31.95,
+    44.81
+   ],
+   "area": 1051.25315
+  },
+  {
+   "category": "tennis racket",
+   "bbox": [
+    186.31,
+    369.39,
+    97.57,
+    46.17
+   ],
+   "area": 2514.600149999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    277.06,
+    125.99,
+    16.99,
+    15.44
+   ],
+   "area": 175.78724999999986
+  },
+  {
+   "category": "person",
+   "bbox": [
+    276.33,
+    51.6,
+    51.0,
+    49.93
+   ],
+   "area": 1256.6093499999997
+  },
+  {
+   "category": "person",
+   "bbox": [
+    370.71,
+    128.96,
+    12.94,
+    15.38
+   ],
+   "area": 163.28550000000016
+  },
+  {
+   "category": "person",
+   "bbox": [
+    382.02,
+    94.0,
+    43.95,
+    74.42
+   ],
+   "area": 1604.5732500000001
+  },
+  {
+   "category": "person",
+   "bbox": [
+    357.02,
+    95.01,
+    29.08,
+    40.79
+   ],
+   "area": 705.9081000000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    381.81,
+    56.81,
+    32.2,
+    36.46
+   ],
+   "area": 628.6579999999996
+  },
+  {
+   "category": "person",
+   "bbox": [
+    351.18,
+    54.81,
+    32.34,
+    40.81
+   ],
+   "area": 785.0359999999998
+  },
+  {
+   "category": "person",
+   "bbox": [
+    303.8,
+    128.97,
+    28.96,
+    13.52
+   ],
+   "area": 187.9984000000001
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    247.16,
+    121.95,
+    24.23,
+    18.0
+   ],
+   "area": 265.96915000000007
+  },
+  {
+   "category": "chair",
+   "bbox": [
+    256.55,
+    112.49,
+    23.44,
+    17.38
+   ],
+   "area": 265.6624500000003
+  },
+  {
+   "category": "person",
+   "bbox": [
+    105.48,
+    193.89,
+    29.04,
+    60.32
+   ],
+   "area": 895.2880000000002
+  },
+  {
+   "category": "person",
+   "bbox": [
+    312.42,
+    110.41,
+    34.99,
+    32.63
+   ],
+   "area": 553.7800000000002
+  }
+ ],
+ "clothing": {},
+ "accessories": [],
+ "carried": [],
+ "attr_available": false,
+ "captions": [
+  "Female tennis player preparing to serve the ball",
+  "A woman about to serve a tennis ball at a tennis court.",
+  "a girl playing tennis with a bad knee",
+  "A tennis player in a knee brace gets ready to serve the ball.",
+  "A female tennis player on grass about to serve"
+ ],
+ "scene_places": []
+}

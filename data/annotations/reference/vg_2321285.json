@@ -1,0 +1,30 @@
+{
+ "uid": "vg_2321285",
+ "source": "vg",
+ "reference_version": "ref-v1",
+ "lexicon_version": "lex-v1",
+ "provenance": "derived from original dataset annotations",
+ "objects": [
+  "backpack",
+  "baseball glove",
+  "car",
+  "person",
+  "skateboard",
+  "truck"
+ ],
+ "objects_complete": false,
+ "object_boxes": [],
+ "clothing": {
+  "jacket": [],
+  "hat": []
+ },
+ "accessories": [
+  "gloves"
+ ],
+ "carried": [
+  "bag"
+ ],
+ "attr_available": true,
+ "captions": [],
+ "scene_places": []
+}
